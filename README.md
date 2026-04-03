@@ -1,120 +1,96 @@
 # Joke of the day: 
-Heisenberg is speeding down the highway when a police officer pulls him over.
-
-The officer asks, "Sir, do you know how fast you were going?"
-
-Heisenberg replies, "No, but I know exactly where I am!"
+Why do sourdough bakers make such great partners? Because they always know how to rise to the occasion!
 
 ## Topic
-<!--TOPIC-->Quantum physics<!--/TOPIC-->
+<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|48|
-|**Total Token Count**|1331|
-|**Thoughts Token Count**|1257|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|20|
+|**Total Token Count**|996|
+|**Thoughts Token Count**|948|
 
 ## Thoughts: 
-> *   Topic: Quantum physics.
+> *   Topic: Baking sourdough bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's Cat (dead/alive).
->     *   Uncertainty Principle (Heisenberg - position vs. momentum).
->     *   Entanglement (spooky action at a distance).
->     *   Wave-particle duality.
+>     *   Starter (flour + water).
+>     *   Feeding the starter.
+>     *   Bubbles/Fermentation.
+>     *   Scoring/Patterns.
+>     *   Crust/Crumb.
+>     *   Long fermentation/Time.
+>     *   Relationship between baker and starter (it's like a pet).
 > 
->     *   *Option 1 (Schrödinger's Cat):* Schrödinger's cat walks into a bar... and doesn't. (A bit cliché).
->     *   *Option 2 (Heisenberg/Uncertainty):* Heisenberg is driving. A cop pulls him over. Cop: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!" (Classic, easy to understand).
->     *   *Option 3 (Schrödinger/Cat/Bar):* Schrödinger is driving a car... and the cat is in the trunk. (A bit dark).
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues and just needed to vent (bubbles).
+>     *   *Idea 2:* My sourdough starter is getting out of hand. I tried to leave the house, and it asked if I was "leaving it behind." It's a very clingy dough.
+>     *   *Idea 3:* Why do sourdough bakers make great partners? Because they know how to rise to the occasion.
+>     *   *Idea 4:* I told my sourdough starter a joke. It didn't laugh, but it did bubble with excitement.
 > 
->     *   The Heisenberg joke is very accessible.
->     *   Let's try a variation or a slightly different one for punchiness.
+>     *   "Why did the sourdough starter go to therapy? Because it had too many issues and just needed to vent!" (A bit cliché).
+>     *   "Why do sourdough bakers make such good partners? Because they always know how to rise to the occasion!" (Classic, cute).
+>     *   "My sourdough starter is basically my child now. I spend all my time feeding it, and it still gets moody if I don't give it attention at the exact right time." (A bit more of a joke/observation).
 > 
->     *   *Drafting the Heisenberg joke:*
->         Heisenberg is speeding down the highway when a police officer pulls him over.
->         The officer asks, "Sir, do you have any idea how fast you were going?"
->         Heisenberg replies, "No, but I know exactly where I am!"
+>     *Let's go with the "rise to the occasion" one or a starter-based pun.*
 > 
->     *   *Drafting a Schrödinger joke:*
->         Schrödinger’s cat walks into a bar. The bartender says, "I'm not sure if I should serve you or not."
+>     *Refined Joke:*
+>     Why did the sourdough starter go to therapy?
+>     Because it had too many issues and just needed to vent! (Wait, "vent" might be confusing for non-bakers).
 > 
->     *   *Refining the Heisenberg joke (most effective for a "simple/light" request):*
->         Heisenberg is driving down the road when a cop pulls him over.
->         The officer asks, "Do you know how fast you were going?"
->         Heisenberg replies, "No, but I know exactly where I am!"
+>     *Let's try:*
+>     Why do sourdough bakers make such great partners?
+>     Because they always know how to rise to the occasion!
 > 
->     *   Funny? Yes.
->     *   Quantum physics? Yes (Uncertainty Principle).
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
+>     *Or:*
+>     What did the sourdough starter say to the baker?
+>     "Stop loafing around and feed me!"
 > 
->     Heisenberg is speeding down the highway when a police officer pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     *Actually, the "rise to the occasion" is the most "simple, light, and easy" one.*
 > 
->     *Wait, let's try one more that is even tighter.*
+>     *Wait, how about:*
+>     Why was the sourdough starter so popular?
+>     Because it was always bubbling with excitement!
 > 
->     "Schrödinger and Heisenberg are driving. Heisenberg is speeding, and Schrödinger looks out the window and says, 'We're going to crash!' Heisenberg says, 'Don't worry, I know exactly where we are!'" -> Too complex.
+>     *Let's go with a classic pun:*
+>     Why do sourdough bakers make such great partners?
+>     Because they always know how to rise to the occasion!
 > 
->     Let's stick to the Heisenberg classic.
+>     *Actually, let's try one about the commitment:*
+>     I asked my sourdough starter if it wanted to go out tonight.
+>     It said, "No thanks, I'm feeling a bit crusty."
 > 
->     *Another option:*
->     "A photon checks into a hotel. The bellhop asks, 'Can I help you with your luggage?' The photon replies, 'No thanks, I'm traveling light!'" (This is more about light/particles, very cute).
+>     *Let's go with the "Rise to the occasion" one. It's the cleanest.*
 > 
->     Actually, the Heisenberg one is the quintessential quantum joke.
+>     "Why do sourdough bakers make such great partners? Because they always know how to rise to the occasion!"
 > 
->     *Let's go with the Heisenberg one.*
+>     *Actually, let's try one more:*
+>     Why did the sourdough starter get kicked out of the party?
+>     Because it was being too bubbly!
 > 
->     Heisenberg is speeding down the highway when a police officer pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     *Let's go with the "Rise to the occasion" one. It's a crowd-pleaser.*
 > 
->     (Wait, let me check if there's a better one).
->     "Why can't you trust atoms? Because they make up everything!" (Not quantum specific).
+>     *Wait, let's try:*
+>     "My sourdough starter is getting a bit too clingy. Every time I try to leave the house, it just sits there and waits for me to come back and feed it!" (A bit long).
 > 
->     Let's go with the Heisenberg joke. It's the gold standard for "simple quantum joke."
+>     *Let's stick to a pun.*
 > 
->     *Alternative check:*
->     Schrödinger's cat is dead and alive. It's a very "uncertain" situation. (Not really a joke).
+>     Joke: Why do sourdough bakers make such great partners? Because they always know how to rise to the occasion!
 > 
->     Let's go with the Heisenberg one.
+>     *Checking constraints:* Only output the joke.
 > 
->     *Final Polish:*
->     Heisenberg is driving down the highway when a cop pulls him over.
->     The officer asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     *Wait, one more:*
+>     What did the baker say to the sourdough starter?
+>     "You're looking a little bubbly today!" (A bit weak).
 > 
->     Wait, let's try the Schrödinger one.
->     Schrödinger is driving a car. His wife tells him, "Honey, be careful, you're speeding!"
->     He replies, "Don't worry, I'm in a superposition of being both speeding and not speeding!" (Too nerdy/hard).
+>     *Let's go with:*
+>     Why do sourdough bakers make such great partners?
+>     Because they always know how to rise to the occasion!
 > 
->     Back to Heisenberg.
+>     (Self-correction: The prompt asks for "a funny joke". The "rise to the occasion" is a standard pun joke.)
 > 
->     Heisenberg is speeding down the highway when a police officer pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
-> 
->     One more:
->     "A photon checks into a hotel and the bellhop asks, 'Can I help you with your bags?' The photon replies, 'No thanks, I'm traveling light!'"
->     This is arguably "lighter" and "simpler."
-> 
->     Let's provide the Heisenberg one, it's more "physics" joke-y.
-> 
->     Actually, the Heisenberg joke is the best fit for "Quantum Physics" specifically.
-> 
->     *Wait, I'll go with the Heisenberg one.*
-> 
->     Heisenberg is speeding down the highway when a cop pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
-> 
->     (Self-correction: The user wants *only* the joke).
-> 
->     Heisenberg is speeding down the highway when a police officer pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     Why do sourdough bakers make such great partners? Because they always know how to rise to the occasion!
 
