@@ -1,85 +1,50 @@
 # Joke of the day: 
-I was going to tell you a joke about quantum physics, but I'm not sure if it's funny until you observe it.
+Why did the sourdough baker get invited to all the best parties? Because they always bring a lot of culture!
 
 ## Topic
-<!--TOPIC-->Quantum physics<!--/TOPIC-->
+<!--TOPIC-->Sourdough baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|28|
-|**Total Token Count**|975|
-|**Thoughts Token Count**|921|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|22|
+|**Total Token Count**|453|
+|**Thoughts Token Count**|403|
 
 ## Thoughts: 
-> *   Topic: Quantum physics.
+> *   Topic: Sourdough baking.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's Cat (dead/alive).
->     *   Uncertainty principle (position vs. momentum).
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Observation effect (watching changes the outcome).
+>     *   Starter (feeding, growing, personality).
+>     *   Dough (rising, proofing, hydration).
+>     *   Scoring (designs).
+>     *   Time (it takes forever).
+>     *   "Wild yeast" (it's alive).
 > 
->     *   *Option 1 (Schrödinger's Cat):* Schrödinger's cat walks into a bar... and doesn't.
->     *   *Option 2 (Uncertainty):* I wanted to tell a joke about quantum physics, but I'm not sure if it's funny or not until you observe it.
->     *   *Option 3 (Entanglement):* Why did the quantum physicist break up with his girlfriend? Because they had no connection, even though they were entangled. (A bit weak).
->     *   *Option 4 (Heisenberg):* Heisenberg is driving down the highway. A cop pulls him over and asks, "Do you know how fast you were going?" Heisenberg says, "No, but I know exactly where I am!"
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many attachment issues.
+>     *   *Idea 2:* Why did the baker get kicked out of the party? Because he brought a lot of "culture."
+>     *   *Idea 3:* My sourdough starter is like my roommate. It's expensive, messy, and requires constant attention.
+>     *   *Idea 4:* Why is sourdough such a good friend? Because it always has a lot of culture.
 > 
->     *   Option 1 is classic and very simple.
->     *   Option 2 is meta and clever.
->     *   Option 4 is a standard science joke.
+>     *   Idea 2 is a classic pun.
+>     *   Idea 1 is cute but maybe a bit abstract.
+>     *   Idea 4 is very simple and fits the "light/easy" criteria.
 > 
->     Let's go with the Schrödinger's Cat one, or the "uncertainty" one. The uncertainty one is very "light" and plays on the concept well.
+>     *   *Drafting:* Why did the sourdough baker get invited to every party? Because they always brought a lot of culture!
 > 
->     *Refined Choice:*
->     "I was going to tell you a joke about quantum physics, but I wasn't sure if you'd find it funny until you observed it."
+>     "Why did the sourdough baker get invited to every party? Because they always bring a lot of culture!"
 > 
->     *Alternative (Classic):*
->     "Schrödinger's cat walks into a bar... and doesn't."
+>     (Wait, let's try one more that's even punchier).
 > 
->     Let's go with the Schrödinger's cat one. It's punchy. Or better yet, the uncertainty one.
+>     "Why was the sourdough starter so popular? Because it had so much culture!"
 > 
->     Let's try:
->     "A physicist is driving down the highway when a cop pulls him over. 
->     The cop asks, 'Do you know how fast you were going?' 
->     The physicist replies, 'No, but I know exactly where I am!'"
+>     *   Topic: Sourdough.
+>     *   Funny: Yes.
+>     *   Simple/Light: Yes.
+>     *   Only output the joke: Yes.
 > 
->     Actually, the prompt asks for "simple, light, and easy to understand."
-> 
->     Let's go with:
->     "Schrödinger’s cat walks into a bar... and doesn't."
-> 
->     Wait, let's try the observation one. It's very relatable.
->     "I wanted to tell you a joke about quantum physics, but I'm not sure if it's funny until you observe it."
-> 
->     Actually, let's go with the Heisenberg one, it's a bit more of a "joke" structure.
-> 
->     *Decision:*
->     "Schrödinger's cat walks into a bar... and doesn't." (Very simple).
-> 
->     Let's try one more:
->     "Why can't you trust an atom? Because they make up everything! (Wait, that's chemistry)."
-> 
->     Back to Quantum:
->     "I have a joke about quantum physics, but if you don't laugh, it's probably because you haven't observed it yet."
-> 
->     Let's go with the "Schrödinger's cat walks into a bar" joke. It's the quintessential quantum joke.
-> 
->     *Final selection:*
->     Schrödinger’s cat walks into a bar... and doesn't.
-> 
->     *Wait, another one:*
->     "A quantum physicist is standing in front of a mirror. He looks at himself and says, 'I'm not sure if I'm here or not!'" (A bit weak).
-> 
->     Let's go with the "Uncertainty/Observation" joke. It's the most "clever" light joke.
-> 
->     "I was going to tell you a joke about quantum physics, but I'm not sure if it's funny until you observe it."
-> 
->     "Only output the joke."
-> 
->     "I was going to tell you a joke about quantum physics, but I'm not sure if it's funny until you observe it."
+>     "Why did the sourdough baker get invited to all the best parties? Because they always bring a lot of culture!"
 
