@@ -1,93 +1,84 @@
 # Joke of the day: 
-Why did the anglerfish break up with her boyfriend?
+Why did the 18th-century lady bring a ladder to the ballroom? 
 
-Because he was too dim!
+Because her wig was reaching new heights!
 
 ## Topic
-<!--TOPIC-->Deep sea bioluminescence<!--/TOPIC-->
+<!--TOPIC-->18th-century wig fashion<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|18|
-|**Total Token Count**|884|
-|**Thoughts Token Count**|838|
+|**Prompt Token Count**|31|
+|**Candidates Token Count**|27|
+|**Total Token Count**|1008|
+|**Thoughts Token Count**|950|
 
 ## Thoughts: 
-> *   Topic: Deep sea bioluminescence.
+> *   Topic: 18th-century wig fashion.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Glow in the dark.
->     *   Anglerfish (the light on the head).
->     *   Darkness/Deep ocean.
->     *   "Bright" ideas.
->     *   Light/Dark puns.
+>     *   Huge wigs (pouf style).
+>     *   Powder (flour/starch).
+>     *   Height/size.
+>     *   Decorations (birds, ships, gardens).
+>     *   Maintenance/smell/lice.
 > 
->     *   *Idea 1:* Why did the anglerfish go to school? To get a little more bright! (A bit weak).
->     *   *Idea 2:* What do you call a deep-sea creature that tells great jokes? A glow-getter! (Not specifically about bioluminescence, more generic).
->     *   *Idea 3:* Why don't deep-sea fish ever get lost? Because they always follow their bright ideas! (Better).
->     *   *Idea 4:* Why did the anglerfish break up with her boyfriend? Because he was too dim! (Classic, fits the theme).
+>     *   *Idea 1:* Why did the 18th-century nobleman go to the bakery? To get some rolls for his hair! (A bit weak).
+>     *   *Idea 2:* Why did the lady's wig have a miniature sailing ship in it? Because she wanted to be the captain of her own fashion! (A bit cliché).
+>     *   *Idea 3:* Why was the 18th-century aristocrat so good at hide-and-seek? Because with a wig that big, he could hide a whole tea set in there! (Better).
+>     *   *Idea 4:* What do you call an 18th-century lady who forgets to powder her wig? A "plain" Jane! (Too simple).
+>     *   *Idea 5:* Why did the lady's wig get a job in the navy? Because it already had its own fleet of ships! (Solid).
 > 
->     *   The "dim" joke is a classic pun structure.
->     *   "Why did the anglerfish break up with her boyfriend? Because he was too dim!"
+>     *   *Joke:* Why did the 18th-century lady's wig get promoted? Because it was already carrying its own fleet of ships!
 > 
->     *   Funny? Yes.
->     *   About bioluminescence? Yes (implied by the anglerfish/light context).
->     *   Simple/Light/Easy? Yes.
->     *   Only output the joke? Yes.
+>     *Alternative (Simpler):*
+>     *   *Joke:* Why did the aristocrat bring a ladder to the ball? Because his wig was reaching new heights!
 > 
->     *Alternative:*
->     "Why are deep-sea creatures so smart? Because they’re always full of bright ideas!"
+>     Let's go with the "ladder" one or something about the height/size.
 > 
->     Let's go with the "dim" one or the "bright ideas" one. The "dim" one is punchier.
+>     *Let's try a "powder" joke:*
+>     *   "Why did the 18th-century gentleman get confused at the bakery? He thought the powdered donuts were just very small, delicious wigs!" (A bit long).
 > 
->     *Drafting final version:*
->     Why did the anglerfish break up with her boyfriend?
->     Because he was too dim!
+>     *Let's try the "height" one:*
+>     "Why did the 18th-century lady bring a ladder to the party? Because her wig was reaching new heights!"
 > 
->     Wait, "dim" refers to lack of light. It works.
+>     *Let's try a "ship" joke:*
+>     "Why was the 18th-century lady's wig so good at sailing? Because it already had its own fleet of ships tucked inside!"
 > 
->     Let's try another one just in case:
->     "What is a deep-sea fish's favorite type of music? Glow-pop!" (A bit cheesy).
+>     The "ladder/heights" joke is very punchy and easy to understand.
 > 
->     Let's go with the "dim" joke. It's a solid pun.
+>     *Joke:* Why did the 18th-century lady bring a ladder to the ballroom? Because her wig was reaching new heights!
 > 
->     Actually, let's go with:
->     "Why are deep-sea fish so good at coming up with solutions? Because they always have bright ideas!"
+>     *Check constraints:*
+>     - 18th-century wig fashion? Yes.
+>     - Funny? Yes (punny).
+>     - Simple/light/easy? Yes.
+>     - Only output the joke? Yes.
 > 
->     Let's try a third:
->     "How do deep-sea fish find their way to a party? They follow the glow-getters!"
+>     Wait, let's try one more:
+>     "Why did the 18th-century nobleman wear so much powder? Because he wanted to look 'flour-ishing'!" (A bit punny/dad joke).
 > 
->     Let's stick to the most classic pun structure.
->     "Why did the anglerfish break up with her boyfriend? Because he was too dim!"
+>     Let's go with the "ladder/heights" one. It's the cleanest.
 > 
->     Check: Does it satisfy "about deep sea bioluminescence"? Yes, because anglerfish use bioluminescence.
+>     "Why did the 18th-century lady bring a ladder to the ball? Because her wig was reaching new heights!"
 > 
->     *Self-Correction:* To be safer on the "bioluminescence" aspect, I'll make sure the punchline hits the light aspect.
+>     Actually, let's do the "ship" one, it's more specific to the *extreme* fashion of the era (Marie Antoinette style).
 > 
->     "Why did the deep-sea fish get a promotion? Because he was a real bright spark!" (A bit clunky).
+>     "Why did the 18th-century lady’s wig get a promotion? Because it was already carrying its own fleet of ships!"
 > 
->     "Why don't deep-sea creatures ever get lost? Because they always have bright ideas!" -> This is very light and easy.
+>     Let's go with the ladder one. It's more universal.
 > 
->     Let's go with:
->     Why did the anglerfish break up with her boyfriend?
->     Because he was too dim!
+>     *Revised selection:*
+>     "Why did the 18th-century lady bring a ladder to the ballroom? Because her wig was reaching new heights!"
 > 
->     (Wait, I'll try one more: "What do you call a deep-sea fish that's really smart? A bright spark!")
+>     Wait, I'll go with:
+>     "Why did the 18th-century lady bring a ladder to the party? Because her wig was reaching new heights!"
 > 
->     Let's go with the "dim" one. It's the most "joke-like".
+>     Actually, the most "classic" joke structure for this would be:
+>     "Why did the 18th-century lady bring a ladder to the ball? Because her wig was reaching new heights!"
 > 
->     Why did the anglerfish break up with her boyfriend?
-> 
->     Because he was too dim!
-> 
->     Wait, the prompt says "Tell a funny joke about Deep sea bioluminescence". The anglerfish is the icon of it.
-> 
->     Final selection:
->     Why did the anglerfish break up with her boyfriend?
-> 
->     Because he was too dim!
+>     "Why did the 18th-century lady bring a ladder to the ballroom? Because her wig was reaching new heights!"
 
