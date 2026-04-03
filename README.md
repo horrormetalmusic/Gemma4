@@ -1,87 +1,94 @@
 # Joke of the day: 
-Why did the Renaissance artist refuse to give a straight answer? 
-
-Because he preferred to use *sfumato*—he always kept things a little hazy!
+I asked the deli worker if he could build me a massive submarine sandwich. He said, "Sure, but I'll need a building permit first!"
 
 ## Topic
-<!--TOPIC-->Renaissance painting techniques<!--/TOPIC-->
+<!--TOPIC-->Submarine sandwich construction<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|28|
-|**Candidates Token Count**|33|
-|**Total Token Count**|1223|
-|**Thoughts Token Count**|1162|
+|**Candidates Token Count**|31|
+|**Total Token Count**|1123|
+|**Thoughts Token Count**|1064|
 
 ## Thoughts: 
-> *   Topic: Renaissance painting techniques.
+> *   Topic: Submarine sandwich construction.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   *Sfumato:* Smoky, blurred edges.
->     *   *Chiaroscuro:* Strong contrast between light and dark.
->     *   *Fresco:* Painting on wet plaster.
->     *   *Tempera:* Egg-based paint.
->     *   *Perspective:* Depth.
->     *   *Oil paint:* Slow drying.
+>     *   Idea 1: Why did the sandwich go to the doctor? Because it was feeling a bit "sub-par." (Too generic, not about construction).
+>     *   Idea 2: Something about layering. A guy asks for a sub, but the worker keeps adding things.
+>     *   Idea 3: A joke about the layers being too complex.
+>     *   Idea 4: Why was the sandwich maker so good at building subs? Because he always knew how to lay the foundation! (A bit weak).
+>     *   Idea 5: A joke about the order of operations.
 > 
->     *   *Idea 1 (Sfumato):* Why was the Renaissance artist so hard to talk to? Because he was always a bit blurry/smoky. (A bit weak).
->     *   *Idea 2 (Chiaroscuro):* Why did the painter get in trouble for using too much chiaroscuro? Because he kept trying to keep things in the dark. (Better).
->     *   *Idea 3 (Fresco):* Why was the fresco painter so stressed? Because he was working under a lot of pressure to dry before the plaster did. (A bit technical).
->     *   *Idea 4 (Tempera):* Why did the painter use eggs in his paint? Because he wanted his art to be an "egg-cellent" masterpiece. (Classic pun, very simple).
->     *   *Idea 5 (Chiaroscuro/Light/Dark):* Why did the Renaissance painter break up with his girlfriend? Because there was just too much drama between the light and the dark! (A bit abstract).
->     *   *Idea 6 (Sfumato):* Why did the Renaissance artist refuse to give a straight answer? Because he preferred to use *sfumato*—he always kept things a little hazy! (Good, clear).
+>     *   *Draft:* Why did the sandwich maker get promoted? Because he really knew how to build a sub-stantial career! (A bit punny, maybe not "funny" enough).
+>     *   *Draft:* Why don't submarines ever get lost? Because they follow a strict recipe! (Doesn't focus on construction).
+>     *   *Draft:* I asked the deli worker to build me a massive submarine sandwich, but he stopped halfway through. I asked him why, and he said, "Sorry, I've hit a structural limit!" (A bit dry).
 > 
->     *   "Why did the Renaissance artist refuse to give a straight answer? Because he preferred to use *sfumato*—he always kept things a little hazy!"
->     *   "Why did the Renaissance painter get kicked out of the party? Because he kept trying to use *chiaroscuro* to brighten up the mood!" (Doesn't make sense).
->     *   Let's go with a pun on *sfumato* or *chiaroscuro*.
+>     *   *Let's try a dialogue joke:*
+>         Customer: "Can you make me a submarine sandwich with everything on it?"
+>         Sandwich Artist: "Sure, but I should warn you, the structural integrity is questionable."
+>         Customer: "Just build it!"
+>         Sandwich Artist: "Okay, but don't come crying to me when you have a landslide in your mouth!" (A bit long).
+> 
+>     *   *Let's try a pun-based one:*
+>         Why did the man refuse to help build the giant submarine sandwich?
+>         Because he didn't want to be part of a "sub-par" construction crew!
+> 
+>     *   *Let's try one about the layers:*
+>         I asked the deli worker to build me a sandwich with just one layer of everything.
+>         He said, "Sorry, we only do 'sub-stantial' construction here!"
+> 
+>     *   *Wait, let's go with a classic "Why" joke style:*
+>         Why did the sandwich maker go to architecture school?
+>         Because he wanted to master the art of sub-stantial construction!
+> 
+>     *   *Let's try something even simpler:*
+>         Why was the submarine sandwich so good at its job?
+>         Because it had a very solid foundation of bread!
+> 
+>     *   *How about:*
+>         I told the sandwich maker to be careful with my sub.
+>         He said, "Don't worry, I'm a professional. I never compromise on the structural integrity of the mayo!"
+> 
+>     *   *Actually, let's go with this one:*
+>         Why did the man get kicked out of the sandwich shop?
+>         Because he kept trying to inspect the structural integrity of the lettuce!
+> 
+>     *   *Let's try one more, very simple:*
+>         Why did the sandwich maker bring a blueprint to work?
+>         Because he wanted to make sure his sub was structurally sound!
+> 
+>     *   "Why did the sandwich maker bring a blueprint to work? Because he wanted to make sure his sub was structurally sound!"
+> 
+>     *   Is it funny? Yes (punny).
+>     *   Is it about submarine sandwich construction? Yes.
+>     *   Is it simple/light? Yes.
+>     *   Is it only the joke? Yes.
+> 
+>     *Self-Correction during selection:* The blueprint joke is the cleanest and fits all criteria perfectly.
+> 
+>     "Why did the sandwich maker bring a blueprint to work? Because he wanted to make sure his sub was structurally sound!"
+> 
+>     *Wait, let's try one more:*
+>     "What do you call a submarine sandwich that's built perfectly? A structural masterpiece!" (A bit flat).
+> 
+>     Let's go with the blueprint one. It's a classic "dad joke" style which fits "funny, simple, light".
 > 
 >     *Alternative:*
->     "Why did the Renaissance painter break up with his partner? Because their relationship lacked *chiaroscuro*—there was just no contrast!"
+>     "I asked the deli worker if he could build me a giant submarine sandwich. He said, 'Sure, but I'll need a building permit first!'" (This is actually funnier).
 > 
->     *Alternative (simpler):*
->     "Why was the Renaissance artist so bad at keeping secrets? Because he always used *sfumato* to make everything a little hazy!"
+>     Let's go with the building permit one.
 > 
->     *Let's try a "Light/Dark" one:*
->     "Why did the Renaissance painter bring a flashlight to the studio? Because he wanted to master the *chiaroscuro*!" (A bit dry).
+>     "I asked the deli worker if he could build me a massive submarine sandwich. He said, 'Sure, but I'll need a building permit first!'"
 > 
->     *Let's go with the "Sfumato/Hazy" one or an "Egg/Tempera" one.*
->     "Why did the Renaissance artist use eggs in his paint? Because he wanted his work to be egg-ceptional!" (Very simple, light).
+>     1. Funny? Yes.
+>     2. Submarine sandwich construction? Yes.
+>     3. Simple/Light? Yes.
+>     4. Only output the joke? Yes.
 > 
->     *Wait, let's try one more on Sfumato:*
->     "Why did the Renaissance painter fail his driving test? Because he used too much *sfumato* and couldn't see the lines clearly!"
-> 
->     *Actually, let's go with a Chiaroscuro joke:*
->     "Why was the Renaissance painter so moody? Because he was always dealing with too much *chiaroscuro*—it was all light and dark!"
-> 
->     *Let's go with the Sfumato/Hazy one, it's the most "technique" focused and clever.*
-> 
->     "Why did the Renaissance artist refuse to give a straight answer? Because he preferred to use *sfumato*—he always kept things a little hazy!"
-> 
->     "Why did the Renaissance artist refuse to give a straight answer? Because he preferred to use *sfumato*—he always kept things a little hazy!"
-> 
->     *Check against constraints:*
->     - Funny? Yes.
->     - Renaissance painting techniques? Yes (sfumato).
->     - Simple/Light? Yes.
->     - Only output the joke? Yes.
-> 
->     *Wait, is "sfumato" too hard for a "simple" joke?*
->     Maybe the egg one is safer.
->     "Why did the Renaissance painter use egg yolks in his paint? Because he wanted his art to be egg-ceptional!"
-> 
->     Actually, let's try:
->     "Why did the Renaissance painter get in trouble for using too much *chiaroscuro*? Because he kept trying to keep everything in the dark!"
-> 
->     Let's go with the "Sfumato/Hazy" one. It's cleverer.
-> 
->     *Self-Correction:* Let's try a joke about *fresco*.
->     "Why was the fresco painter always so stressed? Because he was constantly working under a lot of pressure to finish before the plaster dried!" (A bit wordy).
-> 
->     Let's stick to:
->     "Why did the Renaissance artist refuse to give a straight answer? Because he preferred to use *sfumato*—he always kept things a little hazy!"
-> 
->     "Why did the Renaissance artist refuse to give a straight answer? Because he preferred to use *sfumato*—he always kept things a little hazy!"
+>     "I asked the deli worker if he could build me a massive submarine sandwich. He said, 'Sure, but I'll need a building permit first!'"
 
