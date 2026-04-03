@@ -1,112 +1,111 @@
 # Joke of the day: 
-I asked my cybernetic arm for a hand, but it said it was busy installing a software update.
+Why did the sourdough starter go to therapy? Because it had too many issues bubbling up!
 
 ## Topic
-<!--TOPIC-->Cybernetic implants<!--/TOPIC-->
+<!--TOPIC-->Baking sourdough<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|27|
-|**Candidates Token Count**|21|
-|**Total Token Count**|1272|
-|**Thoughts Token Count**|1224|
+|**Candidates Token Count**|18|
+|**Total Token Count**|1268|
+|**Thoughts Token Count**|1223|
 
 ## Thoughts: 
-> *   Topic: Cybernetic implants.
+> *   Topic: Baking sourdough.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Ideas:
->         *   Battery life/charging.
->         *   Software updates.
->         *   Glitching/bugs.
->         *   Bluetooth/connectivity.
->         *   "Upgrade" jokes.
+>     *   Starter (yeast, feeding, bubbling, living thing).
+>     *   Proofing/Rising.
+>     *   Gluten/Elasticity.
+>     *   Crust/Crumb.
+>     *   Obsession (sourdough people are "intense").
 > 
->     *   *Idea 1:* Why did the cyborg go to the doctor? Because he had a virus! (A bit cliché).
->     *   *Idea 2:* My cybernetic arm is great, but I hate it when it tries to update its driver right when I'm eating soup. (A bit long).
->     *   *Idea 3:* Why was the cybernetic eye so good at parties? Because it could see everything in high definition! (Okay, but maybe too simple).
->     *   *Idea 4:* I just got a new cybernetic leg. It's great, but I keep getting "Error 404: Step Not Found." (Good).
->     *   *Idea 5:* Why did the cyborg fail his driving test? He kept trying to use Google Maps instead of his eyes. (Meh).
->     *   *Idea 6:* Why did the man with the cybernetic arm get kicked out of the restaurant? He kept trying to "download" the menu. (Cute).
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues bubbling up. (A bit cliché).
+>     *   *Idea 2:* Why was the sourdough bread so good at making friends? It was very well-kneaded. (Pun on "needed").
+>     *   *Idea 3:* I told my sourdough starter a joke. It didn't laugh, it just sat there and bubbled. (Okay, but maybe not "funny").
+>     *   *Idea 4:* Why did the sourdough baker break up with their partner? There was just no rise in the relationship. (A bit weak).
+>     *   *Idea 5:* Why did the sourdough starter cross the road? To get to the other *side*... of the jar? No.
+>     *   *Idea 6:* What do you call a sourdough baker who's always in a hurry? A "quick" bread fan. (A bit niche).
+>     *   *Idea 7:* My sourdough starter is getting a bit too needy. Every time I leave the room, it starts bubbling with anxiety. (Relatable to bakers).
 > 
->     "I just got a new cybernetic leg. It's great, but I keep getting 'Error 404: Step Not Found.'"
+>     *   "Why did the sourdough starter go to therapy? Because it had too many issues bubbling up!" is a classic structure.
+>     *   "Why was the sourdough bread so popular? Because it was so well-kneaded!" is very simple and easy to understand.
 > 
->     *Self-Correction:* Let's try one about software updates, as that's universally relatable.
+>     *Let's go with a pun about "kneaded".*
 > 
->     "Why did the man with the cybernetic arm get frustrated at dinner? Because his fork required a software update before he could take a bite."
+>     *Wait, let's try one about the starter being a "pet".*
+>     "I asked my sourdough starter how its day was going. It didn't say anything, but it definitely seemed to be bubbling with excitement!"
 > 
->     *Let's go with the "Error 404" one or something about "rebooting".*
+>     *Let's try a classic pun:*
+>     "Why was the sourdough bread so well-liked? Because it was so well-kneaded!"
 > 
->     *Joke:* "Why did the cyborg go to the doctor? Because he had a virus!" (Classic, but maybe too "dad joke").
+>     *Actually, let's go with the "issues" one, it's a bit punchier.*
+>     "Why did the sourdough starter go to therapy? Because it had too many issues bubbling up!"
 > 
->     *Let's try:* "I told my doctor I was worried about my new cybernetic eye. He said, 'Don't worry, I'll keep an eye on you!'" (A bit punny/classic).
+>     *Let's try one more:*
+>     "What did the sourdough say to the baker? 'I really knead you!'"
 > 
->     *Let's try one about battery life:*
->     "Why don't cybernetic people ever get lost? Because they always have a great sense of direction... as long as they don't run out of battery!"
+>     "Why was the sourdough bread so popular? Because it was so well-kneaded!"
 > 
->     *Let's go with a "Software Update" joke as it's very "cybernetic".*
+>     *Wait, let's try one about the starter's temperament.*
+>     "Why is sourdough baking so much like a relationship? It takes a lot of commitment, a lot of feeding, and if you ignore it for too long, things start to get sour!" (Maybe too long).
 > 
->     "Why was the man with the cybernetic arm so late for dinner? He had to wait for his hand to finish a software update!"
+>     *Let's stick to the pun:*
+>     Why was the sourdough bread so well-loved? Because it was so well-kneaded!
 > 
->     *Simple, light, easy. Matches all criteria.*
+>     *Let's try one about the starter:*
+>     Why did the sourdough starter go to the doctor? Because it was feeling a little bubbly!
+> 
+>     *Actually, let's go with:*
+>     Why did the sourdough starter go to therapy? Because it had too many issues bubbling up!
+> 
+>     "Why did the sourdough starter go to therapy? Because it had too many issues bubbling up!"
 > 
 >     *Alternative:*
->     "I just got a cybernetic leg. It’s great, but I keep getting 'Error 404: Step Not Found.'"
+>     "What did the sourdough baker say to their starter? 'I really knead you!'"
 > 
->     Actually, the "Error 404" one is punchier.
+>     Let's go with the "kneaded" one. It's very simple and light.
 > 
->     "I just got a cybernetic leg. It’s great, but I keep getting 'Error 404: Step Not Found.'"
+>     "Why was the sourdough bread so popular? Because it was so well-kneaded!"
 > 
->     "Only output the joke."
+>     *Self-Correction:* The prompt asks for a joke about "Baking sourdough". The "kneaded" joke works best.
 > 
->     *Joke:* I just got a cybernetic leg. It’s great, but I keep getting "Error 404: Step Not Found."
+>     *Final selection:*
+>     Why was the sourdough bread so popular? Because it was so well-kneaded!
 > 
->     *Actually, let's go with the software update one, it feels more "human" and funny.*
+>     *Wait, let's try one more specifically about the 'sourdough' aspect.*
+>     "What's a sourdough baker's favorite type of music? Anything with a good rise!"
 > 
->     "Why was the man with the cybernetic arm so late for dinner? He had to wait for his hand to finish a software update!"
+>     *Let's go with:*
+>     Why did the sourdough starter go to therapy? Because it had too many issues bubbling up!
 > 
->     Let's try one more:
->     "My cybernetic eye is amazing, but it's a nightmare when I try to sleep and it starts looking for a firmware update."
+>     Actually, let's do the "knead" one. It's cleaner.
 > 
->     Let's go with the "Error 404" one. It's the cleanest.
+>     "Why was the sourdough bread so well-loved? Because it was so well-kneaded!"
 > 
->     *Wait, let's try a classic one-liner.*
->     "I asked my cybernetic arm for a hand, but it said it was currently installing an update."
+>     *Wait, one more:*
+>     "I told my sourdough starter a joke, but it didn't laugh. It just sat there bubbling with resentment!" (A bit long).
 > 
->     That's good. Simple.
+>     *Let's go with the "kneaded" one.*
 > 
->     *Final Selection:*
->     "I asked my cybernetic arm for a hand, but it said it was busy installing a software update."
+>     *Wait, let's try:*
+>     "Why did the sourdough baker break up with their starter? There was just too much drama bubbling up!"
 > 
->     Actually, the "Error 404" one is slightly funnier.
+>     *Let's go with the simplest, most classic one:*
+>     Why was the sourdough bread so popular? Because it was so well-kneaded!
 > 
->     "I just got a cybernetic leg. It’s great, but I keep getting 'Error 404: Step Not Found.'"
+>     *Actually, let's go with the therapy one. It's a better "joke" structure.*
 > 
->     Let's go with that.
+>     "Why did the sourdough starter go to therapy? Because it had too many issues bubbling up!"
 > 
->     *Re-evaluating:* Is "Error 404" too techy? The prompt says "simple, light, and easy to understand." Most people know 404.
+>     Simple? Yes.
+>     Light? Yes.
+>     Easy to understand? Yes.
+>     Only output the joke? Yes.
 > 
->     How about:
->     "Why did the cyborg go to the doctor? Because he had a virus!"
->     (A bit too basic).
-> 
->     Let's go with:
->     "I asked my cybernetic arm for a hand, but it said it was busy installing an update."
-> 
->     Simple, funny, fits the theme.
-> 
->     *One more check:*
->     "Why was the cyborg so good at math? Because he had a built-in calculator!" (Too simple).
-> 
->     Let's stick to the "Update" joke. It's relatable.
-> 
->     "I asked my cybernetic arm for a hand, but it said it was busy installing a software update."
-> 
->     *Wait, "asking for a hand" is a pun on the idiom. This is perfect.*
-> 
->     *Final decision:*
->     "I asked my cybernetic arm for a hand, but it said it was busy installing a software update."
+>     "Why did the sourdough starter go to therapy? Because it had too many issues bubbling up!"
 
