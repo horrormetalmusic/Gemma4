@@ -1,88 +1,112 @@
 # Joke of the day: 
-Why is a sourdough starter such a great friend? Because it has a really bubbly personality!
+I asked my cybernetic arm for a hand, but it said it was busy installing a software update.
 
 ## Topic
-<!--TOPIC-->Sourdough fermentation<!--/TOPIC-->
+<!--TOPIC-->Cybernetic implants<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|18|
-|**Total Token Count**|994|
-|**Thoughts Token Count**|948|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|21|
+|**Total Token Count**|1272|
+|**Thoughts Token Count**|1224|
 
 ## Thoughts: 
-> *   Topic: Sourdough fermentation.
+> *   Topic: Cybernetic implants.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (living thing, needs feeding, "yeast" people).
->     *   Bubbles/Gas.
->     *   Acidity/Sourness.
->     *   Growth/Expansion.
->     *   "Mother" starter.
->     *   Waiting time (patience).
->     *   Bread making process.
+>     *   Ideas:
+>         *   Battery life/charging.
+>         *   Software updates.
+>         *   Glitching/bugs.
+>         *   Bluetooth/connectivity.
+>         *   "Upgrade" jokes.
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it was feeling a little bubbly but couldn't handle the pressure of rising to the occasion.
->     *   *Idea 2:* Why was the sourdough starter so popular? Because it was always the life of the party (yeast/party pun?). No, maybe "because it always brought the bubbles."
->     *   *Idea 3:* Why did the sourdough starter break up with the flour? Because it needed more space to grow.
->     *   *Idea 4:* What did the sourdough starter say to the baker? "Don't worry, I'll rise to the occasion!" (A bit cliché).
->     *   *Idea 5:* Why did the sourdough starter get promoted? Because it always showed great growth potential!
+>     *   *Idea 1:* Why did the cyborg go to the doctor? Because he had a virus! (A bit cliché).
+>     *   *Idea 2:* My cybernetic arm is great, but I hate it when it tries to update its driver right when I'm eating soup. (A bit long).
+>     *   *Idea 3:* Why was the cybernetic eye so good at parties? Because it could see everything in high definition! (Okay, but maybe too simple).
+>     *   *Idea 4:* I just got a new cybernetic leg. It's great, but I keep getting "Error 404: Step Not Found." (Good).
+>     *   *Idea 5:* Why did the cyborg fail his driving test? He kept trying to use Google Maps instead of his eyes. (Meh).
+>     *   *Idea 6:* Why did the man with the cybernetic arm get kicked out of the restaurant? He kept trying to "download" the menu. (Cute).
 > 
->     *   "Why did the sourdough starter go to therapy? Because it was feeling a lot of internal pressure and just needed to let its bubbles out!" (A bit long).
->     *   "Why was the sourdough starter so good at its job? Because it always rose to the occasion!" (Classic, simple).
->     *   "Why did the sourdough starter get a promotion? Because it showed incredible growth potential!" (Simple, light).
+>     "I just got a new cybernetic leg. It's great, but I keep getting 'Error 404: Step Not Found.'"
 > 
->     *Let's try a play on "yeast/least":*
->     "What is a sourdough starter's least favorite thing? Being ignored, because it hates feeling like the yeast amount of important!" (A bit clunky).
+>     *Self-Correction:* Let's try one about software updates, as that's universally relatable.
 > 
->     *Let's try "bubbly personality":*
->     "Why is a sourdough starter such a great friend? Because it has a really bubbly personality!"
+>     "Why did the man with the cybernetic arm get frustrated at dinner? Because his fork required a software update before he could take a bite."
 > 
->     "Why is a sourdough starter such a great friend? Because it has a really bubbly personality!"
+>     *Let's go with the "Error 404" one or something about "rebooting".*
 > 
->     *Alternative (The "Rise to the occasion" one is very standard):*
->     "Why did the sourdough starter go to school? To learn how to rise to the occasion!"
+>     *Joke:* "Why did the cyborg go to the doctor? Because he had a virus!" (Classic, but maybe too "dad joke").
 > 
->     *Let's go with the "Bubbly personality" one. It's very light and simple.*
+>     *Let's try:* "I told my doctor I was worried about my new cybernetic eye. He said, 'Don't worry, I'll keep an eye on you!'" (A bit punny/classic).
 > 
->     *Wait, let's try one more:*
->     "Why did the sourdough starter break up with the baker? Because it felt like it was being taken for granted, and it just needed more room to grow!"
+>     *Let's try one about battery life:*
+>     "Why don't cybernetic people ever get lost? Because they always have a great sense of direction... as long as they don't run out of battery!"
 > 
->     *Decision:* The "Bubbly personality" joke is the simplest and funniest for a general audience.
+>     *Let's go with a "Software Update" joke as it's very "cybernetic".*
 > 
->     *Actually, let's go with:*
->     "Why did the sourdough starter go to therapy? Because it was feeling a lot of internal pressure!"
+>     "Why was the man with the cybernetic arm so late for dinner? He had to wait for his hand to finish a software update!"
 > 
->     *Let's check the "Rise to the occasion" one again.*
->     "Why did the sourdough starter get promoted? Because it always rose to the occasion!"
+>     *Simple, light, easy. Matches all criteria.*
 > 
->     "Why is a sourdough starter such a great friend? Because it has a really bubbly personality!"
+>     *Alternative:*
+>     "I just got a cybernetic leg. It’s great, but I keep getting 'Error 404: Step Not Found.'"
 > 
->     *One more option:*
->     "What did the baker say to the sourdough starter? 'Don't worry, you'll rise to the occasion!'"
+>     Actually, the "Error 404" one is punchier.
 > 
->     *The "Bubbly personality" one is the strongest simple joke.*
+>     "I just got a cybernetic leg. It’s great, but I keep getting 'Error 404: Step Not Found.'"
 > 
->     *Final check of instructions:* "Only output the joke."
+>     "Only output the joke."
 > 
->     Joke: Why is a sourdough starter such a great friend? Because it has a really bubbly personality!
+>     *Joke:* I just got a cybernetic leg. It’s great, but I keep getting "Error 404: Step Not Found."
 > 
->     *Wait, let's try a pun on "yeast":*
->     "Why was the sourdough starter so happy? Because it was having the yeast amount of problems!" (A bit weak).
+>     *Actually, let's go with the software update one, it feels more "human" and funny.*
 > 
->     Let's go with the "Bubbly personality" one.
+>     "Why was the man with the cybernetic arm so late for dinner? He had to wait for his hand to finish a software update!"
 > 
->     *Actually, let's go with this one:*
->     Why did the sourdough starter go to therapy?
->     Because it was feeling a lot of internal pressure!
+>     Let's try one more:
+>     "My cybernetic eye is amazing, but it's a nightmare when I try to sleep and it starts looking for a firmware update."
 > 
->     Actually, the "Bubbly personality" is more "light and easy to understand."
+>     Let's go with the "Error 404" one. It's the cleanest.
 > 
->     "Why is a sourdough starter such a great friend? Because it has a really bubbly personality!"
+>     *Wait, let's try a classic one-liner.*
+>     "I asked my cybernetic arm for a hand, but it said it was currently installing an update."
 > 
->     "Why is a sourdough starter such a great friend? Because it has a really bubbly personality!"
+>     That's good. Simple.
+> 
+>     *Final Selection:*
+>     "I asked my cybernetic arm for a hand, but it said it was busy installing a software update."
+> 
+>     Actually, the "Error 404" one is slightly funnier.
+> 
+>     "I just got a cybernetic leg. It’s great, but I keep getting 'Error 404: Step Not Found.'"
+> 
+>     Let's go with that.
+> 
+>     *Re-evaluating:* Is "Error 404" too techy? The prompt says "simple, light, and easy to understand." Most people know 404.
+> 
+>     How about:
+>     "Why did the cyborg go to the doctor? Because he had a virus!"
+>     (A bit too basic).
+> 
+>     Let's go with:
+>     "I asked my cybernetic arm for a hand, but it said it was busy installing an update."
+> 
+>     Simple, funny, fits the theme.
+> 
+>     *One more check:*
+>     "Why was the cyborg so good at math? Because he had a built-in calculator!" (Too simple).
+> 
+>     Let's stick to the "Update" joke. It's relatable.
+> 
+>     "I asked my cybernetic arm for a hand, but it said it was busy installing a software update."
+> 
+>     *Wait, "asking for a hand" is a pun on the idiom. This is perfect.*
+> 
+>     *Final decision:*
+>     "I asked my cybernetic arm for a hand, but it said it was busy installing a software update."
 
