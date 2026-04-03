@@ -1,98 +1,46 @@
 # Joke of the day: 
-What is an asteroid miner's favorite type of music? Heavy metal!
+Why did the sourdough starter get promoted? 
+
+Because it was really rising to the occasion!
 
 ## Topic
-<!--TOPIC-->Interstellar asteroid mining<!--/TOPIC-->
+<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|28|
-|**Candidates Token Count**|15|
-|**Total Token Count**|1010|
-|**Thoughts Token Count**|967|
+|**Candidates Token Count**|19|
+|**Total Token Count**|518|
+|**Thoughts Token Count**|471|
 
 ## Thoughts: 
-> *   Topic: Interstellar asteroid mining.
+> *   Topic: Baking sourdough bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Asteroids: Rocks, space, vacuum, zero gravity, ore, drilling.
->     *   Mining: Pickaxes, shovels, gold, riches, hard work, "rock bottom".
->     *   Interstellar: Distance, light years, stars, aliens.
->     *   Puns: "Rock bottom," "Out of this world," "Space" (as in room), "Ore-ful," "Drilling."
+>     *   Starter (the "culture", "yeast", "living thing").
+>     *   Rising/Proofing.
+>     *   Feeding the starter.
+>     *   The "sour" taste.
+>     *   Time-consuming process.
+>     *   Relationships/Commitment (since you have to "feed" it).
 > 
->     *   *Idea 1 (Pun on "rock bottom"):* Why did the asteroid miner quit his job? Because he hit rock bottom... literally.
->     *   *Idea 2 (Pun on "out of this world"):* How do asteroid miners stay so happy? They find their work out of this world!
->     *   *Idea 3 (Pun on "space"):* Why don't asteroid miners ever get lonely? Because they always have plenty of space!
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many attachment issues and felt like it was being constantly fed but never loved. (A bit heavy/cliché).
+>     *   *Idea 2:* Why was the baker so good at sourdough? Because he had a lot of dough. (Too generic).
+>     *   *Idea 3:* My sourdough starter and I are in a committed relationship. I feed it every day, and in return, it just makes me wait hours for results. (More of an observation than a joke).
+>     *   *Idea 4:* Why did the sourdough baker break up with their partner? There was just no dough left! (Punny, simple).
+>     *   *Idea 5:* Why did the sourdough starter cross the road? To get to the other side... of the fermentation crock. (Weak).
+>     *   *Idea 6:* What do you call a sourdough baker who is always late? A slow-rise. (Good, simple).
+>     *   *Idea 7:* Why did the sourdough starter get promoted? Because it was really rising to the occasion! (Classic pun, light, easy).
 > 
->     *   Idea 1 is a classic "rock bottom" pun.
->     *   Idea 3 is very light and simple.
+>     *   "Why did the sourdough starter get promoted? Because it was really rising to the occasion!" is a classic "dad joke" style. It's light, simple, and fits the criteria perfectly.
 > 
->     Let's go with a variation of the "space" or "rock bottom" joke.
+>     *   "Why did the sourdough starter get promoted? Because it was really rising to the occasion!"
 > 
->     *Drafting a new one:*
->     "Why did the interstellar asteroid miner break up with his girlfriend? Because he just needed more space!"
-> 
->     *Wait, let's try something more specific to mining:*
->     "Why was the asteroid miner so successful? Because he always hit rock bottom!" (A bit cliché).
-> 
->     *How about:*
->     "Why did the asteroid miner get promoted? Because his performance was out of this world!"
-> 
->     *Let's try one about the difficulty:*
->     "What is an asteroid miner's favorite music? Heavy Metal!" (This is good, simple, and fits the theme perfectly).
-> 
->     *   Topic: Asteroid mining (Heavy metal = ores).
->     *   Simple/Light: Yes.
->     *   Easy to understand: Yes.
->     *   Constraint: Only output the joke.
-> 
->     "What is an asteroid miner's favorite type of music? Heavy metal!"
-> 
->     Alternative: "Why don't asteroid miners ever get lonely? Because they always have plenty of space!"
-> 
->     Let's go with the "Heavy metal" one, it's a classic pun.
-> 
->     Actually, let's try a punchline about the "work" aspect.
->     "Why did the asteroid miner go to therapy? Because he was having too much space between his thoughts!" (A bit weird).
-> 
->     Let's go with the most solid one:
->     "What is an asteroid miner's favorite type of music? Heavy metal!"
-> 
->     *Self-Correction:* Is "Heavy metal" too generic? Let's try something more specific to the *interstellar* aspect.
-> 
->     "Why did the asteroid miner fail his driving test? He kept trying to take a shortcut through a black hole!" (A bit dark).
-> 
->     Let's go with:
->     "Why don't asteroid miners ever get lonely? Because they always have plenty of space!"
-> 
->     Or:
->     "Why did the asteroid miner go broke? He hit rock bottom!"
-> 
->     Let's try:
->     "What do you call a successful asteroid miner? An out-of-this-world professional!" (Weak).
-> 
->     Let's go with the **Heavy Metal** joke. It's a pun on the material they mine and the music genre.
-> 
->     *Wait, one more:*
->     "Why are asteroid miners so calm? Because nothing ever really rocks them!"
-> 
->     Actually, the "Heavy metal" one is the cleanest.
-> 
->     "What is an asteroid miner's favorite genre of music? Heavy metal!"
-> 
->     *Wait, let's try a "rock" pun.*
->     "Why did the asteroid miner get fired? He took his work for granite!" (Pun on granite/granted).
-> 
->     That's a classic. Let's see if I can make it "Interstellar".
-> 
->     "Why did the interstellar asteroid miner get fired? Because he took his job for granite!"
-> 
->     Let's go with the **Heavy Metal** one. It's very easy to understand.
-> 
->     Joke: What is an asteroid miner's favorite type of music? Heavy metal!
-> 
->     "What is an asteroid miner's favorite type of music? Heavy metal!"
+>     *   Funny? Yes (dad joke style).
+>     *   About sourdough? Yes.
+>     *   Simple/Light/Easy? Yes.
+>     *   Only output the joke? Yes.
 
