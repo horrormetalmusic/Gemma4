@@ -1,94 +1,91 @@
 # Joke of the day: 
-I asked the deli worker if he could build me a massive submarine sandwich. He said, "Sure, but I'll need a building permit first!"
+Why did the trebuchet go to therapy?
+
+Because it had too much baggage to throw!
 
 ## Topic
-<!--TOPIC-->Submarine sandwich construction<!--/TOPIC-->
+<!--TOPIC-->Medieval siege engines<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|31|
-|**Total Token Count**|1123|
-|**Thoughts Token Count**|1064|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|20|
+|**Total Token Count**|822|
+|**Thoughts Token Count**|775|
 
 ## Thoughts: 
-> *   Topic: Submarine sandwich construction.
+> *   Topic: Medieval siege engines.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Why did the sandwich go to the doctor? Because it was feeling a bit "sub-par." (Too generic, not about construction).
->     *   Idea 2: Something about layering. A guy asks for a sub, but the worker keeps adding things.
->     *   Idea 3: A joke about the layers being too complex.
->     *   Idea 4: Why was the sandwich maker so good at building subs? Because he always knew how to lay the foundation! (A bit weak).
->     *   Idea 5: A joke about the order of operations.
+>     *   Trebuchet
+>     *   Catapult
+>     *   Battering Ram
+>     *   Ballista
+>     *   Siege tower
 > 
->     *   *Draft:* Why did the sandwich maker get promoted? Because he really knew how to build a sub-stantial career! (A bit punny, maybe not "funny" enough).
->     *   *Draft:* Why don't submarines ever get lost? Because they follow a strict recipe! (Doesn't focus on construction).
->     *   *Draft:* I asked the deli worker to build me a massive submarine sandwich, but he stopped halfway through. I asked him why, and he said, "Sorry, I've hit a structural limit!" (A bit dry).
+>     *   *Idea 1 (Trebuchet):* Why was the trebuchet so popular at parties? Because it really knew how to throw a party! (A bit weak).
+>     *   *Idea 2 (Catapult):* Why did the catapult get kicked out of school? Because it kept launching into arguments. (Okay).
+>     *   *Idea 3 (Battering Ram):* Why was the battering ram so good at its job? Because it always hit the nail on the head. (A bit cliché).
+>     *   *Idea 4 (Trebuchet):* Why did the trebuchet go to therapy? It had too much baggage to throw. (Classic pun structure).
+>     *   *Idea 5 (Catapult/Trebuchet):* Why don't siege engines ever get lonely? Because they always make a big impact!
 > 
->     *   *Let's try a dialogue joke:*
->         Customer: "Can you make me a submarine sandwich with everything on it?"
->         Sandwich Artist: "Sure, but I should warn you, the structural integrity is questionable."
->         Customer: "Just build it!"
->         Sandwich Artist: "Okay, but don't come crying to me when you have a landslide in your mouth!" (A bit long).
+>     *   "Why did the trebuchet go to therapy? Because it had too much baggage to throw!" (Simple, clear, fits the theme).
+>     *   "Why was the catapult so good at its job? Because it always launched into action!" (A bit generic).
 > 
->     *   *Let's try a pun-based one:*
->         Why did the man refuse to help build the giant submarine sandwich?
->         Because he didn't want to be part of a "sub-par" construction crew!
+>     Let's go with the Trebuchet/baggage one or a play on "launching."
 > 
->     *   *Let's try one about the layers:*
->         I asked the deli worker to build me a sandwich with just one layer of everything.
->         He said, "Sorry, we only do 'sub-stantial' construction here!"
+>     How about:
+>     "Why did the catapult get promoted? Because it always launched new ideas!"
 > 
->     *   *Wait, let's go with a classic "Why" joke style:*
->         Why did the sandwich maker go to architecture school?
->         Because he wanted to master the art of sub-stantial construction!
+>     Or:
+>     "Why was the trebuchet so stressed? Because it had too much baggage to throw!"
 > 
->     *   *Let's try something even simpler:*
->         Why was the submarine sandwich so good at its job?
->         Because it had a very solid foundation of bread!
+>     The "baggage" joke is a classic pun structure that works well for "simple and easy to understand."
 > 
->     *   *How about:*
->         I told the sandwich maker to be careful with my sub.
->         He said, "Don't worry, I'm a professional. I never compromise on the structural integrity of the mayo!"
-> 
->     *   *Actually, let's go with this one:*
->         Why did the man get kicked out of the sandwich shop?
->         Because he kept trying to inspect the structural integrity of the lettuce!
-> 
->     *   *Let's try one more, very simple:*
->         Why did the sandwich maker bring a blueprint to work?
->         Because he wanted to make sure his sub was structurally sound!
-> 
->     *   "Why did the sandwich maker bring a blueprint to work? Because he wanted to make sure his sub was structurally sound!"
-> 
->     *   Is it funny? Yes (punny).
->     *   Is it about submarine sandwich construction? Yes.
->     *   Is it simple/light? Yes.
->     *   Is it only the joke? Yes.
-> 
->     *Self-Correction during selection:* The blueprint joke is the cleanest and fits all criteria perfectly.
-> 
->     "Why did the sandwich maker bring a blueprint to work? Because he wanted to make sure his sub was structurally sound!"
+>     *Refined Choice:*
+>     Why did the trebuchet go to therapy?
+>     Because it had too much baggage to throw!
 > 
 >     *Wait, let's try one more:*
->     "What do you call a submarine sandwich that's built perfectly? A structural masterpiece!" (A bit flat).
+>     Why was the siege engine so good at making friends?
+>     Because it always broke the ice! (Usually for battering rams/siege towers).
 > 
->     Let's go with the blueprint one. It's a classic "dad joke" style which fits "funny, simple, light".
+>     Actually, the trebuchet joke is the most recognizable "siege engine" specific pun.
+> 
+>     Let's try:
+>     Why don't catapults ever get into arguments?
+>     Because they always launch into a defense!
+> 
+>     Let's go with the "Baggage" one. It's the cleanest.
 > 
 >     *Alternative:*
->     "I asked the deli worker if he could build me a giant submarine sandwich. He said, 'Sure, but I'll need a building permit first!'" (This is actually funnier).
+>     Why did the catapult get kicked out of the library?
+>     Because it kept launching into things!
 > 
->     Let's go with the building permit one.
+>     Actually, the "baggage" one is the winner for simplicity.
 > 
->     "I asked the deli worker if he could build me a massive submarine sandwich. He said, 'Sure, but I'll need a building permit first!'"
+>     *Joke:*
+>     Why did the trebuchet go to therapy?
+>     Because it had too much baggage to throw!
 > 
->     1. Funny? Yes.
->     2. Submarine sandwich construction? Yes.
->     3. Simple/Light? Yes.
->     4. Only output the joke? Yes.
+>     "Only output the joke."
 > 
->     "I asked the deli worker if he could build me a massive submarine sandwich. He said, 'Sure, but I'll need a building permit first!'"
+>     Why did the trebuchet go to therapy?
+> 
+>     Because it had too much baggage to throw!
+> 
+>     (Actually, simpler format):
+>     Why did the trebuchet go to therapy? Because it had too much baggage to throw!
+> 
+>     Let's try one about a Battering Ram.
+>     "Why was the battering ram such a good leader? Because it always led the charge!"
+> 
+>     Let's stick to the Trebuchet one. It's the most "siege engine" specific.
+> 
+>     *Final Polish:*
+>     Why did the trebuchet go to therapy? 
+>     Because it had too much baggage to throw!
 
