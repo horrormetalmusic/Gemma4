@@ -1,59 +1,86 @@
 # Joke of the day: 
-Why did the sourdough starter get promoted? 
+Why did the deep-sea fish go to the party? 
 
-Because it was always rising to the occasion!
+Because he wanted to be the life of the light!
 
 ## Topic
-<!--TOPIC-->Sourdough bread baking<!--/TOPIC-->
+<!--TOPIC-->Deep-sea bioluminescence<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|29|
-|**Candidates Token Count**|19|
-|**Total Token Count**|777|
-|**Thoughts Token Count**|729|
+|**Candidates Token Count**|25|
+|**Total Token Count**|819|
+|**Thoughts Token Count**|765|
 
 ## Thoughts: 
-> *   Topic: Sourdough bread baking.
+> *   Topic: Deep-sea bioluminescence.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (needs feeding, is alive).
->     *   Fermentation (waiting, rising).
->     *   Gluten/Dough.
->     *   Crust/Crumb.
->     *   Complexity/Pretentiousness of sourdough bakers.
+>     *   Idea 1: Why did the anglerfish go to the party? Because he wanted to be the life of the light! (A bit weak).
+>     *   Idea 2: What do you call a fish that glows in the dark? A light snack! (A bit dark/punny).
+>     *   Idea 3: Why don't deep-sea creatures ever get lost? Because they always carry their own flashlight! (Simple, cute).
+>     *   Idea 4: Why was the jellyfish so popular at the bottom of the ocean? Because he was always the life of the light! (Good).
+>     *   Idea 5: Why did the bioluminescent shrimp go to school? To brighten up his future! (Very light).
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues rising to the top. (A bit cliché).
->     *   *Idea 2:* What do you call a sourdough baker who is always late? A slow riser. (Okay).
->     *   *Idea 3:* Why did the sourdough baker break up with their partner? They just needed more space to rise. (A bit weak).
->     *   *Idea 4:* Why is sourdough baking so much like a relationship? It requires constant feeding, it’s a lot of work, and if you ignore it for a few days, it gets really sour. (More of a thought than a joke).
->     *   *Idea 5:* Why did the sourdough baker get kicked out of the party? Because they kept bringing up old starters. (Pun on "starter" vs "old stories/stuff").
->     *   *Idea 6:* What did the sourdough starter say to the baker? "Don't worry, things are about to get bubbly!" (Too cute, not really a joke).
+>     *   "Why did the anglerfish go to the party? Because he wanted to be the life of the light!"
+>     *   "Why don't deep-sea fish ever get lost? Because they always bring their own nightlights!"
 > 
->     *   Let's go with the "relationship" angle or a pun on "starter."
->     *   Actually, let's try: "Why did the sourdough starter go to school? Because it wanted to be a real smartie-pants... no, that doesn't work."
->     *   How about: "Why was the sourdough bread so dramatic? Because it always had its ups and downs!" (Simple, light, easy).
+>     Let's go with a classic pun format.
 > 
->     *   Let's try one about the "starter" being a pet/child:
->         "Why do sourdough bakers make such great parents? Because they’re experts at feeding things that just sit around and grow!"
+>     *Joke:* Why did the bioluminescent fish go to the party?
+>     *Punchline:* Because he wanted to be the life of the light!
 > 
->     *   Let's go with the "Ups and downs" joke. It's a classic pun format.
->     *   Wait, another one: "What did the baker say to the sourdough starter? 'You’re really starting to get on my nerves!'" (A bit mean).
+>     *Alternative Joke:* What is a deep-sea creature's favorite way to communicate?
+>     *Punchline:* Through bright ideas!
 > 
->     *   Let's try: **"Why did the sourdough bread go to therapy? It had too many emotional ups and downs!"**
+>     *Let's try another:*
+>     Why was the deep-sea fish so good at parties?
+>     Because he was always the life of the light!
 > 
->     *   Actually, let's go with a very simple one:
->         **"Why is sourdough baking so much like a relationship? It requires constant feeding, and if you ignore it, things get sour!"** (This is more of an observation).
+>     Wait, let's try:
+>     Why don't deep-sea fish ever need a flashlight?
+>     Because they're all "bright" students! (A bit confusing).
 > 
->     *   Let's go with: **"Why did the sourdough starter get promoted? Because it was always rising to the occasion!"** (This is a classic, clean, punny, and fits the prompt perfectly).
+>     Let's go with the "Life of the light" one, it's the most standard pun.
 > 
->     *   Topic: Sourdough bread baking? Yes.
+>     *Joke:* Why did the anglerfish go to the disco?
+>     *Punchline:* Because he wanted to be the life of the light!
+> 
+>     Let's try one more:
+>     What do you call a fish that glows in the dark?
+>     A bright spark!
+> 
+>     Let's go with:
+>     Why was the deep-sea fish so popular at parties?
+>     Because he was always the life of the light!
+> 
 >     *   Funny? Yes (pun).
->     *   Simple/Light/Easy? Yes.
+>     *   About deep-sea bioluminescence? Yes.
+>     *   Simple/Light? Yes.
 >     *   Only output the joke? Yes.
 > 
->     "Why did the sourdough starter get promoted? Because it was always rising to the occasion!"
+>     "Why was the deep-sea fish so popular at parties? Because he was always the life of the light!"
+> 
+>     Actually, let's try:
+>     "Why did the bioluminescent fish go to school? To brighten up his future!"
+> 
+>     Actually, let's go with the anglerfish one, it's more specific to the deep sea.
+> 
+>     "Why did the anglerfish go to the party? Because he wanted to be the life of the light!"
+> 
+>     Wait, let's do:
+>     Why don't deep-sea creatures ever get lost?
+>     Because they always bring their own light! (A bit flat).
+> 
+>     Let's go with:
+>     Why was the bioluminescent jellyfish so popular?
+>     Because he was the life of the light!
+> 
+>     Final choice:
+>     Why did the deep-sea fish go to the party?
+>     Because he wanted to be the life of the light!
 
