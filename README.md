@@ -1,81 +1,86 @@
 # Joke of the day: 
-Why did the gourmet sourdough baker get promoted?
-
-Because they always rose to the occasion!
+Why is quantum cryptography so shy? Because the moment you try to observe it, it changes!
 
 ## Topic
-<!--TOPIC-->Gourmet sourdough baking<!--/TOPIC-->
+<!--TOPIC-->Quantum cryptography<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|18|
-|**Total Token Count**|972|
-|**Thoughts Token Count**|925|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|19|
+|**Total Token Count**|953|
+|**Thoughts Token Count**|908|
 
 ## Thoughts: 
-> *   Topic: Gourmet sourdough baking.
+> *   Topic: Quantum cryptography.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (needs feeding, is like a pet/baby).
->     *   Wild yeast (unpredictable).
->     *   Scoring (artistic patterns).
->     *   Hydration (too wet, too dry).
->     *   Fermentation/Proofing (waiting, timing).
->     *   The obsession/lifestyle.
+>     *   Key concept: Entanglement, superposition, observation/measurement changing the state (no-cloning theorem), Heisenberg uncertainty principle.
+>     *   Analogy: A secret that changes if someone looks at it.
 > 
->     *   *Idea 1:* Why did the sourdough baker break up with their partner? They felt the relationship lacked enough "rise." (A bit cliché).
->     *   *Idea 2:* My sourdough starter is more high-maintenance than my actual child. (True, but more of an observation than a joke).
->     *   *Idea 3:* Why did the gourmet baker go to therapy? Because they had too many "crust" issues. (Punny).
->     *   *Idea 4:* Why was the sourdough starter so popular at parties? Because it always brought the yeast! (Weak).
->     *   *Idea 5:* Why do sourdough bakers make terrible secret agents? Because they always leave a trail of flour and eventually, they just "leak" their starter. (A bit long).
->     *   *Idea 6 (The "Starter" Angle):* Why did the sourdough baker get kicked out of the library? Because they kept bringing their starter, and everyone said it was too loud and bubbly! (Maybe).
->     *   *Idea 7 (The "Relationship" Angle):* Why did the sourdough baker break up with the bagel? There just wasn't enough "rise" in the relationship. (Good, but bagels aren't sourdough).
+>     *   *Idea 1 (Entanglement):* Why did the quantum cryptographer break up with their partner? Because every time they tried to observe the relationship, it changed into something else. (A bit cliché).
+>     *   *Idea 2 (Observation):* Why don't quantum cryptographers ever use regular locks? Because they prefer keys that disappear the moment someone tries to peek at them. (A bit dry).
+>     *   *Idea 3 (The "Schrödinger's" angle):* A quantum cryptographer walks into a bar... (Standard setup).
+>     *   *Idea 4 (The "Observation" principle):* Why is quantum cryptography so good at keeping secrets? Because as soon as someone tries to eavesdrop, the secret literally changes its mind!
 > 
->     *   *Joke:* Why did the sourdough baker break up with their partner?
->     *   *Punchline:* Because they felt the relationship lacked any real *rise*.
+>     *   Setup: Why are quantum cryptographers so bad at keeping secrets?
+>     *   Punchline: Because as soon as you try to look at them, they change!
+>     *   *Wait, that's more about the security mechanism.*
 > 
->     *Let's try another one just in case:*
->     *   *Joke:* Why was the sourdough starter so good at keeping secrets?
->     *   *Punchline:* Because it was always bubbling with excitement but never let anything slip... wait, no.
+>     *   *Better Setup:* Why did the quantum cryptographer get kicked out of the library?
+>     *   *Punchline:* Because every time someone tried to read his book, the text changed!
 > 
->     *Let's go with the "Starter/Pet" theme:*
->     *   *Joke:* Why don't sourdough bakers ever get lonely?
->     *   *Punchline:* Because they always have a starter to talk to! (A bit weak).
+>     *   *Let's try a classic "Why" joke:*
+>     *   Why did the quantum cryptographer refuse to play hide-and-seek?
+>     *   Because even if they found you, the mere act of looking would change your position!
 > 
->     *Let's go with a "Crust/Relationship" pun:*
->     *   *Joke:* Why did the gourmet sourdough baker go to therapy?
->     *   *Punchline:* They had too many "crust" issues! (Simple, light, punny).
+>     *   *Simple and cute:*
+>     *   Why is quantum cryptography the ultimate introvert?
+>     *   Because the moment you try to observe it, it changes its whole personality!
 > 
->     *Let's try one more:*
->     *   *Joke:* How does a sourdough baker greet their friends?
->     *   *Punchline:* "Hey, what's *kneading*?" (Classic, simple).
+>     *   "Why did the quantum cryptographer break up with their partner? Because every time they tried to observe the relationship, it changed into something else!" -> A bit long.
 > 
->     *Let's go with a joke about the obsession:*
->     *   *Joke:* Why did the sourdough baker cross the road?
->     *   *Punchline:* To get to the other side... and check if their starter was still bubbly! (A bit long).
+>     *   Let's go with the "Looking" aspect.
 > 
->     *Actually, let's go with the "Rise" joke, it's a classic structure:*
->     "Why did the sourdough baker break up with their partner? Because they felt the relationship just lacked the right amount of rise!"
+>     *   *Joke:*
+>     *   Why is quantum cryptography so shy?
+>     *   Because as soon as you look at it, it changes!
 > 
->     *Wait, let's try something specifically about "Gourmet":*
->     "Why did the gourmet sourdough baker get promoted? Because they always rose to the occasion!"
+>     *   *Alternative:*
+>     *   Why don't quantum cryptographers ever get caught eavesdropping?
+>     *   Because the moment you try to peek, the secret changes its mind!
 > 
->     *That's perfect. It's light, simple, and fits the "gourmet" vibe.*
+>     "Why is quantum cryptography so shy? Because as soon as you look at it, it changes!"
 > 
->     "Why did the gourmet sourdough baker get promoted? Because they always rose to the occasion!"
-> 
->     *   Funny? Yes (pun).
->     *   Topic: Gourmet sourdough baking? Yes.
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
-> 
->     *Alternative:*
->     "Why was the sourdough baker so successful? Because they always rose to the occasion!"
+>     *Actually, let's try one about the "key":*
+>     "Why was the quantum key so bad at keeping secrets? Because as soon as someone tried to peek, it changed its mind!"
 > 
 >     Let's go with:
->     "Why did the gourmet sourdough baker get promoted? Because they always rose to the occasion!"
+>     **Why is quantum cryptography so shy? Because the moment you try to observe it, it changes!**
+> 
+>     *Wait, let's make it even punchier.*
+> 
+>     "Why don't quantum cryptographers ever have secrets? Because as soon as you try to look at them, they change!" (No, that's the opposite of what it does).
+> 
+>     "Why is quantum cryptography so good at keeping secrets? Because the moment an eavesdropper looks at them, they change their personality!"
+> 
+>     Let's try this:
+>     **Why is quantum cryptography so shy? Because as soon as you try to observe it, it changes!**
+> 
+>     *Simple, light, easy to understand.*
+> 
+>     *Check constraints:* Only output the joke.
+> 
+>     "Why is quantum cryptography so shy? Because as soon as you look at it, it changes!"
+> 
+>     Actually, let's try:
+>     **Why did the quantum cryptographer get kicked out of the party? Because every time someone tried to observe him, he changed!**
+> 
+>     Let's go with the "shy" one, it's cleaner.
+> 
+>     *Final version:*
+>     Why is quantum cryptography so shy? Because the moment you try to observe it, it changes!
 
