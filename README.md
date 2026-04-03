@@ -1,49 +1,49 @@
 # Joke of the day: 
-Why don't sourdough bakers ever go on vacation? 
+Heisenberg is driving down the highway when he gets pulled over by a police officer.
 
-Because they can't leave their culture behind!
+The officer walks up to the window and asks, "Sir, do you know how fast you were going?"
+
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Sourdough bread baking<!--/TOPIC-->
+<!--TOPIC-->Quantum mechanics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|23|
-|**Total Token Count**|532|
-|**Thoughts Token Count**|480|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|56|
+|**Total Token Count**|472|
+|**Thoughts Token Count**|390|
 
 ## Thoughts: 
-> *   Topic: Sourdough bread baking.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Quantum mechanics.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (mother, feeding, bubbly, living thing).
->     *   Proofing (rising, waiting).
->     *   Gluten (stretching, strength).
->     *   Scoring (slashing, patterns).
->     *   Crust/Crumb.
->     *   The "obsession" factor (people spend too much time on it).
+>     *   Schrödinger's Cat (dead/alive).
+>     *   Heisenberg Uncertainty Principle (position/momentum).
+>     *   Entanglement (spooky action at a distance).
+>     *   Superposition (being in multiple states).
 > 
->     *   *Idea 1 (The Starter):* Why did the baker break up with his sourdough starter? Because he felt like she was always demanding more attention and constant feeding! (A bit cliché).
->     *   *Idea 2 (The Starter):* What did the sourdough starter say to the baker? "Stop loafing around and feed me!" (A bit punny/dad joke).
->     *   *Idea 3 (The Starter/Obsession):* Why don't sourdough bakers ever go on vacation? Because they can't leave their "culture" behind! (Good, classic pun).
->     *   *Idea 4 (The Starter):* My sourdough starter is so needy. I asked it how it was doing, and it just gave me a bubbly response. (Weak).
+>     *   *Joke 1 (Schrödinger's Cat):* Schrödinger's cat walks into a bar... and doesn't. Or it does.
+>     *   *Joke 2 (Heisenberg/Uncertainty):* Heisenberg is driving and gets pulled over. Cop: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!"
+>     *   *Joke 3 (Entanglement):* Two particles get married. It's a very "entangled" relationship.
 > 
->     *   "Why don't sourdough bakers ever go on vacation? Because they can't leave their culture behind!" is a solid, light, simple joke.
+>     *   Joke 2 (Heisenberg) is a classic, very easy to understand, and fits the "light and simple" criteria perfectly.
 > 
->     *   *Alternative:* "What did the sourdough starter say to the baker? 'You're driving me buns!'" (Maybe too silly).
+>     *   Heisenberg is driving down the highway when a police officer pulls him over.
+>     *   The officer asks, "Sir, do you have any idea how fast you were going?"
+>     *   Heisenberg replies, "No, but I know exactly where I am!"
 > 
->     *   *Let's try another:* "Why was the sourdough bread so successful? Because it had a great culture!" (Simple, light, funny).
-> 
->     *   "Why don't sourdough bakers ever go on vacation? Because they can't leave their culture behind!"
-> 
->     *   Funny? Yes (pun).
->     *   Sourdough related? Yes.
->     *   Simple/Light? Yes.
+>     *   Quantum mechanics? Yes (Uncertainty Principle).
+>     *   Funny/Simple/Light? Yes.
 >     *   Only output the joke? Yes.
 > 
->     *Joke:* Why don't sourdough bakers ever go on vacation? Because they can't leave their culture behind!
+>     Heisenberg is driving down the highway when he gets pulled over by a police officer.
+> 
+>     The officer walks up to the window and asks, "Sir, do you know how fast you were going?"
+> 
+>     Heisenberg replies, "No, but I know exactly where I am!"
 
