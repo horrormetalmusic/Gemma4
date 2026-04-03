@@ -1,112 +1,91 @@
 # Joke of the day: 
-A neutron walks into a bar and asks, "How much for a drink?"
-
-The bartender replies, "For you, no charge!"
+Why did the sourdough starter get a promotion? Because it was always rising to the occasion!
 
 ## Topic
-<!--TOPIC-->Subatomic particle physics<!--/TOPIC-->
+<!--TOPIC-->Sourdough bread baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|28|
-|**Total Token Count**|1139|
-|**Thoughts Token Count**|1083|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|18|
+|**Total Token Count**|1107|
+|**Thoughts Token Count**|1060|
 
 ## Thoughts: 
-> *   Topic: Subatomic particle physics.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Sourdough bread baking.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   *Idea 1 (Heisenberg Uncertainty Principle):* Heisenberg is driving. Cop pulls him over. Cop asks, "Do you know how fast you were going?" Heisenberg says, "No, but I know exactly where I am!"
->     *   *Idea 2 (Schrödinger's Cat):* A physicist's cat is both alive and dead until you check. (A bit cliché/dark).
->     *   *Idea 3 (Quarks):* Why can't you trust an atom? Because they make up everything! (Classic, but maybe too general/not specifically "subatomic particle physics" enough, though quarks are subatomic).
->     *   *Idea 4 (Neutrinos/Electrons):* Something about electrons being negative.
+>     *   Starter (mother/father/baby).
+>     *   Fermentation (rising/growing).
+>     *   Gluten (strength/toughness).
+>     *   Scoring (cutting patterns).
+>     *   Feeding the starter (commitment/relationship).
+>     *   "Sour" (acidic/temperament).
 > 
->     *   *Option A (Heisenberg):*
->         A police officer pulls over Werner Heisenberg.
->         The officer asks, "Do you know how fast you were going?"
->         Heisenberg replies, "No, but I know exactly where I am!"
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues and couldn't stop rising to the occasion. (A bit cliché).
+>     *   *Idea 2:* Why did the baker break up with the sourdough starter? Because it was too clingy and always needed feeding. (Relatable).
+>     *   *Idea 3:* What do you call a sourdough starter that tells jokes? A real "rye" person? No, that's rye. A "sour" comedian?
+>     *   *Idea 4:* Why was the sourdough baker so good at relationships? Because they knew how to handle the rise and fall of emotions.
+>     *   *Idea 5:* Why did the sourdough starter get promoted? Because it was always rising to the occasion!
 > 
->     *   *Option B (Atom/Quark):*
->         Why shouldn't you trust an atom?
->         Because they make up everything! (This is very common).
+>     *   *Joke:* Why did the sourdough starter go to therapy? Because it was feeling a little bubbly, but it still had a lot of internal issues! (A bit weak).
+>     *   *Joke:* Why did the sourdough baker break up with their partner? Because the relationship just wasn't "rising" to the occasion! (Classic pun).
+>     *   *Joke:* Why did the sourdough starter get in trouble at school? Because it was always getting into a "fermentation" of trouble? No.
+>     *   *Joke:* Why is sourdough baking such a high-maintenance hobby? Because you're basically raising a child that only eats flour and water! (More of an observation).
 > 
->     *   *Option C (Quark/Flavor):*
->         What did the quark say to the other quark?
->         "You're looking quite colorful today!" (A bit weak).
+>     *   *Let's try a classic pun:*
+>     "Why did the sourdough starter go to therapy? Because it had too many internal issues and kept rising to the occasion!"
 > 
->     *   *Option D (Neutron/Proton):*
->         A neutron walks into a bar and asks, "How much for a drink?"
->         The bartender says, "For you, no charge!"
+>     *   *Alternative (simpler/lighter):*
+>     "Why did the sourdough baker break up with their starter? Because it was too high-maintenance and always needed attention!"
 > 
->     Option D is classic, light, and very easy to understand.
->     Option A is also excellent and very "physics-y".
+>     *   *Let's go with the "rising to the occasion" one, it's the most recognizable joke structure.*
 > 
->     Let's go with the Heisenberg joke as it's a staple of particle physics humor. Actually, the "No charge" joke is even simpler and more "light".
+>     *Refined Joke:*
+>     "Why did the sourdough starter go to therapy? Because it had too many internal issues and kept rising to the occasion!"
 > 
->     Let's try a different one:
->     "Why did the electron go to therapy? Because it was feeling too negative." (Simple, light).
+>     *Actually, let's try one about the relationship with the starter:*
+>     "Why is sourdough baking like a toxic relationship? You spend all your time feeding it, but it still leaves you feeling sour!"
 > 
->     Let's go with the Heisenberg one; it's the most iconic. Or the Neutron one.
+>     *Wait, the prompt asks for "simple, light, and easy to understand".*
 > 
->     *Wait, the prompt asks for "Subatomic particle physics".*
->     Neutron/Proton/Electron are the components of the atom.
->     Heisenberg deals with the uncertainty principle (quantum mechanics, which governs subatomic particles).
+>     "Why did the sourdough starter go to therapy? Because it had too many internal issues and kept rising to the occasion!" (This is the winner).
 > 
->     Let's go with the Neutron joke. It's the simplest.
+>     "Why did the sourdough starter go to therapy? Because it had too many internal issues and kept rising to the occasion!"
 > 
->     *Joke:*
->     A neutron walks into a bar and asks, "How much for a drink?"
->     The bartender replies, "For you, no charge!"
+>     *Self-Correction:* Is "internal issues" too complex? No.
+>     Is there a better one?
+>     "What did the sourdough say to the baker? 'You really knead me!'" (Very simple, light).
 > 
->     Actually, let's try one about Quarks to be more "subatomic".
->     "Why was the quark so good at parties? Because it had so much flavor!" (A bit silly).
+>     Let's go with the "Knead me" one or the "Rising" one.
 > 
->     Let's go with the Heisenberg joke. It's smart but simple.
+>     "Why did the sourdough starter go to therapy? Because it had too many internal issues and kept rising to the occasion!"
 > 
->     *Heisenberg Joke:*
->     Werner Heisenberg is driving down the highway when a police officer pulls him over.
->     The officer asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     Let's try: "Why did the sourdough baker break up with their starter? Because it was too clingy and always needed constant feeding!"
 > 
->     Is it "subatomic particle physics"? It's quantum mechanics.
->     Let's stick to the "No charge" joke. It's about a neutron (a subatomic particle).
+>     Let's go with:
+>     **Why did the sourdough starter go to therapy? Because it had too many internal issues and kept rising to the occasion!**
 > 
->     *Joke:*
->     A neutron walks into a bar and asks, "How much for a drink?"
->     The bartender replies, "For you, no charge!"
+>     *Wait, one more:*
+>     "How does a sourdough baker stay calm? They just take it one loaf at a time!" (Not really a joke).
 > 
->     *Decision:* The Neutron joke is the winner for "simple, light, and easy to understand."
+>     "What did the sourdough bread say to the baker? 'You knead me!'" (Simple and light).
 > 
->     Wait, let's check if there's anything better.
->     "What did one electron say to the other? 'I've got a negative feeling about this!'"
+>     Let's go with the "Rising to the occasion" one. It's the most "joke-like".
 > 
->     Let's go with the Neutron one.
+>     "Why did the sourdough starter go to therapy? Because it had too many internal issues and kept rising to the occasion!"
 > 
->     *Final Polish:*
->     A neutron walks into a bar and asks, "How much for a drink?"
->     The bartender replies, "For you, no charge!"
+>     Actually, let's try a very short one.
+>     "Why did the sourdough starter get a promotion? Because it was always rising to the occasion!"
 > 
->     Only output the joke.
+>     That's cleaner.
 > 
->     *Self-Correction:* The prompt asks for a joke about "Subatomic particle physics".
->     A neutron is a subatomic particle.
+>     Why did the sourdough starter get a promotion? Because it was always rising to the occasion!
 > 
->     Let's try one more:
->     "Why can't you trust an atom? Because they make up everything!"
->     (This is the most common one, but it's very light).
+>     *Constraint Check:* Only output the joke.
 > 
->     Actually, the "No charge" one is better for "physics".
-> 
->     Let's go.
-> 
->     Joke:
->     A neutron walks into a bar and asks, "How much for a drink?"
->     The bartender replies, "For you, no charge!"
-> 
->     A neutron walks into a bar and asks, "How much for a drink?"
->     The bartender replies, "For you, no charge!"
+>     Why did the sourdough starter get a promotion? Because it was always rising to the occasion!
 
