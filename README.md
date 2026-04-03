@@ -1,145 +1,85 @@
 # Joke of the day: 
-Two quantum particles walk into a bar. The first one says, "I'm feeling a bit 'up'!" The second one immediately sighs and says, "Great, now I have to be 'down'!"
+Why did the sourdough baker break up with their partner? Because they realized they just couldn't knead them anymore!
 
 ## Topic
-<!--TOPIC-->Quantum entanglement<!--/TOPIC-->
+<!--TOPIC-->Sourdough bread baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|44|
-|**Total Token Count**|1888|
-|**Thoughts Token Count**|1818|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|24|
+|**Total Token Count**|1068|
+|**Thoughts Token Count**|1015|
 
 ## Thoughts: 
-> *   Topic: Quantum entanglement.
+> *   Topic: Sourdough bread baking.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Spooky action at a distance (Einstein's term).
->     *   Two particles being connected so that the state of one instantly affects the other.
->     *   Spin (up/down).
->     *   Relationships/Couples (a common metaphor for entanglement).
+>     *   Starter (mother/father/child).
+>     *   Fermentation (rising/waiting).
+>     *   Discard.
+>     *   Scoring/shaping.
+>     *   Complexity/obsession.
+>     *   "Knead" vs "Need".
 > 
->     *   *Idea 1:* Two particles walk into a bar. One says, "I'm feeling up." The other says, "Then I guess I'm feeling down." (A bit cliché).
->     *   *Idea 2:* Why did the two electrons break up? Because they were too entangled. (A bit dry).
->     *   *Idea 3 (Relationship angle):* An entangled couple is like a long-distance relationship where you don't even need to call to know exactly how the other person is feeling. (More of a statement than a joke).
->     *   *Idea 4 (Punny approach):* Why are quantum physicists so bad at dating? Because every time they meet someone, they instantly become entangled, and then they can't tell where they end and the other person begins! (A bit long).
->     *   *Idea 5 (The "Spooky" approach):* Why did the quantum physicist break up with the particle? Because he felt like she was always influencing his spin! (Okay).
->     *   *Idea 6 (Classic setup):* Two quantum particles walk into a bar. The bartender asks, "What can I get you?" One particle says, "I'll have a beer." The other one instantly says, "I'll have what he's having!" (Wait, that's not quite entanglement physics, that's just being a copycat).
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues and felt like it was constantly being discarded. (A bit dark?)
+>     *   *Idea 2:* Why did the baker break up with the sourdough? Because he felt like she was always rising to the occasion, but he just couldn't knead her anymore. (A bit cliché.)
+>     *   *Idea 3:* Why was the sourdough baker so good at relationships? Because they knew how to nurture something from nothing and always gave it plenty of time to rise. (More a compliment than a joke.)
+>     *   *Idea 4:* What did the sourdough starter say to the baker? "Don't leave me hanging, I'm really bubbling over with excitement!" (Cute, simple.)
+>     *   *Idea 5 (Puns):* I'm reading a book on sourdough. It's a real yeast-erday's tale. (No.)
+>     *   *Idea 6 (The "Need/Knead" pun):* Why did the baker get married to the sourdough? Because he realized he really *kneaded* her in his life. (Classic, simple, light.)
 > 
->     *Let's try to capture the "instantaneous change" aspect.*
+>     "Why did the sourdough baker get married? Because they realized they finally kneaded some stability in their life!" -> A bit clunky.
 > 
->     *Draft:*
->     Two quantum particles walk into a bar.
->     The first one says, "I'm feeling a bit 'up' today."
->     The second one immediately sighs and says, "Great, now I have to be 'down'."
+>     Let's go with the "Knead" pun. It's the gold standard for bread jokes.
 > 
->     *Let's try something even simpler/punchier.*
+>     *Joke:* Why did the sourdough baker go to therapy? Because they had too many "yeast" expectations and felt like they were always being discarded! (Maybe too complex).
 > 
->     *Draft:*
->     Why did the two electrons get married?
->     Because they were inseparable—as soon as one made a move, the other was already there!
+>     *Simple Joke:* Why was the sourdough starter so popular? Because it was always rising to the occasion!
 > 
->     *Let's go with a variation of the "up/down" spin joke because it's the most recognizable concept in entanglement.*
+>     *Another Simple Joke:* Why did the sourdough baker break up with their partner? Because they just couldn't knead them anymore!
 > 
->     *Refined Joke:*
->     Two quantum particles walk into a bar.
->     The first one says, "I'm feeling a little 'up' tonight."
->     The second one immediately sighs and says, "Fine, then I guess I'm feeling 'down'."
+>     *Selection:* The "knead" pun is the most recognizable and fits "simple, light, and easy to understand."
 > 
->     *Actually, let's try a dating joke.*
+>     "Why did the sourdough baker break up with their partner? Because they felt like they just couldn't knead them anymore!"
 > 
->     "Why did the quantum physicist break up with their partner?
->     Because they felt too entangled, and every time their partner felt something, they felt it too!" (A bit wordy).
+>     Wait, let's try one about the starter being high maintenance.
+>     "Why is sourdough baking like a relationship? It requires a lot of attention, a lot of feeding, and if you ignore it for too long, things get really sour!" (A bit long).
 > 
->     *Let's try a "spooky action" one.*
+>     Let's go with a classic pun.
 > 
->     "Why don't quantum particles ever need to text each other?
->     Because they’re already entangled—they always know exactly what the other is up to!"
+>     *Joke:* Why did the sourdough baker go to therapy? Because they were feeling a bit sour and felt like they were constantly being discarded!
 > 
->     *This is light, simple, and fits the "easy to understand" requirement.*
+>     Actually, let's go with:
+>     "Why did the sourdough starter break up with the baker? Because it felt like it was being taken for granted and just needed more space to rise!"
 > 
->     *Alternative:*
->     "Why was the quantum particle so good at long-distance relationships?
->     Because no matter how far apart they were, they were still perfectly in sync!"
+>     Let's try a shorter one.
+>     "What did the sourdough say to the baker? 'Don't worry, I'll rise to the occasion!'"
 > 
->     *The "texting" one is punchier.*
+>     Let's try:
+>     "Why did the baker get in trouble with the sourdough? Because he kept making a huge 'rise' in prices!" (Doesn't make sense).
 > 
->     "Why don't quantum particles ever need to text each other?
->     Because they're already entangled, so they always know exactly how the other is feeling!"
+>     Let's go with the "knead" pun. It's the safest and funniest for a general audience.
 > 
->     "Why don't quantum particles ever need to text each other? Because they're already entangled, so they always know exactly what the other is up to!"
+>     *Joke:* Why did the sourdough baker break up with their partner? Because they realized they just couldn't knead them anymore!
 > 
->     *Wait, let's do the "up/down" one, it's more "physics-joke" style.*
+>     "Why did the sourdough baker break up with their partner? Because they realized they just couldn't knead them anymore!"
 > 
->     "Two quantum particles walk into a bar. One says, 'I'm feeling a bit up.' The other instantly sighs and says, 'Great, now I have to be down.'"
+>     Wait, I'll try one more:
+>     "How does sourdough bread introduce itself? 'Nice to meat you... wait, no, nice to *yeast* you!'" (No).
 > 
->     Actually, let's go with the dating one. It's the most "relatable" funny.
+>     "Why was the sourdough starter so happy? Because it was finally rising to the occasion!"
 > 
->     "Why are quantum particles so great at long-distance relationships?
->     Because no matter how far apart they are, they're always perfectly in sync!"
+>     Let's go with the "knead" one. It's very clean.
 > 
->     *Wait, one more:*
->     "Why did the quantum particle break up with its partner? 
->     Because it felt like they were losing their individuality to some spooky action at a distance!" (A bit too nerdy).
+>     *Final Selection:*
+>     Why did the sourdough baker break up with their partner? Because they realized they just couldn't knead them anymore!
 > 
->     Let's go with the most classic-style one:
->     Two quantum particles walk into a bar. The first one says, "I'm feeling a bit 'up' tonight." The second one immediately sighs and says, "Great, now I have to be 'down'."
+>     "Only output the joke."
 > 
->     *Actually, the "texting" one is better for a general audience.*
-> 
->     "Why don't quantum particles ever need to text each other?
->     Because they're already entangled, so they always know exactly what the other is up to!"
-> 
->     *Check constraints: Only output the joke.*
-> 
->     "Why don't quantum particles ever need to text each other? Because they're already entangled, so they always know exactly what the other is up to!"
-> 
->     *Wait, let's try one about a couple.*
->     "My wife and I are like quantum particles. We're so entangled that if she's feeling 'up,' I automatically feel 'down'!"
-> 
->     *Let's go with the "texting" one. It's cleaner.*
-> 
->     Why don't quantum particles ever need to text each other? 
->     Because they're already entangled, so they always know exactly what the other is up to!
-> 
->     *Actually, the "Up/Down" spin joke is the most "accurate" funny joke.*
-> 
->     Two quantum particles walk into a bar. One says, "I'm feeling a bit 'up' tonight." The other one immediately sighs and says, "Fine, then I guess I'm feeling 'down'!"
-> 
->     Let's go with this one. It's a classic.
-> 
->     "Two quantum particles walk into a bar. The first one says, 'I'm feeling a bit "up" tonight.' The second one immediately sighs and says, 'Great, now I have to be "down"!'"
-> 
->     *Wait, let's make it even simpler.*
-> 
->     "Why are quantum particles so good at long-distance relationships? Because they're entangled, so they're always on the same wavelength!" (A bit punny).
-> 
->     Let's stick to the "up/down" one. It's the most "clever" simple joke.
-> 
->     "Two quantum particles walk into a bar. The first one says, 'I'm feeling a bit up!' The second one immediately sighs and says, 'Great, now I have to be down.'"
-> 
->     Final decision: The "up/down" one.
-> 
->     *Wait, looking at "simple, light, and easy to understand". The "texting" one is actually more "light/easy" for someone who doesn't know what spin is.*
-> 
->     "Why don't quantum particles ever need to text each other? Because they're already entangled, so they always know exactly what the other is up to!"
-> 
->     Yes, this is better.
-> 
->     "Why don't quantum particles ever need to text each other? Because they're already entangled, so they always know exactly what the other is up to!"
-> 
->     Actually, "up/down" is more "joke-like".
-> 
->     "Two quantum particles walk into a bar. The first one says, 'I'm feeling a bit up!' The second one immediately sighs and says, 'Fine, I guess I'll be down!'"
-> 
->     Let's go with that.
-> 
->     *Self-Correction:* The prompt says "Only output the joke".
-> 
->     Final choice:
->     Two quantum particles walk into a bar. The first one says, "I'm feeling a bit 'up'!" The second one immediately sighs and says, "Great, now I have to be 'down'!"
+>     *Drafting response:*
+>     Why did the sourdough baker break up with their partner? Because they realized they just couldn't knead them anymore!
 
