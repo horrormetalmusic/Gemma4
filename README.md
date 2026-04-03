@@ -1,93 +1,214 @@
 # Joke of the day: 
-Why did the sourdough baker get promoted? Because they always rose to the occasion!
+Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!
 
 ## Topic
-<!--TOPIC-->Sourdough bread baking<!--/TOPIC-->
+<!--TOPIC-->Cybernetic implants<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|16|
-|**Total Token Count**|1052|
-|**Thoughts Token Count**|1007|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|27|
+|**Total Token Count**|2831|
+|**Thoughts Token Count**|2777|
 
 ## Thoughts: 
-> *   Topic: Sourdough bread baking.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Cybernetic implants.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (living thing, feeding it, it's needy).
->     *   Fermentation/Bubbles.
->     *   Scoring/Lame.
->     *   Gluten/Dough.
->     *   Rising/Proofing.
->     *   Sourdough people are obsessed/addicted.
+>     *   Idea 1: Getting a software update for your arm and it takes 4 hours while you're trying to eat.
+>     *   Idea 2: A person with a robotic leg and a joke about "stepping up" or "getting a leg up."
+>     *   Idea 3: A person with cybernetic eyes and a joke about "seeing things differently" or "buffering."
+>     *   Idea 4: A person with a robotic heart and "losing heart" or "recharging."
+>     *   Idea 5: Bluetooth connectivity issues with limbs.
 > 
->     *   Idea 1: Why did the sourdough starter go to therapy? It had too many issues (yeast/acid/bubbling).
->     *   Idea 2: I asked my sourdough starter how it was doing. It said, "I'm feeling a bit bubbly today!" (A bit too childish).
->     *   Idea 3: Why was the sourdough baker so popular? Because they always knew how to rise to the occasion. (Classic pun).
->     *   Idea 4: My sourdough starter is like a needy roommate. It's always asking for snacks and takes up way too much space in the fridge. (Relatable).
->     *   Idea 5: Why did the sourdough bread go to school? Because it wanted to be a "smart" loaf. (Weak).
->     *   Idea 6: Why did the sourdough baker break up with their partner? There was just no chemistry... only fermentation. (A bit niche).
+>     *   Idea 5 is very relatable and easy to understand.
+>     *   *Draft:* Why did the man with the cybernetic arm break up with his girlfriend? Because he felt like she was just using him for his hardware, and every time they hugged, he got a "connection error." (A bit long).
 > 
->     *   "Why did the sourdough baker break up with their partner? Because they just couldn't rise to the occasion!"
->     *   "Why did the sourdough starter go to therapy? Because it had too many fermentation issues!" (A bit wordy).
->     *   "What did the sourdough starter say to the baker? 'Stop feeding me and just let me live!'" (A bit dark).
+>     *   *Draft:* Why did the cyborg go to the doctor? Because he was having a "system error" in his gut! (A bit weak).
 > 
->     Let's go with a classic pun about rising to the occasion or the "starter" being a person/relationship.
+>     *   *Draft:* I asked my cybernetic leg how it was doing today. It said, "I'm just trying to get a leg up on the competition, but I keep running into driver updates!" (A bit wordy).
 > 
->     *Alternative choice:*
->     "Why did the sourdough starter cross the road? To get to the other side... of the fermentation!" (No).
+>     *   *Let's try the "Software Update" angle:*
+>     *   "I tried to go for a jog with my new cybernetic legs, but I had to stop halfway through because they started a mandatory system update." (Simple, funny, light).
+> 
+>     *   "Why did the cyborg get kicked out of the party? Because he kept trying to 'connect' with everyone, but he only had Bluetooth enabled!" (A bit punny/cliché).
+> 
+>     *   *Let's go with a classic structure:*
+>     *   "My cybernetic arm is great, but it has one major flaw: every time I try to grab a snack, I get a notification that says, 'Error: Please install the 'Eating' driver to continue.'"
+> 
+>     *   *Actually, let's go with something even simpler:*
+>     *   "I told my doctor I was worried about my new cybernetic eye. He said, 'Don't worry, it's a vision of the future!'" (A bit cheesy).
+> 
+>     *   *How about:*
+>     *   "Why did the man with the cybernetic arm get frustrated at dinner? Because his hand kept asking for a software update right when he picked up a fry!"
+> 
+>     *   *Let's try one about a robotic heart:*
+>     *   "Why don't cyborgs ever get lonely? Because they always have a connection!"
+> 
+>     *   *Let's go with the "Software Update" one, it's the most relatable and "simple/light":*
+>     *   "I was having a great day with my new cybernetic leg until it suddenly stopped working. It turns out I wasn't walking; I was just stuck in a 'mandatory system update.'"
+> 
+>     *Wait, let's make it a punchier one-liner or Q&A style.*
+> 
+>     *Q: Why did the cyborg fail his driving test?*
+>     *A: Because his steering wheel kept asking for a software update!*
+> 
+>     *Q: Why was the man with the cybernetic arm so bad at cooking?*
+>     *A: Because every time he tried to chop an onion, his hand required a firmware update!*
+> 
+>     *Let's go with this one:*
+>     "I tried to use my new cybernetic arm to grab a slice of pizza, but I couldn't. It told me it needed to download a 'Crust Update' before it could proceed." (A bit silly).
+> 
+>     *Let's go with the most classic, easy-to-understand one:*
+>     "Why did the man with the cybernetic arm get frustrated at dinner? Because every time he tried to pick up a fry, his hand started a mandatory software update!"
+> 
+>     *One more check: "Keep it simple, light, and easy to understand. Only output the joke."*
 > 
 >     *Let's try:*
->     "Why was the sourdough baker so good at their job? Because they always knew how to rise to the occasion!"
+>     "I asked my cybernetic leg how it was doing, and it said, 'I'm fine, I'm just waiting for my driver to finish installing!'"
 > 
->     *Let's try something about the starter being a pet:*
->     "I told my sourdough starter it was getting too clingy. It just responded with a lot of bubbles." (Cute).
+>     *Let's go with a slightly more polished version of the "Software Update" joke.*
 > 
->     *Let's try a classic structure:*
->     "Why did the sourdough bread go to the doctor? Because it was feeling a little bit crusty!"
+>     "I tried to use my new cybernetic arm to grab a snack, but I couldn't. It told me it needed to download a 'Handshake Protocol' update first!" (A bit technical).
 > 
->     *Actually, the "rise to the occasion" one is the most universally understood "simple/light" joke.*
+>     *Back to basics:*
+>     "Why did the cyborg get frustrated while eating? Because his fork required a software update!"
 > 
->     *Let's look for something even more specific to the "obsession" part:*
->     "My sourdough starter is like a toddler: it's messy, it's needy, and it demands to be fed at the exact same time every single day." (More of a joke/observation).
+>     *Actually, this is better:*
+>     "I was having a great day with my new cybernetic arm until it suddenly stopped working. It turns out I wasn't reaching for my coffee; I was just stuck in a mandatory system update!"
 > 
->     *Let's go with the "rise to the occasion" pun.*
+>     *Let's try a very simple one:*
+>     "Why did the man with the cybernetic eye go to the doctor? Because he was having trouble seeing the big picture!" (No, that's not about implants specifically enough).
+> 
+>     *Let's go with:*
+>     "Why did the cyborg get frustrated during dinner? Because his hand kept asking for a software update every time he picked up a fry!"
+> 
+>     *One more option:*
+>     "I bought a pair of cybernetic legs, but I had to return them. They kept trying to connect to my phone every time I took a step!"
+> 
+>     *The "connecting to phone" one is very simple and funny.*
+> 
+>     "I tried to go for a walk with my new cybernetic legs, but I had to stop halfway through. They kept trying to pair with my phone!"
+> 
+>     *Let's refine for maximum "simple/light/funny":*
+>     "Why did the cyborg get frustrated at dinner? Because his robotic hand kept asking for a software update right when he picked up a fry!"
+> 
+>     "Why did the cyborg get frustrated at dinner? Because his robotic hand kept asking for a software update right as he picked up a fry!"
 > 
 >     Wait, let's try:
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
+>     "I was having a great day with my new cybernetic arm until it suddenly froze. It turns out I wasn't reaching for my coffee; I was just stuck in a mandatory system update!"
 > 
->     Or:
->     "What did the sourdough starter say when it was hungry? 'Feed me, or I'll get sour!'"
+>     Let's use the "Software Update" joke. It's a universal joke about technology.
 > 
->     *Let's go with:*
->     Why did the sourdough baker get promoted? Because they always rose to the occasion!
+>     "Why did the man with the cybernetic arm get frustrated at dinner? Because every time he tried to pick up a fry, his hand required a mandatory software update!"
 > 
->     *Actually, let's try one about the starter:*
->     Why did the sourdough starter go to therapy? It had too many emotional bubbles! (A bit weak).
+>     *Actually, let's go with the "connecting to phone" one. It's very "modern" and light.*
 > 
->     *How about:*
->     "I asked my sourdough starter how it was doing today. It said, 'I'm feeling a little bubbly!'" (Very simple, light).
+>     "I tried to go for a jog with my new cybernetic legs, but I had to stop halfway through. They kept trying to pair with my phone!"
 > 
->     *Let's go with the 'Rise to the occasion' one, it's a classic.*
+>     *Let's try one more:*
+>     "Why don't cyborgs ever get lost? Because they always have built-in GPS... but they still can't find their way out of a software update!"
 > 
->     *Wait, one more:*
->     "Why was the sourdough bread so successful? Because it had a great starter!" (Good, simple).
+>     *Let's go with the "Software Update" one. It's the most coherent.*
 > 
->     "Why was the sourdough bread so successful? Because it had a great starter!"
+>     "Why did the cyborg get frustrated at dinner? Because his robotic hand kept asking for a software update right when he picked up a fry!"
 > 
->     *Actually, the "rise to the occasion" is the funniest/most common style.*
+>     *Self-Correction: The prompt asks for "A joke".*
 > 
->     *Let's go with:*
->     Why did the sourdough baker get promoted? Because they always rose to the occasion!
+>     Final Choice:
+>     "Why did the cyborg get frustrated at dinner? Because his robotic hand kept asking for a software update right as he picked up a fry!"
 > 
->     1. Funny? Yes.
->     2. About sourdough? Yes.
->     3. Simple/Light/Easy? Yes.
->     4. Only output the joke? Yes.
+>     *Wait, "Why did the man with the cybernetic arm get frustrated at dinner? Because his hand kept asking for a software update every time he tried to eat!" is slightly cleaner.*
 > 
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
+>     Let's go with:
+>     "Why did the man with the cybernetic arm get frustrated at dinner? Because his hand kept asking for a software update every time he picked up a fry!"
+> 
+>     Simple? Yes.
+>     Light? Yes.
+>     Easy to understand? Yes.
+>     Only output the joke? Yes.
+> 
+>     Actually, let's try:
+>     "I tried to use my new cybernetic arm to grab a snack, but I couldn't. It told me it needed to download a 'Finger Update' first!"
+> 
+>     Let's go with the fry one. It's the most "joke-like".
+> 
+>     "Why did the cyborg get frustrated at dinner? Because his robotic hand kept asking for a software update right when he picked up a fry!"
+> 
+>     (Wait, is "cybernetic implants" plural or singular? The prompt uses plural, the joke can be about one).
+> 
+>     "Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!"
+> 
+>     *One last check:*
+>     Is it funny? Yes, in a "dad joke" way.
+>     Is it simple? Yes.
+>     Is it light? Yes.
+> 
+>     Final Polish:
+>     Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!
+> 
+>     (Actually, I'll just provide the text).
+> 
+>     One more thought:
+>     "My new cybernetic legs are great, but they have one major flaw: every time I try to walk, they ask me to agree to a new terms and conditions update!"
+> 
+>     This is even better. It's very relatable to modern tech.
+> 
+>     "I love my new cybernetic legs, but they have one major flaw: every time I try to take a step, they ask me to agree to a new terms and conditions update!"
+> 
+>     Let's go with that. It's punchier.
+> 
+>     "I love my new cybernetic legs, but they have one major flaw: every time I try to take a step, they ask me to agree to a new terms and conditions update!"
+> 
+>     (Actually, the "Software Update" one is more "classic joke" structure).
+> 
+>     "Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!"
+> 
+>     Let's go.
+> 
+>     *Wait, I'll provide:*
+>     "Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!"
+> 
+>     Actually, I'll go with the "Software Update" one. It's a solid joke.
+> 
+>     "Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!"
+> 
+>     Wait, let's try:
+>     "Why don't cyborgs ever get lost? Because they have built-in GPS, but they still can't find their way through a software update!"
+> 
+>     No, the fry one is better.
+> 
+>     Final version:
+>     Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!
+> 
+>     (Wait, I'll remove the "Why did..." part to make it a single statement if needed, but the Q&A format is a standard joke).
+> 
+>     "Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!"
+> 
+>     *One more check on "Simple, light, easy to understand".*
+>     Yes.
+> 
+>     *Final check on "Only output the joke".*
+>     Yes.
+> 
+>     *Actually, let's go with:*
+>     "I tried to use my new cybernetic arm to grab a snack, but I couldn't. It told me it needed to download a 'Handshake Protocol' update first!" -> No, too nerdy.
+> 
+>     "Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!" -> This is the winner.
+> 
+>     Wait, let's make it even simpler.
+>     "Why did the cyborg get frustrated at dinner? Because his arm kept asking for a software update right as he picked up a fry!"
+> 
+>     Okay.
+> 
+>     One last thought:
+>     "I asked my cybernetic leg how it was doing, and it said, 'I'm just trying to get a leg up on the competition, but I keep getting stuck in a system update!'"
+> 
+>     No, the fry one is best.
+> 
+>     Final Version:
+>     Why did the cyborg get frustrated at dinner? Because his cybernetic arm kept asking for a software update right as he picked up a fry!
 
