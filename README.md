@@ -1,128 +1,85 @@
 # Joke of the day: 
-What do you call a knight who loves to cook meat? 
-
-A Sir-loin!
+A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He'll only decide which one he wants once the bartender observes him.
 
 ## Topic
-<!--TOPIC-->Medieval Cooking<!--/TOPIC-->
+<!--TOPIC-->Quantum Computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|26|
-|**Candidates Token Count**|19|
-|**Total Token Count**|1519|
-|**Thoughts Token Count**|1474|
+|**Candidates Token Count**|38|
+|**Total Token Count**|1195|
+|**Thoughts Token Count**|1131|
 
 ## Thoughts: 
-> *   Topic: Medieval Cooking.
+> *   Topic: Quantum Computing.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Medieval themes: Knights, dragons, castles, peasants, plague, spices (expensive), meat (roasts), iron pots, fire.
->     *   Cooking elements: Stew, bread, ale, seasoning.
+>     *   *Idea 1 (Schrödinger's Cat):* A physicist walks into a bar... wait, is the bar there or not?
+>     *   *Idea 2 (Superposition):* Why did the quantum computer break up with the classical computer? Because it felt like they weren't in the same state anymore.
+>     *   *Idea 3 (Superposition/Complexity):* A quantum physicist walks into a bar. He orders a drink, but he's also not ordering a drink until the bartender looks at him.
+>     *   *Idea 4 (The Classic):* Why can't you trust a quantum computer? Because it's always in two states at once—it's both right and wrong until you check the answer!
 > 
->     *   Idea 1: Why did the knight refuse to eat the medieval stew? Because it was "knight-mare" fuel. (A bit weak).
->     *   Idea 2: What do you call a medieval chef who specializes in dragon meat? A "flame-broiler." (A bit cheesy).
->     *   Idea 3: Why was the medieval cook so good at his job? He always had a "knight" snack. (Meh).
->     *   Idea 4: Why did the king's chef get thrown in the dungeon? He kept adding too much "salt" to the royal stew, but it was actually just the seasoning being more expensive than gold. (Too long).
->     *   Idea 5: Why did the medieval peasant refuse to cook with the dragon? Because it was too "spicy"! (Simple, light).
->     *   Idea 6: Why was the medieval soup so expensive? Because it had too much "knight" life in it? (No).
->     *   Idea 7: Why did the knight bring a ladder to the banquet? Because he heard the food was on the house! (Classic, but not specifically *cooking*).
->     *   Idea 8: What was the medieval chef's favorite way to cook meat? On a "knight" stand! (A bit of a stretch).
+>     *   *Option A:* A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He only decides which one he wants once the bartender looks at him. (A bit wordy).
+>     *   *Option B:* Why did the quantum physicist cross the road? Because they were in a superposition of being on both sides at once. (Simple, classic joke structure).
+>     *   *Option C:* Why can't you trust a quantum computer? Because it’s always in two states at once: it's both right and wrong until you check the answer! (Good, but maybe a bit "dad joke" style).
 > 
->     *   How about a joke about spices? Spices were very expensive in the Middle Ages.
->     *   "Why did the medieval chef get in trouble for using too much pepper? Because it was worth more than the castle!" (A bit dry).
+>     Let's go with a variation of the "ordering a drink" or the "superposition" joke.
 > 
->     *   Let's try a pun on "knight" or "stew" or "knight-mare".
->     *   "Why did the knight refuse to eat the medieval stew? Because he heard it was a total knight-mare!"
+>     *Revised Idea:*
+>     A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He'll only decide which one he wants once the bartender observes him.
 > 
->     *   Let's try something about a dragon.
->     *   "What is a dragon's favorite medieval dish? Fire-roasted anything!"
+>     *Let's try an even simpler one:*
+>     Why did the quantum computer break up with the classical computer?
+>     Because it felt like their relationship was in a superposition—it was both great and terrible at the same time until they actually talked about it! (A bit complex).
 > 
->     *   Let's try a joke about the lack of hygiene/modern tools.
->     *   "Why did the medieval cook always carry a sword? In case the stew started a revolution!" (A bit dark).
+>     *Let's go with the most iconic one:*
+>     A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He only decides which one he wants once the bartender looks at him.
 > 
->     *   Let's try: "Why did the knight bring a shield to dinner? Because he heard the chef was serving 'slaying' food!" (Cute, simple).
+>     *Wait, let's try a shorter one:*
+>     Why are quantum computers so bad at keeping secrets?
+>     Because as soon as you look at them, they change!
 > 
->     *   Wait, let's go with a classic "Why did..." structure.
->     *   "Why did the medieval chef refuse to cook for the dragon? Because he didn't want to get burned!" (Simple, light, easy).
+>     *Let's go with the "Superposition" joke regarding the physicist walking into a bar/club:*
+>     A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He only decides which one he wants once the bartender observes him.
 > 
->     *   Actually, let's go with:
->     *   "Why did the knight bring a sword to the feast? Because he heard the food was to die for!"
+>     *Actually, let's use this one:*
+>     Why can't you ever trust a quantum computer?
+>     Because it's always in two states at once: it's both right and wrong until you check the answer!
 > 
->     *   Let's try one more:
->     *   "What do you call a medieval chef who only cooks for royalty? A King-size cook!" (No).
+>     *Let's try one more:*
+>     A quantum physicist walks into a bar. He orders a drink, but he's also not ordering a drink. He'll decide once the bartender looks at him.
 > 
->     *   Let's go with the "knight-mare" one, it's a classic pun.
->     *   "Why did the knight refuse to eat the medieval stew? Because he heard it was a total knight-mare!"
+>     *Actually, let's go with a very simple one:*
+>     How many quantum physicists does it take to change a lightbulb?
+>     Zero. They just exist in a superposition of both having changed it and not having changed it.
 > 
->     *   Let's try something even simpler.
->     *   "Why did the medieval cook use a sword instead of a knife? Because he wanted to make sure his cuts were 'legendary'!"
+>     *Let's pick the "Bar" one, it's the most classic "funny joke" structure:*
+>     A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He’ll only decide which one he wants once the bartender observes him.
 > 
->     *   Actually, the "slaying" one is quite good.
->     *   "Why did the knight bring a shield to the banquet? Because he heard the food was absolutely slaying!"
+>     1. Funny? Yes.
+>     2. Quantum computing related? Yes (Superposition/Observation).
+>     3. Simple/Light? Yes.
+>     4. Only output the joke? Yes.
 > 
->     *   Let's try:
->     *   "Why did the medieval chef always keep a sword in the kitchen? Because he wanted to make sure his cuts were legendary!"
+>     *Alternative (Shorter):*
+>     Why did the quantum computer get kicked out of the party?
+>     Because it was in too many states at once!
 > 
->     *   Let's check the prompt again: "Funny joke about Medieval Cooking".
->     *   "Why did the medieval chef use a sword to chop vegetables? Because he wanted his cooking to be legendary!"
+>     Let's go with the "Bar" joke. It's a bit more clever.
 > 
->     *   Simple? Yes.
->     *   Light? Yes.
->     *   Easy to understand? Yes.
->     *   Only output the joke? Yes.
+>     *Wait, looking for something even punchier.*
+>     "A quantum physicist walks into a bar and orders a drink. But he also doesn't order a drink. He only decides which one he wants once the bartender looks at him."
 > 
->     "Why did the medieval chef use a sword to chop vegetables? Because he wanted his cooking to be legendary!"
+>     "A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He only decides which one he wants once the bartender observes him."
 > 
->     *Alternative:*
->     "What do you call a knight who loves to cook? A Sir-loin!" (This is very simple and funny).
+>     "A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He'll only decide which one he wants once the bartender observes him."
 > 
->     "Sir-loin" is a great pun.
+>     *Decision:* The "Bar" joke is the standard.
 > 
->     Joke: "What do you call a knight who loves to cook? A Sir-loin!"
-> 
->     Wait, is it about *cooking*? A knight who loves to cook... a Sir-loin. It's a pun on meat/knights. It fits.
-> 
->     Let's try another:
->     "Why was the medieval cook so good at his job? He always had a 'knight' snack!" (Nah).
-> 
->     Let's go with the "Sir-loin" one. It's the punchiest.
-> 
->     "What do you call a knight who loves to cook? A Sir-loin!"
-> 
->     Actually, let's try one about the stew.
->     "Why did the knight refuse to eat the medieval stew? Because it was a total knight-mare!"
-> 
->     I think "Sir-loin" is better.
-> 
->     Wait, "Sir-loin" is a type of meat. The joke is:
->     "What do you call a knight who is a great cook? A Sir-loin!"
-> 
->     Let's refine:
->     "What do you call a knight who loves to cook meat? A Sir-loin!"
-> 
->     Simple, light, easy.
-> 
->     "What do you call a knight who loves to cook meat? A Sir-loin!"
-> 
->     (Self-correction: Ensure it's just the joke).
-> 
->     One more option:
->     "Why did the medieval chef use a sword to cut the bread? Because he wanted to make sure his slices were legendary!"
-> 
->     "Sir-loin" is more clever.
-> 
->     Final Selection:
->     What do you call a knight who loves to cook meat? A Sir-loin!
-> 
->     Wait, I'll go with:
->     Why did the medieval chef use a sword to chop vegetables? Because he wanted his cooking to be legendary!
-> 
->     Actually, the "Sir-loin" one is better.
-> 
->     Final Final:
->     What do you call a knight who loves to cook meat? A Sir-loin!
+>     *Refined Joke:*
+>     A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He'll only decide which one he wants once the bartender observes him.
 
