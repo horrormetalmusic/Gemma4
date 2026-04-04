@@ -1,54 +1,61 @@
 # Joke of the day: 
-Two quantum particles walk into a bar. One says, "I'm feeling a bit spinny." 
-
-Halfway across the universe, the other one immediately responds, "Me too!"
+Why did the sourdough starter get promoted? Because it always rose to the occasion!
 
 ## Topic
-<!--TOPIC-->Quantum entanglement<!--/TOPIC-->
+<!--TOPIC-->Sourdough starters<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|39|
-|**Total Token Count**|654|
-|**Thoughts Token Count**|589|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|16|
+|**Total Token Count**|601|
+|**Thoughts Token Count**|557|
 
 ## Thoughts: 
-> *   Topic: Quantum entanglement.
+> *   Topic: Sourdough starters.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Two particles go on a date, but they are instantly connected regardless of distance.
->     *   Idea 2: A breakup joke. "We're entangled, so even if we're apart, I'll know when you're feeling up or down."
->     *   Idea 3: Relationship metaphor. "Quantum entanglement is like a relationship where you don't even have to text back to know what the other person is thinking."
->     *   Idea 4: The "spooky action at a distance" quote by Einstein.
->     *   Idea 5: Two particles getting married.
+>     *   *Idea 1 (Relationship):* My sourdough starter and I are in a committed relationship. It's getting pretty bubbly.
+>     *   *Idea 2 (Puns):* Why did the sourdough starter go to therapy? It had too many issues bubbling up.
+>     *   *Idea 3 (Commitment):* Why are sourdough starters the worst roommates? They're always hungry and they never clean up their bubbles.
+>     *   *Idea 4 (The "Rise"):* Why did the sourdough starter get promoted? Because it always rose to the occasion!
 > 
->     *   *Draft 1:* Why did the two quantum particles break up? Because they had too much baggage, and even when they were miles apart, they were still constantly reacting to each other's moods! (A bit long).
->     *   *Draft 2:* Why do quantum particles make great couples? Because no matter how much space they put between them, they’re still totally in sync! (Simple, light).
->     *   *Draft 3:* Two quantum particles walk into a bar. One says, "I'm feeling a bit spinny." The other one, halfway across the universe, immediately says, "Me too!" (Classic, easy to understand).
+>     *   Idea 4 is a classic pun, very clean, easy to understand, and lighthearted.
+>     *   Idea 2 is also good. Let's go with a variation of the "rose to the occasion" or "bubbling over" theme.
 > 
->     "Two quantum particles walk into a bar. One says, 'I'm feeling a bit spinny.' The other one, halfway across the galaxy, immediately responds, 'Me too!'"
+>     *Joke choice:*
+>     "Why did the sourdough starter get promoted? Because it always rose to the occasion!"
 > 
->     *Alternative (Short & Punchy):*
->     "Why are quantum particles so good at relationships? Because no matter how much distance is between them, they're always on the same wavelength!"
+>     *Alternative (more "relatable" to bakers):*
+>     "Why are sourdough starters so dramatic? Because they’re always bubbling over with emotion!"
 > 
->     *Let's try one more:*
->     "Why did the quantum particle break up with his partner? Because he felt like they were too 'entangled'—every time she changed her mind, he felt it instantly!"
+>     Let's go with the "rose to the occasion" one as it's a very standard, easy-to-get pun.
 > 
->     The "spinny" one is the most classic "physics joke" structure.
+>     "Why did the sourdough starter get promoted? Because it always rose to the occasion!"
 > 
->     *Revised "Spinny" joke:*
->     Two quantum particles walk into a bar. One says, "I'm feeling a bit spinny." 
+>     *   Funny? Yes (pun).
+>     *   About sourdough starters? Yes.
+>     *   Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     Halfway across the universe, the other one says, "Me too!"
+>     Wait, let's try one more:
+>     "What did the sourdough starter say to the baker? 'Stop feeding me, I'm already bubbling over!'" -> A bit weak.
 > 
->     "Two quantum particles walk into a bar. One says, 'I'm feeling a bit spinny.' Halfway across the universe, the other one immediately responds, 'Me too!'"
+>     Let's stick to: "Why did the sourdough starter get promoted? Because it always rose to the occasion!"
 > 
->     - Funny? Yes.
->     - Quantum entanglement? Yes.
->     - Simple/Light/Easy? Yes.
->     - Only output the joke? Yes.
+>     Actually, a slightly more "clever" one:
+>     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was just getting too bubbly." -> A bit long.
+> 
+>     Let's go with the "rose to the occasion" one. It's the safest and most "joke-like."
+> 
+>     *Refined Joke:*
+>     Why did the sourdough starter get promoted? 
+> 
+>     Because it always rose to the occasion!
+> 
+>     *Final Polish:*
+>     Why did the sourdough starter get promoted? Because it always rose to the occasion!
 
