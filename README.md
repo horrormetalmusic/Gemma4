@@ -1,48 +1,52 @@
 # Joke of the day: 
-Heisenberg is driving down the highway when he gets pulled over by a police officer.
+Why did the baker go to the bank?
 
-The officer asks, "Sir, do you know how fast you were going?"
-
-Heisenberg replies, "No, but I know exactly where I am!"
+Because he kneaded some dough!
 
 ## Topic
-<!--TOPIC-->Quantum Physics<!--/TOPIC-->
+<!--TOPIC-->Baking Bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|50|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|17|
 |**Total Token Count**|482|
-|**Thoughts Token Count**|406|
+|**Thoughts Token Count**|438|
 
 ## Thoughts: 
-> *   Topic: Quantum Physics.
+> *   Topic: Baking Bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's Cat (dead/alive).
->     *   Uncertainty Principle (Heisenberg - position vs. momentum).
->     *   Entanglement (Spooky action at a distance).
->     *   Superposition (Being in two states at once).
+>     *   Idea 1: Yeast/Rising. "Why did the bread go to the doctor? It was feeling crumby." (A bit cliché).
+>     *   Idea 2: Dough/Money. "Why was the baker so rich? Because he kneaded the dough." (Classic).
+>     *   Idea 3: Loaf/Alone. "What did the loaf of bread say to the other? You're my loaf and only one." (A bit cheesy/punny).
+>     *   Idea 4: Yeast/Rising. "Why did the loaf of bread go to the gym? To get some rolls." (Good).
+>     *   Idea 5: Yeast/Rising. "I'm on a roll!"
 > 
->     *   *Idea 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't. (A bit cliché).
->     *   *Idea 2 (Heisenberg):* Heisenberg is driving, a cop pulls him over. Cop: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!" (Classic).
->     *   *Idea 3 (Schrödinger/Cat):* Schrödinger's cat is having a mid-life crisis. He doesn't know if he's alive or dead. (A bit dark/weird).
+>     "Why did the baker go to the bank? Because he kneaded some dough!"
 > 
->     *   The Heisenberg/Police joke is very popular and fits the "simple, light, easy to understand" criteria perfectly for a general audience.
+>     *   Is it about baking bread? Yes.
+>     *   Is it funny/light? Yes.
+>     *   Is it simple? Yes.
+>     *   Is it only the joke? Yes.
 > 
->     *   *Draft:* Heisenberg is speeding down the highway when a police officer pulls him over. The officer asks, "Sir, do you know how fast you were going?" Heisenberg replies, "No, but I know exactly where I am!"
+>     Let's try another one to see if there's a better one.
+>     "What did the bread say when it was feeling sad? 'Everything is crumby!'"
 > 
->     *   Funny? Yes.
->     *   Quantum Physics related? Yes (Uncertainty Principle).
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
+>     Let's go with the "kneaded some dough" one, it's a classic bread pun.
 > 
->     Heisenberg is driving down the highway when he gets pulled over by a police officer.
+>     *Wait, let's try one about yeast.*
+>     "Why did the bread go to the doctor? Because it was feeling crumby!"
 > 
->     The officer asks, "Sir, do you know how fast you were going?"
+>     Actually, the "kneaded dough" one is very standard.
 > 
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     Let's try: "What did the loaf of bread say to the butter? You're on a roll!"
+> 
+>     Let's go with:
+>     "Why did the baker go to the bank? Because he kneaded some dough!"
+> 
+>     "Why did the baker go to the bank? Because he kneaded some dough!"
 
