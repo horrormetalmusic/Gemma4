@@ -1,39 +1,48 @@
 # Joke of the day: 
-Why did the sourdough bread get promoted?
+Heisenberg is driving down the highway when he gets pulled over by a police officer.
 
-Because it always rose to the occasion!
+The officer asks, "Sir, do you know how fast you were going?"
+
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Baking Sourdough Bread<!--/TOPIC-->
+<!--TOPIC-->Quantum Physics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|30|
-|**Candidates Token Count**|17|
-|**Total Token Count**|322|
-|**Thoughts Token Count**|275|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|50|
+|**Total Token Count**|482|
+|**Thoughts Token Count**|406|
 
 ## Thoughts: 
-> *   Topic: Baking Sourdough Bread.
+> *   Topic: Quantum Physics.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Starter/Levain. "Why did the sourdough starter go to therapy? Because it had too many issues (yeast/issues)." (A bit cliché).
->     *   Idea 2: Bubbles/Fermentation.
->     *   Idea 3: Relationships with the starter. "My sourdough starter is like a needy roommate. It needs constant attention and always wants more food."
->     *   Idea 4: Pun on "dough." "I'm on a roll." (Too generic).
->     *   Idea 5: The "rise" of sourdough. "Why was the sourdough bread so successful? It always rose to the occasion." (Classic, simple, fits the prompt).
+>     *   Schrödinger's Cat (dead/alive).
+>     *   Uncertainty Principle (Heisenberg - position vs. momentum).
+>     *   Entanglement (Spooky action at a distance).
+>     *   Superposition (Being in two states at once).
 > 
->     *   "Why did the sourdough bread get promoted? Because it always rose to the occasion!"
+>     *   *Idea 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't. (A bit cliché).
+>     *   *Idea 2 (Heisenberg):* Heisenberg is driving, a cop pulls him over. Cop: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!" (Classic).
+>     *   *Idea 3 (Schrödinger/Cat):* Schrödinger's cat is having a mid-life crisis. He doesn't know if he's alive or dead. (A bit dark/weird).
 > 
->     *   Topic: Sourdough? Yes.
->     *   Funny? Yes (punny).
+>     *   The Heisenberg/Police joke is very popular and fits the "simple, light, easy to understand" criteria perfectly for a general audience.
+> 
+>     *   *Draft:* Heisenberg is speeding down the highway when a police officer pulls him over. The officer asks, "Sir, do you know how fast you were going?" Heisenberg replies, "No, but I know exactly where I am!"
+> 
+>     *   Funny? Yes.
+>     *   Quantum Physics related? Yes (Uncertainty Principle).
 >     *   Simple/Light? Yes.
 >     *   Only output the joke? Yes.
 > 
->     Why did the sourdough bread get promoted? 
+>     Heisenberg is driving down the highway when he gets pulled over by a police officer.
 > 
->     Because it always rose to the occasion!
+>     The officer asks, "Sir, do you know how fast you were going?"
+> 
+>     Heisenberg replies, "No, but I know exactly where I am!"
 
