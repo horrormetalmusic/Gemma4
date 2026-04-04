@@ -1,105 +1,107 @@
 # Joke of the day: 
-Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover.
+Why did the sourdough baker go to therapy?
+
+Because they had too many kneady issues.
 
 ## Topic
-<!--TOPIC-->Quantum entanglement<!--/TOPIC-->
+<!--TOPIC-->Gourmet sourdough baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|21|
-|**Total Token Count**|1240|
-|**Thoughts Token Count**|1193|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|19|
+|**Total Token Count**|1070|
+|**Thoughts Token Count**|1022|
 
 ## Thoughts: 
-> *   Topic: Quantum entanglement.
+> *   Topic: Gourmet sourdough baking.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Concept: Two particles are linked; change one, and the other changes instantly regardless of distance.
->     *   Analogy ideas:
->         *   Relationships/Couples (it's complicated).
->         *   Spooky action at a distance (Einstein).
->         *   Twins/Symmetry.
->         *   Social distancing.
+>     *   Starter (feeding, names, life of its own).
+>     *   Hydration (too wet, too sticky).
+>     *   Fermentation (proofing, timing).
+>     *   Scoring (artistic patterns).
+>     *   Crust/Crumb (open crumb, ear).
+>     *   Obsession (checking the dough, smelling it).
 > 
->     *   *Option 1:* Why did the quantum physicist break up with the electron? Because they were too entangled. (A bit cliché).
->     *   *Option 2:* Two quantum particles walk into a bar. One says, "I'll have a beer." The other instantly says, "Me too!" even though it hasn't looked at the menu yet. (A bit wordy).
->     *   *Option 3:* Why don't quantum particles ever need long-distance relationships? Because even when they're apart, they're still totally in sync! (A bit cheesy).
->     *   *Option 4 (Classic setup):* Two quantum particles are having an argument. One yells, "I'm leaving!" and the other immediately says, "Wait, I feel that too!"
+>     *   *Idea 1:* Why did the sourdough baker break up with their partner? Because they just needed more space to rise. (A bit cliché).
+>     *   *Idea 2:* My sourdough starter is like a toddler. It’s needy, makes a mess, and I have to feed it every day or it gets cranky. (More of an observation).
+>     *   *Idea 3:* What's a sourdough baker's favorite type of music? Anything with a good *rise*. (A bit weak).
+>     *   *Idea 4:* Why did the gourmet sourdough baker go to therapy? Because they had too many "kneady" issues. (Classic pun).
 > 
->     "Why did the quantum physicist break up with their partner? Because they felt too much 'spooky action at a distance' and just couldn't find any personal space!" -> A bit weak.
+>     *   "Why did the gourmet sourdough baker go to therapy? Because they had too many kneady issues."
+>     *   Is it simple? Yes.
+>     *   Is it light? Yes.
+>     *   Is it about gourmet sourdough? Yes (the pun works for baking in general, but sourdough is the ultimate "kneady" dough).
 > 
->     Let's try a classic one-liner/dialogue style.
+>     Let's try one more specific to sourdough:
+>     "Why do sourdough bakers make such great partners? Because they’re always willing to rise to the occasion!"
 > 
->     "Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover."
+>     Let's try another:
+>     "I asked my sourdough starter how it was doing. It said, 'I'm feeling a bit bubbly today!'"
 > 
->     "Why are quantum particles so good at relationships? Because even when they’re miles apart, they’re always on the same wavelength."
+>     Let's go with the "kneady" one or the "rise to the occasion" one. The "kneady" pun is the most standard joke structure.
 > 
->     Actually, let's go with the "ordering a drink" or "argument" angle.
+>     Actually, let's go with something about the starter being a "commitment."
+>     "Why did the sourdough baker get rejected on a first date? They showed up with a starter and expected a lifelong commitment."
 > 
->     *Drafting the winner:*
->     "Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover."
+>     Wait, let's keep it *really* simple as requested.
 > 
->     *Wait, let's try one more:*
->     "Why did the quantum particles get married? Because they were perfectly in sync, even when they were worlds apart!"
+>     *Joke:* Why did the sourdough baker go to therapy? Because they had too many kneady issues.
 > 
->     *Let's go with a classic "Spooky action" joke:*
->     "Why don't quantum particles ever need long-distance relationships? Because no matter how far apart they are, if one feels a vibe, the other one feels it too!"
+>     *Alternative:* What did the sourdough baker say to their starter? "Don't worry, I'll always be there to feed you." (Not really a joke).
 > 
->     *Let's try a very short one:*
->     "Two quantum particles walk into a bar. One orders a beer, and the other instantly gets a hangover."
+>     *Let's go with:*
+>     Why did the gourmet sourdough baker go to therapy? 
+>     Because they had too many kneady issues.
 > 
->     "Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover."
+>     *Wait, even better:*
+>     Why do sourdough bakers make such good friends?
+>     Because they always rise to the occasion!
 > 
->     Simple? Yes.
->     Light? Yes.
->     Easy to understand? Yes.
->     Only output the joke? Yes.
+>     Let's go with the "kneady" one. It's a classic.
 > 
->     *Alternative (more punchy):*
->     "Why did the quantum particle break up with its partner? Because the relationship was getting too entangled!" (A bit too simple).
+>     "Why did the sourdough baker go to therapy? Because they had too many kneady issues."
 > 
->     *Let's go with the hangover one. It's a classic physics joke structure.*
+>     *Self-Correction:* The prompt asks for "Gourmet sourdough baking".
+>     Let's try:
+>     Why was the sourdough baker so stressed?
+>     Because they were going through a mid-loaf crisis.
 > 
->     Wait, another one:
->     "A quantum physicist is explaining entanglement to a friend. The friend asks, 'So, if I change one, the other changes too?' The physicist replies, 'Exactly. It’s like having a spouse who knows exactly what you’re thinking, even when you're in a different room!'" (Too long).
+>     Let's stick to the "kneady" one. It's the most recognizable pun.
 > 
->     *Let's stick to the bar joke.*
+>     "Why did the sourdough baker go to therapy? Because they had too many kneady issues."
 > 
->     "Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover."
+>     *Wait, one more:*
+>     How does a sourdough baker stay in shape?
+>     By doing lots of daily rises!
 > 
->     Actually, let's try:
->     "Why are quantum particles so good at long-distance relationships? Because even when they’re miles apart, they’re always perfectly in sync!"
+>     Let's use the "kneady" one. It's punchy.
 > 
->     Let's go with the "hangover" one. It's a bit funnier.
+>     *Double check constraints:* Only output the joke.
 > 
->     *Refining the hangover joke:*
->     "Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover."
+>     Final Choice:
+>     Why did the sourdough baker go to therapy?
+>     Because they had too many kneady issues.
 > 
->     Actually, the most "joke-like" simple one:
->     "Why did the quantum particle break up with its partner? Because they were feeling a little too much 'spooky action at a distance'!"
-> 
->     Let's go with:
->     "Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover."
-> 
->     *Self-Correction:* Is it easy to understand? Yes. Is it funny? Yes.
-> 
->     Let's try one more:
->     "What did one entangled particle say to the other? 'Stop following me! I'm not even there!'" (A bit confusing).
-> 
->     Final choice:
->     "Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover."
-> 
->     (Wait, technically, it's about state change. If one is "up", the other is "down". So the hangover joke is a metaphorical way of saying "if one changes state, the other is affected").
+>     Actually, let's try to make it more "gourmet" specific.
+>     "Why did the gourmet sourdough baker break up with their partner? They just weren't feeling enough fermentation in the relationship." (A bit complex).
 > 
 >     Let's go with:
->     "Why do quantum particles make great couples? Because even when they're miles apart, they're always in sync!"
+>     Why did the sourdough baker go to therapy?
+>     Because they had too many kneady issues.
 > 
->     Actually, the "hangover" one is the standard "physics joke" version of this.
+>     (Simple, light, easy).
 > 
->     Let's provide:
->     Two quantum particles walk into a bar. One orders a drink, and the other instantly gets a hangover.
+>     One more option:
+>     What is a sourdough baker's favorite type of social media?
+>     Insta-gram! (No, that's not about baking).
+> 
+>     Let's go with the "kneady" pun. It's the winner.
+> 
+>     *Drafting the final response:*
+>     Why did the sourdough baker go to therapy? Because they had too many kneady issues.
 
