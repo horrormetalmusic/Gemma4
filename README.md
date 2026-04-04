@@ -1,87 +1,89 @@
 # Joke of the day: 
-Why was the bioluminescent jellyfish so popular at parties? Because he always knew how to light up the room!
+Why did the trebuchet go to school?
+
+To work on its counter-arguments!
 
 ## Topic
-<!--TOPIC-->Deep Sea Bioluminescence<!--/TOPIC-->
+<!--TOPIC-->Medieval Siege Engines<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|22|
-|**Total Token Count**|963|
-|**Thoughts Token Count**|913|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|19|
+|**Total Token Count**|1019|
+|**Thoughts Token Count**|973|
 
 ## Thoughts: 
-> *   Topic: Deep Sea Bioluminescence.
+> *   Topic: Medieval Siege Engines.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Bioluminescence (glow in the dark, light, bright, lure, anglerfish).
->     *   Deep sea (darkness, pressure, abyss, ocean).
->     *   Keywords: Light, bright, glow, dark, eyes, fish.
+>     *   Catapult: Launching things, "cat" pun, overshooting.
+>     *   Trebuchet: Counterweight, "treb" pun, heavy stuff.
+>     *   Battering Ram: Headbutting, rams/sheep.
+>     *   Ballista: Large crossbow, "bolt".
+>     *   Siege Tower: Moving, stairs.
 > 
->     *   *Idea 1:* Why did the anglerfish go to school? To improve his "bright" future. (A bit cliché).
->     *   *Idea 2:* Why don't deep sea creatures ever get lost? Because they always have a "light" at the end of the tunnel. (A bit long).
->     *   *Idea 3:* Why was the bioluminescent jellyfish so popular at parties? Because he was the life of the "light"! (Okay).
->     *   *Idea 4:* What did the deep sea fish say to its glowing friend? "You're looking very bright today!" (Simple).
->     *   *Idea 5:* Why did the deep sea creature bring a flashlight to the party? Because he wanted to be the "light" of the dance floor. (A bit wordy).
->     *   *Idea 6:* Why was the anglerfish so good at making friends? Because he was so "enlightening"!
+>     *   *Idea 1 (Catapult):* Why did the catapult break up with the castle? Because it just needed some space... to launch things. (A bit weak).
+>     *   *Idea 2 (Trebuchet):* Why was the trebuchet so good at math? Because it was great at throwing out long equations? (Too complex).
+>     *   *Idea 3 (Trebuchet):* Why did the trebuchet go to therapy? It had too much baggage (the counterweight). (Okay).
+>     *   *Idea 4 (Battering Ram):* Why don't siege engines ever get lost? Because they always follow the battering ram. (Weak).
+>     *   *Idea 5 (Catapult):* Why was the catapult so popular at parties? Because it always knew how to launch a conversation! (Good, simple, light).
+>     *   *Idea 6 (Trebuchet/Catapult pun):* Why did the knight bring a catapult to the party? He wanted to launch his social life! (Similar to Idea 5).
 > 
->     *   *Selection:* Why did the deep sea fish go to school? To improve its bright future! (Wait, let's try something even punchier).
->     *   *Selection:* Why did the anglerfish get a promotion? Because he was a real bright spark!
->     *   *Selection:* Why was the bioluminescent jellyfish such a good student? Because he was so bright!
+>     *   "Why was the catapult such a great conversationalist? Because it always knew how to launch a topic!"
+>     *   "Why did the trebuchet go to school? To improve its counter-arguments!" (A bit more clever/punny).
 > 
->     *Let's go with a classic pun format.*
+>     Let's go with the "launch a conversation" one or something about a Trebuchet.
 > 
->     "Why did the deep sea fish get such good grades? Because he was so bright!"
+>     *Option A:* Why was the catapult so good at making friends? Because it always knew how to launch a conversation!
+>     *Option B:* Why did the trebuchet go to school? To work on its counter-arguments!
 > 
->     *Or even better:*
->     "Why are bioluminescent creatures so good at parties? Because they really know how to light up the room!"
+>     Option B is a bit more "smart-funny." Option A is "simple-funny." The prompt asks for "simple, light, and easy to understand."
 > 
->     *Let's try one about an anglerfish:*
->     "Why did the anglerfish bring a light to the party? Because he wanted to be the life of the light!" (A bit weird).
+>     Let's try one more:
+>     "Why did the siege engine get promoted? Because it was outstanding in its field... of battle!" (A bit cliché).
 > 
->     *Let's go with the "bright" pun, it's the most accessible.*
+>     Let's go with the Trebuchet one. It's a classic pun.
 > 
->     "Why was the bioluminescent jellyfish so good at school? Because he was so bright!"
+>     *Joke:* Why did the trebuchet go to school? 
+>     To work on its counter-arguments!
 > 
->     *Actually, let's try:*
->     "Why don't deep sea creatures ever get lost in the dark? Because they always have a bright idea!"
+>     Actually, let's try a catapult one.
+>     "Why was the catapult so popular at parties? Because it always knew how to launch a conversation!"
 > 
->     *Let's stick to the most straightforward one:*
->     "Why did the deep sea fish get a promotion? Because he was a real bright spark!"
+>     Let's try a Battering Ram one.
+>     "Why was the battering ram so successful in business? Because it always knew how to break through the competition!"
 > 
->     *Let's try one more:*
->     "Why was the anglerfish so popular? Because he always knew how to light up the room!"
+>     The "counter-arguments" one is the cleverest and fits the "medieval siege engine" theme perfectly.
 > 
->     "Why was the bioluminescent jellyfish such a good student? Because he was so bright!"
+>     *Joke:* Why did the trebuchet go to school? To work on its counter-arguments!
 > 
->     Simple? Yes.
->     Light? Yes.
->     Easy to understand? Yes.
->     Topic: Bioluminescence? Yes.
->     Only output joke? Yes.
+>     Wait, let's try to make it even simpler.
+>     "Why was the catapult so good at parties? It always knew how to launch a conversation!"
 > 
->     *Alternative:*
->     "Why did the deep sea fish go to school? To improve his bright future!" (Classic).
+>     Let's go with the Trebuchet/Counter-arguments one. It's very "dad joke" style which fits "funny/light/simple".
 > 
->     Let's go with the "light up the room" one, it fits the bioluminescence theme perfectly.
+>     *Refined Joke:*
+>     Why did the trebuchet go to school? 
+>     To work on its counter-arguments!
 > 
->     "Why was the anglerfish so popular at parties? Because he always knew how to light up the room!"
+>     *Check constraints:*
+>     - Medieval Siege Engine? Yes (Trebuchet).
+>     - Funny? Yes (Dad joke style).
+>     - Simple/Light? Yes.
+>     - Only output the joke? Yes.
 > 
->     *Wait, even simpler:*
->     "Why did the bioluminescent fish go to school? Because he wanted to be bright!"
+>     One more check: Is "trebuchet" easy to understand? Most people know the word or can infer it from the context of siege engines.
 > 
->     Let's go with:
->     "Why was the bioluminescent jellyfish such a good student? Because he was so bright!"
+>     Alternative:
+>     "Why did the catapult break up with the castle? It just felt like things were being thrown around too much!" (A bit wordy).
 > 
->     Actually, the most "joke-like" structure:
->     "Why did the deep sea fish get a promotion? Because he was a real bright spark!"
+>     Let's stick to the trebuchet.
 > 
->     Let's go with:
->     "Why was the bioluminescent jellyfish so popular at parties? Because he always knew how to light up the room!"
-> 
->     "Why was the bioluminescent jellyfish so popular at parties? Because he always knew how to light up the room!"
+>     *Final Choice:*
+>     Why did the trebuchet go to school? 
+>     To work on its counter-arguments!
 
