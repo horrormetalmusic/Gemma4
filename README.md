@@ -1,46 +1,39 @@
 # Joke of the day: 
-Why did the croissant go to the doctor? 
+Why don't deep-sea explorers ever get stressed?
 
-Because it was feeling a little flaky!
+Because they know how to handle the pressure!
 
 ## Topic
-<!--TOPIC-->Pastry baking<!--/TOPIC-->
+<!--TOPIC-->Deep-sea exploration<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|19|
-|**Total Token Count**|481|
-|**Thoughts Token Count**|435|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|22|
+|**Total Token Count**|427|
+|**Thoughts Token Count**|377|
 
 ## Thoughts: 
-> *   Topic: Pastry baking.
+> *   Topic: Deep-sea exploration.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Keywords: Dough, flour, yeast, oven, croissant, tart, pie, rolling pin, whisk, batter, puff pastry.
->     *   Pun ideas:
->         *   "Dough" -> "Do" (e.g., "Dough you love me?")
->         *   "Yeast" -> "Least" (e.g., "At yeast I tried.")
->         *   "Tart" -> "Heart" (a bit weak).
->         *   "Flour" -> "Flower" (a bit cliché).
->         *   "Batter" -> "Better" (e.g., "Batter late than never.")
->         *   "Rolling" -> "Rock and roll".
+>     *   Idea 1: Something about pressure. (e.g., "Why don't deep-sea explorers get stressed? Because they know how to handle the pressure.")
+>     *   Idea 2: Something about fish/submarines. (e.g., "Why did the submarine go to the party? Because it wanted to sea everyone.")
+>     *   Idea 3: Something about the abyss/darkness.
+>     *   Idea 4: Something about a kraken/giant squid.
 > 
->     *   *Idea 1:* Why did the pastry chef go to jail? Because he was caught beating the eggs! (Classic, but maybe a bit dark/overused).
->     *   *Idea 2:* Why did the baker go to the doctor? Because he was feeling a bit crumby. (Simple, cute).
->     *   *Idea 3:* Why was the pastry so well-behaved? Because it followed all the recipes! (A bit weak).
->     *   *Idea 4:* What did the pastry say to the baker? "You knead me!" (Very simple, classic pun).
->     *   *Idea 5:* Why did the croissant go to the doctor? Because it was feeling a little flaky! (Very relevant to pastry baking).
+>     *   Joke A: Why don't deep-sea explorers ever get stressed? Because they know how to handle the pressure! (Classic, simple, fits the topic perfectly).
+>     *   Joke B: What kind of music do deep-sea explorers listen to? Something with a lot of bass! (Good, but maybe less "exploration" focused and more "ocean" focused).
+>     *   Joke C: Why did the explorer bring a ladder to the bottom of the ocean? Because they heard the fish were scaling new heights! (A bit weak).
 > 
->     "Why did the croissant go to the doctor? Because it was feeling a little flaky!"
+>     *   "Why don't deep-sea explorers ever get stressed? Because they know how to handle the pressure!"
+>     *   It's a pun on "pressure" (water pressure vs. mental pressure).
+>     *   It's simple and light.
 > 
->     *   Funny? Yes (punny).
->     *   About pastry baking? Yes.
->     *   Simple/Light/Easy? Yes.
->     *   Only output the joke? Yes.
+>     *   "Why don't deep-sea explorers ever get stressed? Because they know how to handle the pressure!"
 > 
->     "Why did the croissant go to the doctor? Because it was feeling a little flaky!"
+>     *   Check constraints: Funny? Yes. Deep-sea exploration? Yes. Simple/Light? Yes. Only output the joke? Yes.
 
