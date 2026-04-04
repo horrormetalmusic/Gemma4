@@ -1,97 +1,71 @@
 # Joke of the day: 
-Why did the two quantum particles break up?
-
-Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!
+Why was the catapult so popular at parties? Because it always knew how to launch a conversation!
 
 ## Topic
-<!--TOPIC-->Quantum entanglement<!--/TOPIC-->
+<!--TOPIC-->Medieval siege engines<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|33|
-|**Total Token Count**|1147|
-|**Thoughts Token Count**|1088|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|19|
+|**Total Token Count**|794|
+|**Thoughts Token Count**|748|
 
 ## Thoughts: 
-> *   Topic: Quantum entanglement.
->     *   Tone: Funny, simple, light, easy to understand.
+> *   Topic: Medieval siege engines.
+>     *   Style: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Concept: Two particles connected such that the state of one instantly influences the state of the other, regardless of distance.
->     *   Analogy: Soulmates, long-distance relationships, socks, twins, dice.
+>     *   Trebuchet (throwing things).
+>     *   Catapult (launching things).
+>     *   Battering ram (hitting things).
+>     *   Ballista (giant crossbow).
+>     *   Siege tower (climbing walls).
 > 
->     *   *Idea 1 (Socks):* Why did the quantum physicist break up with his partner? Because they were entangled, but he felt like they were just spinning in different directions. (A bit weak).
->     *   *Idea 2 (Relationship):* Why did the two electrons get married? Because they were perfectly entangled. (A bit cliché).
->     *   *Idea 3 (Long Distance):* Quantum entanglement is like a long-distance relationship. Even when you're miles apart, if one of you gets a headache, the other one immediately feels the tension. (Not quite scientifically accurate in a funny way).
->     *   *Idea 4 (The "Spooky Action" angle):* Einstein called it "spooky action at a distance." I call it "I knew you were going to say that before you even said it."
->     *   *Idea 5 (Observation):* Two particles walk into a bar. One orders a drink, and the other one immediately feels a hangover.
+>     *   *Idea 1 (Trebuchet):* Why did the trebuchet break up with the catapult? Because it felt like the catapult was just throwing things at it, but the trebuchet wanted more commitment/stability. (A bit weak).
+>     *   *Idea 2 (Catapult):* Why was the catapult so popular at parties? Because it always knew how to launch a conversation! (Simple, classic pun).
+>     *   *Idea 3 (Battering Ram):* Why did the battering ram get kicked out of the library? Because it kept hitting the books too hard. (Relatable, funny).
+>     *   *Idea 4 (Trebuchet/Catapult pun):* What did the catapult say to the castle? "I've got some things to throw at you!" (A bit flat).
 > 
->     *   *Joke:* Why did the two quantum particles break up? Because they had too much "spooky action at a distance" and just couldn't find their own space! (A bit meh).
+>     *   "Why was the catapult so popular at parties? Because it always knew how to launch a conversation!"
+>     *   "Why did the battering ram get kicked out of the library? Because it kept hitting the books too hard!"
 > 
->     *   *Better Joke:*
->         Why did the quantum physicist break up with their partner?
->         Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!
+>     The "launch a conversation" joke is very light and easy to understand. The "hitting the books" joke is also great. Let's go with the catapult one, it's a classic pun format.
 > 
->     *   *Simpler Joke:*
->         Why should you never date a quantum particle?
->         Because as soon as things get serious and you try to observe them, they completely change!
+>     Wait, let's try one more:
+>     "Why did the trebuchet go to therapy? It had too much baggage to throw around." (A bit more clever).
 > 
->     *   *Classic Entanglement Joke:*
->         Two quantum particles walk into a bar. One orders a drink, and the other one immediately feels a hangover.
+>     Let's go with the catapult one for simplicity/lightness.
 > 
->     *   *Another one:*
->         What did the quantum physicist say to their partner after a long argument?
->         "I'm sorry, I think we're just too entangled. Every time you're up, I'm down!"
+>     *Refined Choice:*
+>     Why was the catapult so popular at parties? Because it always knew how to launch a conversation!
 > 
->     "Why did the two quantum particles break up?
->     Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!"
+>     *Alternative (Battering Ram):*
+>     Why did the battering ram get kicked out of the library? Because it kept hitting the books too hard!
 > 
->     Actually, let's go with something even punchier.
+>     The Battering Ram one feels a bit "punchier."
 > 
->     "Why are quantum particles so good at long-distance relationships?
->     Because no matter how far apart they are, they’re always on the same wavelength!" (A bit punny).
+>     Let's check the prompt constraints: "Simple, light, easy to understand."
 > 
->     Let's try the "Spin" one. It's a classic.
+>     "Why was the catapult so popular at parties? Because it always knew how to launch a conversation!"
 > 
->     "Why did the two quantum particles break up?
->     Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!"
+>     Actually, let's go with:
+>     "Why was the catapult so good at making friends? Because it always knew how to launch a conversation!"
 > 
->     Wait, let's try:
->     "Why did the quantum physicist get dumped?
->     Because he was so entangled with his work, his partner felt like they were constantly in a state of superposition—never quite there!" (Too complex).
+>     Let's try a Trebuchet one:
+>     "Why don't trebuchets ever get lost? Because they always find a way to throw themselves into the action!" (A bit clunky).
 > 
->     Let's go with the "Spin" joke. It's simple.
+>     Let's stick to the Catapult one. It's the most "dad joke" style which fits "light and easy."
 > 
->     *Joke:*
->     Why did the two quantum particles break up?
->     Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!
+>     *Final decision:*
+>     Why was the catapult so popular at parties? Because it always knew how to launch a conversation!
 > 
->     "Why did the two quantum particles break up?
->     Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!"
+>     *Wait, another thought:*
+>     "What do you call a siege engine that tells jokes? A pun-apult!" (A bit meta).
 > 
->     *Alternative:*
->     "How do you know two quantum particles are in a relationship?
->     They’re totally entangled—even if they're miles apart, if one gets a spin, the other one feels the dizzy!"
+>     Let's go with the catapult/conversation one. It's the cleanest.
 > 
->     Actually, the most "understandable" funny one is:
->     "Why did the quantum physicist break up with their partner?
->     Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!"
-> 
->     Let's try a shorter one:
->     "Why can't you tell a joke to a quantum particle?
->     Because as soon as you observe it, the punchline changes!" (This is more about the observer effect, but often conflated with entanglement in pop science).
-> 
->     Let's stick to the "Spin" one. It's clearly about entanglement.
-> 
->     *Final Polish:*
->     Why did the two quantum particles break up?
->     Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!
-> 
->     (Self-Correction: The "spin" joke is the most "light and easy").
-> 
->     Why did the two quantum particles break up?
->     Because they were too entangled—every time one of them felt a little spin, the other one immediately got dizzy!
+>     Why was the catapult so popular at parties? Because it always knew how to launch a conversation!
 
