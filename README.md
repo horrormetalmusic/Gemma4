@@ -1,93 +1,98 @@
 # Joke of the day: 
-Heisenberg is driving down the highway when a police officer pulls him over. 
+What do you call a sheep that breaks down castle doors? 
 
-The officer asks, "Sir, do you know how fast you were going?" 
-
-Heisenberg replies, "No, but I know exactly where I am!"
+A battering ram!
 
 ## Topic
-<!--TOPIC-->Quantum Physics<!--/TOPIC-->
+<!--TOPIC-->Medieval Siege Engines<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|50|
-|**Total Token Count**|985|
-|**Thoughts Token Count**|909|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|19|
+|**Total Token Count**|1088|
+|**Thoughts Token Count**|1042|
 
 ## Thoughts: 
-> *   Topic: Quantum Physics.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Medieval Siege Engines.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's Cat (dead and alive).
->     *   Uncertainty Principle (Heisenberg).
->     *   Entanglement (Spooky action at a distance).
->     *   Superposition.
->     *   Observation changing the outcome.
+>     *   Trebuchet: Launching things, "throwing" a tantrum, "trebuchet" sounding like "trouble".
+>     *   Catapult: Launching rocks, "cat"-apult (cats?).
+>     *   Battering Ram: Hitting things, "ram" (sheep/animal).
+>     *   Ballista: Big crossbow, "ballista" sounding like "ballista" (not much there).
 > 
->     *   *Idea 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't.
->     *   *Idea 2 (Heisenberg):* Heisenberg is driving, a cop pulls him over. Cop asks "Do you know how fast you were going?" Heisenberg says "No, but I know exactly where I am!"
->     *   *Idea 3 (Observation):* Why did the quantum physicist cross the road? Because he was in a superposition of having crossed it and not having crossed it until someone watched him.
+>     *   *Idea 1 (Trebuchet):* Why was the trebuchet so bad at keeping secrets? Because it always threw everything out in the open!
+>     *   *Idea 2 (Catapult):* Why did the catapult get kicked out of the party? Because it kept launching its insults!
+>     *   *Idea 3 (Battering Ram):* What do you call a sheep that breaks down castle doors? A battering ram! (Simple, classic pun).
+>     *   *Idea 4 (Trebuchet):* Why did the knight bring a trebuchet to the date? He wanted to sweep her off her feet... with a boulder. (A bit long).
 > 
->     *   Idea 2 (Heisenberg) is a classic, very easy to understand, and fits the "light/funny" vibe well.
->     *   Idea 1 (Schrödinger) is also very iconic.
+>     *   "What do you call a sheep that breaks down castle doors? A battering ram!" is very simple and easy to understand.
+>     *   "Why was the trebuchet so bad at secrets? Because it always throws things around!" is also good.
 > 
->     *Selection:* Let's go with the Heisenberg joke as it's a narrative joke which is often funnier than a one-liner. Or maybe the Schrödinger one.
+>     Let's go with the sheep one. It's a classic play on words.
 > 
->     *Refined Selection:* Let's go with a variation of the Heisenberg joke.
+>     *Self-Correction:* Actually, let's try a trebuchet one.
+>     "Why couldn't the trebuchet find its way home? It kept losing its bearings!" (Too technical?)
 > 
->     *Drafting the Heisenberg joke:*
->     Heisenberg is driving down the highway when a police officer pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     Let's try:
+>     "Why did the trebuchet get promoted? Because it always went above and beyond!" (A bit abstract).
 > 
->     *Wait, let's try the Schrödinger one:*
->     Schrödinger's cat walks into a bar... and doesn't. (A bit too short/dry).
+>     Let's try a pun on "Catapult":
+>     "What happened when the catapult got angry? It threw a tantrum!" (A bit weak).
 > 
->     *Let's try a different one:*
->     "A photon checks into a hotel. The bellhop asks, 'Can I help you with your luggage?' The photon replies, 'No thanks, I'm traveling light!'" (This is more about light/photons, but fits the "physics" vibe. Might be too simple/different from "quantum").
+>     Let's go back to the Battering Ram. It's the most "joke-like" structure for a simple audience.
 > 
->     *Back to Heisenberg:* It's the gold standard for simple quantum jokes.
+>     *Alternative:*
+>     "Why was the catapult so good at its job? It always hit the mark!" (Too dry).
 > 
->     *Draft:*
->     Heisenberg is driving down the highway when a cop pulls him over. The officer asks, "Do you know how fast you were going?" Heisenberg replies, "No, but I know exactly where I am!"
+>     *Let's try a Trebuchet pun:*
+>     "Why was the trebuchet so popular? Because it was a real stone-cold legend!" (Maybe too much slang).
 > 
->     *   Funny? Yes.
->     *   Quantum Physics? Yes (Uncertainty Principle).
->     *   Simple/Light/Easy? Yes.
->     *   Only output the joke? Yes.
+>     *Back to basics:*
+>     "What do you call a sheep that breaks down castle walls? A battering ram!"
 > 
->     Heisenberg is driving down the highway when a police officer pulls him over.
+>     Wait, let's try a "Catapult" one that's even simpler.
+>     "Why did the knight bring a catapult to the party? He wanted to launch a surprise attack!" (Not really a joke).
 > 
->     The officer asks, "Sir, do you know how fast you were going?"
+>     Let's go with the Battering Ram one. It's punchy.
 > 
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     *One more idea:*
+>     "Why was the trebuchet so stressed? It was under a lot of pressure to launch!"
 > 
->     (Actually, looking at the prompt "Keep it simple", a one-liner might be better).
+>     Actually, the "Sheep/Battering Ram" is the cleanest.
 > 
->     *One-liner version:*
->     Schrödinger's cat walks into a bar... and doesn't.
+>     "What do you call a sheep that breaks down castle doors? A battering ram!"
 > 
->     *Let's go with the Heisenberg one, it's more of a "joke" than a "pun".*
+>     *Wait, let's try one about a Trebuchet and a relationship.*
+>     "Why did the trebuchet break up with the catapult? Because it felt like their relationship was just being thrown around!"
 > 
->     *Alternative (The classic uncertainty one):*
->     Why can't you trust an atom? Because they make up everything! (Wait, that's chemistry/general physics, not specifically quantum).
+>     That's a bit more "joke" structured.
 > 
->     *Let's go with the Heisenberg joke.*
+>     Let's check the "Sheep" one again.
+>     "What do you call a sheep that breaks down castle doors? A battering ram!"
+>     It's simple, light, easy.
 > 
->     *Final Polish:*
->     Heisenberg is speeding down the highway when a cop pulls him over. The officer asks, "Sir, do you know how fast you were going?" 
+>     Let's provide the Sheep one.
 > 
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     *Actually, let's try:*
+>     "Why did the trebuchet get kicked out of the library? Because it kept throwing stones!" (Simple).
 > 
->     (Self-correction: The joke is about the Uncertainty Principle).
+>     Let's go with:
+>     "What do you call a sheep that breaks down castle doors? A battering ram!"
 > 
->     Heisenberg is driving down the highway when a police officer pulls him over. 
+>     *Wait, let's try one about a Ballista.*
+>     "What's a ballista's favorite type of music? Heavy metal... because it fires bolts!" (A bit of a stretch).
 > 
->     The officer asks, "Sir, do you know how fast you were going?" 
+>     Let's go with the Battering Ram joke. It's a classic pun.
 > 
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     "What do you call a sheep that breaks down castle doors? A battering ram!"
+> 
+>     *Refining for "Simple/Light":*
+>     "What do you call a sheep that breaks down castle walls? A battering ram!"
+> 
+>     "What do you call a sheep that breaks down castle doors? A battering ram!"
 
