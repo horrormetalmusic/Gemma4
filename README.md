@@ -1,82 +1,73 @@
 # Joke of the day: 
-Why did the sourdough starter go to therapy? 
-
-Because it had too many rising issues!
+I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time.
 
 ## Topic
-<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
+<!--TOPIC-->Quantum computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|19|
-|**Total Token Count**|859|
-|**Thoughts Token Count**|812|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|26|
+|**Total Token Count**|959|
+|**Thoughts Token Count**|907|
 
 ## Thoughts: 
-> *   Topic: Baking sourdough bread.
->     *   Tone: Funny, simple, light, easy to understand.
+> *   Topic: Quantum computing.
+>     *   Style: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Sourdough starter (needs feeding, "living" thing, temperamental).
->     *   Yeast/Fermentation (rising, bubbles).
->     *   Bread scoring (artistic, "cutting" shapes).
->     *   Crust (crunchy).
->     *   The time/patience required (takes forever).
->     *   Relationship with the starter (it's like a pet).
+>     *   Superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance).
+>     *   Observation/Measurement (collapsing the wavefunction).
+>     *   Schrödinger's Cat (classical quantum joke).
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues rising to the top. (A bit cliché).
->     *   *Idea 2:* My sourdough starter and I have a very serious relationship. It’s quite bubbly, but sometimes it gets a little sour. (Okay, but a bit weak).
->     *   *Idea 3:* Why was the sourdough baker so good at making friends? Because they knew how to rise to the occasion. (Classic pun).
->     *   *Idea 4:* I told my sourdough starter a joke, but it didn't laugh. It just sat there and fermented. (A bit dry).
->     *   *Idea 5:* Why did the baker break up with the sourdough starter? Because things were getting too crusty. (Simple and funny).
+>     *   *Idea 1:* A quantum physicist walks into a bar. He orders a beer and a non-beer at the same time.
+>     *   *Idea 2:* Why did the quantum computer break up with the classical computer? Because they were too entangled. (Wait, entanglement is a good thing for quantum, but "it's complicated" works).
+>     *   *Idea 3:* Schrödinger's cat walks into a bar... and doesn't.
+>     *   *Idea 4:* I have a joke about quantum computing, but you'll only get it if you observe it.
 > 
->     *   "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
->     *   "Why did the baker break up with their sourdough starter? Because the relationship was getting a little too sour!"
+>     *   *Draft 1:* A quantum physicist walks into a bar and orders a drink. The bartender asks, "Would you like a beer?" The physicist says, "I'll have both a beer and a non-beer, but please don't look at me until I've finished." (A bit wordy).
+>     *   *Draft 2:* Why did the quantum physicist fail his driving test? Because every time he hit a red light, he was also at a green light until someone looked at him. (A bit clunky).
+>     *   *Draft 3:* I have a great joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time. (Simple, meta, light).
 > 
->     Let's go with a classic pun structure.
+>     *   "I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time."
 > 
->     *Joke:* Why did the sourdough starter go to therapy?
->     *Punchline:* Because it had too many rising issues!
+>     *   Topic: Quantum computing? Yes.
+>     *   Funny/Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     *Alternative:* Why was the sourdough bread so good at its job? It always rose to the occasion!
+>     (Alternative option: The bar joke is a classic).
+>     "A quantum physicist walks into a bar. He orders a beer and a non-beer at the same time."
 > 
->     Let's try: "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
+>     Let's go with the "observation" one, it's cleaner.
 > 
->     Wait, let's try something even lighter.
->     "What did the sourdough starter say to the baker? 'Stop feeding me, I'm already stuffed!'" (No, that's not quite right).
+>     *Actually, let's try one more:*
+>     "Why should you never tell a secret to a quantum computer? Because it exists in every state at once, so it's already told everyone and hasn't told anyone yet." (A bit long).
 > 
->     Let's go with the "Rising issues" one, it's the most recognizable joke format. Or the "sour" one.
+>     *Let's go with the most classic/punchy one:*
+>     "I have a joke about quantum computing, but you’ll only find it funny if you observe it."
 > 
->     *Selected Joke:*
->     Why did the sourdough starter go to therapy?
->     Because it had too many rising issues!
+>     *Wait, let's try the "Schrödinger's cat/bar" variation or the "ordering" one.*
 > 
->     *Alternative (Simpler/Lighter):*
->     Why was the sourdough bread so successful?
->     It always rose to the occasion!
+>     *Classic:*
+>     "A quantum physicist walks into a bar and orders a drink. The bartender asks, 'Do you want a beer?' The physicist says, 'I'll have both a beer and a non-beer, but please don't look at me until I've finished!'"
 > 
->     Let's go with the "rising issues" one. It's a classic sourdough joke.
+>     *Let's go with the "Both hilarious and terrible" one. It's very "meta" and fits the "simple" requirement perfectly.*
 > 
->     *Check constraints:* Simple? Yes. Light? Yes. Easy to understand? Yes. Only output the joke? Yes.
+>     "I have a joke about quantum computing, but until you observe it, it’s both hilarious and terrible at the same time."
 > 
->     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
+>     *Refining for maximum "funny/light":*
+>     "A quantum physicist walks into a bar. He orders a beer and a non-beer at the same time."
 > 
->     Actually, let's do:
->     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
+>     Let's go with the observation joke. It's the cleanest.
 > 
->     Wait, let's try one more:
->     "I asked my sourdough starter how it was doing. It said, 'I'm feeling a bit bubbly today!'" (A bit weak).
+>     "I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time."
 > 
->     Let's go with:
->     Why did the sourdough starter go to therapy? Because it had too many rising issues!
+>     *Wait, a better one:*
+>     "Why did the quantum physicist go to therapy? Because he had too many states of mind." (A bit weak).
 > 
->     Wait, let's try:
->     Why did the baker break up with the sourdough? Because the relationship was getting too crusty!
-> 
->     I'll go with the "rising issues" one. It's the cleanest.
-> 
->     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
+>     Let's stick to:
+>     "I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time."
 
