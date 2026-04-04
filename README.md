@@ -1,68 +1,91 @@
 # Joke of the day: 
-What is an asteroid miner's favorite type of music? Heavy metal!
+A Victorian gentleman was tumbling head-over-heels down a steep hill. As he rolled uncontrollably, he made sure to pause for a brief moment to tip his hat to a passing lady and apologize for the sudden lack of decorum.
 
 ## Topic
-<!--TOPIC-->Asteroid mining<!--/TOPIC-->
+<!--TOPIC-->Victorian etiquette<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|27|
-|**Candidates Token Count**|14|
-|**Total Token Count**|667|
-|**Thoughts Token Count**|626|
+|**Candidates Token Count**|49|
+|**Total Token Count**|1225|
+|**Thoughts Token Count**|1149|
 
 ## Thoughts: 
-> *   Topic: Asteroid mining.
+> *   Topic: Victorian etiquette.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Mining/Rocks/Stones.
->     *   Space/Asteroids/Planets/Stars.
->     *   "Out of this world" (cliché).
->     *   "Hitting rock bottom."
->     *   "Space debris."
->     *   "Heavy lifting/gravity."
->     *   "Deep space/Digging deep."
+>     *   Stiff upper lip.
+>     *   Corsets/clothing.
+>     *   Calling cards.
+>     *   Tea ceremonies.
+>     *   Strict social rules/avoidance of scandal.
+>     *   Politeness/formality.
 > 
->     *   *Idea 1:* Why did the asteroid miner quit his job? He just couldn't handle the heavy pressure! (A bit weak).
->     *   *Idea 2:* Why are asteroid miners so good at parties? Because they always bring a little bit of space! (A bit weak).
->     *   *Idea 3:* Why did the asteroid miner fail his driving test? Because he kept hitting rock bottom! (Classic, but maybe too generic).
->     *   *Idea 4:* What is an asteroid miner's favorite music? Heavy metal! (Simple, punchy, relevant to mining/rocks/space context).
+>     *   *Idea 1 (Calling cards):* A man leaves a calling card, but it's just a picture of a duck. (A bit too surreal).
+>     *   *Idea 2 (Corsets):* A lady's corset is so tight she can't breathe, but she's too polite to mention it. (Classic, but maybe a bit cliché).
+>     *   *Idea 3 (Social awkwardness/Formality):* A gentleman tries to be polite during a disaster.
+>     *   *Idea 4 (Tea):* Something about how one must never spill tea even in a crisis.
 > 
->     *   "What is an asteroid miner's favorite type of music? Heavy metal!"
->     *   "Why did the asteroid miner get promoted? Because he was out of this world at hitting rock bottom!" (No).
->     *   "Why did the asteroid miner go broke? Because he kept hitting rock bottom!" (Better).
+>     *   *Setup:* A Victorian gentleman is falling off a horse.
+>     *   *Conflict:* The social expectation of composure vs. the physical reality.
+>     *   *Punchline:* He makes sure his top hat stays on or apologizes for the noise.
 > 
->     Let's go with the "Heavy Metal" one. It's a classic pun.
+>     *   *Drafting Joke A:*
+>         Why did the Victorian lady refuse to sneeze during tea?
+>         Because she didn't want to disrupt the social hierarchy of the scones. (A bit weak).
 > 
->     *Alternative:*
->     "Why don't asteroid miners ever get lost? Because they always follow the gold standard... in space!" (Too complex).
+>     *   *Drafting Joke B:*
+>         A Victorian gentleman was falling headfirst down a steep hill. As he tumbled uncontrollably, he made sure to pause briefly to tip his hat to a passing lady and apologize for the sudden lack of decorum. (Better).
 > 
->     *Let's try another:*
->     "Why did the asteroid miner get fired? He just couldn't find his ground!" (A bit abstract).
+>     *   *Drafting Joke C (Simple & punchy):*
+>         How did a Victorian gentleman react when he realized he had forgotten his manners?
+>         He spent the rest of the evening apologetically staring at his shoes to avoid any further social impropriety. (A bit dry).
 > 
->     *Let's try:*
->     "What do you call a successful asteroid miner? A real heavy hitter!"
+>     *   *Drafting Joke D (The "Social Ruin" angle):*
+>         A young Victorian gentleman was terrified of social ruin. His mother told him, "Son, remember: a single misplaced word can destroy a reputation!"
+>         He replied, "Don't worry, Mother. I've practiced being silent for three hours every day."
 > 
->     *Let's go with the most reliable one:*
->     "What is an asteroid miner's favorite type of music? Heavy metal!"
+>     *   *Drafting Joke E (The "Corset/Breath" angle - very relatable/simple):*
+>         Why was the Victorian lady so good at keeping secrets?
+>         Because her corset was so tight, she literally couldn't catch her breath to tell anyone!
 > 
->     *Wait, let's try one more:*
->     "Why was the asteroid miner so successful? Because he really knew how to pick up some momentum!" (No).
+>     "Why was the Victorian lady so good at keeping secrets? Because her corset was so tight, she couldn't catch her breath to tell anyone!"
 > 
->     *Let's go with:*
->     "Why did the asteroid miner get promoted? Because he was truly out of this world!"
+>     *Alternative (more "etiquette" focused):*
+>     "A Victorian gentleman was falling down a flight of stairs. As he tumbled, he made sure to pause mid-air to tip his hat to the maid and apologize for the sudden lack of composure."
 > 
->     *Actually, the "Heavy Metal" joke is the strongest and simplest.*
+>     Let's go with the "falling down stairs/composure" one. It highlights the absurdity of etiquette.
 > 
->     Joke: What is an asteroid miner's favorite type of music? Heavy metal!
+>     *Refined Joke:*
+>     A Victorian gentleman was tumbling head-over-heels down a steep hill. As he rolled uncontrollably, he made sure to pause for a brief moment to tip his hat to a passing lady and apologize for the lack of decorum.
 > 
->     *   Funny? Yes (pun).
->     *   Asteroid mining? Yes.
+>     *Wait, let's try one more about calling cards/manners:*
+>     "Why did the Victorian man bring a ladder to the tea party? Because he heard the social expectations were sky-high!" (A bit "dad joke").
+> 
+>     Let's go with the "Falling down stairs" one. It's a classic "stiff upper lip" trope.
+> 
+>     *Actually, let's go with this one:*
+>     A Victorian gentleman was falling headfirst down a flight of stairs. As he tumbled, he made sure to pause briefly to tip his hat to the housekeeper and apologize for the sudden lack of composure.
+> 
+>     *   Funny? Yes (absurdist).
+>     *   Victorian etiquette? Yes (composure/manners).
 >     *   Simple/Light? Yes.
 >     *   Only output the joke? Yes.
 > 
->     "What is an asteroid miner's favorite type of music? Heavy metal!"
+>     "A Victorian gentleman was tumbling head-over-heels down a steep hill. As he rolled uncontrollably, he made sure to pause for a brief moment to tip his hat to a passing lady and apologize for the sudden lack of decorum."
+> 
+>     *Self-Correction:* Keep it even shorter.
+> 
+>     "A Victorian gentleman was falling headfirst down a flight of stairs. As he tumbled, he made sure to pause briefly to tip his hat to the maid and apologize for the lack of composure."
+> 
+>     *Let's try a different one just in case:*
+>     "Why did the Victorian lady bring a fan to the debate? Because she heard the arguments were getting a bit too heated for proper social standing." (A bit weak).
+> 
+>     Let's stick to the "Tumbling gentleman."
+> 
+>     A Victorian gentleman was tumbling head-over-heels down a steep hill. As he rolled uncontrollably, he made sure to pause for a brief moment to tip his hat to a passing lady and apologize for the lack of decorum.
 
