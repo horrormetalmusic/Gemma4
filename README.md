@@ -1,88 +1,52 @@
 # Joke of the day: 
-Why do sourdough bakers make such great friends? Because they always rise to the occasion!
+Why did the deep-sea shrimp break up with the hydrothermal vent? 
+
+Because things were getting way too heated!
 
 ## Topic
-<!--TOPIC-->Sourdough Baking<!--/TOPIC-->
+<!--TOPIC-->Deep Sea Hydrothermal Vents<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|17|
-|**Total Token Count**|978|
-|**Thoughts Token Count**|933|
+|**Prompt Token Count**|30|
+|**Candidates Token Count**|24|
+|**Total Token Count**|601|
+|**Thoughts Token Count**|547|
 
 ## Thoughts: 
-> *   Topic: Sourdough Baking.
+> *   Topic: Deep Sea Hydrothermal Vents.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (mother/yeast/bacteria).
->     *   Feeding (flour/water).
->     *   Levain.
->     *   Proofing/Rising/Bubbles.
->     *   Scoring (slashing the dough).
->     *   The obsession (it's like a pet).
->     *   Discard.
+>     *   Heat/Temperature.
+>     *   Pressure.
+>     *   Darkness/Deep sea.
+>     *   Chemicals/Sulfur.
+>     *   Tube worms/Crabs/Extremophiles.
+>     *   "Smoking" chimneys.
 > 
->     *   *Idea 1 (The Pet Angle):* Why did the baker break up with their sourdough starter? Because it was too needy and always demanded to be fed. (A bit cliché).
->     *   *Idea 2 (The Pun Angle):* What did the sourdough say to the flour? "I knead you." (Classic, maybe too simple).
->     *   *Idea 3 (The Relationship/Time Angle):* My sourdough starter and I have a very complicated relationship. It’s a lot of work, it’s always demanding attention, and if I ignore it for a day, it gets really sour.
+>     *   *Idea 1 (Temperature):* Why did the hydrothermal vent go to therapy? Because it was feeling under too much pressure and constantly boiling over. (A bit cliché).
+>     *   *Idea 2 (Chimney/Smoke):* Why are hydrothermal vents so good at parties? Because they always bring the heat and know how to smoke! (A bit weird).
+>     *   *Idea 3 (Social/Pressure):* Why don't hydrothermal vents ever get lonely? Because they always have a lot of hot tea to spill! (A bit of a stretch).
+>     *   *Idea 4 (Pressure/Relationship):* Why did the deep-sea shrimp break up with the hydrothermal vent? Because things were getting way too heated! (Simple, light, easy).
+>     *   *Idea 5 (Hot/Social):* Why did the hydrothermal vent get kicked out of the ocean party? Because it was being way too extra... and a little too hot to handle! (Okay).
 > 
->     *   *Drafting Idea 1:* Why did the baker get a divorce from their sourdough starter? Because it was too high-maintenance and always had too many issues! (A bit wordy).
->     *   *Drafting Idea 2:* Why do sourdough bakers make such great friends? Because they know how to rise to the occasion! (Good, wholesome).
->     *   *Drafting Idea 3:* Why did the sourdough starter go to therapy? Because it had too many bubbly issues! (Simple and cute).
+>     *   "Why did the deep-sea shrimp break up with the hydrothermal vent? Because things were getting way too heated!" -> This is a classic pun style.
 > 
->     "Why did the sourdough starter go to therapy? Because it had too many bubbly issues!" or "Why do sourdough bakers make such great friends? Because they always rise to the occasion!"
+>     *   Alternative: "Why are hydrothermal vents such good gossips? Because they’re always spilling the hot tea!" (Wait, tea is a metaphor, but hydrothermal vents release minerals/water. Maybe too metaphorical).
 > 
->     Let's go with the "Rise to the occasion" one or something about being "sour".
+>     *   Let's go with the "heated" pun. It's the cleanest.
 > 
->     Actually, let's try:
->     "Why did the sourdough baker break up with their starter? Because the relationship was getting a little too sour!"
+>     *   *Alternative Pun:* "What did the hydrothermal vent say to the deep-sea fish? 'Don't mind me, I'm just blowing off some steam!'"
 > 
->     Or even better/simpler:
->     "Why did the sourdough starter go to therapy? Because it had too many bubbly issues!"
+>     "Why did the deep-sea shrimp break up with the hydrothermal vent? Because things were getting way too heated!"
 > 
->     Let's go with the "Rise to the occasion" one, it's very lighthearted.
+>     *   Topic: Hydrothermal vents? Yes.
+>     *   Funny? Yes (subjective, but follows joke structure).
+>     *   Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     Wait, let's try a "knead" joke.
->     "Why did the sourdough baker go to the doctor? Because they were feeling a little kneady!"
-> 
->     Let's go with:
->     "Why did the sourdough starter go to therapy? Because it had too many bubbly issues!"
-> 
->     *Alternative:*
->     "What is a sourdough baker's favorite type of music? Anything with a good rise!"
-> 
->     Let's go with the "Rise to the occasion" one. It's a classic pun style.
-> 
->     "Why do sourdough bakers make such great friends? Because they always rise to the occasion!"
-> 
->     Wait, let's try one more:
->     "My sourdough starter and I have a very complicated relationship. It's a lot of work, it's always demanding food, and if I ignore it, it gets really sour!" -> This is more of a "joke/observation".
-> 
->     Let's stick to a standard Q&A joke format for simplicity.
-> 
->     "Why did the sourdough starter go to therapy? Because it had too many bubbly issues!"
-> 
->     Check constraints:
->     - Sourdough baking topic? Yes.
->     - Funny/Simple/Light? Yes.
->     - Only output the joke? Yes.
-> 
->     *Final selection:*
->     Why did the sourdough starter go to therapy? Because it had too many bubbly issues!
-> 
->     (Actually, "Why do sourdough bakers make great friends? Because they always rise to the occasion!" is slightly "cleaner" and easier).
-> 
->     Let's go with:
->     Why did the sourdough starter go to therapy? Because it had too many bubbly issues!
-> 
->     (Self-correction: The "rise to the occasion" one is a bit more "dad joke" style which fits "simple and light").
-> 
->     Let's provide:
->     Why do sourdough bakers make such great friends? Because they always rise to the occasion!
-> 
->     "Why do sourdough bakers make such great friends? Because they always rise to the occasion!"
+>     "Why did the deep-sea shrimp break up with the hydrothermal vent? Because things were getting way too heated!"
 
