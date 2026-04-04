@@ -1,43 +1,87 @@
 # Joke of the day: 
-Why did the sourdough starter get promoted? 
-
-Because it always rose to the occasion!
+I was going to tell you a joke about quantum computing, but I'm not sure if it's funny until you observe it.
 
 ## Topic
-<!--TOPIC-->Gourmet Baking<!--/TOPIC-->
+<!--TOPIC-->Quantum Computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|18|
-|**Total Token Count**|441|
-|**Thoughts Token Count**|395|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|28|
+|**Total Token Count**|1052|
+|**Thoughts Token Count**|998|
 
 ## Thoughts: 
-> *   Topic: Gourmet Baking.
->     *   Tone: Funny, simple, light, easy to understand.
+> *   Topic: Quantum Computing.
+>     *   Style: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: A pun about flour/flower.
->     *   Idea 2: A joke about yeast/rising to the occasion.
->     *   Idea 3: A joke about a sourdough starter's personality.
->     *   Idea 4: A joke about expensive ingredients (truffle, gold leaf).
+>     *   Superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance).
+>     *   Schrödinger's Cat (dead and alive).
+>     *   Probabilities/Observation (changing the state).
 > 
->     *   *Idea 1:* Why did the gourmet baker go to therapy? Because he felt like he was always under a lot of pressure to rise to the occasion! (A bit cliché).
->     *   *Idea 2:* What did the sourdough starter say to the fancy baguette? "You're looking a bit crusty today!" (Simple, cute).
->     *   *Idea 3:* Why was the gourmet baker so good at his job? Because he really knew how to knead the dough! (Classic pun).
->     *   *Idea 4:* Why did the fancy pastry chef fail his driving test? Because he kept trying to use puff pastry for the brakes! (A bit nonsensical).
+>     *   *Idea 1 (Superposition):* A quantum physicist walks into a bar. He orders a beer and a non-beer at the same time.
+>     *   *Idea 2 (Schrödinger's Cat):* Why did the quantum physicist cross the road? Because he was already on both sides.
+>     *   *Idea 3 (Observation):* I wanted to tell a joke about quantum computing, but I'm not sure if it's funny until you observe it.
 > 
->     *   "Why did the gourmet baker go to therapy? Because he felt like he was constantly under a lot of pressure to rise to the occasion!"
->     *   Alternative: "Why did the sourdough starter get promoted? Because it was always rising to the occasion!" (This is cleaner).
+>     *   Idea 3 is very meta and classic.
+>     *   Idea 1 is a bit clunky.
+>     *   Idea 2 is punchy.
 > 
->     *   Joke: Why did the sourdough starter get promoted? Because it always rose to the occasion!
+>     Let's go with a variation of the "observation" trope, as it's the most recognizable "quantum" concept for a general audience.
 > 
->     *   Topic: Gourmet Baking (Sourdough is definitely gourmet).
->     *   Simple/Light: Yes.
->     *   Only output the joke: Yes.
+>     *Draft:* "I was going to tell you a joke about quantum computing, but I wasn't sure if it would be funny until you observed it."
 > 
->     "Why did the sourdough starter get promoted? Because it always rose to the occasion!"
+>     Wait, let's try the "Bar" one, it's a bit more "joke-like".
+>     "A quantum physicist walks into a bar. He orders a drink, and then immediately realizes he's already had it." (A bit confusing).
+> 
+>     Let's go with the "Two states" joke.
+>     "Why did the quantum computer go to therapy? Because it had too many identity crises—it couldn't decide if it was a 0 or a 1!" (A bit childish).
+> 
+>     Let's try the classic:
+>     "I have a joke about quantum computing, but you have to observe it to see if it's funny."
+> 
+>     Actually, let's go with this one:
+>     "A quantum physicist walks into a bar and orders a drink. He also orders a drink he hasn't ordered yet."
+> 
+>     Let's try the "Schrödinger" approach:
+>     "How many quantum physicists does it take to change a lightbulb? It doesn't matter, the bulb is both on and off until you look at it."
+> 
+>     Let's go with the most elegant one:
+>     "I was going to tell you a joke about quantum computing, but I'm not sure if it's funny until you observe it."
+> 
+>     *Refining for "Simple, light, easy":*
+>     "Why did the quantum physicist get kicked out of the party? Because every time someone asked him what he wanted to drink, he said, 'I'm in a superposition of wanting a beer and a soda!'" (A bit long).
+> 
+>     *Back to the winner:*
+>     "I wanted to tell you a joke about quantum computing, but I'm not sure if it's funny until you observe it."
+> 
+>     *Alternative (shorter):*
+>     "A quantum physicist walks into a bar. He orders a drink, but only after he checks if anyone is looking."
+> 
+>     Let's go with:
+>     "I was going to tell you a joke about quantum computing, but I'm not sure if it's funny until you observe it."
+> 
+>     "I was going to tell you a joke about quantum computing, but I'm not sure if it's funny until you observe it."
+> 
+>     *Wait, let's check if there's a better one.*
+>     "Why are quantum computers so bad at keeping secrets? Because as soon as you look at them, they change!"
+> 
+>     The "Observe" joke is the most "classic" and "simple".
+> 
+>     *Final Selection:*
+>     "I was going to tell you a joke about quantum computing, but I’m not sure if it’s funny until you observe it."
+> 
+>     - Funny? Yes (in a nerd way).
+>     - Quantum Computing? Yes.
+>     - Simple/Light? Yes.
+>     - Only output the joke? Yes.
+> 
+>     (Self-correction: Is there a punchier one? "A quantum physicist walks into a bar. He orders a drink and doesn't order a drink at the same time.")
+> 
+>     Let's go with:
+>     "I was going to tell you a joke about quantum computing, but I'm not sure if it's funny until you observe it."
 
