@@ -1,129 +1,124 @@
 # Joke of the day: 
-Why did the two quantum particles break up? Because they were too entangled—every time one of them wanted some space, the other one felt it immediately!
+Why don't roller derby players ever get lost? Because they always stay on track!
 
 ## Topic
-<!--TOPIC-->Quantum entanglement<!--/TOPIC-->
+<!--TOPIC-->Roller derby<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|30|
-|**Total Token Count**|1651|
-|**Thoughts Token Count**|1595|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|18|
+|**Total Token Count**|1280|
+|**Thoughts Token Count**|1235|
 
 ## Thoughts: 
-> *   Topic: Quantum entanglement.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Roller derby.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Entanglement means two particles are linked; whatever happens to one affects the other instantly, regardless of distance.
->     *   Keywords: Spooky action at a distance, twins, connection, spin, correlation.
+>     *   Skates, bruises, speed, contact, jammer, blocker, hips, falls, track, helmets, knee pads.
+>     *   Puns: "Roll with it," "Life is a derby," "Jamming," "Block."
 > 
->     *   Idea 1: A physicist's relationship joke. "My girlfriend and I are like entangled particles. When she's feeling down, I'm instantly depressed, even if I'm in another room." (A bit cliché/dark).
->     *   Idea 2: Two particles meeting. One says "Hey, what's up?" The other says "I don't know, but I'm feeling it too!" (A bit weak).
->     *   Idea 3: A joke about being "in sync." Two particles walk into a bar... (Classic structure).
->     *   Idea 4: A joke about the "spooky" aspect.
+>     *   *Idea 1:* Why did the roller derby player bring a ladder to the match? To reach the high scores! (A bit weak).
+>     *   *Idea 2:* Why did the roller derby player break up with her boyfriend? Because he just couldn't handle her speed. (A bit cliché).
+>     *   *Idea 3:* Why do roller derby players make great detectives? Because they always know how to track someone down! (Okay, but maybe too generic).
+>     *   *Idea 4 (The Classic Pun):* Why did the roller derby player go to the doctor? Because she had a "bruise-ing" experience! (A bit weak).
+>     *   *Idea 5:* Why don't roller derby players ever get lost? Because they always stay on track! (Simple, light, easy).
+>     *   *Idea 6:* Why was the roller derby player so good at math? Because she knew how to handle all the jams! (A bit of a stretch).
 > 
->     *   *Setup:* Two quantum particles go on a date.
->     *   *Conflict/Action:* One gets upset.
->     *   *Punchline:* The other one instantly feels the same way, even if they are light-years apart.
+>     "Why don't roller derby players ever get lost? Because they always stay on track!"
 > 
->     *Let's try a shorter one:*
->     "Why did the two quantum particles break up? Because they were too entangled, and every time one wanted space, the other one felt it instantly!"
+>     *Alternative:* "What is a roller derby player's favorite type of music? Heavy metal... because of all the contact!" (Maybe too niche).
 > 
->     *Another approach (classic joke style):*
->     "Two quantum particles are walking down the street. One suddenly trips and falls. The other one, who is three miles away, immediately says, 'Ouch!'"
+>     *Let's try a "knock knock" or a simple pun.*
 > 
->     *Wait, let's go with the "Spooky action" angle.*
->     "Why are quantum particles so good at long-distance relationships? Because no matter how much space is between them, they’re always on the same wavelength!" (A bit cheesy).
+>     *How about:*
+>     "Why did the roller derby player bring a ladder to the game?
+>     Because she heard the competition was on another level!"
 > 
->     *Let's try this:*
->     "Two quantum particles go out for dinner. One of them accidentally spills a drink, and even though the other one is sitting at a table on the other side of the universe, they both immediately feel embarrassed."
+>     *Or:*
+>     "Why do roller derby players make great friends?
+>     Because they'll always roll with the punches!"
 > 
->     *Refining for simplicity and humor:*
->     "Why did the two quantum particles get married? Because they were perfectly in sync—and if one of them felt a little down, the other one was instantly depressed!"
+>     "Why do roller derby players make such great friends? Because they always know how to roll with the punches!"
 > 
->     *Let's go with a classic "walks into a bar" or simple situational joke.*
+>     - Funny? Yes (punny).
+>     - About Roller derby? Yes.
+>     - Simple/Light/Easy? Yes.
+>     - Only output the joke? Yes.
 > 
->     "Two quantum particles walk into a bar. One gets a drink, and the other one—even though he’s on the other side of the galaxy—immediately feels a little tipsy!"
+>     *Self-Correction:* "Roll with the punches" is a very common idiom, making it easy to understand.
 > 
->     *Actually, let's go with a more punchy version:*
+>     Let's try one more:
+>     "What do you call a roller derby player who is also a chef?
+>     A jammer!" (A bit too specific/niche for "easy to understand").
 > 
->     "Why are quantum particles so great at long-distance relationships? Because even if they're light-years apart, if one of them feels a little 'down,' the other one is instantly depressed!"
+>     Let's go with the "roll with the punches" one or the "stay on track" one. "Stay on track" is very clean.
 > 
->     *Check constraints:* Simple, light, easy to understand, only the joke.
+>     Let's try:
+>     "Why did the roller derby player get kicked out of the library?
+>     Because she kept trying to jam!" (A bit confusing).
 > 
->     "Why are quantum particles so good at long-distance relationships? Because no matter how much space is between them, if one of them feels a little 'down,' the other one instantly feels it too!"
+>     Let's stick to:
+>     "Why do roller derby players make great friends? Because they always know how to roll with the punches!"
 > 
->     *Alternative (shorter):*
->     "Two quantum particles are having an argument. One says, 'I need some space!' and the other one immediately feels lonely, even though they're a billion miles apart."
+>     Actually, let's go with:
+>     "Why don't roller derby players ever get lost? Because they always stay on track!"
 > 
->     Let's go with the "down/depressed" one, it's the most recognizable "physics humor" structure.
+>     Wait, let's try one about bruises:
+>     "Why did the roller derby player bring a map to the game?
+>     Because she heard there would be a lot of hitting the track!" (No).
 > 
->     *Wait, let's try one more:*
->     "Why did the two quantum particles break up? Because they were too entangled—every time one wanted some personal space, the other one felt it immediately!"
+>     Let's go with the "Roll with the punches" one. It's the most "light and easy."
 > 
->     "Why are quantum particles so good at long-distance relationships? Because no matter how far apart they are, if one of them feels a little 'down,' the other one is instantly depressed!"
+>     *Refining the joke:*
+>     "Why do roller derby players make such great friends?
+>     Because they always know how to roll with the punches!"
 > 
->     *Actually, the "space" one is cleaner.*
+>     *Double check:* Is "roll with the punches" too much of a cliché? Maybe.
 > 
->     "Why did the two quantum particles break up? Because every time one of them tried to get some space, the other one felt it immediately!"
+>     What about:
+>     "Why did the roller derby player bring a ladder to the bout?
+>     Because she wanted to reach the next level!"
 > 
->     *Let's go with:*
->     "Why are quantum particles so good at long-distance relationships? Because no matter how far apart they are, if one of them feels a little 'down,' the other one is instantly depressed!"
+>     Let's go with a simple one:
+>     "Why don't roller derby players ever get lost? 
+>     Because they always stay on track!"
 > 
->     Actually, the most "simple/light" one:
->     "Two quantum particles go on a date. One of them spills their drink, and even though the other one is on the other side of the galaxy, they both immediately feel embarrassed."
+>     Wait, I have a better one.
+>     "Why was the roller derby player so good at her job?
+>     Because she really knew how to roll with it!"
 > 
->     Let's go with the "down/depressed" one. It's a classic logic.
+>     Let's go with:
+>     "Why do roller derby players make great friends? Because they always know how to roll with the punches!"
 > 
->     *Final Polish:*
->     Why are quantum particles so good at long-distance relationships? Because no matter how much space is between them, if one of them feels a little "down," the other one is instantly depressed!
+>     Actually, let's do the "track" one. It's punchier.
 > 
->     *Wait, the prompt says "Only output the joke."*
+>     "Why don't roller derby players ever get lost? Because they always stay on track!"
 > 
->     Joke:
->     Why are quantum particles so good at long-distance relationships? Because no matter how far apart they are, if one of them feels a little "down," the other one is instantly depressed!
+>     Final choice:
+>     Why do roller derby players make great friends? Because they always know how to roll with the punches!
 > 
->     (Self-Correction: "Down" refers to spin/state. It works.)
+>     (Actually, looking at it, the "punches" part implies boxing. Let's try a different one to be safe).
 > 
->     Let's try an even simpler one:
->     "Two quantum particles are having an argument. One says, 'I need some space!' and the other one instantly feels lonely, even though they're a billion miles apart."
+>     "Why did the roller derby player bring a ladder to the game? 
+>     Because she heard the competition was on another level!"
 > 
->     This is better.
+>     That's good. It's a standard pun.
 > 
->     "Why are quantum particles so good at long-distance relationships? Because no matter how far apart they are, if one of them feels a little 'down,' the other one is instantly depressed!"
+>     Let's try one more:
+>     "Why was the roller derby player so calm during the game? 
+>     Because she knew how to roll with it!"
 > 
->     I'll use the "down" version.
+>     Let's go with:
+>     Why do roller derby players make such great friends? Because they always know how to roll with the punches!
 > 
->     *Wait, another thought:*
->     "What did the two entangled particles say to each other? 'I'll be there for you... instantly!'" (Too cheesy).
+>     Actually, let's go with:
+>     Why don't roller derby players ever get lost? Because they always stay on track!
 > 
->     Let's stick to the "down/depressed" one.
+>     Simple, light, easy.
 > 
->     *Wait, I have a better one:*
->     "Why did the two quantum particles break up? Because they were too entangled—every time one of them wanted some personal space, the other one felt it immediately!"
-> 
->     This is the winner. It's punchy.
-> 
->     1. Simple? Yes.
->     2. Light? Yes.
->     3. Easy to understand? Yes.
->     4. Only output the joke? Yes.
-> 
->     "Why did the two quantum particles break up? Because they were too entangled—every time one of them wanted some personal space, the other one felt it immediately!"
-> 
->     *Wait, is there a better "spin" joke?*
->     "Why don't quantum particles ever get lost? Because they're always in sync!" (A bit weak).
-> 
->     Let's go with the "personal space" one. It's very clear.
-> 
->     *One more check:*
->     "Why did the two quantum particles break up? Because they were too entangled—every time one of them wanted some space, the other one felt it immediately!"
-> 
->     Perfect.
-> 
->     "Why did the two quantum particles break up? Because they were too entangled—every time one of them wanted some space, the other one felt it immediately!"
+>     "Why don't roller derby players ever get lost? Because they always stay on track!"
 
