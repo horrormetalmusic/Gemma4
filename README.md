@@ -1,47 +1,41 @@
 # Joke of the day: 
-Why did the sourdough starter go to school? 
+Why did the submarine go to therapy? 
 
-Because it wanted to get a little more cultured!
+Because it was under too much pressure!
 
 ## Topic
-<!--TOPIC-->Baking Sourdough Bread<!--/TOPIC-->
+<!--TOPIC-->Deep Sea Exploration<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|30|
-|**Candidates Token Count**|21|
-|**Total Token Count**|475|
-|**Thoughts Token Count**|424|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|18|
+|**Total Token Count**|380|
+|**Thoughts Token Count**|335|
 
 ## Thoughts: 
-> *   Topic: Baking Sourdough Bread.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Deep Sea Exploration.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Sourdough starter (it's a pet, it's alive, it's hungry).
->     *   Fermentation (bubbles, waiting).
->     *   "Starter" puns (starting something, starters).
->     *   "Knead" puns (need).
->     *   "Loaf" puns (love/loaf).
->     *   "Rise" puns.
+>     *   Idea 1: Something about pressure. (Why did the submarine go to therapy? Because it was under too much pressure.)
+>     *   Idea 2: Something about fish. (Why don't fish like fast food? Because they're afraid of the net? No, that's not sea exploration.)
+>     *   Idea 3: Something about sonar/submarines.
+>     *   Idea 4: Something about an anglerfish.
+>     *   Idea 5: Something about the Mariana Trench.
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues bubbling up inside! (A bit cliché).
->     *   *Idea 2:* Why did the baker go to jail? He was caught "loafing" around with his sourdough! (A bit weak).
->     *   *Idea 3:* What did the sourdough starter say to the baker? "You really knead me!" (Simple, classic).
->     *   *Idea 4:* Why is sourdough so good at making friends? Because it's always bubbling with personality! (Sweet, light).
->     *   *Idea 5:* Why did the sourdough starter get promoted? Because it was always rising to the occasion! (Strong contender).
+>     *   *Option A:* Why did the submarine go to therapy? Because it was under too much pressure! (Classic, simple, fits the theme).
+>     *   *Option B:* Why don't scientists trust the ocean? Because there's something fishy about it. (A bit generic).
+>     *   *Option C:* What did the ocean say to the explorer? Nothing, it just waved. (A bit too simple/not specific to exploration).
 > 
->     *   "Why did the sourdough starter get promoted? Because it always rose to the occasion!"
->     *   "Why did the sourdough starter go to school? To get a little more cultured!" (This is a very clever sourdough joke).
+>     *   Option A is the strongest "joke" structure for the specific topic of exploration/submarines.
 > 
->     *   "Why did the sourdough starter go to school? Because it wanted to get a little more cultured!"
+>     *   "Why did the submarine go to therapy? Because it was under too much pressure!"
 > 
->     *   Funny? Yes.
->     *   Topic: Sourdough? Yes.
+>     *   Funny? Yes (pun).
+>     *   Deep Sea Exploration? Yes.
 >     *   Simple/Light/Easy? Yes.
 >     *   Only output the joke? Yes.
-> 
->     "Why did the sourdough starter go to school? Because it wanted to get a little more cultured!"
 
