@@ -1,71 +1,44 @@
 # Joke of the day: 
-Why did the baker go to the bank?
+Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, "Do you know how fast you were going?"
 
-Because he needed some dough!
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Baking<!--/TOPIC-->
+<!--TOPIC-->Quantum Physics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|26|
-|**Candidates Token Count**|16|
-|**Total Token Count**|642|
-|**Thoughts Token Count**|600|
+|**Candidates Token Count**|45|
+|**Total Token Count**|442|
+|**Thoughts Token Count**|371|
 
 ## Thoughts: 
-> *   Topic: Baking.
+> *   Topic: Quantum Physics.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   *Idea 1:* Why did the baker go to the bank? Because he needed some dough. (Classic, simple).
->     *   *Idea 2:* What do you call a fake noodle? An impasta. (Wait, that's cooking, not specifically baking).
->     *   *Idea 3:* Why did the cookie go to the doctor? Because he was feeling crumbly. (Cute, simple).
->     *   *Idea 4:* What's a baker's favorite type of music? Rock and Roll? No, something with yeast? No.
->     *   *Idea 5:* Why did the bread go to the doctor? It was feeling crumby.
+>     *   Schrödinger's Cat (dead/alive).
+>     *   Heisenberg's Uncertainty Principle (position/momentum).
+>     *   Quantum Entanglement (spooky action at a distance).
+>     *   Superposition.
 > 
->     *   "Why did the baker go to the bank? Because he needed some dough!" is a solid choice.
->     *   "Why did the cookie go to the doctor? Because he was feeling crumbly!" is also very good.
+>     *   *Option 1 (Heisenberg):* Heisenberg is driving down the highway. A cop pulls him over and asks, "Do you know how fast you were going?" Heisenberg replies, "No, but I know exactly where I am!" (Classic, very popular).
+>     *   *Option 2 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't. (A bit too short/dry).
+>     *   *Option 3 (Entanglement):* Two particles are dating... (Harder to make simple).
 > 
->     Let's go with the "dough" one, it's a classic pun. Or the "crumbly" one. Let's go with the "dough" one as it's very straightforward.
+>     *   The Heisenberg joke is the gold standard for "simple, light, and easy to understand" quantum physics humor.
 > 
->     Actually, let's try:
->     "Why did the bread go to the doctor? Because it was feeling crumby!"
+>     *   "Heisenberg is driving down the highway when he gets pulled over by a police officer. The officer asks, 'Do you know how fast you were going?' Heisenberg replies, 'No, but I know exactly where I am!'"
 > 
->     Let's try another:
->     "What did the baker say to the cake? 'You take the cake!'" (A bit weak).
+>     *   Topic: Quantum Physics? Yes.
+>     *   Funny? Yes.
+>     *   Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     Let's go with:
->     Why did the baker go to the bank? 
->     Because he needed some dough!
+>     Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, "Do you know how fast you were going?" 
 > 
->     "Why did the baker go to the bank? Because he needed some dough!"
-> 
->     Wait, "Only output the joke."
-> 
->     Joke:
->     Why did the baker go to the bank?
->     Because he needed some dough!
-> 
->     *Self-Correction:* Let's try a different one to ensure maximum "funny/light" factor.
->     "What do you call a wizard who loves to bake? A pastry chef? No... A dough-mancer?" (Too complex).
-> 
->     "Why did the cookie go to the doctor? Because he was feeling crumbly!" is very sweet and easy.
-> 
->     Let's go with the "dough" one. It's the gold standard for simple baking jokes.
-> 
->     *Final Selection:*
->     Why did the baker go to the bank?
->     Because he needed some dough!
-> 
->     - Baking? Yes.
->     - Funny? Yes (punny).
->     - Simple/Light? Yes.
->     - Only output the joke? Yes.
-> 
->     Why did the baker go to the bank?
-> 
->     Because he needed some dough!
+>     Heisenberg replies, "No, but I know exactly where I am!"
 
