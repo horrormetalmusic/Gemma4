@@ -1,40 +1,39 @@
 # Joke of the day: 
-Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, "Sir, do you have any idea how fast you were going?"
+Why did the sourdough bread get promoted?
 
-Heisenberg replies, "No, but I know exactly where I am!"
+Because it always rose to the occasion!
 
 ## Topic
-<!--TOPIC-->Quantum Mechanics<!--/TOPIC-->
+<!--TOPIC-->Baking Sourdough Bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|49|
-|**Total Token Count**|436|
-|**Thoughts Token Count**|361|
+|**Prompt Token Count**|30|
+|**Candidates Token Count**|17|
+|**Total Token Count**|322|
+|**Thoughts Token Count**|275|
 
 ## Thoughts: 
-> *   Topic: Quantum Mechanics.
+> *   Topic: Baking Sourdough Bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's cat (dead/alive).
->     *   Heisenberg's uncertainty principle (position vs. momentum).
->     *   Entanglement (spooky action at a distance).
->     *   Superposition (being in two states at once).
+>     *   Idea 1: Starter/Levain. "Why did the sourdough starter go to therapy? Because it had too many issues (yeast/issues)." (A bit cliché).
+>     *   Idea 2: Bubbles/Fermentation.
+>     *   Idea 3: Relationships with the starter. "My sourdough starter is like a needy roommate. It needs constant attention and always wants more food."
+>     *   Idea 4: Pun on "dough." "I'm on a roll." (Too generic).
+>     *   Idea 5: The "rise" of sourdough. "Why was the sourdough bread so successful? It always rose to the occasion." (Classic, simple, fits the prompt).
 > 
->     *   *Option 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't.
->     *   *Option 2 (Heisenberg):* Heisenberg is driving. A cop stops him and asks, "Do you know how fast you were going?" Heisenberg says, "No, but I know exactly where I am!"
->     *   *Option 3 (Uncertainty/Schrödinger combo):* A physicist is explaining Schrödinger's cat to a friend. The friend asks, "Is the cat okay?" The physicist says, "I'm not sure, let's go check." As soon as they open the box, the joke is over. (A bit weak).
+>     *   "Why did the sourdough bread get promoted? Because it always rose to the occasion!"
 > 
->     *   The Heisenberg joke is a classic, easy to understand, and fits the "simple/light" criteria perfectly.
-> 
->     *   "Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, 'Sir, do you have any idea how fast you were going?' Heisenberg replies, 'No, but I know exactly where I am!'"
-> 
->     *   Simple? Yes.
->     *   Light? Yes.
->     *   Easy to understand? Yes.
+>     *   Topic: Sourdough? Yes.
+>     *   Funny? Yes (punny).
+>     *   Simple/Light? Yes.
 >     *   Only output the joke? Yes.
+> 
+>     Why did the sourdough bread get promoted? 
+> 
+>     Because it always rose to the occasion!
 
