@@ -1,52 +1,44 @@
 # Joke of the day: 
-Why did the baker go to the bank?
+Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, "Do you know how fast you were going?"
 
-Because he kneaded some dough!
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Baking Bread<!--/TOPIC-->
+<!--TOPIC-->Quantum Physics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|17|
-|**Total Token Count**|482|
-|**Thoughts Token Count**|438|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|45|
+|**Total Token Count**|424|
+|**Thoughts Token Count**|353|
 
 ## Thoughts: 
-> *   Topic: Baking Bread.
+> *   Topic: Quantum Physics.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Yeast/Rising. "Why did the bread go to the doctor? It was feeling crumby." (A bit cliché).
->     *   Idea 2: Dough/Money. "Why was the baker so rich? Because he kneaded the dough." (Classic).
->     *   Idea 3: Loaf/Alone. "What did the loaf of bread say to the other? You're my loaf and only one." (A bit cheesy/punny).
->     *   Idea 4: Yeast/Rising. "Why did the loaf of bread go to the gym? To get some rolls." (Good).
->     *   Idea 5: Yeast/Rising. "I'm on a roll!"
+>     *   Schrödinger's Cat (dead/alive).
+>     *   Heisenberg Uncertainty Principle (position/momentum).
+>     *   Entanglement (spooky action at a distance).
+>     *   Quantum superposition.
 > 
->     "Why did the baker go to the bank? Because he kneaded some dough!"
+>     *   *Option 1 (Heisenberg):* Heisenberg is driving down the highway. A cop pulls him over and asks, "Do you know how fast you were going?" Heisenberg says, "No, but I know exactly where I am!"
+>     *   *Option 2 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't.
+>     *   *Option 3 (Schrödinger/Heisenberg combo):* Schrödinger and Heisenberg are driving... (a bit complex).
 > 
->     *   Is it about baking bread? Yes.
->     *   Is it funny/light? Yes.
->     *   Is it simple? Yes.
->     *   Is it only the joke? Yes.
+>     *   The Heisenberg joke is a classic, very simple, and captures the core concept (uncertainty) perfectly without needing deep math.
 > 
->     Let's try another one to see if there's a better one.
->     "What did the bread say when it was feeling sad? 'Everything is crumby!'"
+>     *   "Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, 'Do you know how fast you were going?' Heisenberg replies, 'No, but I know exactly where I am!'"
 > 
->     Let's go with the "kneaded some dough" one, it's a classic bread pun.
+>     *   Funny? Yes.
+>     *   Simple? Yes.
+>     *   Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     *Wait, let's try one about yeast.*
->     "Why did the bread go to the doctor? Because it was feeling crumby!"
+>     Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, "Do you know how fast you were going?"
 > 
->     Actually, the "kneaded dough" one is very standard.
-> 
->     Let's try: "What did the loaf of bread say to the butter? You're on a roll!"
-> 
->     Let's go with:
->     "Why did the baker go to the bank? Because he kneaded some dough!"
-> 
->     "Why did the baker go to the bank? Because he kneaded some dough!"
+>     Heisenberg replies, "No, but I know exactly where I am!"
 
