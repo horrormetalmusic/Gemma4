@@ -1,61 +1,44 @@
 # Joke of the day: 
-Why are hydrothermal vents so popular? Because they’re always part of the hottest crowd in the ocean!
+Why did the professional origami artist quit their job?
+
+Because they kept folding under pressure.
 
 ## Topic
-<!--TOPIC-->Deep-sea hydrothermal vents<!--/TOPIC-->
+<!--TOPIC-->Professional origami<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|21|
-|**Total Token Count**|692|
-|**Thoughts Token Count**|642|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|18|
+|**Total Token Count**|430|
+|**Thoughts Token Count**|386|
 
 ## Thoughts: 
-> *   Topic: Deep-sea hydrothermal vents.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Professional origami.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Extreme heat/pressure.
->     *   Darkness.
->     *   Chemosynthesis (bacteria using chemicals instead of sunlight).
->     *   Unique creatures (tubeworms, shrimp, crabs).
->     *   "Chimneys" or "smokers."
+>     *   Idea 1: Folding/Unfolding.
+>     *   Idea 2: Paper/Crease/Sharpness.
+>     *   Idea 3: Job interview/Career path.
+>     *   Idea 4: "Unfolding" secrets.
+>     *   Idea 5: Being "bent out of shape."
 > 
->     *   *Idea 1 (Temperature):* Why are hydrothermal vents so popular? Because they're always "hot" right now. (A bit cliché).
->     *   *Idea 2 (Chemosynthesis):* Why don't vent bacteria need a sunlamp? Because they're into "chemical" romance. (A bit niche).
->     *   *Idea 3 (Chimneys):* Why did the vent go to school? To become a "chimney" sweep? (Doesn't make sense).
->     *   *Idea 4 (Social life):* Why are hydrothermal vents so good at parties? Because they always bring the "heat" and have a lot of "pressure" to perform. (A bit long).
->     *   *Idea 5 (Darkness/Heat):* Why don't deep-sea creatures ever get cold at hydrothermal vents? Because they're always hanging out with the "hot" crowd!
+>     *   *Draft A:* Why did the professional origami artist get fired? He was always folding under pressure. (Classic, simple, fits the theme).
+>     *   *Draft B:* What do you call a professional origami artist who can't stop working? A paper pusher. (A bit weak).
+>     *   *Draft C:* Why did the origami professional go to therapy? Because they were feeling a bit crumpled. (A bit sad/cliché).
+>     *   *Draft D:* How do professional origami artists handle stress? They just try to stay composed, but usually, they just fold.
 > 
->     *   "Why are hydrothermal vents so popular? Because they’re always part of the hottest crowd in the ocean!"
->     *   "Why did the deep-sea creature love the hydrothermal vent? Because it was always the life of the party—it really brought the heat!"
+>     *   "Why did the professional origami artist quit their job? Because they kept folding under pressure."
+>     *   "Why was the professional origami artist so good at their job? Because they knew how to handle the pressure without folding!" (A bit wordy).
+>     *   Let's go with the "folding under pressure" one. It's the quintessential pun for this topic.
 > 
->     "Why are hydrothermal vents so popular? Because they're always part of the hottest crowd in the ocean!"
+>     *   "Why did the professional origami artist quit their job? Because they couldn't stop folding under pressure."
 > 
->     Simple? Yes.
->     Light? Yes.
->     Easy to understand? Yes.
->     Only output the joke? Yes.
-> 
->     *Self-Correction:* Let's try one more.
->     "What did the deep-sea creature say to the hydrothermal vent? 'You're really heating up the neighborhood!'"
-> 
->     Let's go with the "hottest crowd" one, it's a classic pun style.
-> 
->     *Alternative:*
->     "Why did the tubeworm go to the hydrothermal vent? Because it heard the atmosphere was really intense!" (A bit more "smart").
-> 
->     Let's go with:
->     "Why are hydrothermal vents so popular? Because they’re always part of the hottest crowd in the ocean!"
-> 
->     *Wait, let's try one about the pressure/heat.*
->     "Why are hydrothermal vents so good at making friends? Because they're always under a lot of pressure to be hot!" (A bit clunky).
-> 
->     Let's stick to the "hottest crowd" pun. It's the simplest.
-> 
->     *Final selection:*
->     Why are hydrothermal vents so popular? Because they're always part of the hottest crowd in the ocean!
+>     *   Funny? Yes (pun-based).
+>     *   Professional origami? Yes.
+>     *   Simple/Light/Easy? Yes.
+>     *   Only output the joke? Yes.
 
