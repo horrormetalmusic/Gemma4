@@ -1,42 +1,52 @@
 # Joke of the day: 
-Why did the submarine break up with the ocean?
+Why did the blacksmith get fired?
 
-Because there was too much pressure!
+Because he kept losing his temper!
 
 ## Topic
-<!--TOPIC-->Deep-sea Exploration<!--/TOPIC-->
+<!--TOPIC-->Medieval Blacksmithing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|28|
-|**Candidates Token Count**|18|
-|**Total Token Count**|395|
-|**Thoughts Token Count**|349|
+|**Candidates Token Count**|15|
+|**Total Token Count**|574|
+|**Thoughts Token Count**|531|
 
 ## Thoughts: 
-> *   Topic: Deep-sea Exploration.
+> *   Topic: Medieval Blacksmithing.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Something about pressure. (e.g., "Why did the submarine break up with the ocean? There was too much pressure.")
->     *   Idea 2: Something about fish/creatures. (e.g., "What kind of fish goes to deep-sea exploration? A star-fish? No, that's not right.")
->     *   Idea 3: Something about depth/darkness.
->     *   Idea 4: Something about sonar.
+>     *   Idea 1: Why did the blacksmith get fired? He couldn't handle the pressure. (Too generic)
+>     *   Idea 2: Why did the blacksmith refuse to make a sword for the king? He didn't want to be on edge. (A bit weak)
+>     *   Idea 3: A joke about an anvil or a hammer.
+>     *   Idea 4: Why was the blacksmith such a good person? He always had a heart of steel. (Cliché)
+>     *   Idea 5: Why did the medieval blacksmith go to therapy? He had too many heavy metal issues. (Modern pun, might work)
+>     *   Idea 6: Why did the blacksmith break up with his girlfriend? He felt the relationship was losing its spark. (Classic, fits the theme)
+>     *   Idea 7: Why did the blacksmith get in trouble with the knight? He was always striking out. (A bit confusing)
+>     *   Idea 8: What do you call a blacksmith who works too much? An iron man. (A bit too superhero-y)
 > 
->     *   Joke A: "Why did the submarine break up with the ocean? Because there was too much pressure!" (Classic, light, simple).
->     *   Joke B: "Why don't fish play basketball? Because they're afraid of the net... wait, that's just a fish joke."
->     *   Joke C: "How do deep-sea explorers say goodbye? They give a little 'wave'." (Cute, but maybe too simple).
+>     "Why did the blacksmith break up with his girlfriend? He felt their relationship was losing its spark!"
 > 
->     *   The "pressure" joke is the most iconic and fits "Deep-sea Exploration" perfectly.
+>     "Why did the medieval blacksmith go to therapy? Because he had too many heavy metal issues!" -> This is quite funny and simple.
 > 
->     *   "Why did the submarine break up with the ocean? Because it felt too much pressure!"
+>     Let's try another:
+>     "Why did the blacksmith get promoted? Because he was always on top of his game, one strike at a time!" (Not funny enough)
 > 
->     *   Joke: Why did the submarine break up with the ocean? Because there was too much pressure!
+>     Let's go with a pun on "forging" or "iron".
+>     "Why couldn't the blacksmith finish the sword? He kept losing his temper!" (Wait, "temper" is a technical term for metal hardening, but also a human emotion. This is a classic double entendre/pun).
 > 
->     *   Deep-sea exploration? Yes.
->     *   Funny? Yes.
->     *   Simple/light? Yes.
+>     *   "Why did the blacksmith get fired? He kept losing his temper!"
+>     *   It's simple.
+>     *   It's about blacksmithing (tempering steel).
+>     *   It's lighthearted.
+> 
+>     *   Medieval Blacksmithing? Yes.
+>     *   Funny/Simple/Light? Yes.
 >     *   Only output the joke? Yes.
+> 
+>     "Why did the blacksmith get fired? Because he kept losing his temper!"
 
