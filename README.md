@@ -1,98 +1,61 @@
 # Joke of the day: 
-What do you call a sheep that breaks down castle doors? 
+Why was the deep-sea fish so popular?
 
-A battering ram!
+Because he really knew how to light up a room!
 
 ## Topic
-<!--TOPIC-->Medieval Siege Engines<!--/TOPIC-->
+<!--TOPIC-->Deep Sea Bioluminescence<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|19|
-|**Total Token Count**|1088|
-|**Thoughts Token Count**|1042|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|22|
+|**Total Token Count**|641|
+|**Thoughts Token Count**|591|
 
 ## Thoughts: 
-> *   Topic: Medieval Siege Engines.
+> *   Topic: Deep Sea Bioluminescence.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Trebuchet: Launching things, "throwing" a tantrum, "trebuchet" sounding like "trouble".
->     *   Catapult: Launching rocks, "cat"-apult (cats?).
->     *   Battering Ram: Hitting things, "ram" (sheep/animal).
->     *   Ballista: Big crossbow, "ballista" sounding like "ballista" (not much there).
+>     *   Lights, glowing, darkness, deep sea, fish, anglerfish, glowing in the dark, "bright idea," "seeing the light," "lit," "glow up."
 > 
->     *   *Idea 1 (Trebuchet):* Why was the trebuchet so bad at keeping secrets? Because it always threw everything out in the open!
->     *   *Idea 2 (Catapult):* Why did the catapult get kicked out of the party? Because it kept launching its insults!
->     *   *Idea 3 (Battering Ram):* What do you call a sheep that breaks down castle doors? A battering ram! (Simple, classic pun).
->     *   *Idea 4 (Trebuchet):* Why did the knight bring a trebuchet to the date? He wanted to sweep her off her feet... with a boulder. (A bit long).
+>     *   *Idea 1:* Why did the anglerfish go to school? To get a bright future. (A bit cliché).
+>     *   *Idea 2:* What did the deep-sea fish say when it saw a glowing jellyfish? "You're looking quite lit today!" (A bit modern/slangy).
+>     *   *Idea 3:* Why don't deep-sea fish ever get lost? Because they always have a bright idea! (Okay).
+>     *   *Idea 4:* Why did the fish cross the ocean floor? To get to the other *side* of the light? (No).
+>     *   *Idea 5:* Why was the deep-sea fish so popular? Because he really knew how to light up a room! (Simple, fits the theme).
 > 
->     *   "What do you call a sheep that breaks down castle doors? A battering ram!" is very simple and easy to understand.
->     *   "Why was the trebuchet so bad at secrets? Because it always throws things around!" is also good.
+>     *   "Why was the deep-sea fish so popular? Because he really knew how to light up a room!"
 > 
->     Let's go with the sheep one. It's a classic play on words.
-> 
->     *Self-Correction:* Actually, let's try a trebuchet one.
->     "Why couldn't the trebuchet find its way home? It kept losing its bearings!" (Too technical?)
-> 
->     Let's try:
->     "Why did the trebuchet get promoted? Because it always went above and beyond!" (A bit abstract).
-> 
->     Let's try a pun on "Catapult":
->     "What happened when the catapult got angry? It threw a tantrum!" (A bit weak).
-> 
->     Let's go back to the Battering Ram. It's the most "joke-like" structure for a simple audience.
+>     *   Deep sea bioluminescence? Yes.
+>     *   Funny/Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
 >     *Alternative:*
->     "Why was the catapult so good at its job? It always hit the mark!" (Too dry).
+>     "What do you call a fish that glows in the dark? A light snack!" (A bit dark/predatory).
 > 
->     *Let's try a Trebuchet pun:*
->     "Why was the trebuchet so popular? Because it was a real stone-cold legend!" (Maybe too much slang).
+>     *Let's go with the "light up a room" one or a variation.*
 > 
->     *Back to basics:*
->     "What do you call a sheep that breaks down castle walls? A battering ram!"
+>     *Wait, let's try:*
+>     "Why did the anglerfish get a promotion? Because he was a real bright spark!"
 > 
->     Wait, let's try a "Catapult" one that's even simpler.
->     "Why did the knight bring a catapult to the party? He wanted to launch a surprise attack!" (Not really a joke).
+>     *Let's go with a classic structure:*
+>     "Why don't deep-sea fish ever get lost in the dark? Because they always have a bright idea!"
 > 
->     Let's go with the Battering Ram one. It's punchy.
+>     *Actually, let's try this one:*
+>     "Why was the deep-sea fish so successful? Because he always had a bright idea!"
 > 
->     *One more idea:*
->     "Why was the trebuchet so stressed? It was under a lot of pressure to launch!"
+>     *Or:*
+>     "What did the deep-sea fish say to his friend? 'You’re looking really lit today!'" (Maybe too slang-dependent).
 > 
->     Actually, the "Sheep/Battering Ram" is the cleanest.
+>     *Let's go with the most universally understood:*
+>     "Why was the deep-sea fish so popular at parties? Because he really knew how to light up the room!"
 > 
->     "What do you call a sheep that breaks down castle doors? A battering ram!"
+>     *Refined:*
+>     "Why was the deep-sea fish so popular? Because he really knew how to light up a room!"
 > 
->     *Wait, let's try one about a Trebuchet and a relationship.*
->     "Why did the trebuchet break up with the catapult? Because it felt like their relationship was just being thrown around!"
-> 
->     That's a bit more "joke" structured.
-> 
->     Let's check the "Sheep" one again.
->     "What do you call a sheep that breaks down castle doors? A battering ram!"
->     It's simple, light, easy.
-> 
->     Let's provide the Sheep one.
-> 
->     *Actually, let's try:*
->     "Why did the trebuchet get kicked out of the library? Because it kept throwing stones!" (Simple).
-> 
->     Let's go with:
->     "What do you call a sheep that breaks down castle doors? A battering ram!"
-> 
->     *Wait, let's try one about a Ballista.*
->     "What's a ballista's favorite type of music? Heavy metal... because it fires bolts!" (A bit of a stretch).
-> 
->     Let's go with the Battering Ram joke. It's a classic pun.
-> 
->     "What do you call a sheep that breaks down castle doors? A battering ram!"
-> 
->     *Refining for "Simple/Light":*
->     "What do you call a sheep that breaks down castle walls? A battering ram!"
-> 
->     "What do you call a sheep that breaks down castle doors? A battering ram!"
+>     "Why was the deep-sea fish so popular? Because he really knew how to light up a room!"
 
