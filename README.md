@@ -1,108 +1,102 @@
 # Joke of the day: 
-Why did the two quantum particles get married?
+Why was the catapult so good at making friends?
 
-Because they had an instant connection, but the honeymoon was a little spooky!
+Because it always knew how to launch a conversation!
 
 ## Topic
-<!--TOPIC-->Quantum Entanglement<!--/TOPIC-->
+<!--TOPIC-->Medieval Siege Engines<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|27|
-|**Candidates Token Count**|25|
-|**Total Token Count**|1276|
-|**Thoughts Token Count**|1224|
+|**Candidates Token Count**|21|
+|**Total Token Count**|1007|
+|**Thoughts Token Count**|959|
 
 ## Thoughts: 
-> *   Topic: Quantum Entanglement.
+> *   Topic: Medieval Siege Engines.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Concept: Two particles are linked; what happens to one happens to the other instantly, regardless of distance.
->     *   Common tropes: "Spooky action at a distance" (Einstein), relationships (being in sync), long-distance relationships, communication issues.
+>     *   Trebuchet/Catapult (throwing things).
+>     *   Battering ram (hitting things).
+>     *   Siege towers (climbing things).
+>     *   Ballista (arrows/bolts).
+>     *   Puns related to "throwing," "ramming," "launching," "tensions," "heavy," "weight."
 > 
->     *   *Idea 1 (Relationship):* Why did the two electrons break up? Because they weren't feeling the connection anymore. (A bit cliché).
->     *   *Idea 2 (Relationship/Communication):* Why did the quantum physicist get dumped? Because even though they were entangled, he still felt like they weren't on the same wavelength. (A bit weak).
->     *   *Idea 3 (Spooky action):* An electron walks into a bar... no, that's a different joke.
->     *   *Idea 4 (The "Spooky" aspect):* Why did the quantum particles get married? Because they had a very strong connection, but things got a little spooky when they tried to go their separate ways.
->     *   *Idea 5 (Simple observation):* Why are quantum particles so good at long-distance relationships? Because no matter how far apart they are, they’re always on the same page!
+>     *   *Idea 1:* Why did the trebuchet break up with the catapult? It felt like the relationship was just throwing things around. (A bit weak).
+>     *   *Idea 2:* Why was the battering ram so good at making friends? Because he was always hitting it off with people. (Classic pun style).
+>     *   *Idea 3:* What do you call a medieval siege engine that's always telling jokes? A pun-apult! (A bit cheesy).
+>     *   *Idea 4:* Why was the trebuchet so stressed? Because it was under a lot of tension. (Simple, accurate).
 > 
->     *   "Why did the two quantum particles get married? Because they had an instant connection, but the honeymoon was a little spooky!"
->     *   "Why did the quantum physicist break up with his partner? Because they were entangled, but he still felt like he couldn't observe her without changing her!" (A bit too technical/nerdy).
->     *   Let's go with something about the "connection" aspect.
+>     *   Idea 2 (Battering Ram) is very classic and "dad joke" style, which fits "simple, light, easy to understand."
+>     *   Idea 4 (Trebuchet tension) is also good.
 > 
->     *Selection:*
->     "Why did the two quantum particles break up?
->     Because they were having a major identity crisis—every time one tried to make a decision, the other one just reacted!"
+>     Let's go with the Battering Ram one. It's very clean.
 > 
->     *Actually, let's go with a classic "relationship" pun:*
->     "Why are quantum particles so good at long-distance relationships?
->     Because no matter how far apart they are, they’re always perfectly in sync!"
+>     *Wait, let's try one about a Trebuchet:*
+>     "Why was the trebuchet so bad at keeping secrets? Because it always ended up letting something fly!"
 > 
->     *Wait, let's try one more:*
->     "Why did the quantum physicist refuse to date a single particle?
->     Because he was looking for something with a bit more entanglement!"
+>     *Let's go with the Battering Ram one, it's more universal:*
+>     "Why was the battering ram such a great socialite? Because he was always hitting it off with everyone!"
 > 
->     *Let's try a punchline about the "Spooky action" part:*
->     "Why don't quantum particles ever get lost?
->     Because even if they're miles apart, they're always in total sync!"
+>     *Actually, let's try a Trebuchet pun:*
+>     "Why don't trebuchets ever get invited to parties? Because they always throw too much drama!"
 > 
->     *Let's go with this one:*
->     "Why did the quantum particles get into an argument?
->     Because one of them was feeling a little 'spinny,' and the other one just couldn't help but react!"
+>     *Let's try a simple one:*
+>     "Why was the catapult so popular? Because it always knew how to launch a conversation!"
 > 
->     *Actually, the simplest one is usually best:*
->     "Why are quantum particles so good at long-distance relationships?
->     Because no matter how far apart they are, they're always in sync!"
+>     *Decision:* The catapult/conversation one is very light and easy. Or the Battering Ram "hitting it off" one.
 > 
->     *Let's try a slightly more 'joke-structured' one:*
->     "Why did the quantum physicist break up with his partner?
->     Because even though they were entangled, he felt like she was constantly changing him just by looking at him!" (This hits the "Observer Effect" + "Entanglement").
+>     Let's go with:
+>     Why was the battering ram such a good friend? 
+>     Because he was always hitting it off with people!
 > 
->     *Let's stick to the most accessible one:*
->     "Why are quantum particles so great at long-distance relationships?
->     Because no matter how far apart they are, they’re always perfectly in sync!"
+>     *Alternative:*
+>     Why did the trebuchet break up with the catapult?
+>     Because the relationship was just too one-sided—it was always throwing things at her!
 > 
->     *Wait, I want something punchier.*
->     "Why did the two quantum particles get married?
->     Because they had an instant connection, but the wedding was a little spooky!"
+>     Let's go with the catapult/conversation one. It's very simple.
 > 
->     *That's good. Let's check the prompt: "Simple, light, easy to understand".*
+>     "Why was the catapult so good at making friends? Because it always knew how to launch a conversation!"
 > 
->     Let's try:
->     "Why did the quantum particles get into a relationship?
->     Because they had an instant connection, but things got a little spooky when they tried to spend time apart!"
+>     *Wait, one more:*
+>     "What is a trebuchet's favorite type of music? Heavy metal!" (Maybe too niche).
 > 
->     *Actually, the "Spooky action at a distance" is the key.*
+>     Let's go with the catapult/conversation one.
 > 
->     "Why did the quantum particles break up?
->     Because they had an instant connection, but the relationship was just too spooky!"
+>     *Final Check:*
+>     Topic: Medieval Siege Engines? Yes (Catapult).
+>     Funny? Yes (Dad joke style).
+>     Simple/Light? Yes.
+>     Only output the joke? Yes.
 > 
->     *Let's go with:*
->     "Why are quantum particles so good at long-distance relationships?
->     Because no matter how far apart they are, they’re always perfectly in sync!"
+>     *Revised Joke:*
+>     Why was the catapult so good at making friends?
+>     Because it always knew how to launch a conversation!
 > 
->     "Why are quantum particles so good at long-distance relationships?
->     Because no matter how far apart they are, they’re always perfectly in sync!"
+>     *Actually, let's try the Battering Ram one, it's slightly punchier.*
+>     Why was the battering ram so popular?
+>     Because he was always hitting it off with everyone!
 > 
->     *Actually, let's try one more that's a bit cleverer:*
->     "Why did the quantum physicist break up with his partner?
->     Because they were entangled, but he felt like she was always changing his state of mind!"
+>     "Why was the catapult so good at making friends? Because it always knew how to launch a conversation!"
 > 
->     Let's go with the "Spooky" one, it's the most iconic part of the theory.
+>     Let's go with the catapult one.
 > 
->     "Why did the two quantum particles get married?
->     Because they had an instant connection, but the honeymoon was a little spooky!"
+>     Wait, I'll provide the Battering Ram one. It's a classic pun.
 > 
->     (Note: "Spooky action at a distance" is how Einstein described it).
+>     Joke:
+>     Why was the battering ram so popular?
+>     Because he was always hitting it off with everyone!
 > 
->     "Why did the two quantum particles get married?
->     Because they had an instant connection, but the honeymoon was a little spooky!"
+>     *Self-Correction:* The prompt asks for "a funny joke about Medieval Siege Engines".
 > 
->     *Self-Correction:* The "instant connection" is the entanglement. "Spooky" is the Einstein quote. It works.
+>     "Why was the catapult so good at making friends? Because it always knew how to launch a conversation!"
 > 
->     "Why did the two quantum particles get married?
->     Because they had an instant connection, but the honeymoon was a little spooky!"
+>     (Self-correction: "Launch a conversation" is a common idiom, making it easy to understand).
+> 
+>     Why was the catapult so good at making friends?
+>     Because it always knew how to launch a conversation!
 
