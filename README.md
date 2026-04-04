@@ -1,102 +1,88 @@
 # Joke of the day: 
-Why was the catapult so good at making friends?
-
-Because it always knew how to launch a conversation!
+Why do sourdough bakers make such great friends? Because they always rise to the occasion!
 
 ## Topic
-<!--TOPIC-->Medieval Siege Engines<!--/TOPIC-->
+<!--TOPIC-->Sourdough Baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|21|
-|**Total Token Count**|1007|
-|**Thoughts Token Count**|959|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|17|
+|**Total Token Count**|978|
+|**Thoughts Token Count**|933|
 
 ## Thoughts: 
-> *   Topic: Medieval Siege Engines.
+> *   Topic: Sourdough Baking.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Trebuchet/Catapult (throwing things).
->     *   Battering ram (hitting things).
->     *   Siege towers (climbing things).
->     *   Ballista (arrows/bolts).
->     *   Puns related to "throwing," "ramming," "launching," "tensions," "heavy," "weight."
+>     *   Starter (mother/yeast/bacteria).
+>     *   Feeding (flour/water).
+>     *   Levain.
+>     *   Proofing/Rising/Bubbles.
+>     *   Scoring (slashing the dough).
+>     *   The obsession (it's like a pet).
+>     *   Discard.
 > 
->     *   *Idea 1:* Why did the trebuchet break up with the catapult? It felt like the relationship was just throwing things around. (A bit weak).
->     *   *Idea 2:* Why was the battering ram so good at making friends? Because he was always hitting it off with people. (Classic pun style).
->     *   *Idea 3:* What do you call a medieval siege engine that's always telling jokes? A pun-apult! (A bit cheesy).
->     *   *Idea 4:* Why was the trebuchet so stressed? Because it was under a lot of tension. (Simple, accurate).
+>     *   *Idea 1 (The Pet Angle):* Why did the baker break up with their sourdough starter? Because it was too needy and always demanded to be fed. (A bit cliché).
+>     *   *Idea 2 (The Pun Angle):* What did the sourdough say to the flour? "I knead you." (Classic, maybe too simple).
+>     *   *Idea 3 (The Relationship/Time Angle):* My sourdough starter and I have a very complicated relationship. It’s a lot of work, it’s always demanding attention, and if I ignore it for a day, it gets really sour.
 > 
->     *   Idea 2 (Battering Ram) is very classic and "dad joke" style, which fits "simple, light, easy to understand."
->     *   Idea 4 (Trebuchet tension) is also good.
+>     *   *Drafting Idea 1:* Why did the baker get a divorce from their sourdough starter? Because it was too high-maintenance and always had too many issues! (A bit wordy).
+>     *   *Drafting Idea 2:* Why do sourdough bakers make such great friends? Because they know how to rise to the occasion! (Good, wholesome).
+>     *   *Drafting Idea 3:* Why did the sourdough starter go to therapy? Because it had too many bubbly issues! (Simple and cute).
 > 
->     Let's go with the Battering Ram one. It's very clean.
+>     "Why did the sourdough starter go to therapy? Because it had too many bubbly issues!" or "Why do sourdough bakers make such great friends? Because they always rise to the occasion!"
 > 
->     *Wait, let's try one about a Trebuchet:*
->     "Why was the trebuchet so bad at keeping secrets? Because it always ended up letting something fly!"
+>     Let's go with the "Rise to the occasion" one or something about being "sour".
 > 
->     *Let's go with the Battering Ram one, it's more universal:*
->     "Why was the battering ram such a great socialite? Because he was always hitting it off with everyone!"
+>     Actually, let's try:
+>     "Why did the sourdough baker break up with their starter? Because the relationship was getting a little too sour!"
 > 
->     *Actually, let's try a Trebuchet pun:*
->     "Why don't trebuchets ever get invited to parties? Because they always throw too much drama!"
+>     Or even better/simpler:
+>     "Why did the sourdough starter go to therapy? Because it had too many bubbly issues!"
 > 
->     *Let's try a simple one:*
->     "Why was the catapult so popular? Because it always knew how to launch a conversation!"
+>     Let's go with the "Rise to the occasion" one, it's very lighthearted.
 > 
->     *Decision:* The catapult/conversation one is very light and easy. Or the Battering Ram "hitting it off" one.
+>     Wait, let's try a "knead" joke.
+>     "Why did the sourdough baker go to the doctor? Because they were feeling a little kneady!"
 > 
 >     Let's go with:
->     Why was the battering ram such a good friend? 
->     Because he was always hitting it off with people!
+>     "Why did the sourdough starter go to therapy? Because it had too many bubbly issues!"
 > 
 >     *Alternative:*
->     Why did the trebuchet break up with the catapult?
->     Because the relationship was just too one-sided—it was always throwing things at her!
+>     "What is a sourdough baker's favorite type of music? Anything with a good rise!"
 > 
->     Let's go with the catapult/conversation one. It's very simple.
+>     Let's go with the "Rise to the occasion" one. It's a classic pun style.
 > 
->     "Why was the catapult so good at making friends? Because it always knew how to launch a conversation!"
+>     "Why do sourdough bakers make such great friends? Because they always rise to the occasion!"
 > 
->     *Wait, one more:*
->     "What is a trebuchet's favorite type of music? Heavy metal!" (Maybe too niche).
+>     Wait, let's try one more:
+>     "My sourdough starter and I have a very complicated relationship. It's a lot of work, it's always demanding food, and if I ignore it, it gets really sour!" -> This is more of a "joke/observation".
 > 
->     Let's go with the catapult/conversation one.
+>     Let's stick to a standard Q&A joke format for simplicity.
 > 
->     *Final Check:*
->     Topic: Medieval Siege Engines? Yes (Catapult).
->     Funny? Yes (Dad joke style).
->     Simple/Light? Yes.
->     Only output the joke? Yes.
+>     "Why did the sourdough starter go to therapy? Because it had too many bubbly issues!"
 > 
->     *Revised Joke:*
->     Why was the catapult so good at making friends?
->     Because it always knew how to launch a conversation!
+>     Check constraints:
+>     - Sourdough baking topic? Yes.
+>     - Funny/Simple/Light? Yes.
+>     - Only output the joke? Yes.
 > 
->     *Actually, let's try the Battering Ram one, it's slightly punchier.*
->     Why was the battering ram so popular?
->     Because he was always hitting it off with everyone!
+>     *Final selection:*
+>     Why did the sourdough starter go to therapy? Because it had too many bubbly issues!
 > 
->     "Why was the catapult so good at making friends? Because it always knew how to launch a conversation!"
+>     (Actually, "Why do sourdough bakers make great friends? Because they always rise to the occasion!" is slightly "cleaner" and easier).
 > 
->     Let's go with the catapult one.
+>     Let's go with:
+>     Why did the sourdough starter go to therapy? Because it had too many bubbly issues!
 > 
->     Wait, I'll provide the Battering Ram one. It's a classic pun.
+>     (Self-correction: The "rise to the occasion" one is a bit more "dad joke" style which fits "simple and light").
 > 
->     Joke:
->     Why was the battering ram so popular?
->     Because he was always hitting it off with everyone!
+>     Let's provide:
+>     Why do sourdough bakers make such great friends? Because they always rise to the occasion!
 > 
->     *Self-Correction:* The prompt asks for "a funny joke about Medieval Siege Engines".
-> 
->     "Why was the catapult so good at making friends? Because it always knew how to launch a conversation!"
-> 
->     (Self-correction: "Launch a conversation" is a common idiom, making it easy to understand).
-> 
->     Why was the catapult so good at making friends?
->     Because it always knew how to launch a conversation!
+>     "Why do sourdough bakers make such great friends? Because they always rise to the occasion!"
 
