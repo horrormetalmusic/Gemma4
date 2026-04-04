@@ -1,96 +1,79 @@
 # Joke of the day: 
-A young gentleman accidentally brushed a lady’s hand while passing the sugar during afternoon tea. 
-
-The room went silent, the Duchess fainted, and the man was immediately sent to the colonies for his "unbridled, scandalous behavior."
+Why are deep-sea fish so smart? Because they’re naturally bright!
 
 ## Topic
-<!--TOPIC-->Victorian etiquette<!--/TOPIC-->
+<!--TOPIC-->Deep sea bioluminescence<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|49|
-|**Total Token Count**|1046|
-|**Thoughts Token Count**|970|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|16|
+|**Total Token Count**|809|
+|**Thoughts Token Count**|765|
 
 ## Thoughts: 
-> *   Topic: Victorian etiquette.
+> *   Topic: Deep sea bioluminescence.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Extreme politeness/formality.
->     *   Strict rules about social interactions (calling cards, gloves, tea).
->     *   Repressing emotions.
->     *   Complex social hierarchies.
+>     *   Deep sea = dark, pressure, scary fish.
+>     *   Bioluminescence = glowing, lights, flashing, luring prey.
+>     *   Key elements: Anglerfish (the most iconic), glow-in-the-dark, "light" puns.
 > 
->     *   *Idea 1:* A man asks a woman out, but it takes 3 months of calling cards. (A bit dry).
->     *   *Idea 2:* Someone accidentally touches a hand during tea and has a scandal. (Classic).
->     *   *Idea 3:* A joke about how "scandalous" a minor faux pas is.
+>     *   Idea 1: Why did the anglerfish go to the party? Because he brought his own light! (A bit cliché).
+>     *   Idea 2: Why don't deep-sea fish need flashlights? Because they are naturally bright! (A bit generic).
+>     *   Idea 3: What did the glowing jellyfish say to its friend? "You light up my life!" (A bit sweet, maybe not "funny" enough).
+>     *   Idea 4: Why was the deep-sea fish so popular? Because he was a real bright spark! (Okay).
+>     *   Idea 5: Why did the anglerfish get kicked out of the dark room? Because he was being too flashy! (Better).
 > 
->     A young gentleman accidentally brushed his lady's hand while passing the sugar during afternoon tea.
+>     *   "Why was the deep-sea fish so smart? Because he was naturally bright!"
+>     *   "Why did the anglerfish go to the party? Because he knew how to light up the room!"
 > 
->     The room went silent. The Duchess fainted. The butler dropped a tray. And the young man was immediately sent to the colonies for his "unbridled debauchery."
+>     Let's try a pun on "light":
+>     "Why are deep-sea creatures such good friends? Because they always light up your life!" (A bit too cheesy).
 > 
->     *Refining for simplicity and "joke" structure:*
+>     How about:
+>     "Why did the anglerfish get promoted? Because he was a real bright spark!"
 > 
->     A young gentleman accidentally brushed a lady’s hand while passing the sugar during afternoon tea.
+>     Let's go with a classic "bright" pun:
+>     "Why are deep-sea fish so smart? Because they’re naturally bright!"
 > 
->     The room went dead silent, the Duchess fainted, and the gentleman was immediately exiled to the colonies for his "unbridled scandalous behavior."
+>     Wait, let's try something slightly more specific to the *glow*.
 > 
->     "A young gentleman accidentally brushed a lady’s hand while passing the sugar during afternoon tea.
+>     "What did the glowing fish say to his friend? 'You really light up the dark!'"
 > 
->     The room went silent, the Duchess fainted, and the gentleman was immediately sent to the colonies for his 'unbridled, scandalous behavior.'"
+>     Let's try one about an anglerfish:
+>     "Why did the anglerfish bring a light to the party? Because he heard it was going to be lit!" (A bit modern/slangy).
 > 
->     *   Funny? Yes (hyperbolic).
->     *   Victorian etiquette? Yes.
->     *   Simple/light? Yes.
->     *   Only output the joke? Yes.
+>     Let's go with:
+>     "Why was the deep-sea fish so good at school? Because he was naturally bright!"
 > 
->     (Self-Correction: Maybe something more punchline-oriented?)
+>     Actually, let's go with a "light" pun that hits the bioluminescence aspect directly.
 > 
->     *Alternative Joke:*
->     Why did the Victorian gentleman refuse to go to the party?
->     Because he heard the hostess was planning on serving tea at 4:00, but her reputation suggested it might be as early as 3:55! (A bit weak).
+>     "Why did the anglerfish get kicked out of the party? Because he was being too flashy!"
 > 
->     *Let's go with the "scandalous touch" one, it's more universally understood.*
+>     Let's go with the "bright" joke, it's the simplest and most effective for "light and easy to understand."
 > 
->     *Wait, here's a better one:*
->     "A young man accidentally brushed a lady's hand while passing the sugar at tea. 
->     The room went silent, the Duchess fainted, and the man was immediately exiled to the colonies for his 'unbridled, scandalous behavior.'"
+>     *Joke Choice:*
+>     "Why are deep-sea fish so smart? Because they're naturally bright!"
 > 
->     *Actually, let's try a shorter one:*
->     "Why did the Victorian gentleman cross the road?
->     To avoid making eye contact with a lady he hadn't properly exchanged calling cards with yet." (A bit nerdy).
+>     *Alternative:*
+>     "What is an anglerfish's favorite type of music? Anything with a good glow!" (Weak).
 > 
->     *Let's go with a classic setup:*
->     A young gentleman accidentally brushed a lady's hand while passing the sugar during afternoon tea. 
->     The room went silent, the Duchess fainted, and the gentleman was immediately sent to the colonies for his "unbridled, scandalous behavior."
+>     *Let's go with:*
+>     "Why was the deep-sea fish so popular? Because he always lit up the room!"
 > 
->     *Let's check if there's an even simpler one.*
->     "How many Victorians does it take to change a lightbulb?
->     None. They simply sit in the dark and politely wait for the scandal of the darkness to pass."
+>     Actually, the "naturally bright" one is the cleanest.
 > 
->     *The lightbulb one is punchier.*
+>     "Why are deep-sea fish so smart? Because they’re naturally bright!"
 > 
->     *Let's try one about calling cards:*
->     "A man's social life in 1880 was very simple: He spent all day leaving calling cards at houses, only to arrive at the door and realize he had forgotten his gloves." (Not really a joke).
+>     Check constraints:
+>     - Funny? Yes (pun).
+>     - Topic: Deep sea bioluminescence? Yes.
+>     - Simple/light? Yes.
+>     - Only output the joke? Yes.
 > 
->     *Back to the "Scandalous Touch":*
->     A young gentleman accidentally brushed a lady’s hand while passing the sugar during afternoon tea. 
-> 
->     The room went dead silent, the Duchess fainted, and the gentleman was immediately sent to the colonies for his "unbridled, scandalous behavior."
-> 
->     *Wait, let's try this:*
->     "Why was the Victorian lady so stressed?
->     Because she accidentally made eye contact with a man before they had even exchanged formal calling cards!"
-> 
->     *The "Exiled to the colonies" one is the strongest structure.*
-> 
->     "A young gentleman accidentally brushed a lady’s hand while passing the sugar during afternoon tea. 
-> 
->     The room went silent, the Duchess fainted, and the man was immediately sent to the colonies for his 'unbridled, scandalous behavior.'"
-> 
->     *Final decision: The "scandalous touch" joke.*
+>     "Why are deep-sea fish so smart? Because they’re naturally bright!"
 
