@@ -1,122 +1,116 @@
 # Joke of the day: 
-Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!
+Why did the medieval knight refuse to play cards with his falcon?
+
+Because he was afraid of fowl play!
 
 ## Topic
-<!--TOPIC-->Quantum computing<!--/TOPIC-->
+<!--TOPIC-->Medieval falconry<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|33|
-|**Total Token Count**|1806|
-|**Thoughts Token Count**|1747|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|22|
+|**Total Token Count**|1173|
+|**Thoughts Token Count**|1124|
 
 ## Thoughts: 
-> *   Topic: Quantum computing.
+> *   Topic: Medieval falconry.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Concept: Superposition (being in two states at once).
->     *   Concept: Entanglement (spooky action at a distance).
->     *   Concept: Observation/Measurement (collapsing the wave function).
+>     *   Falcons/Hawks/Eagles.
+>     *   Lures, hoods, gloves, jesses.
+>     *   Nobility/Knights.
+>     *   Birds of prey vs. prey (rabbits, mice).
+>     *   Training.
 > 
->     *   *Idea 1 (Superposition):* A quantum computer walks into a bar. The bartender asks, "How are you?" The computer says, "I don't know, I haven't checked yet!" (A bit weak).
->     *   *Idea 2 (Superposition/Measurement):* Why did the quantum physicist cross the road? Because he was in a superposition of both being on one side and the other until someone looked at him. (A bit wordy).
->     *   *Idea 3 (Schrödinger's Cat/Computing):* A quantum computer walks into a bar. The bartender asks, "What'll you have?" The computer says, "I'll have everything on the menu, but don't look at me until I've finished drinking!" (A bit convoluted).
->     *   *Idea 4 (Classic/Standard):* A quantum physicist is driving down the highway and gets pulled over. The cop says, "Do you know how fast you were going?" The physicist says, "No, but I know exactly where I am!" (This is a physics joke, not specifically quantum computing, though related).
->     *   *Idea 5 (The "State" Joke):* Why don't quantum computers ever get lost? Because they are always in every possible location at once—until you check the GPS. (Getting closer).
+>     *   *Idea 1:* Why did the knight bring his falcon to the feast? Because he heard it was a bird's eye view. (A bit weak).
+>     *   *Idea 2:* Why was the falconry master so good at his job? He always kept a bird's eye on the prize. (Cliché).
+>     *   *Idea 3:* A knight asks his falconer why the hawk won't fly. The falconer says, "He's just feeling a bit hawk-ward." (Pun).
+>     *   *Idea 4:* Why don't medieval falconers ever get lost? Because they always follow their instincts... and a very hungry hawk. (Not really a joke).
+>     *   *Idea 5:* Why did the falconer get kicked out of the castle banquet? Because he kept trying to serve the guests "fowl" play. (A bit confusing).
+>     *   *Idea 6:* Why was the medieval falcon so popular at royal parties? Because he was always the life of the *talon*. (Pun on "life of the party" / "talon").
 > 
->     *   "A quantum computer walks into a bar. The bartender asks, 'How are you doing?' The computer replies, 'I'm not sure, I haven't been observed yet!'"
+>     *   "Why was the medieval falcon so popular at royal parties? Because he was always the life of the talon!"
 > 
->     *   *Drafting a cleaner version:*
->     "A quantum computer walks into a bar. The bartender asks, 'What can I get you?' The computer says, 'I'll have a beer, but don't look at me until I've finished it!'" (Wait, that's not quite right).
-> 
->     *   *Try this:*
->     "Why did the quantum computer break up with the classical computer? Because they just couldn't stay in the same state!" (A bit niche).
-> 
->     *   *Let's go with the "Superposition/Bar" trope, it's the most accessible:*
->     "A quantum computer walks into a bar. The bartender asks, 'How are you?' The computer replies, 'I'm in a superposition of being both great and terrible, but don't ask me again until you've measured my mood!'"
-> 
->     *   *Even simpler:*
->     "A quantum computer walks into a bar. The bartender asks, 'What'll you have?' The computer says, 'I'll have everything, but don't look at me until I've decided!'"
-> 
->     *   *Let's try a classic one often used in the community:*
->     "Why did the quantum computer go to therapy? Because it had too many identity crises—it couldn't decide if it was a 0 or a 1!"
-> 
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
-> 
->     Actually, let's go with the "Bar" one, it's punchier.
-> 
->     "A quantum computer walks into a bar. The bartender asks, 'How are you?' The computer replies, 'I'm not sure, I haven't been observed yet!'"
-> 
->     *Actually, one more:*
->     "How many quantum programmers does it take to change a lightbulb? Two. One to change it, and one to observe it so it actually stays changed."
-> 
->     Let's go with the simplest, most recognizable one:
->     "A quantum computer walks into a bar. The bartender asks, 'How are you?' The computer replies, 'I'm not sure—I haven't been observed yet!'"
-> 
->     Wait, the prompt asks for a joke.
->     Let's go with:
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
-> 
->     *   Funny? Yes.
->     *   Simple/Light? Yes.
->     *   Quantum computing? Yes.
+>     *   Simple? Yes.
+>     *   Light? Yes.
+>     *   Easy to understand? Yes.
 >     *   Only output the joke? Yes.
 > 
->     *Self-Correction:* The "observed" joke is more about physics/Schrödinger. The "0 or 1" joke is more specifically about the bit/qubit distinction which is the core of quantum computing.
+>     "Why was the medieval falcon so popular at royal parties? Because he was always the life of the talon!"
 > 
->     Let's try one more:
->     "Why don't quantum computers ever play hide and seek? Because as soon as you look for them, they stop being everywhere at once!"
+>     *Self-correction:* Let's try one more just in case.
+>     "What did the knight say when his falcon refused to hunt? 'Don't be so hawk-ward!'" -> Also good.
 > 
->     That's good. Let's go with a variation of the bar joke or the identity crisis.
+>     Let's go with the "life of the talon" one, it's a classic pun structure. Or maybe a "fowl" joke.
 > 
->     Let's go with:
->     **Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!**
-> 
->     (Actually, the bar one is slightly funnier/cleverer).
-> 
->     "A quantum computer walks into a bar. The bartender asks, 'How are you doing?' The computer replies, 'I'm not sure, I haven't been observed yet!'"
-> 
->     Let's go with the "0 or 1" one. It's very clear.
-> 
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
-> 
->     Actually, I'll go with the most classic one:
->     "A quantum computer walks into a bar. The bartender asks, 'What can I get you?' The computer replies, 'I'll have everything, but please don't look at me until I've decided!'"
-> 
->     Let's stick to the most direct one.
-> 
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
-> 
->     *Alternative (the best one):*
->     "A quantum computer walks into a bar. The bartender asks, 'How are you?' The computer says, 'I'm not sure, I haven't been observed yet!'"
-> 
->     Let's provide that.
-> 
->     1. Topic: Quantum computing.
->     2. Simple/Light.
->     3. Only output the joke.
-> 
->     Joke: A quantum computer walks into a bar. The bartender asks, "How are you?" The computer replies, "I'm not sure—I haven't been observed yet!"
-> 
->     (Wait, is that "quantum computing" or "quantum physics"? It's both, but for a general audience, it's the standard joke for the field).
-> 
->     Let's try:
->     "Why was the quantum computer so indecisive? Because it was always in two states at once!"
-> 
->     That's very simple.
-> 
->     Final selection:
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
-> 
->     (Decided on the 0/1 one, it feels more like a "computing" joke).
-> 
->     Actually, let's do:
->     "A quantum computer walks into a bar. The bartender asks, 'What'll you have?' The computer says, 'I'll have everything, but don't look at me until I've finished!'"
+>     How about:
+>     "Why did the knight bring his falcon to the chess tournament? Because he heard it was great at playing for the 'birds'!" (No).
 > 
 >     Let's go with:
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     "Why did the knight get frustrated with his falcon? Because it kept giving him fowl play!"
+> 
+>     Actually, the "life of the talon" is the cleanest.
+> 
+>     Wait, let's try:
+>     "Why did the falconer refuse to play cards with the hawk? Because he was afraid of fowl play!"
+> 
+>     This is very simple and fits the "simple/light" requirement perfectly.
+> 
+>     *Final Choice:*
+>     Why did the falconer refuse to play cards with his hawk?
+>     Because he was afraid of fowl play!
+> 
+>     *Wait, let's check the prompt again.* "Medieval falconry".
+> 
+>     "Why did the medieval knight refuse to play cards with his hawk? Because he was afraid of fowl play!"
+> 
+>     *Alternative:*
+>     "What did the knight say when his falcon refused to hunt? 'Don't be so hawk-ward!'"
+> 
+>     Let's go with the "fowl play" one. It's a classic pun.
+> 
+>     *Actually, let's try one more:*
+>     "Why was the falcon such a bad knight? Because he always lost his head in the heat of battle!" (A bit dark).
+> 
+>     Let's go with:
+>     Why did the knight refuse to play cards with his falcon?
+> 
+>     Because he was afraid of fowl play!
+> 
+>     *Actually, looking for something even simpler.*
+> 
+>     "Why was the falcon so good at keeping secrets? Because he was a master of the 'eye' in the sky!" (No).
+> 
+>     Let's stick to:
+>     Why did the knight refuse to play cards with his falcon?
+>     Because he was afraid of fowl play!
+> 
+>     (Wait, "fowl" and "foul" are homophones, which makes the pun work).
+> 
+>     *One more check:*
+>     Why did the medieval falconer get kicked out of the tournament?
+>     Because he kept practicing fowl play!
+> 
+>     Let's go with the card one. It's the most recognizable joke structure.
+> 
+>     *Joke:*
+>     Why did the knight refuse to play cards with his falcon?
+>     Because he was afraid of fowl play!
+> 
+>     *Refining for "Medieval falconry" theme:*
+>     Why did the medieval knight refuse to play cards with his hawk?
+>     Because he was afraid of fowl play!
+> 
+>     *One more idea:*
+>     What do you call a falcon that's a great musician?
+>     A bird of prey-er! (No, that's bad).
+> 
+>     Let's go with the "fowl play" joke.
+> 
+>     Why did the medieval knight refuse to play cards with his falcon?
+>     Because he was afraid of fowl play!
 
