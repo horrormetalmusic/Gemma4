@@ -1,10 +1,8 @@
 # Joke of the day: 
-Why did the typewriter repairman get promoted?
-
-Because he was great at handling all the pressing issues!
+Why did the anglerfish get kicked out of the party? Because he kept trying to steal the spotlight!
 
 ## Topic
-<!--TOPIC-->Vintage Typewriter Repair<!--/TOPIC-->
+<!--TOPIC-->Deep Sea Bioluminescence<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
@@ -12,45 +10,116 @@ Because he was great at handling all the pressing issues!
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|28|
 |**Candidates Token Count**|21|
-|**Total Token Count**|619|
-|**Thoughts Token Count**|570|
+|**Total Token Count**|1241|
+|**Thoughts Token Count**|1192|
 
 ## Thoughts: 
-> *   Topic: Vintage Typewriter Repair.
+> *   Topic: Deep Sea Bioluminescence.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   *Idea 1 (Puns):* Something about "key" issues or "type" of person.
->     *   *Idea 2 (Situational):* A customer bringing in a broken typewriter.
->     *   *Idea 3 (Wordplay):* "Carriage return," "ink," "ribbons," "keys."
+>     *   Light/Darkness.
+>     *   Glowing/Shining.
+>     *   Deep sea/Ocean floor.
+>     *   Creatures (anglerfish, jellyfish, etc.).
+>     *   Electricity/Battery/Power.
 > 
->     *   *Draft A:* Why did the typewriter repairman get promoted? Because he always knew how to handle a pressing issue! (A bit cliché).
->     *   *Draft B:* I asked my typewriter repairman if he could fix my old Remington. He said, "Don't worry, I'll make sure it's back in type!" (A bit weak).
->     *   *Draft C:* My typewriter repairman is a very important person. He really knows how to click with his customers. (Meh).
->     *   *Draft D:* Why was the typewriter repairman so calm during the busy season? Because he knew how to handle every pressing situation! (Classic pun).
->     *   *Draft E:* Why did the typewriter repairman break up with his girlfriend? Because he felt like she was just too much of a character! (Maybe too abstract).
+>     *   *Idea 1 (Anglerfish):* Why did the anglerfish get kicked out of the party? Because he was always trying to steal the spotlight! (A bit cliché).
+>     *   *Idea 2 (Glow-in-the-dark):* What do you call a deep-sea creature that's really good at making friends? A glow-getter! (A bit punny/dad joke).
+>     *   *Idea 3 (Electricity/Light):* Why don't deep-sea creatures ever get lost in the dark? Because they always bring their own light show! (A bit weak).
+>     *   *Idea 4 (Anglerfish/Lightbulb):* Why did the anglerfish go to school? To improve his "bright" ideas!
 > 
->     *   "Why did the typewriter repairman get a promotion? Because he was great at handling all the pressing issues!"
+>     "Why did the anglerfish get kicked out of the party? Because he was always trying to steal the spotlight!"
 > 
->     *   Funny? Yes (dad joke style).
->     *   Topic? Vintage Typewriter Repair.
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
+>     Wait, let's try one about the bioluminescence itself.
 > 
->     "Why did the typewriter repairman get promoted? Because he was great at handling all the pressing issues!"
+>     "Why was the deep-sea jellyfish so popular? Because he was a real light of the party!"
 > 
->     *Alternative:*
->     "I asked the typewriter repairman if he could fix my old machine. He said, 'Sure, just give me a moment to get my type together!'" (A bit clunky).
+>     Let's try another:
+>     "Why don't deep-sea creatures ever need flashlights? Because they're all naturally bright!"
 > 
->     Let's go with the "pressing issues" one, it's the cleanest.
+>     "Why did the anglerfish get kicked out of the party? Because he was always trying to steal the spotlight!" is a solid classic pun structure.
 > 
->     *Wait, let's try one more:*
->     "Why did the typewriter repairman go to therapy? He had too many internal key issues!" (Also good).
+>     Let's try:
+>     "Why are deep-sea creatures so good at keeping secrets? Because they only come out when things get a little shady!" (Doesn't quite hit the bioluminescence part well).
 > 
->     Let's go with the "pressing issues" one. It's a classic pun format.
+>     Let's go with:
+>     "Why was the deep-sea jellyfish such a great student? Because he was naturally bright!"
 > 
->     *Actually, let's try:*
->     "Why did the typewriter repairman get promoted? Because he was excellent at handling all the pressing issues!"
+>     Or:
+>     "Why did the anglerfish bring a light to the meeting? Because he wanted to shed some light on the situation!"
 > 
->     "Why did the typewriter repairman get promoted? Because he was great at handling all the pressing issues!"
+>     Let's go with the "spotlight" one, it's very clear.
+> 
+>     *Refined Joke:*
+>     Why did the anglerfish get kicked out of the party?
+>     Because he kept trying to steal the spotlight!
+> 
+>     *Actually, let's try one more specifically about the glow:*
+>     What do you call a deep-sea creature that’s always happy?
+>     A glow-getter! (A bit too much of a stretch).
+> 
+>     *Let's go with:*
+>     Why are deep-sea creatures so smart?
+>     Because they're all naturally bright!
+> 
+>     *Let's try one about the dark:*
+>     Why don't deep-sea creatures need lamps?
+>     Because they're all naturally bright!
+> 
+>     *Let's go with the Anglerfish spotlight one. It's the most recognizable imagery.*
+> 
+>     "Why did the anglerfish get kicked out of the party? Because he was always trying to steal the spotlight!"
+> 
+>     Wait, the prompt asks for a joke *about* Deep Sea Bioluminescence.
+> 
+>     "Why was the deep-sea jellyfish so popular at parties? Because he was a real light of the party!"
+> 
+>     Let's go with:
+>     Why was the deep-sea jellyfish so popular?
+>     Because he was a real light of the party!
+> 
+>     (Simple, light, easy, relates to bioluminescence).
+> 
+>     *Self-Correction:* The anglerfish one is punchier.
+>     "Why did the anglerfish get kicked out of the party? Because he was always trying to steal the spotlight!"
+> 
+>     Let's check if it meets all criteria.
+>     - Funny? Yes (dad joke style).
+>     - Deep sea bioluminescence? Yes (anglerfish use it).
+>     - Simple/light? Yes.
+>     - Only output the joke? Yes.
+> 
+>     Final choice:
+>     Why did the anglerfish get kicked out of the party? Because he was always trying to steal the spotlight!
+> 
+>     Actually, a more direct one:
+>     Why don't deep-sea creatures need flashlights?
+>     Because they're all naturally bright!
+> 
+>     This is better because it covers the concept of bioluminescence generally.
+> 
+>     Let's do:
+>     Why are deep-sea creatures so smart?
+>     Because they're all naturally bright!
+> 
+>     (This is a classic "bright" pun).
+> 
+>     Let's go with the anglerfish one. It's more specific to the deep sea imagery.
+> 
+>     "Why did the anglerfish get kicked out of the party? Because he was always trying to steal the spotlight!"
+> 
+>     One more check: Is "stealing the spotlight" a joke about bioluminescence? Yes, because they use a literal light to attract attention/prey.
+> 
+>     Wait, I have an even better one:
+>     Why was the deep-sea creature such a good comedian?
+>     Because he always knew how to brighten up the room!
+> 
+>     Let's go with the simplest one.
+> 
+>     "Why did the anglerfish get kicked out of the party? Because he kept trying to steal the spotlight!"
+> 
+>     (Simple, clean).
+> 
+>     "Why did the anglerfish get kicked out of the party? Because he kept trying to steal the spotlight!"
 
