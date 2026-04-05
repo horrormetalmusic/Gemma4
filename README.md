@@ -1,68 +1,49 @@
 # Joke of the day: 
-Why are quantum particles so good at long-distance relationships? 
-
-Because even when they're light-years apart, they're still perfectly in sync!
+Why is sourdough bread so sophisticated? Because it has so much culture!
 
 ## Topic
-<!--TOPIC-->Quantum entanglement<!--/TOPIC-->
+<!--TOPIC-->Sourdough bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|33|
-|**Total Token Count**|790|
-|**Thoughts Token Count**|731|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|14|
+|**Total Token Count**|448|
+|**Thoughts Token Count**|406|
 
 ## Thoughts: 
-> *   Topic: Quantum entanglement.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Sourdough bread.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Quantum entanglement: Two particles become linked; changing the state of one instantly changes the state of the other, no matter the distance.
->     *   Common tropes: Spooky action at a distance (Einstein), long-distance relationships, soulmates, twins.
+>     *   Keywords: Starter, yeast, dough, rise, crust, sour, tangy, bread, bake.
+>     *   Idea 1: Why did the sourdough starter go to therapy? It had too many issues (cultures/growth).
+>     *   Idea 2: Why was the sourdough bread so popular? Because it had a lot of culture.
+>     *   Idea 3: Why did the sourdough bread break up with the white bread? It felt like the relationship was getting stale.
 > 
->     *   *Idea 1 (Long distance relationship):* Why did the two electrons break up? Because they had too much distance between them, but even then, they were still acting like they were in the same relationship. (A bit weak).
->     *   *Idea 2 (Dating):* Why did the physicist fall in love with a quantum particle? Because as soon as they met, they were instantly entangled, and now they can't go anywhere without affecting each other's mood. (Better).
->     *   *Idea 3 (Short/Punchy):* Why are quantum particles so good at long-distance relationships? Because even when they're light-years apart, they're still totally in sync! (Simple, light).
->     *   *Idea 4 (The classic "spooky" angle):* Why did the quantum physicist break up with their partner? Because every time they tried to have some space, they felt instantly affected! (A bit clunky).
+>     *   "Why did the sourdough bread go to school? Because it wanted to develop more culture!"
+>     *   "Why is sourdough so smart? Because it has so much culture!"
 > 
->     *   "Why did the quantum particles get married? Because they were inseparably entangled, even from a distance!"
->     *   "Why are quantum particles great at long-distance relationships? Because no matter how far apart they are, they’re always perfectly in sync!"
+>     *   "Why did the sourdough starter go to therapy? Because it had too many issues!" (Maybe too abstract?)
+>     *   "Why is sourdough bread so sophisticated? Because it has so much culture!" (Simple, classic pun).
 > 
->     Let's try a "Why did the..." format.
+>     *   "Why does sourdough bread make such a good friend? Because it always has a lot of culture!"
 > 
->     *Draft:*
->     Why did the two quantum particles break up?
->     They just couldn't stop being so clingy, even when they were light-years apart!
-> 
->     *Alternative:*
->     Why are quantum particles the best at long-distance relationships?
->     Because even when they're on opposite sides of the universe, they're still totally in sync!
-> 
->     The second one is cleaner and fits "simple, light, easy to understand" perfectly.
-> 
->     "Why are quantum particles so good at long-distance relationships? Because even when they're light-years apart, they're still perfectly in sync!"
+>     "Why is sourdough bread so sophisticated? Because it has so much culture!"
 > 
 >     Wait, let's try one more.
->     "How do quantum particles stay so connected? They have a very 'spooky' long-distance relationship!" (A bit too meta).
+>     "What did the sourdough say to the baker? 'I'm rising to the occasion!'" (A bit weak).
 > 
->     Let's go with the "long-distance relationship" joke. It's a classic structure.
+>     Let's go with the "culture" joke. It's a classic pun.
 > 
->     *Final Selection:*
->     Why are quantum particles so good at long-distance relationships? 
+>     *Joke:* Why is sourdough bread so sophisticated? Because it has so much culture!
 > 
->     Because no matter how far apart they are, they're always perfectly in sync!
-> 
->     *Refining for impact:*
->     Why are quantum particles great at long-distance relationships? 
->     Because even when they’re light-years apart, they’re still totally in sync!
-> 
->     *   Funny? Yes (lighthearted).
->     *   About Quantum entanglement? Yes.
->     *   Simple/Light/Easy? Yes.
+>     *   Funny? Yes (pun).
+>     *   About sourdough? Yes.
+>     *   Simple/Light? Yes.
 >     *   Only output the joke? Yes.
 > 
->     "Why are quantum particles so good at long-distance relationships? Because even when they're light-years apart, they're still perfectly in sync!"
+>     "Why is sourdough bread so sophisticated? Because it has so much culture!"
 
