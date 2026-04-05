@@ -1,83 +1,124 @@
 # Joke of the day: 
-Why did the sourdough starter go to school?
-
-To get a little more culture!
+Why did the quantum computer cross the road? Because it was already on both sides!
 
 ## Topic
-<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
+<!--TOPIC-->Quantum computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
+|**Prompt Token Count**|26|
 |**Candidates Token Count**|17|
-|**Total Token Count**|845|
-|**Thoughts Token Count**|800|
+|**Total Token Count**|1392|
+|**Thoughts Token Count**|1349|
 
 ## Thoughts: 
-> *   Topic: Baking sourdough bread.
+> *   Topic: Quantum computing.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (living thing, feeding it, naming it).
->     *   Rise/Dough (rising to the occasion, dough/money puns).
->     *   Fermentation (slow process).
->     *   Crust/Crumb.
->     *   The "relationship" with the starter.
+>     *   Superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance/connectedness).
+>     *   Schrödinger's Cat (alive/dead).
+>     *   Probabilities/Uncertainty.
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues rising to the top. (A bit cliché).
->     *   *Idea 2:* I asked my sourdough starter how its day was. It said, "It's been a bit bubbly, but I'm rising to the occasion!" (A bit weak).
->     *   *Idea 3:* Why do sourdough bakers make such good friends? Because they always rise to the occasion! (Classic pun).
->     *   *Idea 4:* My sourdough starter and I have a very complicated relationship. I feed it every day, and in return, it just expects me to do all the heavy lifting. (More of a relatable observation).
->     *   *Idea 5:* Why was the sourdough starter so popular? Because it was always the life of the party—it just kept growing! (Weak).
+>     *   *Idea 1 (Superposition):* Why did the quantum computer go to therapy? Because it had too many identities at once. (A bit meh).
+>     *   *Idea 2 (Schrödinger):* A quantum physicist walks into a bar... (Too long/cliché).
+>     *   *Idea 3 (Superposition - Simple):* How do you know if a quantum computer is working? You aren't sure until you look at it. (A bit dry).
+>     *   *Idea 4 (The "Two states" pun):* Why did the quantum physicist get kicked out of the party? Because he was in two places at once.
+>     *   *Idea 5 (The classic):* A quantum physicist is walking down the street. He sees a friend and asks, "How's it going?" The friend says, "I'm not sure, I haven't checked yet!"
 > 
->     *   The "rising to the occasion" pun is the most standard "joke" format.
->     *   Let's try a "Why did..." joke.
+>     *   *Idea 6 (The "One joke" winner):*
+>         "Why can't you trust a quantum computer? Because even when it tells you the truth, it's only probably true." (A bit technical).
 > 
->     *   *Draft:* Why did the sourdough starter go to school? To get a little more culture!
+>     *   *Idea 7 (Simpler):*
+>         "I asked a quantum physicist if they knew the answer to my question. They said, 'I'm not sure, but I'm also certain!'"
 > 
->     *   "Why did the sourdough starter go to school? To get a little more culture!" -> This is cute, light, and fits the "sourdough" theme perfectly.
+>     *   *Idea 8 (Classic/Simple):*
+>         "Why did the quantum computer cross the road? Because it was already on both sides!"
 > 
->     "Why did the sourdough starter go to school? To get a little more culture!"
+>     Idea 8 is very simple, light, and uses the core concept of superposition effectively.
 > 
->     *   Funny? Yes (punny).
->     *   About sourdough? Yes.
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
+>     "Why did the quantum computer cross the road? Because it was already on both sides!"
 > 
->     *Wait, let's try one more.*
->     "I told my sourdough starter a joke, but it didn't laugh. It just sat there, rising to the occasion." (A bit confusing).
+>     Wait, let's try one more.
+>     "How many quantum physicists does it take to change a lightbulb? Two. One to change it, and one to observe it so it stays changed." (A bit more niche).
 > 
->     Let's go with the "culture" one. It's a classic play on words regarding sourdough starter (which is a culture of bacteria/yeast).
+>     Let's go with the "both sides" one or a variation.
 > 
->     *Joke:* Why did the sourdough starter go to school? To get a little more culture!
+>     Actually, let's go with:
+>     "Why did the quantum computer get kicked out of the party? Because it was in two places at once!"
 > 
->     *Alternative:* Why was the sourdough bread so successful? Because it always rose to the occasion!
+>     Or even simpler:
+>     "Why can't you ever tell if a quantum computer is working? Because until you look at it, it's both working and broken!"
 > 
->     The "culture" one is slightly punchier.
-> 
->     "Why did the sourdough starter go to school? To get a little more culture!"
-> 
->     Actually, let's look for something even simpler.
-> 
->     "My sourdough starter and I have a very committed relationship. I feed it every day, and it just keeps growing on me!"
-> 
->     Let's stick to the "culture" one. It's the cleanest.
+>     Let's go with the "two places at once" version. It's very clean.
 > 
 >     *Refined Joke:*
->     Why did the sourdough starter go to school?
->     To get a little more culture!
+>     "Why did the quantum computer get kicked out of the party? Because it was in two places at once!"
 > 
->     *Check:* Is it "Only output the joke"? Yes.
+>     Actually, the "both sides" one is more iconic for the concept of superposition.
 > 
->     Let's try one more to be sure.
->     "What did the sourdough baker say to their starter? 'You're really rising to the occasion!'" -> A bit flat.
+>     *Final Choice:*
+>     "Why did the quantum computer cross the road? Because it was already on both sides!"
 > 
->     "Why did the sourdough starter go to college? To get a little more culture!" -> This is the winner.
+>     Wait, let's look for something slightly more "witty".
 > 
->     Final check:
->     Topic: Baking sourdough.
->     Simple/Light: Yes.
->     Only output joke: Yes.
+>     "A quantum physicist walks into a bar. He orders a drink, but before the bartender can serve it, the physicist says, 'Don't worry, I'll probably have it!'" (A bit clunky).
+> 
+>     Let's go with:
+>     "Why did the quantum computer get kicked out of the library? Because it was in two places at once!"
+> 
+>     Actually, let's stick to the simplest one:
+>     "Why did the quantum computer cross the road? Because it was already on both sides!"
+> 
+>     *Self-Correction:* The user wants "funny".
+>     "How do you know a quantum computer is working? You aren't sure until you look at it!"
+> 
+>     Let's try:
+>     "Why did the quantum physicist get kicked out of the party? Because he was in two places at once!"
+> 
+>     Let's try one more:
+>     "I wanted to tell you a joke about quantum computing, but I'm not sure if you'll find it funny or not until you hear it!" (Meta-joke about superposition/probability).
+> 
+>     Actually, the most "classic" simple joke is:
+>     "Why did the quantum computer cross the road? Because it was already on both sides!"
+> 
+>     Let's go with:
+>     "Why did the quantum computer get kicked out of the party? Because it was in two places at once!"
+> 
+>     Let's try this one:
+>     "How does a quantum computer say goodbye? 'See you in a superposition!'" (A bit weak).
+> 
+>     Let's go with the "Two places at once" one. It's the most recognizable trope.
+> 
+>     *Joke:*
+>     Why did the quantum computer get kicked out of the party?
+>     Because it was in two places at once!
+> 
+>     *Constraint Check:* Only output the joke.
+> 
+>     Wait, is there a better one?
+>     "Why don't quantum computers ever get lost? Because they're everywhere at once!"
+> 
+>     Let's go with:
+>     "Why did the quantum computer cross the road? Because it was already on both sides!"
+> 
+>     (Wait, "Both sides" is a bit more clever regarding the concept of being in multiple states).
+> 
+>     Let's provide:
+>     "Why did the quantum computer cross the road? Because it was already on both sides!"
+> 
+>     "Why did the quantum computer cross the road? Because it was already on both sides!"
+> 
+>     Wait, another option:
+>     "I have a joke about quantum computing, but it's in a superposition of being funny and not funny until you read it."
+> 
+>     That's actually a very good meta-joke.
+> 
+>     Let's go with:
+>     "Why did the quantum computer cross the road? Because it was already on both sides!" (It's the simplest and easiest to understand).
+> 
+>     "Why did the quantum computer cross the road? Because it was already on both sides!"
 
