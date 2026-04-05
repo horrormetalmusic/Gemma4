@@ -1,190 +1,175 @@
 # Joke of the day: 
-Why was the medieval manuscript so popular at parties? Because it was highly illuminated!
+A quantum physicist walks into a bar. The bartender asks, "Do you want a beer or a whiskey?"
+
+The physicist replies, "Yes."
 
 ## Topic
-<!--TOPIC-->Medieval manuscript illumination<!--/TOPIC-->
+<!--TOPIC-->Quantum computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|16|
-|**Total Token Count**|2278|
-|**Thoughts Token Count**|2235|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|30|
+|**Total Token Count**|1929|
+|**Thoughts Token Count**|1873|
 
 ## Thoughts: 
-> *   Topic: Medieval manuscript illumination.
+> *   Topic: Quantum computing.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Scribes, ink, parchment, gold leaf, marginalia, illuminators, monk, monastery, vellum, rabbits, snails, demons, letters, miniatures.
+>     *   Superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance).
+>     *   Schrödinger's cat.
+>     *   Qubits vs. Bits.
+>     *   Observing/Measuring collapses the wave function.
 > 
->     *   *Idea 1 (Marginalia):* Why did the monk get in trouble? Because his marginalia got out of hand. (A bit weak).
->     *   *Idea 2 (Gold leaf):* Why was the illuminator so rich? Because he always had a little extra gold on the pages. (A bit punny/dad joke style).
->     *   *Idea 3 (Scribes/Mistakes):* A scribe is working on a beautiful page. He spills ink. He says, "Well, now it's an abstract illumination!" (A bit old).
->     *   *Idea 4 (Marginalia - creatures):* Why don't medieval illuminators ever get lost? Because they always follow the marginalia! (Not quite right).
->     *   *Idea 5 (Gold leaf/shining):* Why did the illuminator go to the doctor? Because he was feeling a little dull, so he decided to add some gold leaf! (A bit cliché).
->     *   *Idea 6 (The "Drollery"/Marginalia):* Why was the medieval monk so bad at keeping secrets? Because he always left everything in the margins!
+>     *   *Idea 1 (Superposition):* A quantum physicist walks into a bar. He orders a beer and a whiskey at the same time.
+>     *   *Idea 2 (Schrödinger/Measurement):* Why did the quantum physicist cross the road? Because he was both on one side and the other until someone watched him.
+>     *   *Idea 3 (Bit vs Qubit):* How many quantum physicists does it take to change a lightbulb? It's both changed and unchanged until you look at it.
 > 
->     *   *Let's try a "Why did the..." format for simplicity.*
->     *   "Why was the medieval illuminator so good at making friends? Because he always knew how to add some color to the conversation!" (A bit generic).
->     *   "Why did the monk get kicked out of the scriptorium? Because his marginalia were getting a little too wild!" (Classic, easy to understand).
+>     *   *Idea 1* is a classic and very easy to grasp.
+>     *   *Idea 3* is also good but maybe slightly more "science-y" in wording.
 > 
->     *   *Alternative (focusing on gold):*
->     *   "Why was the manuscript illuminator so successful? Because he always had a way of making things look golden!"
+>     *   "A quantum physicist walks into a bar and orders a drink. The bartender asks, 'Do you want a beer or a whiskey?' The physicist replies, 'Yes.'" -> This is a play on the idea of superposition/the "and" instead of "or".
 > 
->     *   *Let's go with something about the marginalia/monks.*
->     *   "Why did the medieval monk get in trouble with the Abbot? Because his marginalia were getting a little too 'out there'!"
+>     *   *Alternative:* "A quantum physicist walks into a bar. He orders a beer and a whiskey at the same time." -> A bit dry.
 > 
->     *   *Let's try a pun on "illuminated":*
->     *   "Why did the monk feel so smart after finishing his book? Because he had just been enlightened... or rather, illuminated!"
+>     *   *Let's go with the "Yes" joke:*
+>         "A quantum physicist walks into a bar. The bartender asks, 'Would you like a beer or a whiskey?'
+>         The physicist replies, 'Yes.'"
 > 
->     *   *Actually, let's go with a classic "marginalia" joke because it's the most iconic part of illumination for people who know a little bit.*
+>     *   *Actually, the most common one is:*
+>         "A quantum physicist walks into a bar. He orders a drink. The bartender asks, 'Do you want a beer or a whiskey?'
+>         The physicist says, 'Yes.'"
 > 
->     *   "Why did the medieval monk get in trouble with the Abbot? Because his marginalia were getting a little too wild!"
+>     *   *Let's try a variation on the lightbulb one:*
+>         "How many quantum physicists does it take to change a lightbulb?
+>         It’s both changed and unchanged until you observe it."
 > 
->     *   *Wait, let's try a pun on "Scribe":*
->     *   "Why did the illuminator break up with the scribe? Because he felt like their relationship was just lacking some color!"
+>     *   *Let's go with the "Bar" joke, it's the most recognizable.*
 > 
->     *   *Let's go with this one:*
->     *   "Why was the medieval illuminator so calm during a crisis? Because he knew how to handle any bright idea!" (Weak).
+>     *   *Joke:*
+>         A quantum physicist walks into a bar.
+>         The bartender asks, "Would you like a beer or a whiskey?"
+>         The physicist replies, "Yes."
 > 
->     *   *Let's go with a pun on "Vellum":*
->     *   "Why did the scribe refuse to use cheap parchment? Because he had very high vellum-standards!" (A bit niche).
+>     *   Funny? Yes.
+>     *   About Quantum computing/physics? Yes.
+>     *   Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     *   *Back to basics. Simple, light, funny.*
->     *   "Why did the medieval monk get in trouble with the Abbot? Because his marginalia were getting a little too wild!" (This is the safest and most recognizable).
+>     *Wait, the "Yes" joke is more about logic/Boolean algebra sometimes, though applied to superposition here. Let's try one specifically about the "states".*
 > 
->     *   *Actually, how about this one:*
->     *   "Why was the illuminator so good at parties? Because he always knew how to brighten up the room!" (Simple, punny, easy).
+>     *New idea:*
+>     "Why should you never trust a quantum computer? Because it's always in two minds about everything."
 > 
->     *   *Wait, I'll go with a joke about the gold leaf.*
->     *   "Why did the illuminator go to the bank? He wanted to deposit some of his gold leaf!" (A bit silly).
+>     *That's cute and very simple.*
 > 
->     *   *Let's go with the marginalia one. It's the most "themed" joke.*
+>     *Let's try another:*
+>     "A quantum physicist's wife tells him, 'Go to the store and buy a loaf of bread. If they have eggs, get a dozen.'
+>     He comes home with 12 loaves of bread." (This is a programming joke, not specifically quantum).
 > 
->     "Why did the medieval monk get in trouble with the Abbot? Because his marginalia were getting a little too wild!"
+>     *Back to Superposition:*
+>     "A quantum physicist walks into a bar. The bartender asks, 'Do you want a beer or a whiskey?' The physicist says, 'Both!'" (Wait, that's just being indecisive).
 > 
->     *Refining for maximum "simple/light":*
->     "Why did the monk get in trouble for his artwork? Because his marginalia were getting a little too out of hand!"
+>     *Let's go with the most clever/standard one:*
+>     "A quantum physicist walks into a bar. The bartender asks, 'Do you want a beer or a whiskey?'
+>     The physicist replies, 'Yes.'"
+> 
+>     *Actually, let's go with the Lightbulb one, it's more "Quantum":*
+>     "How many quantum physicists does it take to change a lightbulb?
+>     It is both changed and unchanged until you look at it."
+> 
+>     *Actually, let's use the "Bar" one but refine it for maximum impact.*
+> 
+>     "A quantum physicist walks into a bar.
+>     The bartender asks, 'Do you want a beer or a whiskey?'
+>     The physicist says, 'Yes.'"
+> 
+>     *Simple. Clean.*
+> 
+>     *Actually, I'll go with the "Two minds" one, it's very "easy to understand" as requested.*
+> 
+>     "Why should you never trust a quantum computer?
+>     Because it's always in two minds about everything."
+> 
+>     *Wait, the prompt says "Quantum computing". The "two minds" joke is a bit more generic. Let's stick to the "Yes" joke as it's the gold standard for superposition jokes.*
 > 
 >     *Let's try one more:*
->     "Why was the manuscript so popular at parties? Because it was highly illuminated!"
+>     "Why did the quantum computer break up with the classical computer?
+>     Because there was no longer any certainty in their relationship."
 > 
->     *That's good. Simple, light, easy.*
+>     *That's good too. Let's go with the "Yes" joke. It's the funniest and simplest.*
 > 
->     *Let's try one about the gold leaf again:*
->     "Why did the illuminator bring a ladder to work? Because he heard the gold leaf was on another level!" (A bit of a stretch).
+>     *Final selection:*
+>     A quantum physicist walks into a bar. The bartender asks, "Would you like a beer or a whiskey?"
+>     The physicist replies, "Yes."
 > 
->     *Decision:* The "brighten up the room" or "highly illuminated" puns are the most "dad joke" and "easy to understand."
+>     *Wait, I'll use the lightbulb one, it's more "quantum".*
 > 
->     "Why was the medieval manuscript so popular at parties? Because it was highly illuminated!"
+>     "How many quantum physicists does it take to change a lightbulb?
+>     It's both changed and unchanged until you observe it."
 > 
->     Wait, even simpler:
->     "Why did the illuminator get a promotion? Because he always knew how to brighten up the scriptorium!"
+>     *Actually, I'll provide the "Yes" one. It's cleaner.*
 > 
->     Let's go with the marginalia one, it's more specific to the art form's quirk.
+>     A quantum physicist walks into a bar. The bartender asks, "Do you want a beer or a whiskey?"
+>     The physicist replies, "Yes."
 > 
->     "Why did the monk get in trouble for his manuscript? Because his marginalia were getting a little too wild!"
+>     (Self-correction: The "Yes" joke implies the physicist is in a superposition of both states. It's a classic.)
 > 
->     *Wait, let's go with:*
->     "Why did the medieval illuminator make such a great friend? Because he always knew how to brighten up your day!"
+>     *Let's check if there's a better one.*
+>     "I have a joke about quantum computing, but you'll have to observe it for it to be funny." -> This is meta and very good.
 > 
->     Actually, let's go with the "marginalia" one. It's a classic trope.
+>     *Let's go with:*
+>     "I have a joke about quantum computing, but you’ll have to observe it for it to be funny."
 > 
->     *One more thought:*
->     "What is a medieval illuminator's favorite type of music? Heavy metal... but only if it's gold leaf!" (A bit too clever).
+>     *Is it a joke? Yes. Is it about quantum computing? Yes. Is it simple? Yes. Is it light? Yes.*
 > 
->     *Let's stick to the most straightforward pun.*
-> 
->     "Why did the monk get in trouble for his artwork? Because his marginalia were getting a little too wild!"
-> 
->     *Actually, let's go with:*
->     "Why was the medieval manuscript so successful? Because it had a very bright future!"
-> 
->     *Let's go with the "brighten up" one.*
-> 
->     "Why did the illuminator get a promotion? Because he always knew how to brighten up the scriptorium!"
-> 
->     *Check constraints: Only output the joke. Simple, light, easy.*
-> 
->     "Why did the illuminator get a promotion? Because he always knew how to brighten up the scriptorium!"
-> 
->     Actually, let's go with:
->     "Why was the medieval manuscript so popular at parties? Because it was highly illuminated!"
-> 
->     This is very punchy.
-> 
->     "Why was the medieval manuscript so popular at parties? Because it was highly illuminated!"
-> 
->     *Wait, let's try a scribe/illuminator joke.*
->     "Why did the illuminator break up with the scribe? Because he felt their relationship was a bit dull!"
-> 
->     That's quite good.
-> 
->     Let's provide:
->     "Why did the illuminator break up with the scribe? Because he felt their relationship was a bit dull!"
-> 
->     Actually, let's go with the "brighten up" one. It's more positive.
-> 
->     "Why did the illuminator get a promotion? Because he always knew how to brighten up the scriptorium!"
-> 
->     Final choice:
->     "Why was the medieval manuscript so popular at parties? Because it was highly illuminated!"
-> 
->     Wait, is "illuminated" too easy? Yes, that's the point.
-> 
->     Let's do:
->     "Why did the monk get in trouble for his manuscript? Because his marginalia were getting a little too wild!"
-> 
->     This is the most "medieval manuscript illumination" specific joke.
-> 
->     "Why did the monk get in trouble for his manuscript? Because his marginalia were getting a little too wild!"
-> 
->     (Self-Correction: "Marginalia" might be a slightly big word, but it is the core of the topic. The user asked for a joke *about* it. If they know the topic, they know the word.)
-> 
->     Let's try one more simple one:
->     "Why did the illuminator bring gold to the party? Because he wanted to brighten things up!"
+>     *Let's try the "Yes" one again. It's more of a traditional joke structure.*
 > 
 >     Let's go with:
->     "Why was the medieval manuscript so popular at parties? Because it was highly illuminated!"
+>     A quantum physicist walks into a bar. The bartender asks, "Do you want a beer or a whiskey?"
+>     The physicist replies, "Yes."
 > 
->     Actually, let's go with the marginalia one. It's better.
+>     *Actually, let's provide the lightbulb one. It's very clear.*
 > 
->     "Why did the monk get in trouble for his manuscript? Because his marginalia were getting a little too wild!"
+>     "How many quantum physicists does it take to change a lightbulb?
+>     It’s both changed and unchanged until you look at it."
 > 
->     Wait, let's try:
->     "Why was the illuminator so good at making friends? Because he always knew how to add color to the conversation!"
+>     *Actually, the "Yes" one is punchier.*
 > 
->     This is the most "simple, light, and easy to understand."
+>     Final Choice:
+>     A quantum physicist walks into a bar. The bartender asks, "Do you want a beer or a whiskey?"
+>     The physicist replies, "Yes."
 > 
->     "Why was the illuminator so good at making friends? Because he always knew how to add color to the conversation!"
+>     (Actually, looking at "Quantum Computing" specifically vs "Quantum Physics"... the "Yes" joke works for both).
 > 
 >     Let's go.
 > 
->     *Wait, looking at the prompt again: "Medieval manuscript illumination".*
->     The "color to the conversation" joke is a bit generic.
+>     *One more check:*
+>     "Why did the quantum computer go to therapy?
+>     Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1."
 > 
->     Let's go with the gold leaf pun.
->     "Why did the illuminator go to the bank? To deposit some of his gold leaf!"
+>     That's very "Quantum Computing" specific. Let's use that. It's very simple and "easy to understand".
 > 
->     No.
+>     "Why did the quantum computer go to therapy?
+>     Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1."
 > 
->     Let's go with:
->     "Why was the medieval manuscript so popular at parties? Because it was highly illuminated!"
+>     Wait, the "Yes" joke is actually more "clever".
 > 
->     This is the winner.
+>     Let's go with the "Yes" joke. It is the most elegant.
 > 
->     Wait, I'll use the "brighten up" one. It's more direct.
+>     *Wait, I'll go with the "observe it" one. It's the most "light" and "easy".*
 > 
->     "Why did the illuminator get a promotion? Because he always knew how to brighten up the scriptorium!"
+>     "I have a joke about quantum computing, but you'll have to observe it for it to be funny."
 > 
->     Let's go with the "highly illuminated" one. It's a better pun.
+>     *Actually, the prompt asks for "a joke".*
 > 
->     "Why was the medieval manuscript so popular at parties? Because it was highly illuminated!"
+>     Let's provide the "Yes" one.
 > 
->     Final final check: Is it funny? Yes (dad joke). Simple? Yes. Light? Yes. Only output the joke? Yes.
-> 
->     "Why was the medieval manuscript so popular at parties? Because it was highly illuminated!"
+>     A quantum physicist walks into a bar. The bartender asks, "Do you want a beer or a whiskey?"
+>     The physicist replies, "Yes."
 
