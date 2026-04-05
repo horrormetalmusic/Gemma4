@@ -1,152 +1,131 @@
 # Joke of the day: 
-Why was the quantum computer so indecisive? Because it was always in two minds at once!
+Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!
 
 ## Topic
-<!--TOPIC-->Quantum computing<!--/TOPIC-->
+<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|20|
-|**Total Token Count**|1996|
-|**Thoughts Token Count**|1950|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|22|
+|**Total Token Count**|1649|
+|**Thoughts Token Count**|1599|
 
 ## Thoughts: 
-> *   Topic: Quantum computing.
+> *   Topic: Baking sourdough bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Observation (collapsing the wavefunction).
->     *   Qubits vs. Bits.
+>     *   *Idea 1 (The Starter):* Something about the starter being like a pet or a needy child.
+>     *   *Idea 2 (The Rise):* Something about bread rising and expectations rising.
+>     *   *Idea 3 (The Crust/Crumb):* Something about being "crusty" or having a "crusty" personality.
+>     *   *Idea 4 (The Fermentation/Time):* Something about how long it takes.
 > 
->     *   *Idea 1 (Superposition):* Why did the quantum computer go to therapy? Because it had too many states of mind. (A bit weak).
->     *   *Idea 2 (Schrödinger's Cat/Superposition):* A quantum physicist walks into a bar... (too long).
->     *   *Idea 3 (The classic bit/qubit joke):* How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and one to observe it so it actually stays in place. (Okay, but maybe a bit cliché).
->     *   *Idea 4 (Superposition/Decision making):* Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you asked it. (Simple).
->     *   *Idea 5 (The "I'm not sure" joke):* A quantum physicist is asked if they are happy. They say, "I'm in a superposition of happy and sad until you check my pulse." (A bit dark).
->     *   *Idea 6 (The "observation" joke):* Why don't quantum computers ever get lost? Because they are everywhere at once until you look for them.
+>     *   *Draft 1:* Why did the sourdough starter go to therapy? Because it had too many emotional issues and felt like it was just rising to the occasion. (A bit weak).
+>     *   *Draft 2:* My sourdough starter is getting really demanding. Every time I try to leave the house, it starts acting like it’s going to die if I don't feed it. (More of an observation than a joke).
+>     *   *Draft 3:* Why was the sourdough baker so good at keeping secrets? Because they knew how to keep everything under wraps... and they always had a little dough! (A bit cheesy).
+>     *   *Draft 4:* Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly, but it still needed more space to grow! (Okay).
+>     *   *Draft 5:* Why did the baker get arrested for making sourdough? Because they were caught kneading the dough! (Classic pun).
+>     *   *Draft 6:* My sourdough starter is basically my child. It’s needy, expensive to feed, and if I ignore it for one day, it has a complete meltdown.
 > 
->     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
+>     *   *Option A:* Why did the sourdough starter go to school? Because it wanted to be a "smart" dough! (Too childish).
+>     *   *Option B:* Why was the sourdough bread so popular? Because it had a really great crust! (Simple, light).
+>     *   *Option C:* Why did the baker go to therapy? Because they had too much dough and not enough time to let it rise! (Okay).
+>     *   *Option D:* Why did the sourdough starter break up with the baker? It felt like the relationship was just too bubbly!
 > 
->     *Alternative (even simpler):*
->     "How does a quantum computer tell a joke? It tells it in a superposition of funny and not funny until you laugh!"
+>     Let's go with a classic pun-style joke.
 > 
->     *Let's go with a classic variation of the "Schrödinger" or "Superposition" theme:*
->     "Why did the quantum computer fail its driving test? Because every time the instructor looked at it, it changed its direction!"
+>     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!"
 > 
->     *Actually, let's try this one:*
->     "Why can't you trust a quantum computer? Because it’s always in two minds about everything!"
+>     Wait, let's try one about the "kneading" aspect.
+>     "Why did the sourdough baker get so much respect? Because they were always kneading the dough!"
 > 
->     *Wait, let's go with the most recognizable one:*
->     "Why did the quantum computer go to therapy? Because it was in a constant state of superposition and couldn't decide who it really was!"
+>     Actually, let's go with the "starter" being a needy pet/child, it's very relatable to sourdough bakers. Or a pun.
 > 
->     *Actually, let's go with a simpler, punchier one:*
->     "Why was the quantum computer so bad at keeping secrets? Because as soon as you looked at it, it collapsed!"
+>     Let's try:
+>     "Why did the sourdough bread go to therapy? Because it had too many internal issues and just needed to rise above them!"
 > 
->     *Let's try one more:*
->     "How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and one to observe it so it stays in one place." (This is a classic, easy to understand).
+>     Or:
+>     "Why was the sourdough baker so calm? Because they knew how to let things rise naturally!"
 > 
->     *Let's go with a very simple one about being in two places:*
->     "Why did the quantum computer get kicked out of the party? Because it was everywhere at once, and then it just disappeared as soon as anyone looked at it!"
+>     Let's go with a punchy one:
+>     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!"
 > 
->     *Let's go with a classic "bit" vs "qubit" joke:*
->     "What is a quantum computer's favorite way to say 'maybe'? '0 and 1!'" (Not really a joke).
+>     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!"
 > 
->     *Best option:*
->     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
+>     Is it simple? Yes.
+>     Is it light? Yes.
+>     Is it only the joke? Yes.
 > 
->     *Actually, let's use the "Two minds" one, it's light and simple.*
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     *Self-Correction:* Let's try a "knead" joke.
+>     "Why did the sourdough baker get a promotion? Because they were always kneading the dough!"
 > 
->     *Wait, let's use this one:*
->     "Why do quantum computers make terrible comedians? Because their jokes are in a superposition of funny and not funny until you laugh!"
+>     Actually, the "bubbly" one is more specific to sourdough.
 > 
->     Let's go with:
->     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
-> 
->     *Actually, let's go with a very common, lighthearted one:*
->     "Why did the quantum computer go to therapy? Because it was having a bit of an identity crisis—it couldn't decide if it was a 0 or a 1!"
-> 
->     *Refining for "Only output the joke":*
->     "Why was the quantum computer so indecisive? Because it was in a superposition of being a 0 and a 1!"
-> 
->     Let's try one that is more "joke" structured:
->     "Why can't you ever play hide-and-seek with a quantum computer? Because it's everywhere at once, but the moment you find it, it's gone!"
+>     One more: "What did the sourdough say to the baker? 'You really knead me!'"
 > 
 >     Let's go with:
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!"
 > 
->     *Wait, "in two minds" is a common idiom for being indecisive, and it perfectly describes superposition. It's simple and light.*
+>     Actually, let's go with:
+>     "Why did the sourdough bread go to therapy? It had too many internal issues and just needed to rise above them!"
 > 
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     Actually, the "kneading" one is the most classic structure.
 > 
->     *Check constraints:*
->     - Funny joke about Quantum computing? Yes.
->     - Simple, light, easy to understand? Yes.
->     - Only output the joke? Yes.
+>     "Why did the sourdough baker go to jail? Because they were caught kneading the dough!"
 > 
->     *Let's try one that's a bit more "physics-y" but still easy:*
->     "Why did the quantum computer fail its driving test? Because it couldn't decide which way to turn until the instructor looked at it!"
+>     Let's provide a joke that is very "sourdough" specific.
 > 
->     Actually, the "two minds" one is the cleanest.
+>     "Why is sourdough bread so good at keeping secrets? Because it always keeps everything under wraps and has a lot of crust!" (No, that's not funny).
 > 
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     Let's stick to the "bubbly" one. It's cute.
 > 
->     *One more option:*
->     "How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and one to observe it so it stays in place."
+>     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!"
 > 
->     I will provide the "two minds" one. It's a pun.
+>     One more check: "What do you call a sourdough baker who is always happy? A dough-mantic!" (No).
 > 
->     *Final decision:*
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     Okay, final choice:
+>     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!"
 > 
->     Wait, I'll go with the "0 and 1" version as it's more "computing" specific.
+>     Wait, another one:
+>     "My sourdough starter is a lot like my toddler: it's needy, it's messy, and if I don't feed it at the exact right time, it has a total meltdown." (This is a joke/observation).
 > 
->     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
+>     Let's go with the "bubbly" pun. It's the cleanest "joke".
 > 
->     Actually, the most "light and easy" is:
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
-> 
->     (Wait, "in two minds" refers to superposition. It's a double entendre. Perfect.)
-> 
->     Final check.
-> 
->     Joke: Why was the quantum computer so indecisive? Because it was always in two minds at once!
+>     Joke: Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!
 > 
 >     Wait, let's try:
->     "A quantum physicist walks into a bar. He orders a drink, but the bartender says, 'I'm not sure if you're here or not until I serve you!'" (A bit clunky).
+>     "Why did the sourdough bread go to therapy? Because it had too many internal issues and just needed to rise above them!" -> This is quite funny and fits the "sourdough" vibe (the holes/internal structure).
 > 
->     Let's stick to the indecisive one. It's punchy.
+>     Let's go with the "rise above" one. It's clever.
 > 
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     "Why did the sourdough bread go to therapy? Because it had too many internal issues and just needed to rise above them!"
 > 
->     Actually, I'll use a slightly more "computery" one to ensure the topic is clear.
+>     Actually, let's check if "internal issues" makes sense for bread. Yes, the crumb/holes.
 > 
->     "Why was the quantum computer so indecisive? Because it was in a superposition of being a 0 and a 1!" -> A bit too technical?
+>     Final decision:
+>     Why did the sourdough bread go to therapy? Because it had too many internal issues and just needed to rise above them!
+> 
+>     Wait, the "bubbly" one is safer.
 > 
 >     Let's go with:
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!
 > 
->     Wait, I will provide:
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     Actually, let's do:
+>     "What did the sourdough starter say to the baker? 'You really knead me!'"
 > 
->     Actually, let's try:
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     Let's go with the "bubbly" one. It's light.
 > 
->     Let's go with the "two minds" one. It's the most "joke-like".
+>     Joke:
+>     Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!
 > 
->     Final selection:
->     Why was the quantum computer so indecisive? Because it was always in two minds at once!
+>     (Self-correction: Sourdough is known for being bubbly/fermented).
 > 
->     Wait, one more thought:
->     "What do you call a quantum computer that's good at jokes? A 'super-position' of hilarious!" (No, that's bad).
+>     Let's try one about the starter being a pet.
+>     "Sourdough baking is great because you get a pet that you can actually eat when it gets too demanding!" (A bit dark).
 > 
->     "Why did the quantum computer fail its exam? Because it was in two states of mind at once!"
-> 
->     I'll stick to:
->     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
+>     Let's go with:
+>     Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too bubbly!
 
