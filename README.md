@@ -1,81 +1,66 @@
 # Joke of the day: 
-Why did the astronaut break up with the moon? Because he just needed more space!
+Why did the sourdough baker break up with their partner?
+
+Because there was just no culture in the relationship!
 
 ## Topic
-<!--TOPIC-->Deep space exploration<!--/TOPIC-->
+<!--TOPIC-->Sourdough baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|17|
-|**Total Token Count**|828|
-|**Thoughts Token Count**|784|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|22|
+|**Total Token Count**|654|
+|**Thoughts Token Count**|604|
 
 ## Thoughts: 
-> *   Topic: Deep space exploration.
+> *   Topic: Sourdough baking.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Black holes (absorbing things).
->     *   Idea 2: Aliens (not responding, misunderstood signals).
->     *   Idea 3: Astronauts (gravity, lack of food/air).
->     *   Idea 4: Planets/Stars (distance, loneliness).
->     *   Idea 5: Rocket science (difficulty).
+>     *   Starter (needs feeding, "living" thing).
+>     *   Dough (rising, hydration, kneading, folding).
+>     *   Scoring (artistic, cutting).
+>     *   Crust/Crumb.
+>     *   Time/Patience.
+>     *   "Starter" puns (beginning, yeast, culture).
 > 
->     *   Joke A: Why did the astronaut break up with the moon? Because he needed more space. (Classic, simple).
->     *   Joke B: How do you organize a space party? You planet. (Very common, simple).
->     *   Joke C: Why did the sun go to school? To get brighter. (More general space).
->     *   Joke D: What kind of music do planets listen to? Nep-tunes. (A bit punny).
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? It had too much emotional baggage (fermentation/gas). -> A bit weak.
+>     *   *Idea 2:* What do you call a sourdough baker who is always late? A slow riser. -> Okay.
+>     *   *Idea 3:* Why did the sourdough baker break up with their partner? Because there was no "culture" left in the relationship. -> Classic, punny.
+>     *   *Idea 4:* Why was the sourdough starter so popular? It always brought the culture to the party. -> Good.
+>     *   *Idea 5:* Why did the sourdough loaf win an award? Because it was on a roll. -> Too generic.
 > 
->     *   "Why did the astronaut break up with the moon? Because he needed more space!" is a classic, fits "deep space exploration" context (astronauts), is simple, light, and easy to understand.
->     *   "How do you organize a space party? You planet!" is also good.
+>     *   "Why did the sourdough baker break up with their partner? Because they just didn't have enough culture!"
 > 
->     Let's go with the "Space/Moon" one or the "Planet" one. The "Space" one feels more like a "joke" about exploration/personalities in space.
+>     *   Alternative: "What do you call a sourdough baker who's always in a rush? A gluten for punishment!" (A bit more complex).
 > 
->     Actually, let's try one about the vastness/exploration.
+>     *   Let's go with the "culture" joke. It's the most iconic sourdough joke.
 > 
->     "Why did the astronaut go to the doctor? Because he lost his sense of gravity!" (A bit weak).
+>     *   "Why did the sourdough starter go to therapy? Because it had too many issues with its culture!"
 > 
->     "Why don't aliens visit Earth? Because they looked at our reviews and saw we only have one star." (Funny, modern, light).
+>     *   Actually, let's go even simpler:
+>         "Why did the sourdough baker break up with their partner? Because there was no culture in the relationship!"
 > 
->     Wait, let's go with the most classic, foolproof one:
->     "Why did the astronaut break up with the moon? Because he just needed more space!"
+>     *   Simple? Yes.
+>     *   Light? Yes.
+>     *   Easy to understand? Yes.
+>     *   Only output the joke? Yes.
 > 
->     Let's try another:
->     "What is an astronaut's favorite part of a computer? The space bar!"
+>     "Why did the sourdough baker break up with their partner? Because there was just no culture in the relationship!"
 > 
->     Let's go with the "Space" one. It's the most thematic for "Deep space exploration".
+>     Wait, let's try one about the starter.
+>     "What do you call a sourdough starter that’s always happy? A bubbly personality!"
 > 
->     Joke: Why did the astronaut break up with the moon? Because he just needed more space!
+>     Let's go with the "culture" one, it's a classic.
 > 
->     Actually, let's look for something slightly more "exploratory".
+>     *Joke:* Why did the sourdough baker break up with their partner? Because there was just no culture in the relationship!
 > 
->     "Why can't you trust an astronaut? Because they are always looking for space!" (No).
+>     *Double check:* Is "culture" clear? Yes, in the context of sourdough.
 > 
->     Let's go with:
->     **How do you organize a space party? You planet!**
-> 
->     Or:
->     **Why did the sun go to school? To get brighter!**
-> 
->     Actually, the "Space" one is the best fit for "deep space exploration" context.
-> 
->     Let's try:
->     **Why did the astronaut bring a ladder to the star? Because he wanted to reach for his dreams!** (A bit cheesy).
-> 
->     Let's go with the "Space" pun. It's the gold standard for light/simple space jokes.
-> 
->     Joke: Why did the astronaut break up with the moon? Because he needed more space!
-> 
->     *Wait, let's try one more:*
->     "What do you call a tick on the moon? A luna-tick!" (Maybe too "dad joke").
-> 
->     Let's stick to:
->     **Why did the astronaut break up with the moon? Because he just needed more space!**
-> 
->     "Only output the joke."
-> 
->     Why did the astronaut break up with the moon? Because he just needed more space!
+>     *Final choice:*
+>     Why did the sourdough baker break up with their partner? 
+>     Because there was just no culture in the relationship!
 
