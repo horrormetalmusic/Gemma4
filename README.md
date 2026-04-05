@@ -1,66 +1,50 @@
 # Joke of the day: 
-Why did the sourdough starter go to therapy? 
+Heisenberg is driving down the highway when a police officer pulls him over. 
 
-Because it had too many culture issues!
+The officer asks, "Sir, do you know how fast you were going?"
+
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Sourdough baking<!--/TOPIC-->
+<!--TOPIC-->Quantum physics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|19|
-|**Total Token Count**|621|
-|**Thoughts Token Count**|574|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|49|
+|**Total Token Count**|498|
+|**Thoughts Token Count**|423|
 
 ## Thoughts: 
-> *   Topic: Sourdough baking.
+> *   Topic: Quantum physics.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (yeast/bacteria culture).
->     *   Feeding the starter.
->     *   Discard.
->     *   Rise/Proofing.
->     *   Crust/Crumb.
->     *   Obsession/Addiction.
->     *   "Wild" yeast.
+>     *   Schrödinger's cat (alive/dead).
+>     *   Heisenberg's uncertainty principle (position vs. momentum).
+>     *   Entanglement (spooky action at a distance).
+>     *   Superposition (being in two states at once).
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues/problems (culture issues).
->     *   *Idea 2:* Why do sourdough bakers make great partners? They always rise to the occasion.
->     *   *Idea 3:* What did the sourdough baker say to their starter? "You're looking a bit bubbly today!" (A bit weak).
->     *   *Idea 4:* Why did the sourdough baker break up with their partner? Because they needed more space for their starter.
+>     *   *Option 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't.
+>     *   *Option 2 (Heisenberg):* Heisenberg is driving. A cop pulls him over and asks, "Do you know how fast you were going?" Heisenberg says, "No, but I know exactly where I am!"
+>     *   *Option 3 (Heisenberg/Schrödinger combo):* Why can't you trust atoms? Because they make up everything (not strictly quantum, more general chemistry/physics).
 > 
->     *   Idea 1 (Culture issues) is a classic pun.
->     *   Idea 2 (Rise to the occasion) is very light and wholesome.
+>     *   Option 2 is a classic, easy to understand, and hits the "quantum" theme perfectly via the Uncertainty Principle.
+>     *   Option 1 is very short and punchy.
 > 
->     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
+>     *   *Refined Option 2:*
+>         Heisenberg is driving down the highway when a police officer pulls him over.
+>         The officer asks, "Sir, do you have any idea how fast you were going?"
+>         Heisenberg replies, "No, but I know exactly where I am!"
 > 
->     *Alternative:* "Why do sourdough bakers make such great partners? Because they always rise to the occasion!"
+>     *   Topic: Quantum physics? Yes.
+>     *   Funny? Yes (subjective, but it's a classic).
+>     *   Simple/Light/Easy? Yes.
+>     *   Only output the joke? Yes.
 > 
->     Let's go with the "culture issues" one as it's a very common pun in the baking world. Or perhaps the "rise to the occasion" one is lighter.
-> 
->     Let's try:
->     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
-> 
->     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
-> 
->     Wait, let's try one more:
->     "What do you call a sourdough baker who is always late? A slow-rise baker!" (A bit niche).
-> 
->     Let's go with:
->     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
-> 
->     Actually, the "Rise to the occasion" one is very safe and "light."
-> 
->     Let's try a different one:
->     "Why was the sourdough baker so good at their job? Because they always rose to the occasion!"
-> 
->     Let's go with the "culture issues" one. It's punchier.
-> 
->     *Self-Correction:* The prompt asks for a joke. "Why did the sourdough starter go to therapy? Because it had too many culture issues!" is a solid joke.
-> 
->     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
+>     Heisenberg is driving down the highway when a police officer pulls him over.
+>     The officer asks, "Sir, do you know how fast you were going?"
+>     Heisenberg replies, "No, but I know exactly where I am!"
 
