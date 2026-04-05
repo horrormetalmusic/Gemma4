@@ -1,53 +1,123 @@
 # Joke of the day: 
-Why did the sourdough starter win an award? 
-
-Because it always rose to the occasion!
+A quantum physicist walks into a bar. He orders a drink, but before the bartender can even serve him, the physicist has already finished it—and hasn't even ordered it yet.
 
 ## Topic
-<!--TOPIC-->Sourdough baking<!--/TOPIC-->
+<!--TOPIC-->Quantum computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|19|
-|**Total Token Count**|539|
-|**Thoughts Token Count**|492|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|38|
+|**Total Token Count**|1488|
+|**Thoughts Token Count**|1424|
 
 ## Thoughts: 
-> *   Topic: Sourdough baking.
+> *   Topic: Quantum computing.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (it's alive, it's a pet).
->     *   Feeding the starter (commitment, high maintenance).
->     *   Proofing/Rising (waiting, patience).
->     *   Scoring (artistry vs. failure).
->     *   The "crust" (hard/crunchy).
->     *   The "crumb" (holes/structure).
+>     *   Superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance).
+>     *   Schrödinger's Cat (dead and alive).
+>     *   Qubits (0 and 1 simultaneously).
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues rising to the top. (A bit weak).
->     *   *Idea 2:* Why did the baker break up with their sourdough starter? Because it was too high-maintenance and always wanted attention every time it got hungry. (Okay, but maybe too long).
->     *   *Idea 3:* Why was the sourdough starter so good at making friends? Because it was always rising to the occasion! (Classic pun, simple, light).
->     *   *Idea 4:* My sourdough starter and I have a very serious relationship. It's a bit bubbly, but it's the only thing in my life that actually grows when I feed it. (More of a quip/observation).
+>     *   *Joke A:* A quantum physicist walks into a bar. He orders a beer. He also orders a non-beer at the same time.
+>     *   *Joke B:* Why did the quantum physicist break up with their partner? Because they weren't in the same state anymore.
+>     *   *Joke C:* A quantum physicist is having trouble sleeping. They are both asleep and awake at the same time until someone opens the door.
+>     *   *Joke D:* How many quantum physicists does it take to change a lightbulb? Two. One to change it, and one to observe it so it stays changed. (A bit weak).
+>     *   *Joke E (Classic):* A quantum physicist walks into a bar. He orders a drink, but before the bartender can serve him, he's already had it and hasn't ordered it yet.
 > 
->     *   Idea 3 is the cleanest "joke" format (Question/Answer). It's easy to understand.
+>     *   The "ordering a drink" joke is a classic and easy to understand.
+>     *   Alternative: "A quantum physicist walks into a bar and orders a drink. The bartender asks, 'Would you like that now?' The physicist says, 'I'm not sure, I haven't decided yet, but I've already finished it.'" -> A bit clunky.
 > 
->     *   "Why did the sourdough starter win an award? Because it always rose to the occasion!"
+>     *   *Refined Joke:*
+>         A quantum physicist walks into a bar.
+>         He orders a drink, but before the bartender can even pour it, the physicist has already finished it—and hasn't even ordered it yet.
 > 
->     *   "Why was the sourdough starter such a great friend? Because it always rose to the occasion!"
+>     *   *Simpler version:*
+>         A quantum physicist walks into a bar and orders a drink.
+>         The bartender asks, "Do you want it now?"
+>         The physicist says, "I'm not sure, I'm currently in a superposition of wanting it and not wanting it." (A bit too "textbook").
 > 
->     *   "Why did the sourdough starter go to school? To improve its crust!" (A bit weird).
+>     *   *Let's go with the "Schrödinger's Cat/State" vibe or the "Bar" vibe.*
 > 
->     Let's go with the "rising to the occasion" one. It's a classic pun.
+>     *   *How about this:*
+>         A quantum physicist walks into a bar.
+>         The bartender asks, "Would you like a beer?"
+>         The physicist says, "I'm not sure, let me check my state."
 > 
->     *Draft:* Why did the sourdough starter win an award? Because it always rose to the occasion!
+>     *   *Let's try the most famous one adapted for simplicity:*
+>         A quantum physicist walks into a bar and orders a drink.
+>         The bartender says, "That'll be five dollars."
+>         The physicist says, "I'll pay you later, but right now, I'm both broke and rich until you check my wallet."
 > 
->     *   Funny? Yes (punny).
->     *   Sourdough baking? Yes.
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
+>     *   *Actually, the simplest one is the "Bar/Order" joke:*
+>         A quantum physicist walks into a bar.
+>         He orders a drink, but before the bartender can serve him, he has already finished it and hasn't even ordered it yet.
 > 
->     Why did the sourdough starter win an award? Because it always rose to the occasion!
+>     *   *Wait, let's try one about qubits:*
+>         Why did the quantum computer go to therapy?
+>         Because it had too many identity crises—it couldn't decide if it was a 0 or a 1!
+> 
+>     The "identity crisis" joke is very simple, light, and easy to understand.
+> 
+>     *Let's try one more:*
+>     A quantum physicist is having a hard time making a decision.
+>     Their friend asks, "Are you going to the party tonight?"
+>     The physicist replies, "I'm both going and not going, until you ask me again!"
+> 
+>     Let's go with the "Bar" joke as it's the most standard "joke structure."
+> 
+>     *Final Selection:*
+>     A quantum physicist walks into a bar.
+>     He orders a drink, but before the bartender can even pour it, the physicist has already finished it—and hasn't even ordered it yet.
+> 
+>     *Wait, looking for something even "lighter":*
+>     Why did the quantum computer get kicked out of the party?
+>     Because it kept being in two places at once!
+> 
+>     That's very simple.
+> 
+>     Let's go with the "Bar" one, it's a bit more clever.
+> 
+>     *Alternative:*
+>     How many quantum physicists does it take to change a lightbulb?
+>     Two. One to change it, and one to observe it so it stays changed.
+> 
+>     Let's use the most "accessible" one:
+>     A quantum physicist walks into a bar.
+>     He orders a drink, but before the bartender can serve him, he has already finished it—and hasn't even ordered it yet.
+> 
+>     *Wait, let's try a really punchy one:*
+>     Why don't quantum physicists ever get lost?
+>     Because they are everywhere at once!
+> 
+>     Let's stick to the "Bar" joke. It's the gold standard for physics jokes.
+> 
+>     *Revised Bar Joke:*
+>     A quantum physicist walks into a bar.
+>     He orders a drink, but before the bartender can serve him, the physicist has already finished it—and hasn't even ordered it yet.
+> 
+>     *Actually, let's go with this one, it's very clear:*
+>     Why did the quantum computer break up with its partner?
+>     Because they were no longer in the same state.
+> 
+>     *Actually, let's go with:*
+>     A quantum physicist walks into a bar. 
+>     He orders a drink, but before the bartender can serve him, he has already finished it and hasn't even ordered it yet.
+> 
+>     (Self-correction: The prompt asks for "Only output the joke.")
+> 
+>     A quantum physicist walks into a bar. He orders a drink, but before the bartender can serve him, he has already finished it—and hasn't even ordered it yet.
+> 
+>     Actually, let's go with the "0 and 1" joke, it's even simpler.
+>     
+>     "Why did the quantum computer get confused? Because it couldn't decide if it was a 0 or a 1!"
+>     
+>     No, the bar joke is better.
+> 
+>     Let's go:
+>     A quantum physicist walks into a bar. He orders a drink, but before the bartender can serve him, he has already finished it—and hasn't even ordered it yet.
 
