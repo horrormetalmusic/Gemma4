@@ -1,91 +1,66 @@
 # Joke of the day: 
-Heisenberg is driving down the road when a police officer pulls him over and asks, "Do you know how fast you were going?"
+Why did the sourdough starter go to therapy? 
 
-Heisenberg replies, "No, but I know exactly where I am!"
+Because it had too many culture issues!
 
 ## Topic
-<!--TOPIC-->Quantum physics<!--/TOPIC-->
+<!--TOPIC-->Sourdough baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|43|
-|**Total Token Count**|1052|
-|**Thoughts Token Count**|983|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|19|
+|**Total Token Count**|621|
+|**Thoughts Token Count**|574|
 
 ## Thoughts: 
-> *   Topic: Quantum physics.
+> *   Topic: Sourdough baking.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's cat (dead and alive).
->     *   Uncertainty principle (position vs. momentum).
->     *   Entanglement (spooky action at a distance).
->     *   Superposition (being in two states).
->     *   Wave-particle duality.
+>     *   Starter (yeast/bacteria culture).
+>     *   Feeding the starter.
+>     *   Discard.
+>     *   Rise/Proofing.
+>     *   Crust/Crumb.
+>     *   Obsession/Addiction.
+>     *   "Wild" yeast.
 > 
->     *   *Idea 1 (Schrödinger's Cat):* Schrödinger's cat walks into a bar... and doesn't.
->     *   *Idea 2 (Uncertainty Principle):* Heisenberg is driving down the highway. A cop pulls him over. "Do you know how fast you were going?" Heisenberg says, "No, but I know exactly where I am!"
->     *   *Idea 3 (Observer Effect):* Why did the quantum physicist cross the road? Because they observed it, and it stayed on that side. (A bit weak).
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues/problems (culture issues).
+>     *   *Idea 2:* Why do sourdough bakers make great partners? They always rise to the occasion.
+>     *   *Idea 3:* What did the sourdough baker say to their starter? "You're looking a bit bubbly today!" (A bit weak).
+>     *   *Idea 4:* Why did the sourdough baker break up with their partner? Because they needed more space for their starter.
 > 
->     *   Idea 1 is a classic, very simple, and fits "light and easy."
->     *   Idea 2 is also a classic, very funny, and slightly more narrative.
+>     *   Idea 1 (Culture issues) is a classic pun.
+>     *   Idea 2 (Rise to the occasion) is very light and wholesome.
 > 
->     *Let's go with the Heisenberg one, as it's a quintessential "physics joke" that is easy to grasp.*
+>     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
 > 
->     *Alternative:* "Schrödinger's cat walks into a bar... and doesn't." This is punchier and simpler.
+>     *Alternative:* "Why do sourdough bakers make such great partners? Because they always rise to the occasion!"
 > 
->     *Let's try a variation of the Heisenberg one for maximum "joke" structure.*
+>     Let's go with the "culture issues" one as it's a very common pun in the baking world. Or perhaps the "rise to the occasion" one is lighter.
 > 
->     "Heisenberg is driving down the highway when a police officer pulls him over. 
->     The officer asks, 'Do you know how fast you were going?' 
->     Heisenberg replies, 'No, but I know exactly where I am!'"
+>     Let's try:
+>     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
 > 
->     *Wait, the prompt asks for "a" joke. Let's provide the Heisenberg one or the Schrödinger one.*
+>     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
 > 
->     Let's go with the Heisenberg one. It's the gold standard for simple physics humor.
+>     Wait, let's try one more:
+>     "What do you call a sourdough baker who is always late? A slow-rise baker!" (A bit niche).
 > 
->     *Wait, let's check if there's an even simpler one.*
->     "A quantum physicist is walking down the street when they see a friend. They say, 'Hey, I'm not sure if I'm here or not!'" (A bit weak).
+>     Let's go with:
+>     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
 > 
->     *Let's go with the Schrödinger's cat bar joke, it's very pithy.*
->     "Schrödinger's cat walks into a bar... and doesn't."
+>     Actually, the "Rise to the occasion" one is very safe and "light."
 > 
->     *Actually, let's go with the Heisenberg one. It's a better joke.*
+>     Let's try a different one:
+>     "Why was the sourdough baker so good at their job? Because they always rose to the occasion!"
 > 
->     *Wait, let's try a third option:*
->     "Why can't you trust an atom? Because they make up everything!" (That's chemistry).
+>     Let's go with the "culture issues" one. It's punchier.
 > 
->     *Back to Heisenberg:*
->     Heisenberg is driving down the highway when he gets pulled over by a police officer. 
->     The officer asks, "Do you know how fast you were going?" 
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     *Self-Correction:* The prompt asks for a joke. "Why did the sourdough starter go to therapy? Because it had too many culture issues!" is a solid joke.
 > 
->     *Is it simple? Yes. Light? Yes. Only output the joke? Yes.*
-> 
->     *Wait, let's try the Schrödinger one again. It's even shorter.*
->     "Schrödinger's cat walks into a bar... and doesn't."
-> 
->     Actually, let's provide the Heisenberg one. It feels more like a "joke" with a setup and punchline.
-> 
->     "Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, 'Do you know how fast you were going?' Heisenberg replies, 'No, but I know exactly where I am!'"
-> 
->     *Let's try to make it even cleaner.*
-> 
->     Heisenberg is driving down the road when a cop pulls him over and asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
-> 
->     *Check constraints:* "Only output the joke."
-> 
->     Heisenberg is driving down the road when a police officer pulls him over and asks, "Do you know how fast you were going?"
-> 
->     Heisenberg replies, "No, but I know exactly where I am!"
-> 
->     *Wait, the prompt says "Quantum physics". Heisenberg's Uncertainty Principle is a cornerstone of quantum physics. This works.*
-> 
->     Heisenberg is driving down the road when a police officer pulls him over and asks, "Do you know how fast you were going?"
-> 
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     "Why did the sourdough starter go to therapy? Because it had too many culture issues!"
 
