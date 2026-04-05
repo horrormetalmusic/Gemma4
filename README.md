@@ -1,58 +1,118 @@
 # Joke of the day: 
-Why did the medieval peasant visit the bakery every single day? 
+Why are deep-sea fish so popular at parties?
 
-Because he really kneaded the dough!
+Because they always know how to light up the room!
 
 ## Topic
-<!--TOPIC-->Medieval baking<!--/TOPIC-->
+<!--TOPIC-->Deep sea bioluminescence<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|22|
-|**Total Token Count**|679|
-|**Thoughts Token Count**|631|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|23|
+|**Total Token Count**|1191|
+|**Thoughts Token Count**|1140|
 
 ## Thoughts: 
-> *   Topic: Medieval baking.
+> *   Topic: Deep sea bioluminescence.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Medieval themes: Knights, castles, dragons, serfs, kings, alchemy, plagues (maybe too dark?), yeast, ovens, flour, knights in armor.
->     *   Baking themes: Dough, rising, crust, oven, knead, flour, yeast.
+>     *   Deep sea: darkness, pressure, scary creatures.
+>     *   Bioluminescence: glowing, light, bright, flashlight, "lighting up the room."
+>     *   Puns/Wordplay: "Glow-up," "Bright idea," "Lighten up," "Shining star," "Illumination."
 > 
->     *   *Idea 1 (Knight/Bread):* Why did the knight refuse to eat the bread? Because it was too "crusty"! (A bit weak).
->     *   *Idea 2 (Dragon/Bread):* Why did the dragon love the medieval baker? Because he could toast the bread with one breath! (Okay, but maybe too simple).
->     *   *Idea 3 (Puns on "knead"):* Why did the peasant go to the bakery every day? Because he really "kneaded" the dough! (Classic pun, works well with medieval setting).
->     *   *Idea 4 (Knight/Armor):* Why did the knight bring his armor to the bakery? He wanted to be a "yeast" knight! (Doesn't quite work).
->     *   *Idea 5 (Alchemist/Baking):* Why was the medieval alchemist a great baker? Because he was always trying to turn flour into gold! (A bit more clever).
+>     *   *Idea 1:* Why did the deep-sea fish go to the party? Because he heard it was going to be lit! (A bit cliché/slangy).
+>     *   *Idea 2:* What did the glowing jellyfish say to its friend? "You really brighten up my life!" (A bit sweet/cheesy).
+>     *   *Idea 3:* Why don't deep-sea creatures ever get lost? Because they always have a bright idea! (Okay, but a bit vague).
+>     *   *Idea 4:* Why did the anglerfish get promoted? Because he was a real bright spark! (Good).
+>     *   *Idea 5:* Why did the deep-sea fish bring a flashlight to the party? Because he wanted to show off his glow-up! (Modern, funny).
 > 
->     *   "Why did the medieval peasant visit the baker every single day? Because he really kneaded the dough!"
->     *   Simple, punny, lighthearted, fits the theme.
+>     *   "Why was the deep-sea fish so popular at parties? Because he always brought the light!"
+>     *   "Why did the anglerfish go to therapy? He was feeling a little dim."
+>     *   "What do you call a deep-sea fish that tells great jokes? A light-hearted comedian!"
 > 
->     *   "Why did the knight go to the bakery? Because he heard they had some great sourdough, and he wanted to see if it was 'knight-ly'!" (Too forced).
->     *   "Why did the baker get arrested in the Middle Ages? Because he was caught 'yeasting' around!" (A bit weak).
+>     *Let's go with the "Glow-up" or "Bright idea" angle.*
 > 
->     *Let's go with the "kneaded the dough" one, as it's the most accessible.*
+>     *Actually, the "lit" pun is very common for bioluminescence.*
 > 
->     *Wait, let's try one about a dragon and toast.*
->     "Why did the dragon become a baker in the Middle Ages? Because he was great at making toast!"
+>     *Let's try:*
+>     Why did the deep-sea fish get invited to every party?
+>     Because he really knew how to light up the room!
 > 
->     *Let's try a knight/dough pun.*
->     "Why did the knight refuse to help the baker? Because he didn't want to get into any dough-fights!" (Weak).
+>     *Or:*
+>     Why did the anglerfish cross the ocean?
+>     To show off his glow-up!
 > 
->     *Let's stick to the "kneaded the dough" pun.*
+>     *Let's try a classic Q&A style:*
+>     Why are deep-sea fish so good at making friends?
+>     Because they really know how to light up a room!
 > 
->     *Joke:* Why did the medieval peasant visit the bakery every single day? 
->     Because he really kneaded the dough!
+>     *Check constraints:* Simple? Yes. Light? Yes. Easy to understand? Yes. Only output the joke? Yes.
 > 
->     *   Topic: Medieval baking? Yes.
->     *   Funny/Simple/Light? Yes.
->     *   Only output the joke? Yes.
+>     "Why are deep-sea creatures so popular at parties? Because they always know how to light up the room!"
 > 
->     Why did the medieval peasant visit the bakery every single day? 
+>     *Let's refine for maximum "funny/simple" impact.*
 > 
->     Because he really kneaded the dough!
+>     "Why was the deep-sea fish so successful? Because he had a bright idea!" (A bit too generic).
+> 
+>     "Why did the deep-sea fish go to the dance? Because he heard it was going to be lit!" (Classic).
+> 
+>     Let's go with:
+>     Why do deep-sea fish make great friends?
+>     Because they always know how to light up a room!
+> 
+>     *Wait, let's try one about the anglerfish specifically since it's iconic.*
+> 
+>     Why did the anglerfish get promoted?
+>     Because he was a real bright spark!
+> 
+>     *Let's stick to the "light up the room" one, it's the most universal.*
+> 
+>     "Why are deep-sea fish so popular at parties? Because they always know how to light up the room!"
+> 
+>     *Actually, let's try one more:*
+>     "What did the glowing jellyfish say to its friend? 'You really brighten up my life!'" (A bit too cute).
+> 
+>     Let's go with:
+>     Why did the deep-sea fish get invited to all the parties?
+>     Because he really knows how to light up the room!
+> 
+>     *Self-Correction:* The prompt asks for "a funny joke".
+> 
+>     Final Choice:
+>     Why are deep-sea fish so popular at parties?
+>     Because they always know how to light up the room!
+> 
+>     *One more possibility:*
+>     What do you call a deep-sea fish that's always happy?
+>     A glow-getter!
+> 
+>     *Let's go with the "light up the room" one. It's the cleanest.*
+> 
+>     Final Check:
+>     Topic: Deep sea bioluminescence.
+>     Tone: Funny, simple, light.
+>     Constraint: Only output the joke.
+> 
+>     *Actually, "Why was the anglerfish so popular? Because he was lit!" is very modern/simple.*
+> 
+>     Let's go with the most standard "dad joke" style:
+>     Why are deep-sea fish so good at making friends?
+>     Because they always know how to light up the room!
+> 
+>     *Wait, I'll go with the anglerfish/bright spark one, it's a bit punchier.*
+> 
+>     "Why did the anglerfish get promoted? Because he was a real bright spark!"
+> 
+>     Actually, let's go with:
+>     Why was the deep-sea fish so popular at parties?
+>     Because he really knew how to light up the room!
+> 
+>     (This is the safest and most understandable).
+> 
+>     Why are deep-sea fish so popular at parties?
+>     Because they always know how to light up the room!
 
