@@ -1,135 +1,65 @@
 # Joke of the day: 
-Why was the quantum computer so indecisive? 
+Why did the sourdough starter break up with the baker?
 
-Because it couldn't decide if it was a 0 or a 1 until you looked at it!
+Because it just needed more space to rise!
 
 ## Topic
-<!--TOPIC-->Quantum computing<!--/TOPIC-->
+<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|34|
-|**Total Token Count**|1559|
-|**Thoughts Token Count**|1499|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|21|
+|**Total Token Count**|694|
+|**Thoughts Token Count**|645|
 
 ## Thoughts: 
-> *   Topic: Quantum computing.
+> *   Topic: Baking sourdough bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Schrödinger's Cat (dead and alive).
->     *   Qubits (0 and 1).
+>     *   Sourdough starter (needs feeding, "living" thing).
+>     *   Fermentation (bubbles, rising).
+>     *   Bread shapes (boules, batards).
+>     *   Starter names (Yeasty Boys, Dough-Joe, etc.).
+>     *   Relationship with the starter (it's like a pet/child).
 > 
->     *   *Idea 1 (Superposition):* Why did the quantum computer go to therapy? Because it felt like it was in two places at once. (A bit cliché).
->     *   *Idea 2 (Schrödinger/Observation):* A quantum physicist walks into a bar... (The classic joke about the cat or the beer).
->     *   *Idea 3 (Observation/State):* Why don't quantum computers ever get lost? Because they are everywhere at once until you look at them.
->     *   *Idea 4 (Simple/Punny):* How does a quantum computer make a decision? It doesn't, it just exists in a state of indecision until someone asks.
+>     *   *Idea 1:* Why did the baker go to therapy? Because his sourdough starter was too clingy.
+>     *   *Idea 2:* Why was the sourdough starter so good at music? Because it had a lot of rhythm and yeast. (A bit weak).
+>     *   *Idea 3:* Why did the sourdough starter break up with the baker? It just needed some space to rise.
+>     *   *Idea 4:* Why did the baker name his sourdough starter "Kevin"? Because he needed someone to help him rise to the occasion. (A bit long).
 > 
->     "A quantum physicist walks into a bar and orders a drink. He then orders half a drink. He then orders a drink and a half. He then orders a drink that is both there and not there until the bartender looks at him." -> A bit wordy.
+>     *   *Idea 1 (Clingy starter)* is very relatable to sourdough bakers and simple.
+>     *   *Idea 3 (Space to rise)* is also a classic pun structure.
 > 
->     Let's try:
->     "Why did the quantum computer break up with the classical computer? Because it felt like their relationship was in a superposition of being great and terrible, and it didn't want to be observed!" -> A bit heavy.
+>     Let's go with a variation of the "clingy/relationship" joke or a "rising" pun.
 > 
->     Let's try something even simpler:
->     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
+>     *Option A:* Why did the sourdough starter break up with the baker? Because it just needed some space to rise!
 > 
->     Let's try the classic "Schrödinger's joke" variation:
->     "A quantum physicist walks into a bar. The bartender asks, 'Would you like a drink?' The physicist says, 'I'm not sure, let me check if I'm thirsty first—but don't look at me, I don't want to collapse my state!'" -> A bit long.
+>     *Option B:* Why was the sourdough starter so dramatic? Because it was always going through a mid-life fermentation! (A bit complex).
 > 
->     Let's go with a punchy one:
->     "Why did the quantum computer go to therapy? Because it had too many states of mind!"
+>     *Option C:* Why did the baker get into an argument with his sourdough? Because he felt like the relationship was just too bubbly.
 > 
->     Or:
->     "How many quantum physicists does it take to change a lightbulb? None, the lightbulb is both on and off until you check it." -> This is a classic and very easy to understand.
+>     *Option D (The classic):* Why did the sourdough starter go to therapy? Because it felt like its life was just one long fermentation process and it needed to rise above it all!
 > 
->     "How many quantum physicists does it take to change a lightbulb? None, because the lightbulb is both on and off until you actually look at it!"
+>     Let's try a simpler one:
+>     "Why did the sourdough starter break up with the baker? Because it just needed more space to rise!"
 > 
->     Let's try one more:
->     "Why did the quantum computer get kicked out of the party? Because it was everywhere at once and wouldn't stay in its seat!"
+>     "Why did the sourdough starter break up with the baker? Because it just needed more space to rise!"
 > 
->     Actually, the "on/off" lightbulb one is the most recognizable and "simple/light".
+>     Wait, let's try another one.
+>     "What did the baker say to his sourdough starter when it wouldn't grow? 'Don't worry, you'll rise to the occasion!'" -> Not quite a "joke" structure.
 > 
->     Let's refine the lightbulb joke for maximum simplicity.
+>     Let's go with:
+>     "Why did the sourdough starter go to therapy? Because it felt like it was constantly under a lot of pressure to rise!"
 > 
->     "How many quantum physicists does it take to change a lightbulb?
->     None. The lightbulb is both on and off until you check it!"
+>     Actually, the "break up" one is very clean.
 > 
->     Wait, let's try a very short one.
->     "Why do quantum computers make terrible roommates? Because they're never in one place at a time!"
-> 
->     Let's go with the "indecisive" one, it's very relatable.
-> 
->     "Why was the quantum computer so indecisive?
->     Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
-> 
->     Let's try:
->     "Why don't quantum computers ever finish their chores?
->     Because they're in a superposition of being both done and not done until you check on them!"
-> 
->     The "on and off" lightbulb one is the gold standard for "simple/light/easy".
-> 
->     Joke:
->     How many quantum physicists does it take to change a lightbulb?
->     None, because the lightbulb is both on and off until you look at it!
+>     *Joke:* Why did the sourdough starter break up with the baker? Because it just needed more space to rise!
 > 
 >     "Only output the joke."
 > 
->     Final choice:
->     How many quantum physicists does it take to change a lightbulb? 
-> 
->     None, because the lightbulb is both on and off until you actually look at it!
-> 
->     *Self-Correction:* The prompt asks for a joke about *Quantum Computing*, not necessarily physicists, though they are interchangeable in jokes. Let's adjust to the computer.
-> 
->     "Why did the quantum computer fail its driving test?
->     Because it couldn't decide if it was turning left or right until the instructor looked at it!"
-> 
->     Let's go with the lightbulb one, it's the cleanest.
-> 
->     "How many quantum computers does it take to change a lightbulb?
->     None, because the lightbulb is both on and off until you check it!"
-> 
->     Actually, let's use the "indecisive" one, it's very punchy.
-> 
->     "Why was the quantum computer so indecisive?
->     Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
-> 
->     Let's go with the classic:
->     "How many quantum physicists does it take to change a lightbulb?
->     None, because the lightbulb is both on and off until you check it!"
-> 
->     Wait, let's try:
->     "A quantum computer walks into a bar. The bartender asks, 'Do you want a drink?'
->     The computer says, 'I'm not sure, I'm in a superposition of being thirsty and not!'"
-> 
->     Let's go with:
->     How many quantum physicists does it take to change a lightbulb? 
-> 
->     None, because the lightbulb is both on and off until you look at it!
-> 
->     (Actually, let's stick to the computer subject per instructions).
-> 
->     "Why did the quantum computer go to therapy?
->     Because it was having a mid-life crisis—it couldn't decide if it was a 0 or a 1!"
-> 
->     Let's go with the lightbulb one but frame it as a quantum computer.
-> 
->     "How many quantum computers does it take to change a lightbulb?
->     None, because the lightbulb is both on and off until you check it!"
-> 
->     Actually, let's just use the most straightforward one.
-> 
->     "Why was the quantum computer so indecisive?
->     Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
-> 
->     This is simple, light, and fits all criteria.
-> 
->     Final check of instructions: "Only output the joke."
-> 
->     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
+>     "Why did the sourdough starter break up with the baker? Because it just needed more space to rise!"
 
