@@ -1,50 +1,99 @@
 # Joke of the day: 
-Why did the anglerfish get invited to all the parties in the deep sea?
+Why did Pac-Man break up with the ghosts?
 
-Because he was always lit!
+Because he felt like they were always following him!
 
 ## Topic
-<!--TOPIC-->Deep sea bioluminescence<!--/TOPIC-->
+<!--TOPIC-->Retro arcade games<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|23|
-|**Total Token Count**|555|
-|**Thoughts Token Count**|504|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|22|
+|**Total Token Count**|1100|
+|**Thoughts Token Count**|1051|
 
 ## Thoughts: 
-> *   Topic: Deep sea bioluminescence.
+> *   Topic: Retro arcade games.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Deep sea: dark, pressure, abyss, ocean floor.
->     *   Bioluminescence: glowing, light, glowing in the dark, anglerfish, neon, "bright idea."
+>     *   Pac-Man (ghosts, dots, maze).
+>     *   Donkey Kong (barrels, jumping).
+>     *   Space Invaders (aliens, shooting).
+>     *   Tetris (blocks, falling).
+>     *   Joysticks/Buttons (broken, stuck).
+>     *   High scores/Quarters.
 > 
->     *   *Idea 1 (Anglerfish):* Why did the anglerfish go to the party? Because he heard it was going to be lit. (A bit cliché, but works).
->     *   *Idea 2 (General):* Why don't deep-sea creatures ever get lost? Because they always have a bright idea! (Punny).
->     *   *Idea 3 (Light/Darkness):* What did the deep-sea fish say when it saw its friend glowing? "You're looking radiant today!" (A bit sweet, maybe not "funny" enough).
->     *   *Idea 4 (The "Lit" pun):* Why did the deep-sea fish get invited to all the parties? Because he was always lit!
+>     *   *Idea 1 (Pac-Man):* Why did Pac-Man go to the doctor? Because he was feeling a little empty inside! (A bit cliché).
+>     *   *Idea 2 (Tetris):* Why was the Tetris player so good at organizing? Because they knew how to fit everything into a perfect line! (A bit weak).
+>     *   *Idea 3 (Space Invaders):* Why don't aliens play arcade games? Because they're afraid of getting "invaded" by high scores! (A bit clunky).
+>     *   *Idea 4 (Pac-Man/Ghosts):* Why did the ghost go to the arcade? To get some "spirit" in his game! (Meh).
+>     *   *Idea 5 (Donkey Kong):* Why did the Donkey Kong player bring a ladder to the arcade? Because he heard the high scores were through the roof! (Okay, but maybe too punny).
+>     *   *Idea 6 (Pac-Man):* Why did Pac-Man cross the road? To get to the other side... of the maze! (Simple).
+>     *   *Idea 7 (Pac-Man/Ghosts - redo):* Why did Pac-Man break up with the ghosts? Because he felt like they were always following him! (This is good, relatable, and simple).
 > 
->     *   "Why did the deep-sea fish get invited to all the parties? Because he was always lit!"
->     *   This is simple, uses common slang ("lit"), and relates directly to the glowing aspect.
+>     *   "Why did Pac-Man break up with the ghosts? Because he felt like they were always following him!"
 > 
->     *   "Why did the anglerfish get invited to every party in the ocean? Because he was always lit!"
-> 
->     *   Funny? Yes.
->     *   Deep sea bioluminescence? Yes.
->     *   Simple/Light/Easy? Yes.
+>     *   Retro arcade theme? Yes (Pac-Man).
+>     *   Funny/Simple/Light? Yes.
 >     *   Only output the joke? Yes.
 > 
->     *Self-Correction during drafting:* Let's try one more to see if there's a better one.
->     "What is a deep-sea fish's favorite type of music? Glow-pop!" (Maybe too cheesy).
->     "Why don't deep-sea creatures need flashlights? Because they have bright ideas!" (Classic).
+>     *Self-Correction during selection:* Let's try one more just in case.
+>     "Why are Pac-Man fans so good at relationships? Because they know how to clear out the ghosts!" (A bit weird).
 > 
->     Let's go with the "lit" one, it's a solid pun.
+>     Let's go with the "following him" joke. It's a classic structure.
 > 
->     *Revised Joke:* Why did the anglerfish get invited to all the parties in the deep sea? Because he was always lit!
+>     *Alternative:* "Why did the arcade machine go to school? Because it wanted to improve its high scores!" (A bit too kid-oriented).
 > 
->     "Why did the anglerfish get invited to all the parties in the deep sea? Because he was always lit!"
+>     Let's go with:
+>     Why did Pac-Man break up with the ghosts?
+>     Because he felt like they were always following him!
+> 
+>     Wait, let's try a Tetris one.
+>     "Why is Tetris the most stressful game? Because life keeps dropping blocks on you!" (A bit dark/philosophical).
+> 
+>     Let's stick to the Pac-Man one. It's the most iconic.
+> 
+>     *Final Joke Selection:*
+>     Why did Pac-Man break up with the ghosts?
+>     Because he felt like they were always following him!
+> 
+>     "Why did Pac-Man break up with the ghosts? Because he felt like they were always following him!"
+> 
+>     (Wait, let me check if there's a better one).
+>     How about:
+>     "Why did the arcade gamer bring a ladder to the arcade? Because he wanted to reach the high scores!" (A bit generic).
+> 
+>     Let's go with:
+>     Why did Pac-Man break up with the ghosts?
+>     Because he felt like they were always following him!
+> 
+>     *Actually, let's try a Space Invaders one:*
+>     Why don't aliens play arcade games?
+>     Because they're afraid of being "invaded" by a high score! (A bit weak).
+> 
+>     *Let's go with a classic Pac-Man joke:*
+>     Why did Pac-Man go to the doctor?
+>     Because he was feeling a little empty inside!
+> 
+>     Let's go with the "following him" one. It's the best balance of light and funny.
+> 
+>     *One more check:*
+>     Why was Pac-Man so good at making friends?
+>     Because he always knew how to clear the air! (No, that's not it).
+> 
+>     Final Choice:
+>     Why did Pac-Man break up with the ghosts? 
+>     Because he felt like they were always following him!
+> 
+>     Wait, I'll try one more:
+>     What is a retro gamer's favorite snack?
+>     Pac-Dots! (Too simple).
+> 
+>     Let's go with:
+>     Why did Pac-Man break up with the ghosts?
+>     Because he felt like they were always following him!
 
