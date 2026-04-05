@@ -1,63 +1,40 @@
 # Joke of the day: 
-Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!
+Why did the submarine go to the doctor? 
+
+Because it was feeling a little under the pressure!
 
 ## Topic
-<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
+<!--TOPIC-->Deep sea exploration<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
+|**Prompt Token Count**|27|
 |**Candidates Token Count**|21|
-|**Total Token Count**|763|
-|**Thoughts Token Count**|714|
+|**Total Token Count**|378|
+|**Thoughts Token Count**|330|
 
 ## Thoughts: 
-> *   Topic: Baking sourdough bread.
+> *   Topic: Deep sea exploration.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter/yeast/culture.
->     *   Feeding the starter (it's like a pet).
->     *   Rise/proofing.
->     *   "Sour" dough.
->     *   Gluten/kneading.
->     *   Obsession/addiction.
+>     *   Idea 1: Something about pressure.
+>     *   Idea 2: Something about anglerfish.
+>     *   Idea 3: Something about submarines.
+>     *   Idea 4: Something about finding Nemo.
+>     *   Idea 5: Something about "depths" of knowledge.
 > 
->     *   *Idea 1 (The Pet Angle):* Why did the sourdough baker get kicked out of the party? Because they brought their "culture" but it was a little too crusty. (A bit weak).
->     *   *Idea 2 (The Relationship Angle):* My relationship with my sourdough starter is getting serious. We spend a lot of time together, but honestly, it’s a bit of a sour relationship. (A bit cliché).
->     *   *Idea 3 (The Pet/Responsibility Angle):* Why is sourdough baking like having a pet? Because you have to feed it every day, it’s incredibly needy, and if you ignore it, things get really bubbly and weird. (Not quite a joke format).
->     *   *Idea 4 (The Pun/Question format):* Why did the sourdough starter go to therapy? Because it had too many issues with its upbringing... and it was feeling a little bubbly. (A bit long).
->     *   *Idea 5 (The "Sour" Pun):* What did the baker say when the sourdough didn't rise? "Don't be so sour!" (Simple, punny).
->     *   *Idea 6 (The Pet/Bread Pun):* Why do sourdough bakers make such good friends? Because they always bring a lot of culture to the table! (Classic, light, easy).
+>     *   *Draft 1:* Why don't deep-sea explorers ever get lost? Because they always follow the current events. (A bit weak).
+>     *   *Draft 2:* Why did the submarine go to the doctor? Because it was feeling a little under the pressure! (Classic, simple, light).
+>     *   *Draft 3:* What kind of fish goes to the doctor? A sturgeon. (Not really deep sea exploration specific).
+>     *   *Draft 4:* Why did the ocean explorer bring a ladder to the bottom of the sea? Because he wanted to reach new depths! (A bit corny).
 > 
->     "Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!"
+>     *   "Why did the submarine go to the doctor? Because it was feeling a little under the pressure!"
+>     *   This fits all criteria: funny (pun), simple, light, easy to understand, and related to deep sea exploration.
 > 
->     *   Funny? Yes (punny).
->     *   Topic: Sourdough bread.
->     *   Simple/Light/Easy? Yes.
->     *   Only output the joke? Yes.
+>     *   Does it follow the "Only output the joke" instruction? Yes.
 > 
->     *Alternative check:* "What did the sourdough say to the baker? You're raising my spirits!" (A bit abstract).
-> 
->     Let's go with the "Culture" one. It's the most recognizable sourdough pun.
-> 
->     "Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!"
-> 
->     *Wait, let's try one more:*
->     "I asked my sourdough starter how it was doing today. It said, 'I'm feeling a little bubbly!'" (A bit too simple).
-> 
->     Let's stick to the "Culture" joke. It's a classic.
-> 
->     *Actually, let's try one about the commitment:*
->     "Why did the baker break up with the sourdough starter? Because the relationship was getting too sour!"
-> 
->     Let's go with the "Culture" one. It's cleaner.
-> 
->     "Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!"
-> 
->     *Double check constraints:* "Only output the joke."
-> 
->     Joke: Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!
+>     Why did the submarine go to the doctor? Because it was feeling a little under the pressure!
 
