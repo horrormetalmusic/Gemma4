@@ -1,184 +1,152 @@
 # Joke of the day: 
-Why don't suburban dads play hide and seek? Because they can't stand the thought of anyone stepping on their perfectly manicured grass.
+Why was the quantum computer so indecisive? Because it was always in two minds at once!
 
 ## Topic
-<!--TOPIC-->Suburban lawn care<!--/TOPIC-->
+<!--TOPIC-->Quantum computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|29|
-|**Total Token Count**|2524|
-|**Thoughts Token Count**|2467|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|20|
+|**Total Token Count**|1996|
+|**Thoughts Token Count**|1950|
 
 ## Thoughts: 
-> *   Topic: Suburban lawn care.
+> *   Topic: Quantum computing.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Obsession with grass height.
->     *   Idea 2: Dandelions/weeds as enemies.
->     *   Idea 3: Lawn mowers vs. neighbors.
->     *   Idea 4: Sprinklers.
->     *   Idea 5: Comparison to life/war.
+>     *   Superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance).
+>     *   Observation (collapsing the wavefunction).
+>     *   Qubits vs. Bits.
 > 
->     *   *Draft A:* Why did the suburban dad cross the road? To tell the neighbor his grass is half an inch too long. (A bit cliché).
->     *   *Draft B:* My neighbor is so obsessed with his lawn that when I asked him for the time, he said, "Can't talk now, the Kentucky Bluegrass is peaking!" (A bit weak).
->     *   *Draft C:* Why do suburban dads love lawn mowers so much? Because it’s the only time they can pretend they’re actually driving something important. (Okay, but maybe not "funny" enough).
->     *   *Draft D:* What’s a suburban dad’s favorite type of heavy metal? Grass metal. (Pun, simple).
->     *   *Draft E (The "Relationship" joke):* My wife told me I need to spend more quality time with her. So, I took her out to the front yard to watch me fertilize.
+>     *   *Idea 1 (Superposition):* Why did the quantum computer go to therapy? Because it had too many states of mind. (A bit weak).
+>     *   *Idea 2 (Schrödinger's Cat/Superposition):* A quantum physicist walks into a bar... (too long).
+>     *   *Idea 3 (The classic bit/qubit joke):* How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and one to observe it so it actually stays in place. (Okay, but maybe a bit cliché).
+>     *   *Idea 4 (Superposition/Decision making):* Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you asked it. (Simple).
+>     *   *Idea 5 (The "I'm not sure" joke):* A quantum physicist is asked if they are happy. They say, "I'm in a superposition of happy and sad until you check my pulse." (A bit dark).
+>     *   *Idea 6 (The "observation" joke):* Why don't quantum computers ever get lost? Because they are everywhere at once until you look for them.
 > 
->     "Why did the suburban dad get a divorce? Because he couldn't decide which lawn fertilizer was more 'soulmate' material." -> A bit dark.
+>     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
 > 
->     *Let's try a classic structure:*
->     "Why do suburban dads treat their lawns like high-security prisons? Because they spend all their time making sure nothing unauthorized gets in—especially weeds."
+>     *Alternative (even simpler):*
+>     "How does a quantum computer tell a joke? It tells it in a superposition of funny and not funny until you laugh!"
 > 
->     *Let's try a shorter one:*
->     "Why don't suburban dads ever play hide and seek? Because they can't stand the thought of anyone stepping on their perfectly manicured grass."
+>     *Let's go with a classic variation of the "Schrödinger" or "Superposition" theme:*
+>     "Why did the quantum computer fail its driving test? Because every time the instructor looked at it, it changed its direction!"
 > 
->     *Let's go with a classic "Dad" style joke:*
->     "What’s a suburban dad's favorite type of music? Mow-sic." (Too simple/punny).
+>     *Actually, let's try this one:*
+>     "Why can't you trust a quantum computer? Because it’s always in two minds about everything!"
 > 
->     *Let's try this:*
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he gives it a pep talk every morning to make sure the grass is performing at its best."
+>     *Wait, let's go with the most recognizable one:*
+>     "Why did the quantum computer go to therapy? Because it was in a constant state of superposition and couldn't decide who it really was!"
 > 
->     *Actually, let's go with the "Relationship/Priority" angle:*
->     "I asked my neighbor why he spends five hours a day on his lawn. He said, 'It’s not a hobby, it’s a high-stakes standoff between me and a single dandelion.'"
-> 
->     "Why do suburban dads love their lawn mowers so much? Because it's the only time they can feel like they're actually in control of something in their lives!"
-> 
->     "What do you call a suburban dad who finally gives up on his lawn? A person with a yard." -> No.
-> 
->     *Let's go with a classic pun/scenario:*
->     "Why did the suburban dad bring a ladder to his lawn care session? Because he heard the grass was growing like crazy!"
-> 
->     *Actually, let's go with this one:*
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he checks it twice to make sure no weeds are trying to sneak in under the cover of darkness."
-> 
->     *Wait, let's try a very simple one:*
->     "Why do suburban dads treat their lawns like a high-security facility? Because they spend all their time making sure no weeds try to stage a coup."
-> 
->     "Why did the suburban dad get so stressed out? Because he found a dandelion in his yard and now he feels like he's failing a high-stakes security inspection."
+>     *Actually, let's go with a simpler, punchier one:*
+>     "Why was the quantum computer so bad at keeping secrets? Because as soon as you looked at it, it collapsed!"
 > 
 >     *Let's try one more:*
->     "My neighbor is so obsessed with his lawn that he doesn't just mow the grass; he treats it like a professional sports team. Every morning, he walks out there just to see if anyone is underperforming."
+>     "How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and one to observe it so it stays in one place." (This is a classic, easy to understand).
 > 
->     *Let's go with the "Spy/Security" angle, it's very relatable.*
+>     *Let's go with a very simple one about being in two places:*
+>     "Why did the quantum computer get kicked out of the party? Because it was everywhere at once, and then it just disappeared as soon as anyone looked at it!"
 > 
->     "Why do suburban dads treat their lawns like a top-secret military operation? Because they spend all their time making sure no unauthorized weeds try to invade the territory."
+>     *Let's go with a classic "bit" vs "qubit" joke:*
+>     "What is a quantum computer's favorite way to say 'maybe'? '0 and 1!'" (Not really a joke).
 > 
->     *Actually, even simpler:*
->     "Why don't suburban dads ever play hide and seek? Because they’re too busy making sure nobody steps on their perfectly manicured grass."
+>     *Best option:*
+>     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
 > 
->     *Let's go with a classic "Dad Joke" style:*
->     "Why did the suburban dad bring a flashlight to the yard? Because he heard the grass was growing in the dark!" (A bit nonsensical).
+>     *Actually, let's use the "Two minds" one, it's light and simple.*
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
->     *Let's go with this:*
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he gives it a performance review every weekend."
+>     *Wait, let's use this one:*
+>     "Why do quantum computers make terrible comedians? Because their jokes are in a superposition of funny and not funny until you laugh!"
 > 
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he gives it a performance review every weekend."
+>     Let's go with:
+>     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
 > 
->     *Wait, let's try a "Weed" joke:*
->     "What is a suburban dad's biggest fear? A dandelion in a sea of Kentucky Bluegrass."
+>     *Actually, let's go with a very common, lighthearted one:*
+>     "Why did the quantum computer go to therapy? Because it was having a bit of an identity crisis—it couldn't decide if it was a 0 or a 1!"
 > 
->     *Let's use this one:*
->     "Why do suburban dads treat their lawns like high-security facilities? Because they spend all their time making sure no weeds try to stage a coup."
+>     *Refining for "Only output the joke":*
+>     "Why was the quantum computer so indecisive? Because it was in a superposition of being a 0 and a 1!"
 > 
->     *Actually, let's go with a very simple, light one:*
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he treats it like a professional athlete that needs constant supervision."
+>     Let's try one that is more "joke" structured:
+>     "Why can't you ever play hide-and-seek with a quantum computer? Because it's everywhere at once, but the moment you find it, it's gone!"
 > 
->     *Let's try a joke about the "Dad" personality:*
->     "Why did the suburban dad cross the road? To tell the neighbor his grass is a half-inch too long."
+>     Let's go with:
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
->     *This is the winner. It's simple, light, and very "suburban lawn care".*
+>     *Wait, "in two minds" is a common idiom for being indecisive, and it perfectly describes superposition. It's simple and light.*
 > 
->     "Why did the suburban dad cross the road? To tell his neighbor that his grass is a half-inch too long."
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
->     *Wait, I'll try one that's slightly more of a 'joke' structure:*
->     "Why do suburban dads treat their lawns like a high-security prison? Because they spend all their time making sure no weeds try to break in."
+>     *Check constraints:*
+>     - Funny joke about Quantum computing? Yes.
+>     - Simple, light, easy to understand? Yes.
+>     - Only output the joke? Yes.
 > 
->     *Let's go with the "Performance Review" one. It's clever but simple.*
+>     *Let's try one that's a bit more "physics-y" but still easy:*
+>     "Why did the quantum computer fail its driving test? Because it couldn't decide which way to turn until the instructor looked at it!"
 > 
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he gives it a performance review every weekend."
+>     Actually, the "two minds" one is the cleanest.
 > 
->     *Actually, let's go with the "Hide and Seek" one. It's very cute and simple.*
-> 
->     "Why don't suburban dads ever play hide and seek? Because they can't stand the thought of anyone stepping on their perfectly manicured grass."
-> 
->     "Why don't suburban dads ever play hide and seek? Because they can't stand the thought of anyone stepping on their perfectly manicured grass."
-> 
->     (Self-Correction: Is it "funny"? It's a light joke. It fits "simple, light, and easy to understand".)
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
 >     *One more option:*
->     "What’s a suburban dad’s favorite type of heavy metal? Grass metal." (Too punny/weak).
+>     "How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and one to observe it so it stays in place."
 > 
->     *Let's try:*
->     "Why do suburban dads treat their lawns like a high-security facility? Because they spend all their time making sure no weeds try to stage a coup." (This is good).
+>     I will provide the "two minds" one. It's a pun.
 > 
->     Let's go with the "Performance Review" one. It's punchy.
+>     *Final decision:*
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he gives it a performance review every weekend."
+>     Wait, I'll go with the "0 and 1" version as it's more "computing" specific.
 > 
->     Actually, the "Hide and Seek" one is safer and more "light".
+>     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1 until you looked at it!"
 > 
->     "Why don't suburban dads play hide and seek? Because they can't stand the thought of anyone stepping on their perfectly manicured grass."
+>     Actually, the most "light and easy" is:
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
->     *Wait, let's try a "Dandelion" joke:*
->     "A suburban dad's worst nightmare isn't a ghost or a monster—it's a single dandelion in the middle of a perfectly manicured lawn." (More of a statement than a joke).
+>     (Wait, "in two minds" refers to superposition. It's a double entendre. Perfect.)
 > 
->     Let's go with:
->     "Why do suburban dads treat their lawns like a high-security facility? Because they spend all their time making sure no weeds try to stage a coup!"
+>     Final check.
 > 
->     *Actually, let's go with the most classic "Dad" vibe:*
->     "Why did the suburban dad cross the road? To tell his neighbor that his grass is a half-inch too long."
+>     Joke: Why was the quantum computer so indecisive? Because it was always in two minds at once!
 > 
->     (This is the most recognizable "suburban lawn" trope).
+>     Wait, let's try:
+>     "A quantum physicist walks into a bar. He orders a drink, but the bartender says, 'I'm not sure if you're here or not until I serve you!'" (A bit clunky).
 > 
->     "Why did the suburban dad cross the road? To tell his neighbor that his grass is a half-inch too long."
+>     Let's stick to the indecisive one. It's punchy.
 > 
->     *Wait, I have a better one:*
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it; he treats it like a high-stakes hostage negotiation with a single dandelion."
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
->     *Let's go with:*
->     "Why do suburban dads treat their lawns like high-security facilities? Because they spend all their time making sure no weeds try to stage a coup."
+>     Actually, I'll use a slightly more "computery" one to ensure the topic is clear.
 > 
->     Actually, let's keep it extremely simple.
-> 
->     "Why don't suburban dads play hide and seek? Because they can't stand the thought of someone stepping on their perfectly manicured grass."
-> 
->     *Let's go with the "Performance Review" one. It's the funniest.*
-> 
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he gives it a performance review every weekend."
-> 
->     *Let's do the "Hide and Seek" one. It's more "joke-like".*
-> 
->     *Actually, let's go with:*
->     "Why do suburban dads treat their lawns like a high-security facility? Because they spend all their time making sure no weeds try to stage a coup."
-> 
->     *One more check of the prompt:* "Only output the joke."
+>     "Why was the quantum computer so indecisive? Because it was in a superposition of being a 0 and a 1!" -> A bit too technical?
 > 
 >     Let's go with:
->     "Why don't suburban dads ever play hide and seek? Because they can't stand the thought of anyone stepping on their perfectly manicured grass."
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
->     Wait, I'll try this one:
->     "What is a suburban dad's favorite type of music? Mow-sic." 
->     No, that's a bad pun.
+>     Wait, I will provide:
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 > 
->     Let's go with the "Half-inch" one. It's a classic observation.
+>     Actually, let's try:
+>     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
 > 
->     "Why did the suburban dad cross the road? To tell his neighbor that his grass is a half-inch too long."
+>     Let's go with the "two minds" one. It's the most "joke-like".
 > 
->     (Actually, let's go with the "Hide and Seek" one. It's more "light".)
+>     Final selection:
+>     Why was the quantum computer so indecisive? Because it was always in two minds at once!
 > 
->     "Why don't suburban dads play hide and seek? Because they can't stand the thought of anyone stepping on their perfectly manicured grass."
+>     Wait, one more thought:
+>     "What do you call a quantum computer that's good at jokes? A 'super-position' of hilarious!" (No, that's bad).
 > 
->     Let's try:
->     "My neighbor is so obsessed with his lawn that he doesn't just mow it—he gives it a performance review every weekend."
+>     "Why did the quantum computer fail its exam? Because it was in two states of mind at once!"
 > 
->     Let's go with the "Hide and Seek" one. It is very easy to understand.
-> 
->     Final decision:
->     "Why don't suburban dads play hide and seek? Because they can't stand the thought of someone stepping on their perfectly manicured grass."
+>     I'll stick to:
+>     "Why was the quantum computer so indecisive? Because it was always in two minds at once!"
 
