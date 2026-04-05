@@ -1,65 +1,67 @@
 # Joke of the day: 
-I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time.
+Why do ballroom dancers make great detectives? Because they always know how to follow a lead!
 
 ## Topic
-<!--TOPIC-->Quantum computing<!--/TOPIC-->
+<!--TOPIC-->Ballroom dancing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|26|
-|**Total Token Count**|751|
-|**Thoughts Token Count**|699|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|18|
+|**Total Token Count**|742|
+|**Thoughts Token Count**|697|
 
 ## Thoughts: 
-> *   Topic: Quantum computing.
+> *   Topic: Ballroom dancing.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Schrödinger's Cat (alive and dead).
->     *   Observation (collapsing the wave function).
+>     *   Idea 1: Why did the ballroom dancer go to the doctor? Because they had too much "step" in their step? (Weak)
+>     *   Idea 2: Why don't ballroom dancers ever get lost? Because they always follow the lead. (Okay, but a bit cliché)
+>     *   Idea 3: Why was the ballroom dancer so good at math? Because they knew how to count. (Classic, relates to the counting in dancing)
+>     *   Idea 4: A joke about tango/salsa.
+>     *   Idea 5: Why did the ballroom dancer bring a ladder to the dance? To reach the high notes/steps? (A bit weak)
 > 
->     *   *Idea 1 (Schrödinger):* A quantum physicist walks into a bar... no, that's a bit cliché.
->     *   *Idea 2 (Superposition):* Why did the quantum computer go to therapy? Because it was in too many states at once.
->     *   *Idea 3 (Observation):* I have a joke about quantum computing, but you have to look at it to make it funny.
->     *   *Idea 4 (Entanglement):* Why did the two qubits break up? They felt too much pressure to stay entangled.
->     *   *Idea 5 (Superposition/Observation):* A quantum physicist is looking for their keys. They don't know if they have them or not until they look in their pocket.
+>     *   "Why was the ballroom dancer so good at math? Because they knew exactly how to count!"
+>     *   "Why did the ballroom dancer get kicked out of the library? Because they kept trying to tango with the bookshelves!" (A bit silly/absurd)
+>     *   "Why do ballroom dancers make great partners? Because they always know how to follow instructions!" (A bit dry)
 > 
->     "I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time."
+>     "Why was the ballroom dancer so good at math? Because they always knew how to count!" is simple, light, and hits the core of ballroom dancing (the 1-2-3-4 counting).
 > 
->     *Alternative:* "Why did the quantum computer cross the road? Because it was already on both sides."
+>     "Why was the ballroom dancer so good at math? Because they always knew how to count!"
 > 
->     *Alternative (Classic):* "A quantum physicist walks into a bar. He orders a drink, but before the bartender can serve it, he's already had it and hasn't even ordered it yet."
+>     Wait, let's try one more.
+>     "What's a ballroom dancer's favorite type of math? Step-istics?" (Too punny/niche)
 > 
->     *Let's go with the "Observation" joke, it's the cleanest.*
+>     Let's go with the "counting" one. It's a classic structure.
 > 
->     "I have a joke about quantum computing, but until you observe it, it's both hilarious and not funny at all."
+>     Actually, how about:
+>     "Why did the ballroom dancer go to the doctor? Because they had too much rhythm, but they couldn't find their footing!" (Not really a joke)
 > 
->     "I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time."
+>     Let's stick to:
+>     "Why was the ballroom dancer so good at math? Because they always knew how to count!"
 > 
->     Let's try one more: "Why was the quantum computer so stressed? It was dealing with too many states of mind at once." -> A bit weak.
+>     *Self-Correction:* Is there a better one?
+>     "How do ballroom dancers stay in shape? They do a lot of 'step' aerobics!" (A bit weak)
 > 
->     Let's go with:
->     "I have a joke about quantum computing, but until you observe it, it’s both hilarious and not funny at all."
+>     Let's go with the "counting" joke. It's the most universally understood joke about dancing.
 > 
->     *Wait, there's a very popular one:*
->     "A quantum physicist walks into a bar and orders a drink. He's also simultaneously not ordering a drink, but the bartender won't know until he looks at him."
+>     *Alternative:*
+>     "Why did the man bring a ladder to the ballroom dance? Because he heard the music was on a high level!" (A bit old-fashioned)
 > 
->     Let's go with the "Observer" one, it's very punchy.
+>     Let's try:
+>     "Why do ballroom dancers make great detectives? Because they can always follow a lead!"
 > 
->     *Final Selection:*
->     "I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time."
+>     This is a good one! "Follow a lead" is a double entendre for dancing and investigation.
 > 
->     - Funny? Yes.
->     - About Quantum computing? Yes.
->     - Simple/Light? Yes.
->     - Only output the joke? Yes.
+>     "Why do ballroom dancers make great detectives? Because they always know how to follow a lead!"
 > 
->     *Self-Correction:* The "hilarious and terrible" version is a bit more standard for the "observe it" trope.
+>     *   Funny? Yes (pun).
+>     *   Simple/Light? Yes.
+>     *   Ballroom dancing topic? Yes.
+>     *   Only the joke? Yes.
 > 
->     "I have a joke about quantum computing, but until you observe it, it's both hilarious and terrible at the same time."
+>     "Why do ballroom dancers make great detectives? Because they always know how to follow a lead!"
 
