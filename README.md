@@ -1,123 +1,103 @@
 # Joke of the day: 
-A quantum physicist walks into a bar. He orders a drink, but before the bartender can even serve him, the physicist has already finished it—and hasn't even ordered it yet.
+Why was the sourdough bread so successful? Because it always rose to the occasion!
 
 ## Topic
-<!--TOPIC-->Quantum computing<!--/TOPIC-->
+<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|38|
-|**Total Token Count**|1488|
-|**Thoughts Token Count**|1424|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|16|
+|**Total Token Count**|1201|
+|**Thoughts Token Count**|1157|
 
 ## Thoughts: 
-> *   Topic: Quantum computing.
+> *   Topic: Baking sourdough bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Schrödinger's Cat (dead and alive).
->     *   Qubits (0 and 1 simultaneously).
+>     *   Idea 1: Sourdough starter being a "pet" or demanding attention.
+>     *   Idea 2: The long fermentation process (waiting/patience).
+>     *   Idea 3: The "sour" personality of the bread.
+>     *   Idea 4: Relationships with sourdough starters.
 > 
->     *   *Joke A:* A quantum physicist walks into a bar. He orders a beer. He also orders a non-beer at the same time.
->     *   *Joke B:* Why did the quantum physicist break up with their partner? Because they weren't in the same state anymore.
->     *   *Joke C:* A quantum physicist is having trouble sleeping. They are both asleep and awake at the same time until someone opens the door.
->     *   *Joke D:* How many quantum physicists does it take to change a lightbulb? Two. One to change it, and one to observe it so it stays changed. (A bit weak).
->     *   *Joke E (Classic):* A quantum physicist walks into a bar. He orders a drink, but before the bartender can serve him, he's already had it and hasn't ordered it yet.
+>     *   *Draft 1:* Why did the sourdough starter go to therapy? Because it had too many issues and felt a little sour. (A bit cliché).
+>     *   *Draft 2:* My sourdough starter is like a toddler. It’s high maintenance, needs constant feeding, and if I ignore it for one day, it throws a tantrum. (Relatable).
+>     *   *Draft 3:* Why was the sourdough loaf so good at making friends? Because it always had a great crust! (A bit punny/weak).
+>     *   *Draft 4:* I told my sourdough starter a joke, but it didn't laugh. It just sat there looking sour. (Simple, light).
 > 
->     *   The "ordering a drink" joke is a classic and easy to understand.
->     *   Alternative: "A quantum physicist walks into a bar and orders a drink. The bartender asks, 'Would you like that now?' The physicist says, 'I'm not sure, I haven't decided yet, but I've already finished it.'" -> A bit clunky.
+>     "Why did the sourdough starter go to therapy? Because it had too many emotional issues and was feeling a little sour!"
+>     *Wait, let's try something even simpler.*
 > 
->     *   *Refined Joke:*
->         A quantum physicist walks into a bar.
->         He orders a drink, but before the bartender can even pour it, the physicist has already finished it—and hasn't even ordered it yet.
+>     "I asked my sourdough starter how it was doing today. It didn't say anything, but it definitely gave me a sour look!"
 > 
->     *   *Simpler version:*
->         A quantum physicist walks into a bar and orders a drink.
->         The bartender asks, "Do you want it now?"
->         The physicist says, "I'm not sure, I'm currently in a superposition of wanting it and not wanting it." (A bit too "textbook").
+>     *Actually, let's go with a classic pun/situation style.*
 > 
->     *   *Let's go with the "Schrödinger's Cat/State" vibe or the "Bar" vibe.*
+>     "Why don't sourdough bakers ever get lonely? Because they always have a starter to hang out with!"
 > 
->     *   *How about this:*
->         A quantum physicist walks into a bar.
->         The bartender asks, "Would you like a beer?"
->         The physicist says, "I'm not sure, let me check my state."
+>     *Let's try one more about the "pet" aspect, which is very common in the community.*
 > 
->     *   *Let's try the most famous one adapted for simplicity:*
->         A quantum physicist walks into a bar and orders a drink.
->         The bartender says, "That'll be five dollars."
->         The physicist says, "I'll pay you later, but right now, I'm both broke and rich until you check my wallet."
+>     "Sourdough baking is the only hobby where you spend three days feeding a jar of goo just so you can feel something for five minutes when it finally comes out of the oven!" (A bit long).
 > 
->     *   *Actually, the simplest one is the "Bar/Order" joke:*
->         A quantum physicist walks into a bar.
->         He orders a drink, but before the bartender can serve him, he has already finished it and hasn't even ordered it yet.
+>     *Let's go with the "sour look" joke. It's clean, simple, and light.*
 > 
->     *   *Wait, let's try one about qubits:*
->         Why did the quantum computer go to therapy?
->         Because it had too many identity crises—it couldn't decide if it was a 0 or a 1!
+>     "I tried to tell a joke to my sourdough starter, but it didn't laugh. It just gave me a sour look!"
 > 
->     The "identity crisis" joke is very simple, light, and easy to understand.
+>     "Why did the sourdough starter go to therapy? Because it had too many issues and was feeling a little sour!" -> This is very standard.
 > 
->     *Let's try one more:*
->     A quantum physicist is having a hard time making a decision.
->     Their friend asks, "Are you going to the party tonight?"
->     The physicist replies, "I'm both going and not going, until you ask me again!"
+>     Let's try:
+>     "What do you call a sourdough baker who is always grumpy? A sour-dough!" (A bit too simple).
 > 
->     Let's go with the "Bar" joke as it's the most standard "joke structure."
+>     How about:
+>     "My sourdough starter is a lot like a toddler: it requires constant feeding, it’s very high maintenance, and if I ignore it for a day, it throws a total tantrum!"
 > 
->     *Final Selection:*
->     A quantum physicist walks into a bar.
->     He orders a drink, but before the bartender can even pour it, the physicist has already finished it—and hasn't even ordered it yet.
+>     *Decision:* The "sour look" joke is the most "joke-like" in structure.
 > 
->     *Wait, looking for something even "lighter":*
->     Why did the quantum computer get kicked out of the party?
->     Because it kept being in two places at once!
+>     "I tried to tell a joke to my sourdough starter, but it didn't laugh. It just gave me a sour look!"
 > 
->     That's very simple.
+>     *   Funny? Yes.
+>     *   Topic: Sourdough? Yes.
+>     *   Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     Let's go with the "Bar" one, it's a bit more clever.
+>     Wait, let's try one more:
+>     "Why was the sourdough loaf so successful? Because it always rose to the occasion!"
 > 
->     *Alternative:*
->     How many quantum physicists does it take to change a lightbulb?
->     Two. One to change it, and one to observe it so it stays changed.
+>     This is a classic pun. Let's go with the "rose to the occasion" one or the "sour look" one. "Rose to the occasion" is a very "dad joke" style which fits "simple and light."
 > 
->     Let's use the most "accessible" one:
->     A quantum physicist walks into a bar.
->     He orders a drink, but before the bartender can serve him, he has already finished it—and hasn't even ordered it yet.
+>     Actually, let's go with:
+>     "Why did the sourdough starter go to therapy? Because it had too many issues and was feeling a little sour!"
 > 
->     *Wait, let's try a really punchy one:*
->     Why don't quantum physicists ever get lost?
->     Because they are everywhere at once!
+>     Actually, let's go with the "rose to the occasion" one. It's punchier.
 > 
->     Let's stick to the "Bar" joke. It's the gold standard for physics jokes.
+>     "Why was the sourdough bread so successful? Because it always rose to the occasion!"
 > 
->     *Revised Bar Joke:*
->     A quantum physicist walks into a bar.
->     He orders a drink, but before the bartender can serve him, the physicist has already finished it—and hasn't even ordered it yet.
+>     Let's double check the prompt: "Tell a funny joke about Baking sourdough bread."
 > 
->     *Actually, let's go with this one, it's very clear:*
->     Why did the quantum computer break up with its partner?
->     Because they were no longer in the same state.
+>     Okay, let's try:
+>     "I asked my sourdough starter how its day was going. It didn't say anything, but it definitely gave me a sour look!"
 > 
->     *Actually, let's go with:*
->     A quantum physicist walks into a bar. 
->     He orders a drink, but before the bartender can serve him, he has already finished it and hasn't even ordered it yet.
+>     Actually, let's go with the "rose to the occasion" one. It's the most universally understood "joke" structure.
 > 
->     (Self-correction: The prompt asks for "Only output the joke.")
+>     "Why was the sourdough bread so successful? Because it always rose to the occasion!"
 > 
->     A quantum physicist walks into a bar. He orders a drink, but before the bartender can serve him, he has already finished it—and hasn't even ordered it yet.
+>     *Self-Correction:* The prompt is about *baking* sourdough. "Rose to the occasion" is a perfect pun for bread.
 > 
->     Actually, let's go with the "0 and 1" joke, it's even simpler.
->     
->     "Why did the quantum computer get confused? Because it couldn't decide if it was a 0 or a 1!"
->     
->     No, the bar joke is better.
+>     "Why did the sourdough bread win the award? Because it always rose to the occasion!"
 > 
->     Let's go:
->     A quantum physicist walks into a bar. He orders a drink, but before the bartender can serve him, he has already finished it—and hasn't even ordered it yet.
+>     Let's try:
+>     "Why was the sourdough bread so confident? Because it always rose to the occasion!"
+> 
+>     Let's go with:
+>     "Why was the sourdough bread so successful? Because it always rose to the occasion!"
+> 
+>     *Wait, let's look for one specifically about the starter since that's the "sourdough" part.*
+> 
+>     "What did the sourdough starter say to the baker? 'Stop feeding me and let me rise!'" (Not that funny).
+> 
+>     Let's stick to the "rose to the occasion" pun. It's simple and light.
+> 
+>     "Why was the sourdough bread so successful? Because it always rose to the occasion!"
 
