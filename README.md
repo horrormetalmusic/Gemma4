@@ -1,83 +1,63 @@
 # Joke of the day: 
-I have a joke about quantum computing, but you won't know if it's funny until you observe it.
+Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!
 
 ## Topic
-<!--TOPIC-->Quantum computing<!--/TOPIC-->
+<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|24|
-|**Total Token Count**|990|
-|**Thoughts Token Count**|940|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|21|
+|**Total Token Count**|763|
+|**Thoughts Token Count**|714|
 
 ## Thoughts: 
-> *   Topic: Quantum computing.
+> *   Topic: Baking sourdough bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Qubits vs. Bits.
->     *   Observation/Measurement (collapsing the wave function).
+>     *   Starter/yeast/culture.
+>     *   Feeding the starter (it's like a pet).
+>     *   Rise/proofing.
+>     *   "Sour" dough.
+>     *   Gluten/kneading.
+>     *   Obsession/addiction.
 > 
->     *   *Idea 1 (Superposition):* A quantum physicist walks into a bar... He's both in and out until the bartender looks.
->     *   *Idea 2 (Schrödinger's Cat/Computing):* Why did the quantum computer go to therapy? Because it had too many identity crises—it couldn't decide if it was a 0 or a 1.
->     *   *Idea 3 (Complexity):* Why do quantum computers make terrible partners? Because even when they say they're "there" for you, they're actually in a superposition of being somewhere else.
+>     *   *Idea 1 (The Pet Angle):* Why did the sourdough baker get kicked out of the party? Because they brought their "culture" but it was a little too crusty. (A bit weak).
+>     *   *Idea 2 (The Relationship Angle):* My relationship with my sourdough starter is getting serious. We spend a lot of time together, but honestly, it’s a bit of a sour relationship. (A bit cliché).
+>     *   *Idea 3 (The Pet/Responsibility Angle):* Why is sourdough baking like having a pet? Because you have to feed it every day, it’s incredibly needy, and if you ignore it, things get really bubbly and weird. (Not quite a joke format).
+>     *   *Idea 4 (The Pun/Question format):* Why did the sourdough starter go to therapy? Because it had too many issues with its upbringing... and it was feeling a little bubbly. (A bit long).
+>     *   *Idea 5 (The "Sour" Pun):* What did the baker say when the sourdough didn't rise? "Don't be so sour!" (Simple, punny).
+>     *   *Idea 6 (The Pet/Bread Pun):* Why do sourdough bakers make such good friends? Because they always bring a lot of culture to the table! (Classic, light, easy).
 > 
->     *   Idea 1 is a classic structure.
->     *   Idea 2 is cute but maybe a bit cliché.
->     *   Let's go with a variation of the "bar" joke or a "why did the..." joke.
+>     "Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!"
 > 
->     *Refined Joke:*
->     "A quantum physicist walks into a bar. He orders a drink, but he’s also not ordering a drink until the bartender looks at him."
+>     *   Funny? Yes (punny).
+>     *   Topic: Sourdough bread.
+>     *   Simple/Light/Easy? Yes.
+>     *   Only output the joke? Yes.
 > 
->     *Alternative Joke:*
->     "Why did the quantum computer break up with the classical computer? Because it felt like their relationship lacked any real connection, but then it realized they were actually entangled." (A bit wordy).
+>     *Alternative check:* "What did the sourdough say to the baker? You're raising my spirits!" (A bit abstract).
 > 
->     *Simpler Joke:*
->     "Why do quantum computers make such bad decision-makers? Because they can never decide if they're a 'yes' or a 'no' until you ask them!"
+>     Let's go with the "Culture" one. It's the most recognizable sourdough pun.
 > 
->     *Classic/Best:*
->     "A quantum physicist walks into a bar and orders a drink. But until the bartender looks at him, he’s both drinking and not drinking at the same time."
+>     "Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!"
 > 
->     *Let's try a one-liner:*
->     "I have a joke about quantum computing, but I'm not sure if you'll find it funny or not until you observe it." (This is meta and very "quantum").
+>     *Wait, let's try one more:*
+>     "I asked my sourdough starter how it was doing today. It said, 'I'm feeling a little bubbly!'" (A bit too simple).
 > 
->     *Let's go with the "observation" joke. It's the most iconic and easiest to grasp.*
+>     Let's stick to the "Culture" joke. It's a classic.
 > 
->     "I have a joke about quantum computing, but you won't know if it's funny or not until you observe it."
+>     *Actually, let's try one about the commitment:*
+>     "Why did the baker break up with the sourdough starter? Because the relationship was getting too sour!"
 > 
->     *Wait, let's look for something even punchier.*
->     "How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and one to observe it so it stays in one place."
+>     Let's go with the "Culture" one. It's cleaner.
 > 
->     *Actually, the most common/relatable one:*
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     "Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!"
 > 
->     *Let's go with the "observation" joke. It's the cleanest.*
+>     *Double check constraints:* "Only output the joke."
 > 
->     "I have a joke about quantum computing, but you won't know if it's funny until you observe it."
-> 
->     - Funny? Yes (in a nerdy way).
->     - Simple/Light? Yes.
->     - Only output the joke? Yes.
-> 
->     *Self-Correction:* Is it too meta? Let's try one more.
->     "Why was the quantum computer so indecisive? Because it was in a superposition of being right and being wrong!"
-> 
->     Let's go with:
->     "I have a joke about quantum computing, but you won't know if it's funny or not until you observe it."
-> 
->     *Wait, let's try the "bar" one again, it's more traditional.*
->     "A quantum physicist walks into a bar. He orders a drink, but he's also not ordering a drink until the bartender looks at him."
-> 
->     Actually, the "observation" one is the cleverest.
-> 
->     "I have a joke about quantum computing, but you won't know if it's funny until you observe it."
-> 
->     (This is a classic).
-> 
->     "I have a joke about quantum computing, but you won't know if it's funny until you observe it."
+>     Joke: Why do sourdough bakers make such great friends? Because they always bring a lot of culture to the table!
 
