@@ -1,65 +1,48 @@
 # Joke of the day: 
-Why did the sourdough starter go to school? Because it wanted to be a little more cultured!
+Heisenberg is driving down the highway when he gets pulled over by a police officer.
+
+The officer walks up to the window and asks, "Do you know how fast you were going?"
+
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Baking Sourdough Bread<!--/TOPIC-->
+<!--TOPIC-->Quantum Mechanics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|30|
-|**Candidates Token Count**|19|
-|**Total Token Count**|739|
-|**Thoughts Token Count**|690|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|54|
+|**Total Token Count**|453|
+|**Thoughts Token Count**|373|
 
 ## Thoughts: 
-> *   Topic: Baking sourdough bread.
+> *   Topic: Quantum Mechanics.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (living, hungry, needing feeding, "fermentation").
->     *   Dough (stretchy, rising, hydration).
->     *   Scoring (cutting the top).
->     *   Crust/Crumb.
->     *   Obsession/Addiction (sourdough hobbyists).
->     *   Names (giving the starter a name).
+>     *   Schrödinger's cat (dead/alive).
+>     *   Heisenberg's Uncertainty Principle (position/momentum).
+>     *   Entanglement (spooky action at a distance).
+>     *   Superposition (multiple states at once).
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues with its rising tension. (A bit clunky).
->     *   *Idea 2:* Why do sourdough bakers make such good friends? Because they know how to rise to the occasion. (Classic, simple).
->     *   *Idea 3:* My sourdough starter and I have a very committed relationship. It’s getting pretty serious—it’s basically feeding me every single day. (A bit long).
->     *   *Idea 4:* Why was the sourdough baker so calm? Because they knew everything would eventually rise to the occasion. (Similar to 2).
->     *   *Idea 5:* What did the sourdough baker say to their starter? "Don't worry, things are looking up!"
+>     *   *Option 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't. (A bit cliché).
+>     *   *Option 2 (Heisenberg):* Heisenberg is speeding. Cop asks: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!" (Classic).
+>     *   *Option 3 (Heisenberg/Schrödinger combo):* A physicist is driving down the road and gets pulled over... (Variation of Option 2).
 > 
->     *   "Why do sourdough bakers make such great friends? Because they always know how to rise to the occasion!"
+>     *   *Setup:* Heisenberg is driving down the highway and gets pulled over by a police officer.
+>     *   *Dialogue:*
+>         *   Officer: "Do you know how fast you were going?"
+>         *   Heisenberg: "No, but I know exactly where I am!"
 > 
->     *   Funny? Yes (pun).
->     *   Topic: Sourdough.
->     *   Simple/Light/Easy? Yes.
->     *   Only output the joke? Yes.
+>     *   Is it about Quantum Mechanics? Yes (Uncertainty Principle).
+>     *   Is it funny/simple/light? Yes.
+>     *   Is it "Only output the joke"? Yes.
 > 
->     *Self-Correction:* "Rise to the occasion" is more of a general baking joke. Let's try to make it more specific to sourdough if possible, or stick to the pun if it's the cleanest.
+>     Heisenberg is driving down the highway when he gets pulled over by a police officer. 
 > 
->     *Alternative:*
->     "I asked my sourdough starter how it was doing today. It said, 'I'm feeling a little bubbly!'" (Very simple, maybe too simple).
+>     The officer walks up to the window and asks, "Do you know how fast you were going?"
 > 
->     *Let's go with the "rise to the occasion" one, it's a classic structure.*
-> 
->     *Wait, let's try:*
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
-> 
->     *Actually, let's try a joke about the obsession:*
->     "Why did the sourdough baker break up with their partner? Because the relationship just wasn't rising to the occasion, and they needed more dough!" (A bit complex).
-> 
->     *Let's go with a very clean pun:*
->     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
-> 
->     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
->     This is perfect. It's short, light, and relates specifically to the science of sourdough (culture/starter).
-> 
->     Joke: Why did the sourdough starter go to school? Because it wanted to be a little more cultured!
-> 
->     *Double check constraints:* "Only output the joke."
-> 
->     Why did the sourdough starter go to school? Because it wanted to be a little more cultured!
+>     Heisenberg replies, "No, but I know exactly where I am!"
 
