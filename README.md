@@ -1,65 +1,113 @@
 # Joke of the day: 
-Heisenberg is driving down the highway when a police officer pulls him over. 
+A man walks into an ultra-fancy artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
 
-The officer asks, "Sir, do you know how fast you were going?"
-
-Heisenberg replies, "No, but I know exactly where I am!"
+The chef sighs and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, slow-fermented, organic sourdough discs topped with cured meat medallions!"
 
 ## Topic
-<!--TOPIC-->Quantum physics<!--/TOPIC-->
+<!--TOPIC-->Gourmet pizza making<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|49|
-|**Total Token Count**|679|
-|**Thoughts Token Count**|604|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|62|
+|**Total Token Count**|1464|
+|**Thoughts Token Count**|1373|
 
 ## Thoughts: 
-> *   Topic: Quantum physics.
+> *   Topic: Gourmet pizza making.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's cat (alive/dead).
->     *   Uncertainty principle (Heisenberg - position/momentum).
->     *   Entanglement (spooky action at a distance).
->     *   Superposition (being in two states at once).
+>     *   Idea 1: A chef using truffle oil/gold flakes/expensive ingredients.
+>     *   Idea 2: The difference between "pizza" and "artisanal flatbread with deconstructed toppings."
+>     *   Idea 3: A customer ordering a plain cheese pizza and being lectured by a chef.
 > 
->     *   *Idea 1 (Schrödinger's Cat):* Schrödinger's cat walks into a bar... and doesn't. Or he's both there and not there.
->     *   *Idea 2 (Heisenberg/Uncertainty):* Heisenberg is driving down the highway. Cop pulls him over. Cop: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!"
->     *   *Idea 3 (Entanglement):* Two particles walk into a bar. One says to the other, "I'll have what you're having." (Wait, that's not quantum enough).
+>     *   *Joke Concept:* A guy goes to a high-end pizza place.
+>     *   *Setup:* A man walks into an ultra-fancy artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
+>     *   *Punchline:* The chef looks at him with pity and says, "Sir, we don't serve 'pizza' here. We offer a hand-stretched, sourdough-based, organic wheat disc topped with cured artisanal meat discs."
 > 
->     *   The Heisenberg joke is a classic, very easy to understand, and hits the "light" and "simple" requirements perfectly.
+>     *   *Setup:* Why did the gourmet chef get kicked out of the pizza competition?
+>     *   *Punchline:* Because he spent three hours "deconstructing" the cheese, and by the time he was done, the crust had already moved out! (A bit weak).
 > 
->     *   *Drafting the Heisenberg joke:*
->         Heisenberg is driving down the highway when a police officer pulls him over.
->         The officer asks, "Sir, do you know how fast you were going?"
->         Heisenberg replies, "No, but I know exactly where I am!"
+>     *   *Setup:* A customer asks a gourmet chef, "Can I just get a simple cheese pizza?"
+>     *   *Punchline:* The chef sighs and says, "Of course, sir. One hand-stretched, slow-fermented, stone-fired artisan wheat disc with a reduction of aged bovine secretions and herb-infused oils coming right up!"
 > 
->     *   Is it funny? Yes (for physics enthusiasts/general audience).
->     *   Is it simple? Yes.
->     *   Is it light? Yes.
->     *   Is it only the joke? Yes.
+>     *   *Setup:* Why did the gourmet pizza chef refuse to make a plain cheese pizza?
+>     *   *Punchline:* Because he couldn't find the "essence of toasted dairy" in his spice rack! (A bit abstract).
 > 
->     *Self-Correction during drafting:* Maybe Schrödinger's cat is even simpler?
->     "Schrödinger's cat walks into a bar... and doesn't." -> A bit too short/minimalist.
+>     *   *Setup:* A man walks into a high-end artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
+>     *   *Punchline:* The chef looks at him, sighs, and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, slow-fermented, organic sourdough discs topped with cured meat medallions!"
 > 
->     Let's go with the Heisenberg one. It has a better narrative flow.
+>     *   Topic: Gourmet pizza making? Yes.
+>     *   Simple/Light/Easy? Yes.
+>     *   Only output the joke? Yes.
 > 
->     *Wait, let's try one more:*
->     "Why can't you trust an atom? Because they make up everything!" (Not quantum specific, that's general chemistry).
+>     A man walks into an ultra-fancy artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
 > 
->     Let's stick to the Heisenberg joke.
+>     The chef sighs and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, slow-fermented, organic wheat discs topped with cured meat medallions!"
 > 
->     *Alternative Schrödinger joke:*
->     "Schrödinger's cat walks into a bar. And doesn't. And is both dead and alive until the bartender looks."
+>     *Wait, let's try one even shorter/punchier.*
 > 
->     Actually, the Heisenberg joke is the most "standard" and effective "simple" joke.
+>     Why did the gourmet chef refuse to make a simple cheese pizza?
+>     Because he couldn't find his "hand-foraged, artisanal, stone-pressed dairy medallions!"
 > 
->     *Final Selection:*
->     Heisenberg is driving down the highway when a cop pulls him over.
->     The cop asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     *Actually, the first one is more relatable as a joke.*
+> 
+>     Let's try:
+>     A man walks into a high-end artisanal pizzeria and asks, "Can I just get a plain cheese pizza?"
+>     The chef looks at him with pity and says, "Sir, we don't serve 'pizza.' We offer a slow-fermented, stone-baked, organic wheat disc with a reduction of aged bovine essences!"
+> 
+>     *Let's go with a classic structure.*
+> 
+>     A man walks into an ultra-fancy artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
+> 
+>     The chef sighs and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, slow-fermented, organic sourdough discs topped with cured meat medallions!"
+> 
+>     *Wait, "meat medallions" might be a bit long. Let's refine.*
+> 
+>     A customer walks into an ultra-fancy artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
+> 
+>     The chef looks at him and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, organic sourdough discs topped with cured meat medallions!"
+> 
+>     *Simple and effective.*
+> 
+>     *Self-Correction:* Is it funny? It's a light observational joke about pretentiousness.
+> 
+>     *Alternative:* 
+>     What do you call a gourmet pizza maker who uses too much truffle oil?
+>     An "extra-dough-gent" chef! (Too punny/weak).
+> 
+>     *Let's stick to the pretentiousness angle.*
+> 
+>     A man walks into a high-end artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
+> 
+>     The chef sighs and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, slow-fermented, organic sourdough discs topped with artisanal cured meat medallions!"
+> 
+>     *Final Polish:*
+>     A man walks into an ultra-fancy artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
+> 
+>     The chef looks at him and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, organic wheat discs topped with cured meat medallions!"
+> 
+>     (This is simple and fits the prompt perfectly).
+> 
+>     *Wait, I'll try one more to be sure.*
+>     Why did the gourmet chef get kicked out of the kitchen?
+>     Because he spent two hours "deconstructing" the crust, and by the time he was done, the pizza had already moved out! (A bit silly, but maybe better).
+> 
+>     Actually, the "What we call it" joke is a classic trope.
+> 
+>     Let's go with:
+>     A man walks into an ultra-fancy artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
+> 
+>     The chef sighs and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, slow-fermented, organic sourdough discs topped with cured meat medallions!"
+> 
+>     (Wait, "slow-fermented" and "organic" are the key words for the "gourmet" feel).
+> 
+>     *One more check: "Only output the joke."*
+> 
+>     A man walks into an ultra-fancy artisanal pizzeria and asks, "Can I just get a pepperoni pizza?"
+> 
+>     The chef sighs and says, "Sir, we don't make 'pizza' here. We serve hand-stretched, slow-fermented, organic sourdough discs topped with cured meat medallions!"
 
