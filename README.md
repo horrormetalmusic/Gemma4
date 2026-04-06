@@ -1,146 +1,64 @@
 # Joke of the day: 
-Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!
+Why did the sourdough starter get a promotion? Because it always rose to the occasion!
 
 ## Topic
-<!--TOPIC-->Suborbital rocket propulsion<!--/TOPIC-->
+<!--TOPIC-->Sourdough bread fermentation<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|24|
-|**Total Token Count**|1949|
-|**Thoughts Token Count**|1897|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|17|
+|**Total Token Count**|637|
+|**Thoughts Token Count**|591|
 
 ## Thoughts: 
-> *   Topic: Suborbital rocket propulsion.
+> *   Topic: Sourdough bread fermentation.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Suborbital vs. Orbital: Suborbital doesn't reach orbit; it goes up and comes back down. It's like a "hop."
->     *   Propulsion: Thrust, fuel, engines, burn, stage separation.
->     *   Concepts: Falling, gravity, "almost there," trajectory.
+>     *   Starter (levain, mother, culture).
+>     *   Yeast/Bacteria (the "living" aspect).
+>     *   Bubbles/Gas.
+>     *   Feeding/Nurturing.
+>     *   Time/Waiting.
+>     *   Rise/Fall.
+>     *   "Wild" yeast.
 > 
->     *   Idea 1: Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was going nowhere—it just kept coming back down to earth.
->     *   Idea 2: Why don't suborbital rockets ever finish their homework? Because they always drop out halfway through. (A bit weak).
->     *   Idea 3: What's a suborbital rocket's favorite type of music? Heavy metal, because it spends all its time falling back down. (A bit clunky).
->     *   Idea 4: Why was the suborbital rocket so bad at making long-term commitments? Because it always makes a quick exit and comes right back!
+>     *   *Idea 1:* Why did the sourdough starter get promoted? Because it was always rising to the occasion! (Classic pun).
+>     *   *Idea 2:* Why was the sourdough starter so popular? Because it had a really bubbly personality! (Relatable).
+>     *   *Idea 3:* Why did the sourdough starter go to therapy? It felt like its life was just one long period of growing pains. (A bit heavy).
+>     *   *Idea 4:* Why don't sourdough starters ever get lonely? Because they always have a culture! (Puns on "culture").
 > 
->     *   "Why did the suborbital rocket break up with the orbital rocket? Because it felt like they were in a relationship that just went up and came right back down!"
->     *   "Why did the suborbital rocket get kicked out of the party? Because it went up for a bit, but then it just crashed and burned!" (A bit dark).
->     *   "Why don't suborbital rockets ever get lost? Because no matter how high they go, they always come right back down to earth!"
+>     *   "Why did the sourdough starter get promoted? Because it always rose to the occasion!" is a classic, safe, and light joke.
+>     *   "Why did the sourdough starter go to a party? Because it heard it was going to be a real culture shock!" (A bit forced).
+>     *   "Why did the sourdough starter have so many friends? Because it had such a bubbly personality!" (Very cute and simple).
 > 
->     *   *Setup:* Why did the suborbital rocket break up with the orbital rocket?
->     *   *Punchline:* Because it felt like their relationship was just going up and then coming right back down to earth!
+>     Let's go with the "rising to the occasion" one or the "bubbly personality" one. "Rising to the occasion" is a very standard joke format.
 > 
->     *Alternative (simpler):*
->     *   *Setup:* Why are suborbital rockets so bad at commitment?
->     *   *Punchline:* Because they always go out for a bit and then immediately come crashing back home!
+>     Let's try:
+>     "Why did the sourdough starter get a promotion? Because it always rose to the occasion!"
 > 
->     *Let's go with a classic "relationship" joke style, it's very easy to understand.*
+>     Wait, let's try one more:
+>     "What did the sourdough starter say to its baker? 'Don't worry, I'm just going through a bit of a growth spurt!'"
 > 
->     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!"
+>     Actually, the "bubbly personality" one is the most "light and easy."
 > 
->     *Let's try one about propulsion specifically.*
->     "Why did the suborbital rocket's engine get demoted? Because it had a lot of thrust, but zero staying power!"
+>     Joke: Why did the sourdough starter get promoted? Because it always rose to the occasion!
 > 
->     *Actually, the "relationship" one is the funniest and simplest.*
+>     Or:
+>     Why was the sourdough starter so popular? Because it had such a bubbly personality!
 > 
->     *Wait, let's look for something even simpler.*
->     "Why did the suborbital rocket fail its driving test? Because it kept going up and coming right back down without even using the brakes!" (A bit nonsensical).
+>     Let's go with the "bubbly personality" one. It's very light.
 > 
->     *Let's go with the "commitment" angle.*
+>     Actually, "rising to the occasion" is more clever.
 > 
->     "Why are suborbital rockets so bad at making long-term commitments? Because they always go up for a little while and then immediately come right back down to earth!"
+>     *Decision:*
+>     Why did the sourdough starter get a promotion?
+>     Because it always rose to the occasion!
 > 
->     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!"
+>     "Only output the joke."
 > 
->     *Let's try a "career" joke.*
->     "Why did the suborbital rocket get fired from its job? Because it had plenty of momentum, but it just couldn't stay in its orbit!" (Strictly speaking, it's not *in* orbit, but it's a play on words).
-> 
->     *Let's stick to the most straightforward one.*
-> 
->     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and then coming right back down!"
-> 
->     *Actually, one more:*
->     "What do you call a suborbital rocket with bad propulsion? A very expensive lawn dart!" (Funny, but maybe too niche).
-> 
->     *Let's go with the relationship one. It's the most "joke-like".*
-> 
->     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!"
-> 
->     (Self-Correction: The prompt asks for a joke about *suborbital rocket propulsion*. The relationship joke is about the *flight profile*. A joke about *propulsion* specifically?)
-> 
->     *Propulsion joke:*
->     "Why was the suborbital rocket's engine so bad at keeping secrets? Because it always let out a huge burst of thrust and then came crashing down!" (Weak).
-> 
->     "Why did the suborbital rocket's engine get a bad review? Because it provided plenty of 'up,' but absolutely no 'staying power!'"
-> 
->     Let's go with a classic structure.
-> 
->     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!" (This is the most relatable/understandable).
-> 
->     *Wait, I will provide the "commitment" one, it's cleaner.*
-> 
->     "Why are suborbital rockets so bad at making long-term commitments? Because they always go up for a little while and then immediately come right back down to earth!"
-> 
->     *Actually, let's do the "relationship" one. It's punchier.*
-> 
->     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!"
-> 
->     (Wait, I'll check if there's a better one about the propulsion itself).
-> 
->     "Why did the suborbital rocket engine feel so unappreciated? Because it did all the heavy lifting, only to be brought right back down to earth!"
-> 
->     Let's use:
->     Why did the suborbital rocket break up with the orbital rocket?
->     Because it felt like their relationship was just going up and coming right back down!
-> 
->     *Wait, I'll try one more focused on the 'propulsion' aspect.*
->     "What's a suborbital rocket's favorite way to travel? A quick burst of enthusiasm followed by an immediate return to reality!"
-> 
->     Let's stick to the "Relationship" one. It's the standard "joke" format.
-> 
->     Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!
-> 
->     (Check constraints: Only output the joke. Simple/Light/Easy. Topic: Suborbital rocket propulsion/flight).
-> 
->     Final choice:
->     Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!
-> 
->     (Actually, technically suborbital is a trajectory, not propulsion. But in common parlance, people equate the two. I'll try to make it about the "push".)
-> 
->     "Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!"
-> 
->     That's perfect. It hits "propulsion" (thrust) and "suborbital" (lack of staying power/follow-through).
-> 
->     "Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!"
-> 
->     *Simple? Yes. Light? Yes. Easy? Yes. Only output the joke? Yes.*
-> 
->     One more check: "Suborbital rocket propulsion".
->     If I say "The rocket had plenty of thrust but no follow-through," I am talking about the propulsion (thrust) and the suborbital nature (no follow-through/orbit).
-> 
->     Let's go.
-> 
->     Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!
-> 
->     *Alternative:*
->     "Why did the suborbital rocket fail its mission? It had a lot of 'get up and go,' but absolutely no 'staying power!'"
-> 
->     Let's go with the "thrust/follow-through" one. It's a classic play on words.
-> 
->     Wait, "follow-through" is more about the trajectory.
->     How about:
->     "Why did the suborbital rocket's engine get demoted? Because it provided a lot of 'up,' but didn't have any 'staying power!'"
-> 
->     Let's go with the "thrust" one. It's the cleverest.
-> 
->     Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!
-> 
->     *Self-correction:* "Follow-through" is a very common idiom.
-> 
->     Final Answer Selection:
->     Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!
+>     Why did the sourdough starter get a promotion? Because it always rose to the occasion!
 
