@@ -1,61 +1,98 @@
 # Joke of the day: 
-Why did the sourdough starter go to school? 
+Why can't a spy ever steal a quantum cryptographer's secret? 
 
-Because it wanted to be a little more cultured!
+Because as soon as they try to look at it, it changes its mind!
 
 ## Topic
-<!--TOPIC-->Sourdough Bread Baking<!--/TOPIC-->
+<!--TOPIC-->Quantum Cryptography<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|21|
-|**Total Token Count**|744|
-|**Thoughts Token Count**|694|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|34|
+|**Total Token Count**|1177|
+|**Thoughts Token Count**|1116|
 
 ## Thoughts: 
-> *   Topic: Sourdough Bread Baking.
+> *   Topic: Quantum Cryptography.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (feeding, name, living thing, "mother").
->     *   Fermentation/Proofing (time, waiting, rising).
->     *   Scoring (patterns, cuts).
->     *   Crust/Crumb (crunchy, airy).
->     *   Obsession/Hobbyist (expensive, time-consuming, talking to the starter).
+>     *   Quantum superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance).
+>     *   Observation (measuring a particle changes its state/destroys the secret).
+>     *   Key exchange (QKD).
 > 
->     *   *Option 1 (Starter focus):* Why did the sourdough baker break up with their partner? Because they needed more space for their starter. (A bit cliché).
->     *   *Option 2 (Starter focus):* Why is sourdough baking like a relationship? Because if you don't feed it, it gets really sour. (Good, simple).
->     *   *Option 3 (Starter name/life):* Why did the sourdough starter go to therapy? It had too many issues rising to the top. (A bit abstract).
->     *   *Option 4 (The "Bread" pun):* What did the sourdough say to the baker? "You knead me!" (Classic, but maybe too simple).
->     *   *Option 5 (The obsession):* Why do sourdough bakers make terrible roommates? Because they’re always leaving their "culture" around. (A bit clever).
+>     *   *Idea 1 (Observation):* Why did the quantum cryptographer break up with their partner? Because every time they looked at them, they changed. (A bit cliché).
+>     *   *Idea 2 (Entanglement):* Why do quantum cryptographers make great partners? Because they're always entangled, even when they're apart. (A bit cheesy).
+>     *   *Idea 3 (Observation/Key exchange):* A quantum cryptographer walks into a bar. They order a drink, but as soon as the bartender looks at them, the drink turns into a different cocktail.
 > 
->     *   *Draft:* Why did the sourdough baker break up with their partner? Because they just couldn't handle the constant need for attention—they were already too committed to their starter!
->     *   *Refined:* Why did the sourdough baker go to therapy? Because they had too many emotional issues rising to the surface! (Maybe a bit dark).
->     *   *Refined (Light & Simple):* Why do sourdough bakers make such great friends? Because they always rise to the occasion!
+>     *   Let's go with the "Observation" principle because it's the core of why quantum cryptography is secure (eavesdropping is detected because measurement changes the state).
 > 
->     "Why do sourdough bakers make such great friends? Because they always rise to the occasion!"
+>     *   *Joke Draft:* Why is it so hard to spy on a quantum cryptographer? Because as soon as you try to look at their secret, they change their mind!
 > 
->     *Wait, let's try one about the starter being a "pet".*
+>     *   *Alternative Draft:* Why did the quantum cryptographer go to therapy? Because every time they tried to observe their feelings, they completely changed them. (Maybe too abstract).
 > 
->     "Why did the sourdough baker get in trouble with their spouse? Because they brought home a new pet that they had to feed every single day, and it was just a jar of flour and water!" (Too long).
+>     *   *Let's try a classic format:*
+>         Why don't quantum cryptographers ever play hide and seek?
+>         Because as soon as you find them, they change into something else!
 > 
->     *Let's go with a classic pun.*
+>     *   *Wait, let's try one about the "Observer Effect":*
+>         Why did the quantum cryptographer break up with their significant other?
+>         Because they felt like every time they tried to observe the relationship, it completely changed!
 > 
->     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
+>     *   *Let's go for a "Spy/Eavesdropper" angle (most relevant to crypto):*
+>         Why can't a spy ever successfully eavesdrop on a quantum conversation?
+>         Because as soon as they try to listen in, the secret changes its mind!
 > 
->     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
+>     "Why can't a spy ever successfully eavesdrop on a quantum conversation? Because as soon as they try to listen in, the secret changes its mind!"
 > 
->     *Check constraints:* Funny? Yes. Sourdough? Yes. Simple/Light? Yes. Only output the joke? Yes.
+>     *Refining for simplicity:*
+>     "Why is it impossible to spy on a quantum cryptographer? Because as soon as you try to look at their secret, it changes into something else!"
 > 
->     *Alternative (more "bread" related):*
->     "What did the sourdough say to the baker? 'You knead me!'" (Maybe too simple).
+>     Let's go with the "observation changes the state" concept.
 > 
->     *Let's go with the "Cultured" one. It's the most "sourdough" specific joke.*
+>     *Joke:*
+>     Why did the quantum cryptographer refuse to play hide-and-seek?
+>     Because as soon as you find them, they change into something else!
 > 
->     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
+>     *Actually, let's try this one:*
+>     Why is a quantum cryptographer's secret so hard to keep?
+>     Because as soon as you try to look at it, it changes its mind!
 > 
->     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
+>     *Wait, the "change its mind" is a bit personified. Let's go with:*
+>     Why are quantum cryptographers so bad at keeping secrets?
+>     Because as soon as someone tries to spy on them, the secret changes into something else!
+> 
+>     *Actually, let's go with the most direct "Observation" joke:*
+>     Why did the quantum cryptographer break up with the eavesdropper?
+>     Because every time they tried to observe the relationship, it changed!
+> 
+>     *Actually, let's go with something simpler:*
+>     Why can't you spy on a quantum cryptographer?
+>     Because as soon as you try to look at their secret, it changes its state! (A bit technical).
+> 
+>     *Let's try:*
+>     Why did the quantum cryptographer get frustrated with their secret?
+>     Because every time someone tried to look at it, it changed its mind!
+> 
+>     *Let's go with a classic "Why did the...":*
+>     Why can't spies ever steal a quantum cryptographer's password?
+>     Because as soon as they try to look at it, it changes into a different password!
+> 
+>     "Why can't a spy ever steal a quantum cryptographer's secret? Because as soon as you try to look at it, it changes its mind!"
+> 
+>     *One more check:* Simple, light, easy.
+> 
+>     *Let's go with:*
+>     Why is it so hard to spy on a quantum cryptographer?
+>     Because as soon as you try to look at their secret, it changes its mind!
+> 
+>     "Why can't a spy ever steal a quantum cryptographer's secret? Because the moment they try to look at it, it changes its mind!"
+> 
+>     *Self-Correction:* "Changes its mind" is a bit more "human" than "changes state," but for a "simple and light" joke, it works perfectly.
+> 
+>     "Why can't a spy ever steal a quantum cryptographer's secret? Because as soon as they try to look at it, it changes its mind!"
 
