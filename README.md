@@ -1,94 +1,68 @@
 # Joke of the day: 
-Why was the sourdough starter so successful? Because it always rose to the occasion!
+Heisenberg is driving down the highway when a police officer pulls him over. 
+
+The officer asks, "Sir, do you know how fast you were going?"
+
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Baking Sourdough Bread<!--/TOPIC-->
+<!--TOPIC-->Quantum Physics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|30|
-|**Candidates Token Count**|16|
-|**Total Token Count**|923|
-|**Thoughts Token Count**|877|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|49|
+|**Total Token Count**|762|
+|**Thoughts Token Count**|687|
 
 ## Thoughts: 
-> *   Topic: Baking Sourdough Bread.
+> *   Topic: Quantum Physics.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (yeast, feeding, growing, "mother").
->     *   Proofing/Rising (waiting, patience).
->     *   Crust/Crumb (texture).
->     *   Bread being "sour" or "salty."
->     *   "Starter" vs. "Starter kits."
+>     *   Schrödinger's Cat (dead/alive).
+>     *   Heisenberg's Uncertainty Principle (position vs. momentum).
+>     *   Entanglement (spooky action at a distance).
+>     *   Superposition (being in two states at once).
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? It had too many issues rising to the occasion. (A bit cliché).
->     *   *Idea 2:* Why was the sourdough bread so good at making friends? Because it always brought its starter to the party. (Okay).
->     *   *Idea 3:* My sourdough starter is a lot like my ex. It requires constant attention, makes a huge mess, and I’m pretty sure it’s just growing on me. (Maybe too long/dark).
->     *   *Idea 4:* Why did the baker break up with the sourdough starter? Because it was too high-maintenance and always needed a lot of "rise" in its relationship. (A bit clunky).
->     *   *Idea 5:* Why did the sourdough starter cross the road? To get to the other side... of the fermentation jar. (Weak).
->     *   *Idea 6:* What did the sourdough bread say to the baker? "You really knead me!" (Classic, simple).
+>     *   *Idea 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't.
+>     *   *Idea 2 (Heisenberg):* Heisenberg is driving. Cop stops him. "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!"
+>     *   *Idea 3 (Uncertainty):* Why can't you trust an atom? Because they make up everything. (Wait, that's chemistry, not strictly quantum, though related).
+>     *   *Idea 4 (Superposition):* A quantum physicist's wife tells him, "Go to the store and buy a loaf of bread. If they have eggs, get a dozen." He comes back with 12 loaves of bread.
 > 
->     *   "What did the sourdough bread say to the baker? 'You really knead me!'"
->     *   "Why did the sourdough starter go to school? To improve its crust! (No, that doesn't make sense)."
->     *   "Why was the sourdough starter so popular? Because it was always rising to the occasion!"
+>     *   *Idea 2 (Heisenberg)* is a classic, very easy to understand, and hits the "quantum" aspect perfectly.
+>     *   *Idea 1 (Schrödinger)* is also a classic. "Schrödinger's cat walks into a bar... and doesn't."
 > 
->     "Why did the sourdough starter go to therapy? Because it had too many issues rising to the occasion!"
->     OR
->     "What did the sourdough bread say to the baker? 'You really knead me!'"
+>     Let's go with the Heisenberg one. It's a narrative joke which is usually funnier.
 > 
->     Let's go with a classic pun.
+>     *Draft:*
+>     Heisenberg is driving down the highway when a police officer pulls him over.
+>     The officer asks, "Sir, do you know how fast you were going?"
+>     Heisenberg replies, "No, but I know exactly where I am!"
 > 
->     *Selected Joke:*
->     Why did the sourdough starter go to therapy?
->     Because it had too many issues rising to the occasion!
+>     *Refining for "Simple, light, easy":*
+>     Heisenberg is driving down the highway when a cop pulls him over.
+>     The cop asks, "Do you know how fast you were going?"
+>     Heisenberg replies, "No, but I know exactly where I am!"
 > 
->     *Alternative (simpler):*
->     What did the sourdough bread say to the baker?
->     "You really knead me!"
+>     Wait, let's try the Schrödinger one for simplicity.
+>     "Schrödinger’s cat walks into a bar... and doesn't." (A bit too short/abstract?)
 > 
->     Let's try one more:
->     "Why was the sourdough starter so good at its job? Because it always rose to the occasion!"
+>     Let's go with the Heisenberg joke. It's the most standard "funny joke" structure.
 > 
->     "Why was the sourdough starter so successful? Because it always rose to the occasion!"
+>     *Alternative:*
+>     Why did the quantum physicist break up with the particle?
+>     Because there was no certainty in their relationship. (A bit cheesy).
 > 
->     Wait, let's try:
->     "Why did the sourdough bread go to the doctor? Because it was feeling a little crumby!"
+>     Let's stick to the Heisenberg one.
 > 
->     The "knead me" one is the most classic and simple.
+>     "Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, 'Do you know how fast you were going?' Heisenberg replies, 'No, but I know exactly where I am!'"
 > 
->     *Final choice:*
->     What did the sourdough bread say to the baker?
->     "You really knead me!"
+>     "Only output the joke."
 > 
->     *Wait, let's do the "rising to the occasion" one, it's slightly more "sourdough" specific.*
-> 
->     "Why was the sourdough starter so popular? Because it always rose to the occasion!"
-> 
->     Actually, let's go with:
->     Why did the sourdough starter go to therapy? 
->     Because it had too many issues rising to the occasion!
-> 
->     Let's go with the simplest one.
-> 
->     "What did the sourdough bread say to the baker? 
->     'You really knead me!'"
-> 
->     Wait, the prompt asks for a joke about *baking* sourdough.
-> 
->     How about:
->     "Why did the baker break up with the sourdough starter? 
->     Because it was just too high-maintenance!"
-> 
->     Let's go with:
->     Why was the sourdough starter so successful? 
->     Because it always rose to the occasion!
-> 
->     (Simple, light, easy).
-> 
->     Only output the joke.
-> 
->     Why was the sourdough starter so successful? Because it always rose to the occasion!
+>     Heisenberg is driving down the highway when a police officer pulls him over. 
+>     The officer asks, "Do you know how fast you were going?" 
+>     Heisenberg replies, "No, but I know exactly where I am!"
 
