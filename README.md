@@ -1,87 +1,123 @@
 # Joke of the day: 
-Why did the sourdough bread win an award?
-
-Because it always rose to the occasion!
+Why can't you ever trust a quantum computer? Because it's always in two minds about everything.
 
 ## Topic
-<!--TOPIC-->Sourdough Bread Making<!--/TOPIC-->
+<!--TOPIC-->Quantum Computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|18|
-|**Total Token Count**|921|
-|**Thoughts Token Count**|874|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|22|
+|**Total Token Count**|1507|
+|**Thoughts Token Count**|1459|
 
 ## Thoughts: 
-> *   Topic: Sourdough Bread Making.
+> *   Topic: Quantum Computing.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (feeding, growing, living thing, "pet").
->     *   Fermentation (bubbles, gas, rising).
->     *   Dough (sticky, messy, elastic).
->     *   Scoring (patterns, art).
->     *   Kneading/Folding.
->     *   The waiting game (time-consuming).
->     *   Discard (wasting/using leftover starter).
+>     *   Superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance).
+>     *   Schrödinger's Cat (dead/alive).
+>     *   Qubits (0 and 1 simultaneously).
+>     *   Observation/Measurement (collapsing the wave function).
 > 
->     *   *Idea 1 (The Starter):* Why did the sourdough baker go to therapy? Because their starter had too many attachment issues. (A bit dark?)
->     *   *Idea 2 (The Starter as a Pet):* Why don't sourdough bakers ever go on vacation? Because they can't leave their "pet" at a kennel! (A bit cliché).
->     *   *Idea 3 (The Dough):* Why was the sourdough loaf so popular at the party? Because it really knew how to rise to the occasion! (Classic pun, very light).
->     *   *Idea 4 (The Starter/Relationship):* My sourdough starter and I have a very complicated relationship. It's very needy, it demands constant attention, and if I ignore it for one day, it gets really sour. (More of a joke/observation).
+>     *   *Idea 1 (Superposition):* A quantum physicist walks into a bar... wait, he's both in the bar and not in the bar until you look at him. (A bit clunky).
+>     *   *Idea 2 (Schrödinger's Cat):* Why did the quantum physicist cross the road? To see if the chicken was both alive and dead. (A bit cliché).
+>     *   *Idea 3 (Qubits/States):* How many quantum physicists does it take to change a lightbulb? None, they just exist in a state where the lightbulb is both changed and unchanged until you look. (A bit long).
+>     *   *Idea 4 (Short/Punchy):* A quantum physicist tells a joke, but until someone laughs, it's both funny and not funny at the same time.
 > 
->     *   "Why did the sourdough bread go to school? Because it wanted to be a 'smart' carb!" (A bit weak).
->     *   "Why did the sourdough baker get promoted? Because they always rose to the occasion!" (Strong, simple, punny).
+>     *   *Option A:* A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he’s both drunk and sober. (A bit risqué?)
+>     *   *Option B:* Why can’t you trust a quantum computer? Because it’s always in two minds about everything. (Simple, puns are good).
+>     *   *Option C:* A quantum physicist walks into a bar... and a bar... and a bar... (Too abstract).
+>     *   *Option D:* How do you know if a quantum computer is working? Don't worry, you'll know once you observe it. (A bit dry).
 > 
->     Let's go with a variation of the "rise to the occasion" pun or something about the starter being a "drama queen."
+>     "A quantum physicist walks into a bar... and doesn't walk into a bar, at least until you observe him."
+>     *OR*
+>     "Why did the quantum physicist break up with their partner? Because they were in a superposition of being together and being single."
 > 
->     *Draft:*
->     Why did the sourdough starter get kicked out of the party?
->     Because it was being way too sour!
+>     Let's go with the most classic/accessible one:
+>     "A quantum physicist walks into a bar... and a bar... and a bar... until someone observes him." -> Actually, let's try the "two minds" one or the "funny/not funny" one.
 > 
->     *Draft 2:*
->     Why was the sourdough baker so successful?
->     Because they always rose to the occasion!
+>     *Refined Joke:*
+>     "A quantum physicist tells a joke, but until someone laughs, it is both hilarious and not funny at the same time."
 > 
->     Let's try a dialogue-based one.
->     "I asked my sourdough starter how its day was going. It said, 'I'm feeling a little bubbly, but honestly, I'm just a bit sour today.'" (A bit long).
+>     *Alternative (Simpler):*
+>     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
 > 
->     *Let's go with the "Rise to the occasion" one. It's the quintessential bread joke.*
+>     Let's go with:
+>     "A quantum physicist walks into a bar... and a bar... and a bar... until someone looks at him."
 > 
->     *Wait, let's try something about the "starter" being a "pet".*
->     "Why did the baker name their sourdough starter 'Bubbles'? Because it was a real gas!" (A bit old).
+>     Wait, let's try this:
+>     "Why did the quantum physicist fail their driving test? Because they couldn't decide if they were turning left or right until the instructor looked at them."
 > 
->     *Let's go with:*
->     "Why was the sourdough baker so calm under pressure? Because they knew how to let everything rise!"
+>     Actually, the "two minds" joke is the cleanest and simplest.
 > 
->     *Actually, the "Rise to the occasion" is the most universally understood and "simple/light".*
+>     *Final Selection:*
+>     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
 > 
->     "Why did the sourdough bread win an award? Because it always rose to the occasion!"
+>     *Wait, another one:*
+>     "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he's both thirsty and not thirsty."
 > 
->     *Let's try one more:*
->     "What did the sourdough starter say to the baker? 'Don't worry, things are about to get bubbly!'"
+>     Let's go with the "two minds" one. It's a classic pun style.
 > 
->     *Let's stick to the most classic, punchy pun:*
->     Why did the sourdough bread win an award? Because it always rose to the occasion!
+>     *Actually, let's try this:*
+>     "A quantum physicist walks into a bar. He is both in the bar and not in the bar, until the bartender observes him."
 > 
->     *Refined joke:*
->     Why did the sourdough bread get promoted?
->     Because it always rose to the occasion!
+>     Let's go with:
+>     "A quantum physicist tells a joke, but until someone laughs, it’s both hilarious and not funny at the same time."
 > 
->     *Alternative:*
->     Why is sourdough making so stressful?
->     Because it’s a real yeast-case scenario! (A bit forced).
+>     "A quantum physicist tells a joke, but until someone laughs, it’s both hilarious and not funny at the same time."
 > 
->     *Let's go with:*
->     Why was the sourdough baker so good at their job?
->     Because they always rose to the occasion!
+>     *Self-Correction:* Is there a better one?
+>     "Why did the quantum physicist cross the road? Because they were in a superposition of being on both sides at once."
 > 
->     "Why did the sourdough bread win an award? Because it always rose to the occasion!"
+>     Let's go with the "Two minds" one. It's very "Dad joke" style, which fits "simple, light, easy to understand."
 > 
->     *Check constraints:* Simple, light, easy, only output joke.
+>     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
 > 
->     "Why did the sourdough bread win an award? Because it always rose to the occasion!"
+>     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
+> 
+>     Wait, let's look at the "Funny/Not funny" one again. It's a bit more clever.
+> 
+>     "A quantum physicist tells a joke, but until someone laughs, it is both hilarious and not funny at the same time."
+> 
+>     Let's go with the "Two minds" one. It's punchier.
+> 
+>     *Actually, let's do the bar one:*
+>     "A quantum physicist walks into a bar... and a bar... and a bar... until someone observes him."
+> 
+>     Let's go with the "two minds" one. It's the safest and simplest.
+> 
+>     Joke: Why can't you ever trust a quantum computer? Because it's always in two minds about everything.
+> 
+>     *Wait, looking at user prompt:* "Keep it simple, light, and easy to understand."
+> 
+>     Let's try:
+>     "A quantum physicist walks into a bar. He's both happy and sad until you ask him how he's doing."
+> 
+>     Actually, the "two minds" is the winner.
+> 
+>     Wait, let's try:
+>     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+> 
+>     That's quite good too.
+> 
+>     Let's go with:
+>     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
+> 
+>     *Final Check:*
+>     Topic: Quantum Computing? Yes.
+>     Funny? Yes (subjectively).
+>     Simple/Light? Yes.
+>     Only output the joke? Yes.
+> 
+>     *One more thought:*
+>     "How does a quantum physicist tell if a joke is good? They wait for someone to observe it."
+> 
+>     No, the "two minds" is the best.
+> 
+>     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
 
