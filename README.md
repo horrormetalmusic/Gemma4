@@ -1,61 +1,38 @@
 # Joke of the day: 
-Why did the deep-sea tube worm break up with the hydrothermal vent? 
-
-Because things were getting way too heated!
+I told my sourdough starter a joke. It didn't laugh, but it did rise to the occasion!
 
 ## Topic
-<!--TOPIC-->Deep-sea hydrothermal vents<!--/TOPIC-->
+<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|25|
-|**Total Token Count**|619|
-|**Thoughts Token Count**|565|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|22|
+|**Total Token Count**|398|
+|**Thoughts Token Count**|348|
 
 ## Thoughts: 
-> *   Topic: Deep-sea hydrothermal vents.
+> *   Topic: Baking sourdough bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Extreme heat/pressure.
->     *   Chemosynthesis (life without sunlight).
->     *   Chimneys/smokers.
->     *   Deep ocean (darkness).
->     *   Tube worms, crabs, shrimp.
+>     *   Sourdough starter (it's alive, it's hungry, it's a pet).
+>     *   Fermentation (rising, bubbles).
+>     *   The difficulty/obsession of sourdough bakers.
+>     *   "Wild yeast."
+>     *   Discard.
 > 
->     *   *Idea 1 (Heat):* Why don't hydrothermal vents ever get cold? Because they're always under a lot of pressure to stay hot. (A bit weak).
->     *   *Idea 2 (Social):* Why did the tube worm break up with the hydrothermal vent? It felt like the relationship was getting too heated! (Better).
->     *   *Idea 3 (Dining):* What's a vent's favorite restaurant? The Chemosynthesis Cafe. (A bit nerdy).
->     *   *Idea 4 (Pressure):* Why are deep-sea vents so stressed? Because they're under a lot of pressure to keep the party going! (Okay).
->     *   *Idea 5 (Smokers):* Why don't hydrothermal vents smoke? Because they *are* the smokers! (A bit literal).
+>     *   *Idea 1:* Why did the sourdough baker break up with their partner? Because they needed more space to let things rise. (A bit cliché).
+>     *   *Idea 2:* My sourdough starter is like a toddler. It's needy, it's messy, and it demands to be fed at random hours of the night. (Relatable, but maybe more of an observation than a joke).
+>     *   *Idea 3:* Why was the sourdough starter so good at making friends? Because it was always bubbling with excitement! (Very simple/punny).
+>     *   *Idea 4:* I told my sourdough starter a joke. It didn't laugh, but it did rise to the occasion. (Classic pun structure).
 > 
->     *   "Why did the deep-sea tube worm break up with the hydrothermal vent? Because things were getting way too heated!"
+>     *   "I told my sourdough starter a joke. It didn't laugh, but it did rise to the occasion!"
+>     *   This fits all criteria: funny (punny), simple, light, easy to understand, and specifically about sourdough.
 > 
->     *   Simple? Yes.
->     *   Light? Yes.
->     *   Easy to understand? Yes.
->     *   Only output the joke? Yes.
+>     *   Check constraints: Only output the joke.
 > 
->     "Why did the deep-sea tube worm break up with the hydrothermal vent? Because things were getting way too heated!"
-> 
->     Wait, let's try one about "pressure."
->     "Why are hydrothermal vents so good at their jobs? Because they work well under pressure!"
-> 
->     Let's go with the "heated" one, it's a classic pun style.
-> 
->     *Joke selection:*
->     Why did the deep-sea tube worm break up with the hydrothermal vent?
->     Because things were getting way too heated!
-> 
->     *Wait, let's check if there's a "smoker" one.*
->     "Why did the vent go to therapy? Because it was feeling a lot of pressure and things were getting too heated!" (A bit long).
-> 
->     Let's go with:
->     Why did the deep-sea tube worm break up with the hydrothermal vent? 
->     Because things were getting way too heated!
-> 
->     "Why did the deep-sea tube worm break up with the hydrothermal vent? Because things were getting way too heated!"
+>     I told my sourdough starter a joke. It didn't laugh, but it did rise to the occasion!
 
