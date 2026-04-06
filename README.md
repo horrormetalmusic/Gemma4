@@ -1,146 +1,146 @@
 # Joke of the day: 
-A nobleman asks his wig maker, "Can you make me a wig that makes me look taller, wiser, and more powerful?"
-
-The wig maker replies, "I can certainly make it bigger, sir, but I can't help you with the rest!"
+Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!
 
 ## Topic
-<!--TOPIC-->18th-century wig making<!--/TOPIC-->
+<!--TOPIC-->Suborbital rocket propulsion<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|31|
-|**Candidates Token Count**|53|
-|**Total Token Count**|1904|
-|**Thoughts Token Count**|1820|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|24|
+|**Total Token Count**|1949|
+|**Thoughts Token Count**|1897|
 
 ## Thoughts: 
-> *   Topic: 18th-century wig making.
+> *   Topic: Suborbital rocket propulsion.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Wigs (perukes/periwigs).
->     *   Powder (flour/starch).
->     *   Curls/rolls.
->     *   Size (huge hair).
->     *   Lice/pests.
->     *   Cost/social status.
->     *   The "wig maker" profession.
+>     *   Suborbital vs. Orbital: Suborbital doesn't reach orbit; it goes up and comes back down. It's like a "hop."
+>     *   Propulsion: Thrust, fuel, engines, burn, stage separation.
+>     *   Concepts: Falling, gravity, "almost there," trajectory.
 > 
->     *   *Idea 1 (Powder):* Why did the wig maker go to the bakery? Because he heard they had the best powder! (A bit weak).
->     *   *Idea 2 (Size):* Why was the wig maker so successful? Because he really knew how to "roll" with the trends! (Puns are good).
->     *   *Idea 3 (Social Status):* A man goes to a wig maker and says, "I want a wig that makes me look smart." The wig maker says, "Sir, I can make you look wise, but I can't make you look like you have a brain under there!" (A bit mean/cliché).
->     *   *Idea 4 (Complexity/Height):* Why did the 18th-century wig maker get fired? Because he kept losing his head in his work! (A bit dark/punny).
->     *   *Idea 5 (The Powder/flour aspect):* Why was the wig maker always so calm? Because no matter how much stress he had, he always stayed well-powdered!
+>     *   Idea 1: Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was going nowhere—it just kept coming back down to earth.
+>     *   Idea 2: Why don't suborbital rockets ever finish their homework? Because they always drop out halfway through. (A bit weak).
+>     *   Idea 3: What's a suborbital rocket's favorite type of music? Heavy metal, because it spends all its time falling back down. (A bit clunky).
+>     *   Idea 4: Why was the suborbital rocket so bad at making long-term commitments? Because it always makes a quick exit and comes right back!
 > 
->     *   Let's go with a classic pun-based joke about the "powder" or the "curls."
->     *   *Draft:* Why did the 18th-century wig maker break up with his girlfriend? Because he felt like the relationship was getting a bit too "over-the-top"! (A bit vague).
+>     *   "Why did the suborbital rocket break up with the orbital rocket? Because it felt like they were in a relationship that just went up and came right back down!"
+>     *   "Why did the suborbital rocket get kicked out of the party? Because it went up for a bit, but then it just crashed and burned!" (A bit dark).
+>     *   "Why don't suborbital rockets ever get lost? Because no matter how high they go, they always come right back down to earth!"
 > 
->     *   *Let's try a "Why" joke:*
->     Why did the 18th-century wig maker get promoted?
->     Because he always stayed calm under pressure and really knew how to curl up and relax! (A bit weak).
+>     *   *Setup:* Why did the suborbital rocket break up with the orbital rocket?
+>     *   *Punchline:* Because it felt like their relationship was just going up and then coming right back down to earth!
 > 
->     *   *Let's try a "What do you call" joke:*
->     What do you call an 18th-century wig maker who works too fast?
->     A "hair-ry" specialist! (Not quite right).
+>     *Alternative (simpler):*
+>     *   *Setup:* Why are suborbital rockets so bad at commitment?
+>     *   *Punchline:* Because they always go out for a bit and then immediately come crashing back home!
 > 
->     *   *Let's go back to the powder:*
->     Why did the wig maker go to the bank?
->     Because he wanted to make a large "deposit" of powder! (Weak).
+>     *Let's go with a classic "relationship" joke style, it's very easy to understand.*
 > 
->     *   *Let's try a play on "peruke":*
->     What did the wig maker say to the man who wanted a very expensive hairstyle?
->     "Don't worry, I'll make sure it's a crowning achievement!"
+>     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!"
 > 
->     *   *Let's try a joke about the "size" and "social status":*
->     Why was the 18th-century wig maker so good at his job?
->     Because he always knew how to rise to the occasion!
+>     *Let's try one about propulsion specifically.*
+>     "Why did the suborbital rocket's engine get demoted? Because it had a lot of thrust, but zero staying power!"
 > 
->     *   *Let's try a more direct one:*
->     Why did the wig maker always carry a bag of flour?
->     Because he wanted to make sure his customers always had a "light" look! (A bit too niche).
+>     *Actually, the "relationship" one is the funniest and simplest.*
 > 
->     *   *Let's go with a classic "Hair/Wig" pun:*
->     Why did the 18th-century wig maker go to therapy?
->     Because he had too many issues with his curls!
+>     *Wait, let's look for something even simpler.*
+>     "Why did the suborbital rocket fail its driving test? Because it kept going up and coming right back down without even using the brakes!" (A bit nonsensical).
 > 
->     *   *Actually, let's try this:*
->     Why was the 18th-century wig maker so successful?
->     Because he really knew how to curl with the punches! (Wait, "roll with the punches" is better).
+>     *Let's go with the "commitment" angle.*
 > 
->     *   *Let's try this:*
->     Why did the 18th-century wig maker refuse to work on Sundays?
->     He said he needed a day to let his ideas settle—and his powder dry!
+>     "Why are suborbital rockets so bad at making long-term commitments? Because they always go up for a little while and then immediately come right back down to earth!"
 > 
->     *   *Let's go with a simple pun about being "powdered":*
->     Why did the 18th-century wig maker always stay so calm?
->     Because no matter how much trouble he was in, he was always well-powdered!
+>     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!"
 > 
->     *   *Actually, let's try a dialogue joke:*
->     A nobleman asks the wig maker, "Can you make me a wig that makes me look taller, wiser, and more powerful?"
->     The wig maker replies, "I can certainly make it bigger, sir, but I can't help you with the other two!"
+>     *Let's try a "career" joke.*
+>     "Why did the suborbital rocket get fired from its job? Because it had plenty of momentum, but it just couldn't stay in its orbit!" (Strictly speaking, it's not *in* orbit, but it's a play on words).
 > 
->     *   Simple? Yes.
->     *   Light? Yes.
->     *   Easy to understand? Yes.
->     *   Only the joke? Yes.
+>     *Let's stick to the most straightforward one.*
 > 
->     "A nobleman asks the wig maker, 'Can you make me a wig that makes me look taller, wiser, and more powerful?'
->     The wig maker replies, 'I can certainly make it bigger, sir, but I can't help you with the other two!'"
+>     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and then coming right back down!"
 > 
->     *Self-Correction:* Is there something funnier?
->     "Why did the 18th-century wig maker get promoted?
->     Because he was great at rolling with the curls!" (A bit too punny/strained).
+>     *Actually, one more:*
+>     "What do you call a suborbital rocket with bad propulsion? A very expensive lawn dart!" (Funny, but maybe too niche).
 > 
->     Let's go with the "Bigger/Wiser" one. It's a classic structure.
+>     *Let's go with the relationship one. It's the most "joke-like".*
 > 
->     *Wait, another option:*
->     Why was the 18th-century wig maker so good at his job?
->     Because he always knew how to rise to the occasion!
+>     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!"
 > 
->     Let's try:
->     Why did the 18th-century wig maker get into trouble?
->     Because he was always getting into "peruke-y" situations! (No, too obscure).
+>     (Self-Correction: The prompt asks for a joke about *suborbital rocket propulsion*. The relationship joke is about the *flight profile*. A joke about *propulsion* specifically?)
 > 
->     Let's go with the "Bigger" joke. It's the most relatable.
+>     *Propulsion joke:*
+>     "Why was the suborbital rocket's engine so bad at keeping secrets? Because it always let out a huge burst of thrust and then came crashing down!" (Weak).
 > 
->     *Alternative:*
->     Why did the wig maker go to the bakery?
->     Because he heard they had a great supply of powder! (A bit too simple).
+>     "Why did the suborbital rocket's engine get a bad review? Because it provided plenty of 'up,' but absolutely no 'staying power!'"
 > 
->     Let's go with the "Bigger/Wiser" joke.
+>     Let's go with a classic structure.
 > 
->     "A nobleman asks his wig maker, 'Can you make me a wig that makes me look taller, wiser, and more important?'
->     The wig maker replies, 'I can certainly make it bigger, sir, but I can't help you with the rest!'"
+>     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!" (This is the most relatable/understandable).
 > 
->     *Actually, let's try a one-liner:*
->     "I asked the 18th-century wig maker if he could make me look smarter, but he said he only works with hair, not brains!"
+>     *Wait, I will provide the "commitment" one, it's cleaner.*
 > 
->     Let's stick to the "Bigger" one. It's polished.
+>     "Why are suborbital rockets so bad at making long-term commitments? Because they always go up for a little while and then immediately come right back down to earth!"
 > 
->     "A nobleman asks his wig maker, 'Can you make me a wig that makes me look taller, wiser, and more powerful?'
->     The wig maker replies, 'I can certainly make it bigger, sir, but I can't help you with the other two!'"
+>     *Actually, let's do the "relationship" one. It's punchier.*
 > 
->     *Wait, I'll try one more:*
->     "Why was the 18th-century wig maker so calm during a crisis?
->     Because he was used to everything being a bit over the top!"
+>     "Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!"
 > 
->     The "over the top" joke is very "light and easy to understand."
+>     (Wait, I'll check if there's a better one about the propulsion itself).
 > 
->     Let's go with:
->     "Why was the 18th-century wig maker so calm during a crisis?
->     Because he was used to everything being a bit over the top!"
-> 
->     Actually, the "Bigger" joke is more of a traditional "joke" format.
+>     "Why did the suborbital rocket engine feel so unappreciated? Because it did all the heavy lifting, only to be brought right back down to earth!"
 > 
 >     Let's use:
->     A nobleman asks his wig maker, "Can you make me a wig that makes me look taller, wiser, and more powerful?"
->     The wig maker replies, "I can certainly make it bigger, sir, but I can't help you with the rest!"
+>     Why did the suborbital rocket break up with the orbital rocket?
+>     Because it felt like their relationship was just going up and coming right back down!
 > 
->     One more check: Is "18th-century wig making" the core? Yes. Is it funny? Yes. Is it simple? Yes.
+>     *Wait, I'll try one more focused on the 'propulsion' aspect.*
+>     "What's a suborbital rocket's favorite way to travel? A quick burst of enthusiasm followed by an immediate return to reality!"
 > 
->     Final selection:
->     A nobleman asks his wig maker, "Can you make me a wig that makes me look taller, wiser, and more powerful?"
->     The wig maker replies, "I can certainly make it bigger, sir, but I can't help you with the rest!"
+>     Let's stick to the "Relationship" one. It's the standard "joke" format.
+> 
+>     Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!
+> 
+>     (Check constraints: Only output the joke. Simple/Light/Easy. Topic: Suborbital rocket propulsion/flight).
+> 
+>     Final choice:
+>     Why did the suborbital rocket break up with the orbital rocket? Because it felt like their relationship was just going up and coming right back down!
+> 
+>     (Actually, technically suborbital is a trajectory, not propulsion. But in common parlance, people equate the two. I'll try to make it about the "push".)
+> 
+>     "Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!"
+> 
+>     That's perfect. It hits "propulsion" (thrust) and "suborbital" (lack of staying power/follow-through).
+> 
+>     "Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!"
+> 
+>     *Simple? Yes. Light? Yes. Easy? Yes. Only output the joke? Yes.*
+> 
+>     One more check: "Suborbital rocket propulsion".
+>     If I say "The rocket had plenty of thrust but no follow-through," I am talking about the propulsion (thrust) and the suborbital nature (no follow-through/orbit).
+> 
+>     Let's go.
+> 
+>     Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!
+> 
+>     *Alternative:*
+>     "Why did the suborbital rocket fail its mission? It had a lot of 'get up and go,' but absolutely no 'staying power!'"
+> 
+>     Let's go with the "thrust/follow-through" one. It's a classic play on words.
+> 
+>     Wait, "follow-through" is more about the trajectory.
+>     How about:
+>     "Why did the suborbital rocket's engine get demoted? Because it provided a lot of 'up,' but didn't have any 'staying power!'"
+> 
+>     Let's go with the "thrust" one. It's the cleverest.
+> 
+>     Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!
+> 
+>     *Self-correction:* "Follow-through" is a very common idiom.
+> 
+>     Final Answer Selection:
+>     Why was the suborbital rocket so bad at its job? It had plenty of thrust, but no follow-through!
 
