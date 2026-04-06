@@ -1,123 +1,79 @@
 # Joke of the day: 
-Why can't you ever trust a quantum computer? Because it's always in two minds about everything.
+Why was it so difficult for Victorian women to play hide-and-seek? 
+
+Because their hoop skirts were always a dead giveaway!
 
 ## Topic
-<!--TOPIC-->Quantum Computing<!--/TOPIC-->
+<!--TOPIC-->Victorian Fashion<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|22|
-|**Total Token Count**|1507|
-|**Thoughts Token Count**|1459|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|27|
+|**Total Token Count**|774|
+|**Thoughts Token Count**|720|
 
 ## Thoughts: 
-> *   Topic: Quantum Computing.
+> *   Topic: Victorian Fashion.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Schrödinger's Cat (dead/alive).
->     *   Qubits (0 and 1 simultaneously).
->     *   Observation/Measurement (collapsing the wave function).
+>     *   Corsets (tightness, breathing).
+>     *   Crinolines/Hoop skirts (size, hitting things).
+>     *   Layers (too many clothes).
+>     *   Fainting/Vapors (due to tight clothing).
+>     *   Top hats.
 > 
->     *   *Idea 1 (Superposition):* A quantum physicist walks into a bar... wait, he's both in the bar and not in the bar until you look at him. (A bit clunky).
->     *   *Idea 2 (Schrödinger's Cat):* Why did the quantum physicist cross the road? To see if the chicken was both alive and dead. (A bit cliché).
->     *   *Idea 3 (Qubits/States):* How many quantum physicists does it take to change a lightbulb? None, they just exist in a state where the lightbulb is both changed and unchanged until you look. (A bit long).
->     *   *Idea 4 (Short/Punchy):* A quantum physicist tells a joke, but until someone laughs, it's both funny and not funny at the same time.
+>     *   *Idea 1 (Corsets):* Why did the Victorian lady go to the doctor? Because her corset was so tight, she could only speak in "short" sentences. (A bit weak).
+>     *   *Idea 2 (Hoop skirts):* Why was it so hard for Victorian women to play hide and seek? Because their skirts were too big to hide behind anything! (Simple, light).
+>     *   *Idea 3 (Corsets/Fainting):* Why did the Victorian woman faint at the party? Because her corset was so tight, she couldn't even inhale a joke! (Okay).
 > 
->     *   *Option A:* A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he’s both drunk and sober. (A bit risqué?)
->     *   *Option B:* Why can’t you trust a quantum computer? Because it’s always in two minds about everything. (Simple, puns are good).
->     *   *Option C:* A quantum physicist walks into a bar... and a bar... and a bar... (Too abstract).
->     *   *Option D:* How do you know if a quantum computer is working? Don't worry, you'll know once you observe it. (A bit dry).
+>     *   Idea 2 is very classic and easy to understand.
+>     *   Let's try a "Why did..." format.
 > 
->     "A quantum physicist walks into a bar... and doesn't walk into a bar, at least until you observe him."
->     *OR*
->     "Why did the quantum physicist break up with their partner? Because they were in a superposition of being together and being single."
+>     *Draft:*
+>     Why was it so hard for Victorian women to play hide-and-seek?
+>     Because no matter where they went, their hoop skirts always gave them away!
 > 
->     Let's go with the most classic/accessible one:
->     "A quantum physicist walks into a bar... and a bar... and a bar... until someone observes him." -> Actually, let's try the "two minds" one or the "funny/not funny" one.
+>     *Refined Draft:*
+>     Why was it so difficult for Victorian women to play hide-and-seek?
+>     Because their hoop skirts were always a dead giveaway!
 > 
->     *Refined Joke:*
->     "A quantum physicist tells a joke, but until someone laughs, it is both hilarious and not funny at the same time."
+>     *Another option:*
+>     What do you call a Victorian lady who can't breathe?
+>     A "corset" victim? (No, too dark).
 > 
->     *Alternative (Simpler):*
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
+>     *Let's go with the Hoop Skirt one. It's cute and very visual.*
 > 
->     Let's go with:
->     "A quantum physicist walks into a bar... and a bar... and a bar... until someone looks at him."
+>     "Why was it so difficult for Victorian women to play hide-and-seek?
+>     Because their hoop skirts were always a dead giveaway!"
 > 
->     Wait, let's try this:
->     "Why did the quantum physicist fail their driving test? Because they couldn't decide if they were turning left or right until the instructor looked at them."
+>     *Actually, let's try one about corsets and breathing/eating.*
 > 
->     Actually, the "two minds" joke is the cleanest and simplest.
+>     "Why did the Victorian gentleman bring a ladder to the dinner party?
+>     Because he heard the ladies' corsets were so tight, they were reaching new heights of breathlessness!" (A bit convoluted).
 > 
->     *Final Selection:*
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
+>     *Let's go back to the hoop skirt. It's the most "simple, light, and easy".*
 > 
->     *Wait, another one:*
->     "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he's both thirsty and not thirsty."
+>     "Why was it so hard for Victorian ladies to play hide-and-seek?
+>     Because their hoop skirts were always a dead giveaway!"
 > 
->     Let's go with the "two minds" one. It's a classic pun style.
+>     *Wait, let's try one more:*
+>     "Why did the Victorian woman cross the road?
+>     To get to the side where her hoop skirt wouldn't knock over any street lamps!" (A bit long).
 > 
->     *Actually, let's try this:*
->     "A quantum physicist walks into a bar. He is both in the bar and not in the bar, until the bartender observes him."
+>     *Let's stick to the "Hide and Seek" one. It's a classic joke structure.*
 > 
->     Let's go with:
->     "A quantum physicist tells a joke, but until someone laughs, it’s both hilarious and not funny at the same time."
+>     *Joke:*
+>     Why was it so difficult for Victorian women to play hide-and-seek?
+>     Because their hoop skirts were always a dead giveaway!
 > 
->     "A quantum physicist tells a joke, but until someone laughs, it’s both hilarious and not funny at the same time."
+>     - Topic: Victorian Fashion (Hoop skirts).
+>     - Tone: Funny, simple, light.
+>     - Constraint: Only output the joke.
 > 
->     *Self-Correction:* Is there a better one?
->     "Why did the quantum physicist cross the road? Because they were in a superposition of being on both sides at once."
-> 
->     Let's go with the "Two minds" one. It's very "Dad joke" style, which fits "simple, light, easy to understand."
-> 
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
-> 
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
-> 
->     Wait, let's look at the "Funny/Not funny" one again. It's a bit more clever.
-> 
->     "A quantum physicist tells a joke, but until someone laughs, it is both hilarious and not funny at the same time."
-> 
->     Let's go with the "Two minds" one. It's punchier.
-> 
->     *Actually, let's do the bar one:*
->     "A quantum physicist walks into a bar... and a bar... and a bar... until someone observes him."
-> 
->     Let's go with the "two minds" one. It's the safest and simplest.
-> 
->     Joke: Why can't you ever trust a quantum computer? Because it's always in two minds about everything.
-> 
->     *Wait, looking at user prompt:* "Keep it simple, light, and easy to understand."
-> 
->     Let's try:
->     "A quantum physicist walks into a bar. He's both happy and sad until you ask him how he's doing."
-> 
->     Actually, the "two minds" is the winner.
-> 
->     Wait, let's try:
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
-> 
->     That's quite good too.
-> 
->     Let's go with:
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
-> 
->     *Final Check:*
->     Topic: Quantum Computing? Yes.
->     Funny? Yes (subjectively).
->     Simple/Light? Yes.
->     Only output the joke? Yes.
-> 
->     *One more thought:*
->     "How does a quantum physicist tell if a joke is good? They wait for someone to observe it."
-> 
->     No, the "two minds" is the best.
-> 
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything."
+>     Why was it so difficult for Victorian women to play hide-and-seek? 
+>     Because their hoop skirts were always a dead giveaway!
 
