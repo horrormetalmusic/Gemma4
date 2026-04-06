@@ -1,56 +1,41 @@
 # Joke of the day: 
-Why did the gourmet pastry chef go to therapy? 
+Why did the hydrothermal vent go to therapy?
 
-Because he was feeling a little flaky!
+Because it just needed to vent!
 
 ## Topic
-<!--TOPIC-->Gourmet pastry making<!--/TOPIC-->
+<!--TOPIC-->Deep sea hydrothermal vents<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|20|
-|**Total Token Count**|522|
-|**Thoughts Token Count**|473|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|17|
+|**Total Token Count**|344|
+|**Thoughts Token Count**|299|
 
 ## Thoughts: 
-> *   Topic: Gourmet pastry making.
+> *   Topic: Deep sea hydrothermal vents.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: A pastry chef's relationship. (A bit cliché).
->     *   Idea 2: Something about rising/dough. (Classic pun territory).
->     *   Idea 3: The complexity of decorations.
->     *   Idea 4: Why the pastry chef was so stressed.
+>     *   Heat/Pressure.
+>     *   Sulfur/Chemicals.
+>     *   Tube worms/Crabs/Extremophiles.
+>     *   "Vents" (venting emotions).
+>     *   Deep ocean (darkness, depth).
 > 
->     *   *Draft 1:* Why did the pastry chef go to jail? Because he was caught beating the eggs! (A bit old).
->     *   *Draft 2:* Why was the croissant so stressed? Because it was always under a lot of pressure to rise to the occasion. (Cute, fits "gourmet").
->     *   *Draft 3:* Why did the gourmet pastry chef break up with the baker? Because there was no dough in the relationship. (A bit generic).
->     *   *Draft 4:* Why did the pastry chef become a detective? Because he was great at finding the proof! (Good pun).
+>     *   *Idea 1 (Puns on "venting"):* Why did the hydrothermal vent go to therapy? Because it just needed to vent! (Classic, simple).
+>     *   *Idea 2 (Heat/Pressure):* Why don't deep-sea creatures get stressed? Because they thrive under pressure! (A bit cliché, but works).
+>     *   *Idea 3 (Tube worms):* What do you call a tube worm that's always complaining? A hydrothermal vent! (A bit weak).
 > 
->     "Why was the gourmet pastry chef so stressed? Because he was under a lot of pressure to rise to the occasion!"
+>     *   Idea 1 is the strongest and simplest. It's a double entendre on the word "vent."
 > 
->     Or:
+>     *   "Why did the hydrothermal vent go to therapy? Because it just needed to vent!"
 > 
->     "Why did the pastry chef get in trouble? Because he was caught beating the eggs!" (A bit childish).
-> 
->     Let's go with something slightly more "gourmet" flavored.
-> 
->     "Why did the pastry chef always win at poker? Because he knew how to roll with the dough!" (A bit weak).
-> 
->     Let's try:
->     "Why did the gourmet pastry chef go to therapy? Because he was feeling a bit flaky!"
-> 
->     *Wait, "flaky" is perfect for pastry.*
-> 
->     "Why did the gourmet pastry chef go to therapy? Because he was feeling a little flaky!"
-> 
->     *   Gourmet pastry making? Yes.
->     *   Funny? Subjective, but standard pun humor.
->     *   Simple/Light/Easy? Yes.
+>     *   Deep sea hydrothermal vents? Yes.
+>     *   Funny? Yes (subjective, but standard joke structure).
+>     *   Simple/Light? Yes.
 >     *   Only output the joke? Yes.
-> 
->     "Why did the gourmet pastry chef go to therapy? Because he was feeling a little flaky!"
 
