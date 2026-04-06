@@ -1,34 +1,44 @@
 # Joke of the day: 
-Why did the medieval blacksmith get arrested? 
+Why did the bioluminescent fish get promoted? 
 
-Because he was caught forging!
+Because he had such a bright personality!
 
 ## Topic
-<!--TOPIC-->Medieval Blacksmithing<!--/TOPIC-->
+<!--TOPIC-->Deep Sea Bioluminescence<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|28|
-|**Candidates Token Count**|16|
-|**Total Token Count**|273|
-|**Thoughts Token Count**|229|
+|**Candidates Token Count**|19|
+|**Total Token Count**|400|
+|**Thoughts Token Count**|353|
 
 ## Thoughts: 
-> *   Topic: Medieval Blacksmithing.
+> *   Topic: Deep Sea Bioluminescence.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Why did the blacksmith go to jail? He was caught forging something. (Classic pun)
->     *   Idea 2: Why was the blacksmith so good at his job? He had a lot of iron will. (Pun)
->     *   Idea 3: What is a blacksmith's favorite type of music? Heavy metal. (Pun)
+>     *   Glow-in-the-dark.
+>     *   Light/Darkness.
+>     *   Anglerfish (lure).
+>     *   Deep sea creatures.
+>     *   "Bright idea."
+>     *   "Lighten up."
+>     *   "Shining star."
 > 
->     *   "Why did the medieval blacksmith go to prison? Because he was caught forging!"
->     *   "Why did the blacksmith love his job? Because he was a real heavy metal fan!"
->     *   "Why did the blacksmith get in trouble with the king? Because he was caught forging!"
+>     *   *Idea 1:* Why did the anglerfish go to school? To brighten its future! (A bit cliché).
+>     *   *Idea 2:* Why don't deep-sea fish ever get lost? Because they always follow the bright ideas! (A bit weak).
+>     *   *Idea 3:* What did the glowing jellyfish say to its friend in the dark ocean? "You light up my life!" (Cute, but maybe too sweet/not "funny" enough).
+>     *   *Idea 4:* Why was the deep-sea creature so good at parties? Because he really knew how to light up the room! (Classic).
+>     *   *Idea 5:* Why did the bioluminescent fish get promoted? Because he had such a bright personality! (Simple and effective).
 > 
->     *   "Why did the medieval blacksmith get arrested? Because he was caught forging!" is a classic, very simple, and fits the theme perfectly.
+>     *   "Why did the bioluminescent fish get promoted? Because he had such a bright personality!"
 > 
->     "Why did the medieval blacksmith get arrested? Because he was caught forging!"
+>     *   Topic: Deep Sea Bioluminescence? Yes.
+>     *   Funny/Simple/Light? Yes.
+>     *   Only output the joke? Yes.
+> 
+>     "Why did the bioluminescent fish get promoted? Because he had such a bright personality!"
 
