@@ -1,56 +1,65 @@
 # Joke of the day: 
-Why did the gluten-free bread fail its exam? 
+Heisenberg is driving down the highway when a police officer pulls him over. 
 
-It just couldn't rise to the occasion!
+The officer asks, "Sir, do you know how fast you were going?"
+
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Gluten-free Baking<!--/TOPIC-->
+<!--TOPIC-->Quantum physics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|23|
-|**Total Token Count**|674|
-|**Thoughts Token Count**|622|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|49|
+|**Total Token Count**|679|
+|**Thoughts Token Count**|604|
 
 ## Thoughts: 
-> *   Topic: Gluten-free baking.
+> *   Topic: Quantum physics.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Why did the gluten-free bread go to therapy? Because it felt like it had no substance. (A bit dark/philosophical).
->     *   Idea 2: What do you call a gluten-free baker? A miracle worker. (Not really a joke, more a statement).
->     *   Idea 3: Why did the gluten-free muffin break up with the flour? Because there was no chemistry... or rather, no gluten. (A bit clunky).
->     *   Idea 4: Why did the gluten-free cake go to the party alone? Because it couldn't find anyone to rise to the occasion! (Classic pun).
->     *   Idea 5: Why did the gluten-free bread fail its driving test? It couldn't handle the rolls! (A bit weak).
->     *   Idea 6: Why is gluten-free baking so stressful? Because it’s always a "knead"-less struggle. (Wait, GF doesn't involve much kneading usually, but "knead" is a good pun).
->     *   Idea 7: Why did the gluten-free baker get kicked out of the party? Because he kept trying to "rise" to the occasion, but he just couldn't!
+>     *   Schrödinger's cat (alive/dead).
+>     *   Uncertainty principle (Heisenberg - position/momentum).
+>     *   Entanglement (spooky action at a distance).
+>     *   Superposition (being in two states at once).
 > 
->     "Why did the gluten-free bread go to the doctor? Because it was feeling a bit crumbly!"
->     *OR*
->     "Why did the gluten-free cake go to therapy? Because it felt like it had no substance!"
+>     *   *Idea 1 (Schrödinger's Cat):* Schrödinger's cat walks into a bar... and doesn't. Or he's both there and not there.
+>     *   *Idea 2 (Heisenberg/Uncertainty):* Heisenberg is driving down the highway. Cop pulls him over. Cop: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!"
+>     *   *Idea 3 (Entanglement):* Two particles walk into a bar. One says to the other, "I'll have what you're having." (Wait, that's not quantum enough).
 > 
->     Let's try one about "rising":
->     "Why did the gluten-free bread fail its exam? It just couldn't rise to the occasion!"
+>     *   The Heisenberg joke is a classic, very easy to understand, and hits the "light" and "simple" requirements perfectly.
 > 
->     *Refining the "Rise" joke:*
->     "Why did the gluten-free bread fail its exam? Because it just couldn't rise to the occasion!"
+>     *   *Drafting the Heisenberg joke:*
+>         Heisenberg is driving down the highway when a police officer pulls him over.
+>         The officer asks, "Sir, do you know how fast you were going?"
+>         Heisenberg replies, "No, but I know exactly where I am!"
 > 
->     *Refining a "Crumb" joke:*
->     "What did the gluten-free muffin say to the baker? 'Don't worry, I'm still a crumb-believable treat!'" (A bit cheesy).
+>     *   Is it funny? Yes (for physics enthusiasts/general audience).
+>     *   Is it simple? Yes.
+>     *   Is it light? Yes.
+>     *   Is it only the joke? Yes.
 > 
->     *Let's go with a classic pun structure:*
->     "Why did the gluten-free bread go to the doctor? Because it was feeling a little crumbly!"
+>     *Self-Correction during drafting:* Maybe Schrödinger's cat is even simpler?
+>     "Schrödinger's cat walks into a bar... and doesn't." -> A bit too short/minimalist.
 > 
->     *Actually, let's go with the "rise" one, it's very common in baking jokes:*
->     "Why did the gluten-free loaf of bread fail its exam? It just couldn't rise to the occasion!"
+>     Let's go with the Heisenberg one. It has a better narrative flow.
 > 
->     Simple? Yes.
->     Light? Yes.
->     Gluten-free themed? Yes.
->     Only output joke? Yes.
+>     *Wait, let's try one more:*
+>     "Why can't you trust an atom? Because they make up everything!" (Not quantum specific, that's general chemistry).
 > 
->     "Why did the gluten-free bread fail its exam? It just couldn't rise to the occasion!"
+>     Let's stick to the Heisenberg joke.
+> 
+>     *Alternative Schrödinger joke:*
+>     "Schrödinger's cat walks into a bar. And doesn't. And is both dead and alive until the bartender looks."
+> 
+>     Actually, the Heisenberg joke is the most "standard" and effective "simple" joke.
+> 
+>     *Final Selection:*
+>     Heisenberg is driving down the highway when a cop pulls him over.
+>     The cop asks, "Do you know how fast you were going?"
+>     Heisenberg replies, "No, but I know exactly where I am!"
 
