@@ -1,128 +1,87 @@
 # Joke of the day: 
-Why did the quantum computer go to the party? Because it heard it could be in two places at once!
+Why did the sourdough bread win an award?
+
+Because it always rose to the occasion!
 
 ## Topic
-<!--TOPIC-->Quantum Computing<!--/TOPIC-->
+<!--TOPIC-->Sourdough Bread Making<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|22|
-|**Total Token Count**|1563|
-|**Thoughts Token Count**|1515|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|18|
+|**Total Token Count**|921|
+|**Thoughts Token Count**|874|
 
 ## Thoughts: 
-> *   Topic: Quantum Computing.
+> *   Topic: Sourdough Bread Making.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Schrödinger's Cat (alive and dead).
->     *   Qubits (0 and 1 simultaneously).
->     *   Observation/Measurement (collapsing the wave function).
+>     *   Starter (feeding, growing, living thing, "pet").
+>     *   Fermentation (bubbles, gas, rising).
+>     *   Dough (sticky, messy, elastic).
+>     *   Scoring (patterns, art).
+>     *   Kneading/Folding.
+>     *   The waiting game (time-consuming).
+>     *   Discard (wasting/using leftover starter).
 > 
->     *   *Idea 1 (Superposition):* Why did the quantum computer go to therapy? Because it had too many split personalities. (A bit weak).
->     *   *Idea 2 (Superposition/Schrödinger):* A quantum physicist walks into a bar. He orders a beer and a non-beer at the same time. (Classic).
->     *   *Idea 3 (Measurement/Observation):* Why don't quantum computers ever get lost? Because as soon as you look at them, they decide where they are. (A bit abstract).
->     *   *Idea 4 (Relationship/Entanglement):* Why did the qubit break up with the classical bit? Because it needed more space to be in two places at once. (Okay).
->     *   *Idea 5 (The "Bar" joke refinement):* A quantum physicist walks into a bar and orders a drink. The bartender asks, "Would you like that now or later?" The physicist says, "Yes." (Good, but maybe too "mathy").
->     *   *Idea 6 (Schrödinger's Cat/Quantum computer hybrid):* Why did the quantum computer cross the road? I don't know, but it was on both sides of the road until you looked at it.
+>     *   *Idea 1 (The Starter):* Why did the sourdough baker go to therapy? Because their starter had too many attachment issues. (A bit dark?)
+>     *   *Idea 2 (The Starter as a Pet):* Why don't sourdough bakers ever go on vacation? Because they can't leave their "pet" at a kennel! (A bit cliché).
+>     *   *Idea 3 (The Dough):* Why was the sourdough loaf so popular at the party? Because it really knew how to rise to the occasion! (Classic pun, very light).
+>     *   *Idea 4 (The Starter/Relationship):* My sourdough starter and I have a very complicated relationship. It's very needy, it demands constant attention, and if I ignore it for one day, it gets really sour. (More of a joke/observation).
 > 
->     The "both sides of the road" or "ordering a drink" jokes are usually the most accessible. Let's try a variation of the "ordering a drink" one or the "superposition" concept.
+>     *   "Why did the sourdough bread go to school? Because it wanted to be a 'smart' carb!" (A bit weak).
+>     *   "Why did the sourdough baker get promoted? Because they always rose to the occasion!" (Strong, simple, punny).
 > 
->     *Refined Joke:*
->     "Why did the quantum computer go to the party? Because it heard it could be in two places at once!"
+>     Let's go with a variation of the "rise to the occasion" pun or something about the starter being a "drama queen."
 > 
->     *Another option:*
->     "A quantum physicist walks into a bar and orders a drink. The bartender asks, 'Do you want a beer?' The physicist says, 'I'll let you know once you've looked at me!'" (A bit clunky).
+>     *Draft:*
+>     Why did the sourdough starter get kicked out of the party?
+>     Because it was being way too sour!
 > 
->     *Let's go with the "both sides of the road" one, it's a classic trope applied to quantum mechanics.*
+>     *Draft 2:*
+>     Why was the sourdough baker so successful?
+>     Because they always rose to the occasion!
 > 
->     *Wait, let's try this one:*
->     "Why can't you trust a quantum computer? Because even when it tells you the truth, it's also telling you a lie at the same time." (A bit heavy).
+>     Let's try a dialogue-based one.
+>     "I asked my sourdough starter how its day was going. It said, 'I'm feeling a little bubbly, but honestly, I'm just a bit sour today.'" (A bit long).
 > 
->     *Let's go with the most "classic" lighthearted one:*
->     "Why did the quantum computer cross the road? 
->     I don't know, but it was on both sides of the road until you looked at it!"
+>     *Let's go with the "Rise to the occasion" one. It's the quintessential bread joke.*
 > 
->     *Actually, let's try a shorter, punchier one:*
->     "A quantum physicist walks into a bar. He orders a drink, but he doesn't actually drink it until someone observes him."
+>     *Wait, let's try something about the "starter" being a "pet".*
+>     "Why did the baker name their sourdough starter 'Bubbles'? Because it was a real gas!" (A bit old).
 > 
->     *Let's go with the "Two places at once" one, it's the easiest to understand.*
+>     *Let's go with:*
+>     "Why was the sourdough baker so calm under pressure? Because they knew how to let everything rise!"
 > 
->     "Why did the quantum computer go to the party? Because it heard it could be in two places at once!"
+>     *Actually, the "Rise to the occasion" is the most universally understood and "simple/light".*
 > 
->     *Or even better:*
->     "Why don't quantum computers ever get lost? Because they're everywhere at once—until you look for them!"
+>     "Why did the sourdough bread win an award? Because it always rose to the occasion!"
 > 
->     Let's go with:
->     "Why did the quantum computer cross the road? 
->     I don't know, but it was on both sides of the road until you looked at it!"
+>     *Let's try one more:*
+>     "What did the sourdough starter say to the baker? 'Don't worry, things are about to get bubbly!'"
 > 
->     *Actually, the "ordering a drink" one is very standard for physics humor.*
->     "A quantum physicist walks into a bar and orders a drink. The bartender asks, 'Would you like that now or later?' The physicist replies, 'Yes.'"
+>     *Let's stick to the most classic, punchy pun:*
+>     Why did the sourdough bread win an award? Because it always rose to the occasion!
 > 
->     Let's go with the "Two places at once" one for maximum simplicity.
+>     *Refined joke:*
+>     Why did the sourdough bread get promoted?
+>     Because it always rose to the occasion!
 > 
->     "Why did the quantum computer go to the party? Because it heard it could be in two places at once!"
+>     *Alternative:*
+>     Why is sourdough making so stressful?
+>     Because it’s a real yeast-case scenario! (A bit forced).
 > 
->     Wait, let's try:
->     "Why did the qubit break up with the classical bit? Because it needed more space to be in two states at once!"
+>     *Let's go with:*
+>     Why was the sourdough baker so good at their job?
+>     Because they always rose to the occasion!
 > 
->     Let's go with the "Road" one. It's the most "joke-like" structure.
+>     "Why did the sourdough bread win an award? Because it always rose to the occasion!"
 > 
->     "Why did the quantum computer cross the road?
->     I don't know, but it was on both sides of the road until you looked at it!"
+>     *Check constraints:* Simple, light, easy, only output joke.
 > 
->     *Self-Correction:* The prompt asks for *one* joke.
-> 
->     Final choice:
->     Why did the quantum computer cross the road?
->     I don't know, but it was on both sides of the road until you looked at it!
-> 
->     (Wait, let's check if there's a better "simple" one).
-> 
->     "A quantum physicist walks into a bar. He orders a drink, but he doesn't actually drink it until someone observes him."
-> 
->     Actually, the "Two places at once" is the most "light and easy".
-> 
->     "Why did the quantum computer go to the party? 
->     Because it heard it could be in two places at once!"
-> 
->     Simple. Light. Easy.
-> 
->     *Final Polish:*
->     "Why did the quantum computer go to the party? Because it heard it could be in two places at once!"
-> 
->     Actually, let's try the "Schrödinger" angle if possible, but keep it simple.
-> 
->     "How many quantum physicists does it take to change a lightbulb?
->     None. The lightbulb is both on and off until you walk into the room!"
-> 
->     This is good. But the "two places at once" is even simpler.
-> 
->     Let's go with:
->     Why did the quantum computer go to the party? Because it heard it could be in two places at once!
-> 
->     "Only output the joke."
-> 
->     Joke:
->     Why did the quantum computer go to the party? Because it heard it could be in two places at once!
-> 
->     (Check: Is it funny? It's a "dad joke" style, which fits "light/simple").
-> 
->     Let's try one more:
->     "I have a joke about quantum computing, but I'm not sure if it's good or bad until you hear it." (Meta-joke, maybe too clever).
-> 
->     Let's stick to the "Two places at once" one. It's the safest and most understandable.
-> 
->     Wait, one more:
->     "Why are quantum computers so good at parties? Because they can be in every conversation at once!"
-> 
->     Let's go with the "Two places at once" one.
-> 
->     Why did the quantum computer go to the party? Because it heard it could be in two places at once!
+>     "Why did the sourdough bread win an award? Because it always rose to the occasion!"
 
