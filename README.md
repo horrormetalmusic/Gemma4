@@ -1,93 +1,88 @@
 # Joke of the day: 
-Why are quantum computers so shy? Because as soon as you look at them, they change!
+Why was the battering ram so popular at parties? Because he kept hitting on everyone!
 
 ## Topic
-<!--TOPIC-->Quantum Computing<!--/TOPIC-->
+<!--TOPIC-->Medieval Siege Engines<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|19|
-|**Total Token Count**|1161|
-|**Thoughts Token Count**|1116|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|18|
+|**Total Token Count**|914|
+|**Thoughts Token Count**|869|
 
 ## Thoughts: 
-> *   Topic: Quantum Computing.
+> *   Topic: Medieval Siege Engines.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Concept 1: Superposition (being in two states at once).
->     *   Concept 2: Entanglement (spooky action at a distance/connection).
->     *   Concept 3: Observation (collapsing the wavefunction).
+>     *   Trebuchets (arm/counterweight).
+>     *   Catapults (tension/torsion).
+>     *   Battering rams (hitting things).
+>     *   Siege towers (climbing).
+>     *   Ballistas (giant crossbows).
 > 
->     *   *Idea 1 (Superposition):* Why did the quantum computer break up with its partner? Because it couldn't decide if it was single or in a relationship at the same time. (A bit clunky).
->     *   *Idea 2 (Superposition/Schrödinger):* A quantum physicist walks into a bar... and doesn't. (Classic, maybe too common).
->     *   *Idea 3 (Observation):* Why are quantum computers so shy? Because as soon as you look at them, they change! (Simple, cute).
->     *   *Idea 4 (Superposition/States):* I asked a quantum computer if it was working. It said, "I'm not sure, I'm currently in a state of both working and not working until you check my status." (A bit wordy).
+>     *   Idea 1 (Trebuchet): Why did the trebuchet break up with the catapult? Because it felt like they were always being thrown around. (A bit weak).
+>     *   Idea 2 (Battering Ram): Why did the battering ram get kicked out of the party? Because he kept hitting on everyone. (Classic pun).
+>     *   Idea 3 (Trebuchet): Why don't trebuchets ever get lost? Because they always follow their trajectory. (A bit nerdy).
+>     *   Idea 4 (Catapult): Why was the catapult so good at its job? Because it always delivered! (Simple, light).
+>     *   Idea 5 (Ballista): What do you call a siege engine that tells jokes? A pun-ista? (Weak).
 > 
->     *   Let's try a variation of the "bar" joke or the "shy" joke.
->     *   *Joke:* Why did the quantum computer go to therapy? Because it had too many identity crises—it couldn't decide if it was a 0 or a 1!
+>     *   "Why did the battering ram get kicked out of the party? Because he kept hitting on everyone!" (Very classic, easy to understand).
+>     *   "Why was the catapult so successful in business? Because it always delivered!" (Very clean, light).
 > 
->     *   *Alternative:* A quantum physicist walks into a bar. He orders a drink, but he's not sure if he wants it until he actually takes a sip. (A bit weak).
+>     Let's go with the "delivered" one or the "hitting on everyone" one. "Hitting on everyone" is more character-based for a siege engine.
 > 
->     *   *Let's go with the "looking/observation" angle, as it's the most intuitive.*
+>     Let's try one about a Trebuchet.
+>     "Why did the trebuchet get promoted? Because it always went above and beyond!"
 > 
->     *   *Refined Joke:* Why are quantum computers so bad at keeping secrets? Because as soon as you look at them, they change!
+>     "Why was the catapult such a great employee? Because it always delivered!"
 > 
->     *   *Wait, let's try a classic format:*
->     "Why did the quantum physicist get fired from the bank? Because he kept telling the customers their balance was both zero and millions of dollars at the same time!"
+>     Let's try a pun on "trebuchet".
+>     "What is a siege engine's favorite type of music? Trebuchet-hop?" (Nah).
 > 
->     *   *Let's try one more, simpler:*
->     "How many quantum physicists does it take to change a lightbulb? It doesn't matter, the bulb is both changed and unchanged until you look at it."
+>     Let's go with the "delivered" one. It's simple, light, and very easy to understand.
 > 
->     *   *Actually, this one is very light and simple:*
->     "Why was the quantum computer so indecisive? Because it couldn't decide if it was a 0 or a 1!"
-> 
->     *   Let's go with the "changing when looked at" one, it's the most "quantum" feeling.
-> 
->     *   *Joke selection:*
->     "Why are quantum computers so shy? Because as soon as you look at them, they change!"
-> 
->     *   Topic: Quantum Computing? Yes.
->     *   Funny/Simple/Light? Yes.
->     *   Only output the joke? Yes.
-> 
->     "Why are quantum computers so shy? Because as soon as you look at them, they change!"
-> 
->     *Self-Correction:* Is it funny? It's a "dad joke" style, which fits "light and easy to understand."
-> 
->     *Let's try one more just in case:*
->     "I asked a quantum computer if it was working. It said, 'I'm not sure, I'm currently in a superposition of working and not working!'" -> A bit too technical for "simple/easy".
-> 
->     *Back to:*
->     "Why are quantum computers so bad at keeping secrets? Because as soon as you look at them, they change!"
-> 
->     Actually, the most popular/relatable one is:
->     "Why did the quantum physicist get kicked out of the library? Because he was in two places at once!" (Not really about computing).
-> 
->     Let's stick to:
->     **Why are quantum computers so shy? Because as soon as you look at them, they change!**
-> 
->     Wait, let's try this one:
->     "A quantum physicist walks into a bar... and doesn't." (A bit too short/cliché).
-> 
->     Final Choice:
->     "Why are quantum computers so indecisive? Because they can't decide if they're a 0 or a 1!"
-> 
->     Actually, the "shy" one is better.
+>     *Self-Correction:* Actually, the "hitting on everyone" one is more "funny" in a traditional joke sense.
 > 
 >     Let's try:
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     "Why did the trebuchet break up with the catapult? Because it felt like their relationship was just going through many ups and downs!"
 > 
->     Actually, let's go with a very clean one:
->     "Why are quantum computers so bad at playing hide-and-seek? Because as soon as you find them, they change!"
+>     Actually, let's go with:
+>     **Why was the catapult such a successful businessman? Because it always delivered!**
 > 
->     Let's go with:
->     **Why are quantum computers so shy? Because as soon as you look at them, they change!**
+>     Wait, let's try one more:
+>     **Why don't siege engines ever get lonely? Because they always hang out in groups!** (A bit dry).
 > 
->     (Checks constraints: Only output the joke).
+>     Let's go with the "delivered" joke. It's the safest and most "light".
 > 
->     "Why are quantum computers so shy? Because as soon as you look at them, they change!"
+>     *Alternative:*
+>     **Why did the battering ram fail his driving test? He kept hitting everything!**
+> 
+>     Let's go with the catapult/delivered one.
+> 
+>     Joke: Why was the catapult such a great employee? Because it always delivered!
+> 
+>     *Wait, another one:*
+>     **Why did the trebuchet get in trouble at school? It had too much "projectile" behavior!** (Too complex).
+> 
+>     Let's stick to:
+>     **Why was the catapult so good at its job? Because it always delivered!**
+> 
+>     Simple? Yes.
+>     Light? Yes.
+>     Easy to understand? Yes.
+>     Only output the joke? Yes.
+> 
+>     Wait, let's try:
+>     **Why was the battering ram so popular at parties? Because he was always hitting on everyone!**
+> 
+>     This is funnier. Let's use this.
+> 
+>     *Refined:*
+>     Why was the battering ram so popular at parties? Because he kept hitting on everyone!
+> 
+>     "Why was the battering ram so popular at parties? Because he kept hitting on everyone!"
 
