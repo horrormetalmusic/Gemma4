@@ -1,144 +1,81 @@
 # Joke of the day: 
-Why did the sourdough starter get a promotion? Because it always rose to the occasion!
+Why are black holes so bad at parties? Because they always suck the fun out of the room!
 
 ## Topic
-<!--TOPIC-->Baking sourdough bread<!--/TOPIC-->
+<!--TOPIC-->Interstellar black holes<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|28|
-|**Candidates Token Count**|17|
-|**Total Token Count**|1774|
-|**Thoughts Token Count**|1729|
+|**Candidates Token Count**|20|
+|**Total Token Count**|888|
+|**Thoughts Token Count**|840|
 
 ## Thoughts: 
-> *   Topic: Baking sourdough bread.
+> *   Topic: Interstellar black holes.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Sourdough starter (needs feeding, is like a pet).
->     *   Wild yeast (unpredictable).
->     *   "Rise" (pun).
->     *   Crust/Crumb.
->     *   Fermentation/Time.
->     *   Starter's name (sometimes people name them).
+>     *   Black holes pull things in.
+>     *   Event horizon (point of no return).
+>     *   Singularity (center).
+>     *   Spaghettification (stretching).
+>     *   Gravity/Mass.
+>     *   Light can't escape.
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues rising to the occasion. (A bit cliché).
->     *   *Idea 2:* Why did the baker go to jail? He was caught "proofing" something. (More about general baking).
->     *   *Idea 3:* My sourdough starter and I have a very complicated relationship. I feed it every day, but it still makes me feel like it's rising above me. (A bit wordy).
->     *   *Idea 4:* Why was the sourdough starter so popular? Because it always brought a lot to the table, but mostly it just liked to hang out and ferment. (Not very funny).
->     *   *Idea 5 (The "Pet" angle):* Why did the sourdough baker get kicked out of the party? Because they wouldn't stop talking about their starter—it was getting a bit too yeast-y. (A bit weak).
->     *   *Idea 6:* Why did the sourdough starter cross the road? To get to the other *side* of the fermentation process. (Weak).
->     *   *Idea 7:* I asked my sourdough starter how it was doing today. It said, "Don't worry, I'm just going through a phase... a fermentation phase." (Weak).
->     *   *Idea 8 (Simple Pun):* Why did the sourdough bread go to school? To get a little more "rise" in its education. (Classic structure).
->     *   *Idea 9 (Relatable humor):* My sourdough starter is a lot like my roommate: it's needy, it's bubbly, and it's always taking up space in the fridge. (Relatable, but maybe not a "joke").
+>     *   Idea 1: Why did the black hole break up with the star? Because it felt like the relationship was just sucking the life out of it. (A bit cliché).
+>     *   Idea 2: Why don't black holes ever go to parties? Because they always end up sucking the fun out of the room. (Classic "sucking the fun out" trope).
+>     *   Idea 3: What do you call a black hole that's a great host? Someone who always invites people in, but they can never leave. (A bit weak).
+>     *   Idea 4: Why are black holes so bad at keeping secrets? Because once you tell them something, it's gone forever.
 > 
->     *Let's try a classic setup/punchline:*
->     "Why did the sourdough starter get promoted? Because it always rose to the occasion!"
+>     *   Idea 2 is very light, simple, and fits the "sucking" pun perfectly.
+>     *   Idea 4 is also good.
 > 
->     *Wait, let's try another:*
->     "What did the sourdough baker say to their starter when it wouldn't grow? 'Don't worry, you just need to take some time to ferment your feelings!'"
+>     *Refining Idea 2:*
+>     "Why are black holes so unpopular at parties? Because they always suck the fun out of the room!"
 > 
->     *Let's go with the "Rise to the occasion" one, it's the cleanest.*
+>     *Refining Idea 4:*
+>     "Why shouldn't you tell a secret to a black hole? Because once it's in, it's gone forever!"
 > 
->     *Actually, let's try one about the "starter" being a pet:*
->     "Why is baking sourdough so much like having a pet? Because you spend all your time feeding it, and half the time, it just sits there looking bubbly!" (A bit long).
+>     Let's go with the "sucking the fun out" one. It's a classic pun structure.
 > 
->     *How about:*
->     "Why did the sourdough starter break up with the flour? Because it felt like the relationship was just going nowhere, and it needed more space to rise!"
+>     *Alternative (Spaghettification):*
+>     "Why did the astronaut go to the black hole for dinner? He heard the pasta was amazing, but it turned out to be a bit too long!" (A bit complex).
 > 
->     *Let's go with the "Rise to the occasion" pun. It's the most "simple, light, and easy to understand."*
+>     *Let's try a "gravity" joke:*
+>     "Why don't black holes ever get lost? Because they always find themselves at the center of attention!"
 > 
->     *Actually, let's try this one:*
->     "Why was the sourdough starter so good at its job? Because it always rose to the occasion!"
+>     Let's go with the "sucking the fun out" joke as it's the most universally understood pun.
 > 
->     *Alternative:*
->     "Why don't sourdough bakers ever get lonely? Because they always have a starter to hang out with!" (A bit sweet, not necessarily "funny").
+>     "Why are black holes so bad at throwing parties? Because they always suck the fun out of the room!"
 > 
->     *Let's go with:*
->     "Why did the sourdough starter get a promotion? Because it always rose to the occasion!"
+>     *Wait, let's try one more:*
+>     "Why did the black hole cross the galaxy? To get to the other side... but it couldn't quite escape itself!" (No).
 > 
->     *Wait, I'll try one more:*
->     "What's a sourdough baker's favorite type of music? Yeastie Boys!" (Very simple, very punny).
+>     "Why are black holes so bad at keeping secrets? Because once you tell them something, it’s gone forever!"
 > 
->     *Let's check the prompt: "Funny joke about Baking sourdough bread."*
+>     Let's go with:
+>     "Why are black holes so bad at parties? Because they always suck the fun out of the room!"
 > 
->     *Let's go with the Yeastie Boys one or the "Rise to the occasion". The Yeastie Boys is a classic "dad joke" style.*
+>     Check constraints:
+>     - Funny? Yes.
+>     - About Interstellar black holes? Yes.
+>     - Simple, light, easy? Yes.
+>     - Only output the joke? Yes.
 > 
->     *Actually, let's do:*
->     "Why did the sourdough starter go to therapy? It had too many issues rising to the occasion!"
+>     "Why are black holes so bad at parties? Because they always suck the fun out of the room!"
 > 
->     *No, let's go with:*
->     "Why did the sourdough starter get a promotion? Because it always rose to the occasion!"
+>     Actually, let's try a slightly more "spacey" one.
+>     "Why don't black holes ever get lonely? Because they're always pulling someone close!" (A bit sweet/corny).
 > 
->     "Why did the sourdough starter get a promotion? Because it always rose to the occasion!"
+>     Let's stick to the "suck the fun out" joke. It's the cleanest pun.
 > 
->     *Wait, let's try a more "baking" specific one.*
->     "Why was the sourdough bread so well-behaved? Because it was always proofed!" (A bit niche).
+>     *Self-Correction:* Is there a better one?
+>     "What did the star say to the black hole? 'You're really pulling my strings!'" (Not quite).
 > 
->     Let's go with the "Rose to the occasion" one. It's the most universal.
+>     Let's go with the "sucking the fun out" joke. It's simple and light.
 > 
->     *Self-Correction:* Is "Rose to the occasion" a joke about the *bread* or the *starter*? It works for both.
-> 
->     *Let's try:*
->     "What do you call a sourdough starter that's a great comedian? Bubbly!" (A bit weak).
-> 
->     Let's stick to the "Rise to the occasion" one. It's solid.
-> 
->     *Draft:*
->     Why did the sourdough starter get a promotion?
->     Because it always rose to the occasion!
-> 
->     *Wait, "Only output the joke."*
-> 
->     Why did the sourdough starter get a promotion? Because it always rose to the occasion!
-> 
->     *Or better:*
->     Why did the sourdough starter get a promotion? Because it always rose to the occasion!
-> 
->     (Let's try one more: "What is a sourdough baker's favorite band? The Yeastie Boys!") -> This is very punchy.
-> 
->     Let's go with the Yeastie Boys one. It's a classic joke format.
-> 
->     *Final Choice:*
->     "What is a sourdough baker's favorite band? The Yeastie Boys!"
-> 
->     *Actually, the prompt asks for a joke about **Baking sourdough bread**. The Yeastie Boys is about the yeast/starter, which is the core of sourdough.*
-> 
->     *Let's try one more:*
->     "Why is sourdough baking so stressful? Because you're always waiting for something to rise to the occasion!"
-> 
->     Let's go with the "Rose to the occasion" one. It's the cleanest.
-> 
->     "Why did the sourdough starter get a promotion? Because it always rose to the occasion!"
-> 
->     *Wait, let's check if there's anything funnier.*
->     "I told my sourdough starter a joke, but it didn't laugh. It just sat there, bubbling with resentment." (A bit dark?)
-> 
->     "Why did the sourdough bread go to the doctor? It was feeling a bit crusty!" (Very simple).
-> 
->     "Why did the sourdough starter get a promotion? Because it always rose to the occasion!" -> This is the winner. It's light, simple, and easy to understand.
-> 
->     *One final check:*
->     Prompt: "Tell a funny joke about Baking sourdough bread."
->     Joke: "Why did the sourdough starter get a promotion? Because it always rose to the occasion!"
-> 
->     Wait, "Why did the sourdough bread get a promotion?" works better for the topic of "baking bread".
-> 
->     "Why did the sourdough bread get a promotion? Because it always rose to the occasion!"
-> 
->     Perfect.
-> 
->     Wait, let's go with:
->     Why did the sourdough starter get a promotion? Because it always rose to the occasion!
-> 
->     (Actually, the starter is what makes the bread sourdough. It's the most iconic part).
-> 
->     Let's provide the "Rose to the occasion" joke.
-> 
->     Final check on instructions: "Only output the joke."
-> 
->     Why did the sourdough starter get a promotion? Because it always rose to the occasion!
+>     "Why are black holes so bad at parties? Because they always suck the fun out of the room!"
 
