@@ -1,64 +1,49 @@
 # Joke of the day: 
-A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he is both drunk and sober.
+Why did the sourdough starter go to therapy?
+
+Because it had too many rising issues!
 
 ## Topic
-<!--TOPIC-->Quantum Computing<!--/TOPIC-->
+<!--TOPIC-->Sourdough Baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|27|
-|**Total Token Count**|881|
-|**Thoughts Token Count**|828|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|18|
+|**Total Token Count**|458|
+|**Thoughts Token Count**|412|
 
 ## Thoughts: 
-> *   Topic: Quantum Computing.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Sourdough Baking.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Schrödinger's Cat (alive and dead).
->     *   Observation/Measurement (collapsing the wavefunction).
->     *   Qubits vs. Bits.
+>     *   Starter (yeast, culture, feeding, life).
+>     *   Dough (kneading, rising, proofing).
+>     *   Bread (crust, crumb, scoring).
+>     *   Relationship/Personification (treating the starter like a pet or child).
 > 
->     *   *Idea 1:* A quantum physicist walks into a bar... He's both in the bar and not in the bar until the bartender looks at him.
->     *   *Idea 2:* Why did the quantum physicist get kicked out of the party? Because he was in a superposition of being there and not being there.
->     *   *Idea 3:* A qubit walks into a bar. The bartender asks, "What can I get you?" The qubit says, "I'm not sure, I haven't decided yet, but I'm thinking of everything at once!" (A bit weak).
->     *   *Idea 4 (The Classic):* A quantum physicist is driving down the highway and gets pulled over. The officer asks, "Do you know how fast you were going?" The physicist says, "No, but I know exactly where I am!" (More of a relativity joke).
->     *   *Idea 5 (Schrödinger's Cat variant):* Why don't quantum computers ever play hide and seek? Because as soon as you find them, they stop being everywhere at once.
->     *   *Idea 6 (Superposition/Bar):* A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he's both drunk and sober.
+>     *   Idea 1: Why did the sourdough starter go to therapy? Because it had too many issues rising to the top.
+>     *   Idea 2: Why did the baker break up with their sourdough starter? Because it was too high maintenance.
+>     *   Idea 3: What's a sourdough baker's favorite music? Anything with a good yeast. (A bit weak).
+>     *   Idea 4: Why did the sourdough starter cross the road? To get to the other side... of the jar? (Nah).
+>     *   Idea 5: How does a sourdough baker stay in shape? They do a lot of dough-ga. (Punny, but maybe too niche).
 > 
->     *   "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he’s both drunk and sober." -> This is a classic play on superposition and measurement. It's easy to understand.
+>     *   *Joke A:* Why did the sourdough starter go to therapy? Because it had too many rising issues!
+>     *   *Joke B:* Why did the sourdough baker break up with their starter? It was just too high maintenance!
 > 
->     *   *Alternative:* "How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and the other to observe it so it actually stays in one place."
+>     Joke A is a classic play on words ("rising issues" vs "emotional issues"). It's simple and universally understood within the context.
 > 
->     *   *Let's go with the bar one, it's the most punchy.*
+>     *   "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
 > 
->     "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he is both drunk and sober."
+>     *   Funny? Yes.
+>     *   About Sourdough? Yes.
+>     *   Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     Wait, let's try an even simpler one.
->     "Why did the quantum computer fail its driving test? Because it couldn't decide if it was turning left or right until it was already in the intersection!" (A bit clunky).
+>     Why did the sourdough starter go to therapy? 
 > 
->     Let's stick to the "Bar" joke. It's the gold standard for simple quantum jokes.
-> 
->     *Refined Version:*
->     A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he is both drunk and sober.
-> 
->     *Wait, let's try one about qubits:*
->     "Why can't you trust a quantum computer? Because they're always in two minds about everything." (Simple, cute, light).
-> 
->     Let's go with the "two minds" one or the "bar" one. The "two minds" one is very accessible.
-> 
->     *Actually, let's go with the most famous simple one:*
->     "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he's both drunk and sober."
-> 
->     *   Simple? Yes.
->     *   Light? Yes.
->     *   Easy to understand? Yes.
->     *   Only the joke? Yes.
-> 
->     "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he is both drunk and sober."
+>     Because it had too many rising issues!
 
