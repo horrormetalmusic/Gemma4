@@ -1,70 +1,135 @@
 # Joke of the day: 
-A quantum physicist walks into a bar and orders a drink. He also doesn't order a drink. He remains in that state until the bartender looks at him.
+Why did the medieval potter get in trouble with the King?
+
+Because he kept getting fired!
 
 ## Topic
-<!--TOPIC-->Quantum Computing<!--/TOPIC-->
+<!--TOPIC-->Medieval Pottery<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|26|
-|**Candidates Token Count**|33|
-|**Total Token Count**|906|
-|**Thoughts Token Count**|847|
+|**Candidates Token Count**|19|
+|**Total Token Count**|1346|
+|**Thoughts Token Count**|1301|
 
 ## Thoughts: 
-> *   Topic: Quantum Computing.
+> *   Topic: Medieval Pottery.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance/connectedness).
->     *   Schrödinger's Cat (dead and alive).
->     *   Qubits vs. Bits (0/1 vs. both).
+>     *   Medieval setting: Knights, kings, peasants, castles, mud, kilns, clay.
+>     *   Pottery elements: Kiln, clay, wheel, glaze, pots, bowls, vessels, cracks, firing.
 > 
->     *   *Idea 1 (Schrödinger's Cat/Superposition):* A quantum physicist walks into a bar... no, that's too cliché.
->     *   *Idea 2 (The Interview):* An interviewer asks a quantum physicist how they are. They say, "I'm both happy and sad until you look at me."
->     *   *Idea 3 (The Dating Joke):* Why did the quantum physicist break up with their partner? Because there was no "certainty" in the relationship. (A bit weak).
->     *   *Idea 4 (The Bar Joke - Classic style):* A quantum physicist walks into a bar. He orders a drink. He also doesn't order a drink.
+>     *   *Idea 1:* Why did the medieval potter get fired? Because he couldn't handle the pressure in the kiln. (A bit cliché).
+>     *   *Idea 2:* What did the knight say to the potter? "I need a vessel for my glory!" (Not really a joke).
+>     *   *Idea 3:* Why did the peasant refuse to buy the king's pottery? Because it was a bit "cracked." (Weak).
+>     *   *Idea 4:* A joke about a potter and a knight.
+>     *   *Idea 5 (Pun-based):* Why did the medieval potter go to the dungeon? Because he was caught "spinning" tales. (Better).
+>     *   *Idea 6:* Why was the medieval potter so good at his job? Because he always kept his "clay-m" (calm)? No.
+>     *   *Idea 7:* Why did the king refuse to eat from the potter's bowl? Because it had too many "cracks" in its reputation.
+>     *   *Idea 8:* Why did the medieval potter get in trouble with the king? Because his business was always "spinning" out of control!
 > 
->     *   *Joke:* A quantum physicist walks into a bar and orders a drink. He also doesn't order a drink. He stays in that state until the bartender looks at him.
+>     *   "Why did the medieval potter get in trouble with the King? Because his business was always spinning out of control!"
+>     *   "Why was the medieval potter so popular at the castle? Because he always knew how to handle the pressure!" (Referring to the kiln).
 > 
->     "A quantum physicist walks into a bar. He orders a drink, but he also doesn't order a drink. He stays in that state until the bartender looks at him."
+>     Let's try one more:
+>     "Why did the medieval potter refuse to work for the knight? Because he couldn't handle the 'heavy metal'!" (Wait, pottery is clay, not metal. Might be confusing).
 > 
->     *Self-Correction:* Let's try something even punchier.
+>     Let's go with a classic pun structure.
 > 
->     *Alternative:* "Why did the quantum physicist get kicked out of the library? Because he was in a superposition of reading and not reading."
+>     *Joke:* Why did the medieval potter go to the dungeon?
+>     *Punchline:* Because he was caught spinning tales!
 > 
->     *Alternative (Best for simplicity):*
->     "A quantum physicist walks into a bar and orders a drink. He also doesn't order a drink. He remains in that state until the bartender looks at him."
+>     *Alternative:*
+>     Why did the medieval potter have such a hard time with the King?
+>     Because every time he made a mistake, he felt completely "fired!"
 > 
->     Let's go with a variation of the "Bar" joke or a "Relationship" joke.
+>     Let's go with the "spun tales" or "fired" one. "Fired" is very direct.
+> 
+>     *Joke:* Why did the medieval potter get in trouble with the King?
+>     Because he was constantly getting fired!
+> 
+>     Actually, let's try:
+>     Why did the medieval potter get in trouble with the local knight?
+>     Because he kept spinning tales!
+> 
+>     Let's look for something even simpler.
+>     "What did the medieval potter say to his apprentice? 'Don't worry, everything is going to be wheel-y fine!'" (A bit cheesy, but light).
+> 
+>     How about:
+>     Why did the medieval potter go to the dungeon?
+>     Because he was caught spinning tales!
+> 
+>     Actually, let's go with:
+>     Why did the medieval potter get so much respect from the King?
+>     Because he was a real "clay-mate"! (No, that's bad).
+> 
+>     Let's go with:
+>     Why did the medieval potter get into trouble with the King?
+>     Because he kept spinning tales!
+> 
+>     Wait, let's try a kiln joke.
+>     Why was the medieval potter so calm during the siege?
+>     Because he knew how to handle the heat!
+> 
+>     That's good. Simple, light, fits the theme.
 > 
 >     *Refined Joke:*
->     "A quantum physicist walks into a bar. He orders a drink, and he also doesn't order a drink. He only decides which one he wants once the bartender looks at him."
+>     Why was the medieval potter so calm during the dragon attack?
+>     Because he was used to the heat!
 > 
->     *Wait, let's try the classic "Two physicists" joke:*
->     "Two quantum physicists walk into a bar. One says, 'I'll have a beer.' The other says, 'I'll have half a beer.' The first one says, 'Wait, you're in a superposition of being thirsty and not thirsty!'" -> A bit complex.
+>     Or:
+>     Why did the medieval potter get in trouble with the king?
+>     Because he was caught spinning tales!
 > 
->     *Let's go with the simplest one:*
->     "A quantum physicist walks into a bar and orders a drink. He also doesn't order a drink. He stays in that state until the bartender looks at him."
+>     Let's go with the "spinning tales" one. It's a classic pun. Or the "fired" one.
 > 
->     *Actually, let's try:*
->     "Why can't you trust a quantum computer? Because it's always telling you two things at once!"
+>     "Why did the medieval potter get in trouble with the King? Because he kept getting fired!" (Double meaning: fired from a job, and pottery being fired in a kiln).
 > 
->     *Let's try the "Relationship" one:*
->     "How do you know a quantum physicist is in a relationship? They're both single and married until you check their status."
+>     That's the winner.
 > 
->     *Let's go with the "Bar" joke, it's the most standard "joke" structure.*
+>     *Check constraints:*
+>     - Medieval Pottery? Yes.
+>     - Funny/Simple/Light? Yes.
+>     - Only output the joke? Yes.
 > 
->     "A quantum physicist walks into a bar and orders a drink. He also doesn't order a drink. He stays in that state until the bartender looks at him."
+>     *Final Polish:*
+>     Why did the medieval potter get in trouble with the King?
+>     Because he kept getting fired!
 > 
->     *   Funny? Yes (nerdy humor).
->     *   Quantum Computing? Yes (superposition/observation).
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
+>     *Wait, let's try one more to be sure.*
+>     "Why did the medieval potter love the castle? Because he heard the king had a great kiln-ing personality!" (No).
 > 
->     *Final Choice:*
->     "A quantum physicist walks into a bar and orders a drink. He also doesn't order a drink. He remains in that state until the bartender looks at him."
+>     "Why was the medieval potter so good at his job? Because he always knew how to handle the pressure!" (Refers to the kiln/process).
+> 
+>     Let's go with the "fired" one. It's the most cohesive.
+> 
+>     *Joke:*
+>     Why did the medieval potter get in trouble with the King?
+>     Because he kept getting fired!
+> 
+>     Actually, let's make it even simpler.
+> 
+>     Why did the medieval potter get in trouble with the King?
+>     Because he was always getting fired!
+> 
+>     One more thought:
+>     "What did the medieval potter say when he finished his masterpiece?
+>     'That was a wheel-y good time!'"
+> 
+>     The "fired" one is better.
+> 
+>     *Let's double check the "fired" joke's logic.*
+>     1. Pottery is fired in a kiln.
+>     2. Being fired means losing a job.
+>     3. "Getting in trouble with the king" implies being fired from a job.
+> 
+>     Perfect.
+> 
+>     *Final Version:*
+>     Why did the medieval potter get in trouble with the King?
+>     Because he kept getting fired!
 
