@@ -1,219 +1,151 @@
 # Joke of the day: 
-Why did the sourdough baker get promoted? Because they always rose to the occasion!
+Two quantum particles walk into a bar. One starts spinning clockwise, and the other—on the other side of the universe—immediately starts spinning counter-clockwise and says, "Whoa, I felt that!"
 
 ## Topic
-<!--TOPIC-->Gourmet sourdough baking<!--/TOPIC-->
+<!--TOPIC-->Quantum entanglement<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|16|
-|**Total Token Count**|2429|
-|**Thoughts Token Count**|2384|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|42|
+|**Total Token Count**|1940|
+|**Thoughts Token Count**|1872|
 
 ## Thoughts: 
-> *   Topic: Gourmet sourdough baking.
+> *   Topic: Quantum entanglement.
 >     *   Style: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (mother/levain/yeast).
->     *   Feeding (flour/water).
->     *   Hydration levels.
->     *   Scoring/slashing.
->     *   Crust/crumb.
->     *   Long fermentation/overnight proofs.
->     *   Obsession/commitment.
->     *   Relationship/personification of the starter.
+>     *   Idea 1: Two particles meet, one gets spun, the other knows immediately.
+>     *   Idea 2: Relationship analogy (if one is sad, the other is sad).
+>     *   Idea 3: Long-distance relationship joke.
+>     *   Idea 4: A particle walks into a bar...
 > 
->     *   *Idea 1 (Relationship):* Why did the baker break up with their partner? Because they were too high-maintenance, and they finally found someone with better hydration. (A bit weak).
->     *   *Idea 2 (The Starter):* Why did the sourdough starter go to therapy? Because it felt like everyone was just using it for its crusty exterior. (A bit weird).
->     *   *Idea 3 (The Starter/Relationship - better version):* My sourdough starter is getting pretty serious. We have a very committed relationship, but it’s getting a little heavy... mostly because of the hydration levels.
->     *   *Idea 4 (Pun):* Why was the sourdough baker so good at making friends? Because they always knew how to rise to the occasion! (Classic, simple).
->     *   *Idea 5 (Obsession):* I told my wife I was going to stop obsessing over my sourdough. She said, "Don't worry, I'll support you." I said, "Thanks, I really need someone to help me knead the tension out of my life." (Too long).
->     *   *Idea 6 (Pun on 'crust'):* Why did the gourmet baker get kicked out of the party? Because they were being too crusty. (A bit mean).
+>     *   *Draft 1:* Why did the two particles break up? Because they were too entangled. (A bit weak).
+>     *   *Draft 2:* Two quantum particles go on a date. One says, "I feel a connection." The other says, "Me too, no matter how far apart we are!" (A bit cliché).
+>     *   *Draft 3:* Why are quantum particles so good at long-distance relationships? Because once they're entangled, they're always on the same wavelength, even if they're light-years apart! (A bit long).
+>     *   *Draft 4:* Why did the quantum particle get into an argument with its partner? Because even when they were miles apart, they just couldn't stop being so "attached."
 > 
->     *   Idea 4 is the safest and funniest for a general audience.
->     *   Let's try one about the "starter" being a person.
->     *   "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
+>     *   *Draft 5 (The Classic Setup):*
+>         Two quantum particles walk into a bar.
+>         The first one says, "I'm feeling a bit spinny."
+>         The second one immediately says, "Me too!"
 > 
->     *Let's try something slightly more 'gourmet' specific.*
+>     *   *Refining Draft 5:*
+>         Why did the two quantum particles get into a relationship?
+>         Because they felt an instant connection—and no matter how far apart they went, they were always on the same page! (A bit cheesy).
 > 
->     "Why don't sourdough bakers ever get lonely? Because they always have a starter to hang out with!"
+>     *   *Let's try a "Relationship" angle which is easy to understand:*
+>         "Why did the quantum particles break up? Because they were in a relationship that was way too intense—even from a distance!"
 > 
->     *Or even better:*
->     "Why did the gourmet sourdough baker go to therapy? Because they had too many issues with their starter."
+>     *   *Let's try a "Spooky Action" angle (Einstein's phrase):*
+>         "Why did the quantum particle go to therapy? It felt like its partner was constantly influencing its every move, even from across the universe!"
 > 
->     *Let's go with the 'rise to the occasion' one, it's a classic.*
+>     *   *Let's go with something punchy and simple:*
+>         Why did the two quantum particles get married?
+>         Because they had an instant connection that worked even at a distance!
 > 
->     Wait, let's try:
->     "Why was the sourdough baker so successful? Because they always knew how to rise to the occasion!"
+>     *   *Actually, let's go with a classic "spin" joke:*
+>         Two quantum particles walk into a bar. One is spinning clockwise. The other, halfway across the galaxy, immediately starts spinning counter-clockwise and says, "Wait, what just happened?"
 > 
->     Actually, a joke about the obsession is more relatable to "gourmet" bakers.
->     "My sourdough starter is getting a little too needy. Every time I try to leave the house, it starts acting real bubbly."
+>     *   *Wait, the prompt says "simple, light, easy to understand".*
 > 
->     Let's go with a classic pun.
+>     *   *How about:*
+>         Why are quantum particles so good at long-distance relationships?
+>         Because once they're entangled, they're always perfectly in sync, no matter the distance!
 > 
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
+>     *   *Let's try one more:*
+>         Why did the quantum particle get kicked out of the party?
+>         Because it was being way too "attached" to everyone!
 > 
->     Simple, light, easy.
+>     *   *Let's go with the most recognizable one:*
+>         Why did the two quantum particles get into a relationship?
+>         Because they felt an instant connection that could be felt across the entire universe!
 > 
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
+>     *   *Better version:*
+>         Why did the two quantum particles break up?
+>         Because they had too much "spooky action at a distance!" (A bit niche).
 > 
->     *Alternative (more specific to the "starter" obsession):*
->     "I asked my sourdough starter how it was doing today. It didn't say anything, but it was definitely feeling pretty bubbly!"
+>     *   *Let's go with the "Spin" joke, it's the most "quantum":*
+>         Two quantum particles walk into a bar. One starts spinning clockwise, and the other—on the other side of the galaxy—immediately starts spinning counter-clockwise and says, "Hey, stop copying me!"
 > 
->     Let's go with the "rose to the occasion" one. It's a crowd-pleaser.
+>     *   *Let's try a simpler "Relationship" one:*
+>         Why are quantum particles so good at long-distance relationships?
+>         Because once they're entangled, they're always on the same wavelength!
 > 
->     Wait, I can do better.
->     "Why did the gourmet baker break up with their sourdough starter? Because they just couldn't handle the constant demands for feeding!"
+>     *   *Let's go with:*
+>         Why did the two quantum particles get married?
+>         Because they had an instant connection that worked perfectly, even from a distance!
 > 
->     Let's go with:
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
+>     *   *Actually, this one is very simple:*
+>         "I asked a quantum particle if it wanted to go on a date. It said, 'I'm not sure yet, but whatever you decide, I'm already in agreement!'"
 > 
->     *Wait, one more idea:*
->     "What is a sourdough baker's favorite type of music? Anything with a good yeast-y beat!" (No, that's bad).
+>     *   *Let's go with the "Long distance" one, it's the most relatable.*
 > 
->     "Why did the sourdough baker go to therapy? Because they had too much dough and not enough crust!" (No).
+>     Why are quantum particles so good at long-distance relationships?
+>     Because once they're entangled, they're always perfectly in sync, no matter how far apart they are!
 > 
->     Let's go with the "rose to the occasion" pun. It's the cleanest.
+>     (Self-correction: The user asked for "a funny joke". The "in sync" one is okay, but maybe a bit "dad joke".)
 > 
->     Actually, let's try:
->     "Why was the sourdough baker so calm during the crisis? Because they knew how to handle a little dough!"
+>     *Let's try:*
+>     Two quantum particles walk into a bar. One is spinning clockwise, so the other one—on the other side of the universe—immediately starts spinning counter-clockwise and says, "Whoa, I felt that!"
 > 
->     Let's stick to:
->     **Why did the sourdough baker get promoted? Because they always rose to the occasion!**
+>     *This is good. Simple, light, easy to understand.*
 > 
->     Wait, I want something slightly more "gourmet/obsessive" themed.
+>     Two quantum particles walk into a bar. One starts spinning clockwise, and the other one—on the other side of the universe—immediately starts spinning counter-clockwise and says, "Whoa, I felt that!"
 > 
->     "My sourdough starter is getting a bit dramatic. Every time I forget to feed it, it starts acting real bubbly!"
+>     *Wait, the prompt asks for "Only output the joke."*
+> 
+>     "Two quantum particles walk into a bar. One starts spinning clockwise, and the other one—on the other side of the universe—immediately starts spinning counter-clockwise and says, 'Whoa, I felt that!'"
+> 
+>     *Actually, let's try an even shorter one.*
+> 
+>     "Why did the quantum particles get married? Because they had an instant connection that worked even from a distance!"
+> 
+>     *Let's go with the 'Spin' one. It's more "clever".*
+> 
+>     Two quantum particles walk into a bar. One starts spinning clockwise, and the other—on the other side of the universe—immediately starts spinning counter-clockwise and says, "Whoa, I felt that!"
+> 
+>     (Actually, let's make it even cleaner.)
+> 
+>     Two quantum particles walk into a bar. One starts spinning clockwise, and the other—on the other side of the galaxy—immediately starts spinning counter-clockwise and says, "Hey, stop copying me!"
+> 
+>     *Actually, let's go with the "Relationship" one. It's safer for "simple/light".*
+> 
+>     Why are quantum particles so good at long-distance relationships?
+>     Because once they're entangled, they're always in sync, no matter the distance!
+> 
+>     *Actually, let's do this one:*
+>     "Why did the two quantum particles get into a relationship? Because they felt an instant connection that worked even from across the universe!"
+> 
+>     Let's stick to the "Spin" one. It's a better joke.
+> 
+>     Two quantum particles walk into a bar. One starts spinning clockwise, and the other—on the other side of the universe—immediately starts spinning counter-clockwise and says, "Whoa, I felt that!"
+> 
+>     *One more check: "Keep it simple, light, and easy to understand."*
 > 
 >     Let's try:
->     "Why did the sourdough baker get kicked out of the library? They kept making too much dough!" (No).
+>     Why did the quantum particle break up with its partner?
+>     Because they just couldn't find any space between them! (No, that's not entanglement).
 > 
->     Let's go with:
->     **Why did the sourdough baker get promoted? Because they always rose to the occasion!**
+>     How about:
+>     Why did the two quantum particles get married?
+>     Because they had an instant connection that worked even from a distance!
 > 
->     Actually, the "bubbly" one is cute.
->     "Why was the sourdough starter so popular at parties? Because it was always the life of the bubbly!" (A bit clunky).
+>     Let's go with the "Spin" one. It's the most accurate and funny.
 > 
->     Let's go with:
->     **Why did the sourdough baker get promoted? Because they always rose to the occasion!**
+>     *Final Choice:*
+>     Two quantum particles walk into a bar. One starts spinning clockwise, and the other—on the other side of the universe—immediately starts spinning counter-clockwise and says, "Whoa, I felt that!"
 > 
->     *Self-Correction:* The prompt asks for a joke about *gourmet sourdough baking*.
+>     Wait, I'll go with a slightly more "joke-structure" one.
 > 
->     "Why did the sourdough baker go to therapy? Because they had way too much dough and not enough crust!" (A bit nonsensical).
+>     "Why are quantum particles so good at long-distance relationships? Because once they're entangled, they're always perfectly in sync, no matter how far apart they are!"
 > 
->     Let's go with:
->     **Why did the sourdough baker get promoted? Because they always rose to the occasion!**
+>     Actually, the "Spin" one is funnier.
 > 
->     One more attempt at a "gourmet" one:
->     "What do you call a sourdough baker who is always in a hurry? A loaf-er!" (No).
+>     Two quantum particles walk into a bar. One starts spinning clockwise, and the other—on the other side of the universe—immediately starts spinning counter-clockwise and says, "Whoa, I felt that!"
 > 
->     Final choice:
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
-> 
->     Wait, let's try:
->     "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!"
-> 
->     That's cute, simple, light, and easy.
-> 
->     "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!"
-> 
->     "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!"
-> 
->     This is better. It's lighthearted and directly involves the "starter," which is central to sourdough.
-> 
->     *Double check:* Only output the joke.
-> 
->     Joke: I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!
-> 
->     Actually, the "rose to the occasion" is more "standard joke" format.
-> 
->     Let's go with:
->     **Why did the sourdough baker get promoted? Because they always rose to the occasion!**
-> 
->     Wait, let's try one more:
->     "What's a sourdough baker's favorite way to make friends? They just knead a little attention!"
-> 
->     Okay, the "rose to the occasion" is the winner for simplicity and clarity.
-> 
->     *Wait, looking at the "gourmet" aspect.*
->     Gourmet implies skill and obsession.
->     "My sourdough starter is so high-maintenance, I think it's starting to think it's the breadwinner of the family!"
-> 
->     Let's stick to the simplest one.
-> 
->     **Why did the sourdough baker get promoted? Because they always rose to the occasion!**
-> 
->     Actually, I'll provide the "bubbly" one. It's more "sourdough" specific than just "bread" general.
-> 
->     "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!"
-> 
->     Let's do that.
-> 
->     Wait, is "bubbly" funny? Yes, it's a pun on fermentation.
-> 
->     One more:
->     "Why are sourdough bakers so good at keeping secrets? Because they know how to keep things under wraps (and in the fridge)!" (Too long).
-> 
->     Let's go with:
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
-> 
->     Actually, let's go with:
->     "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!"
-> 
->     Final Decision: The "bubbly" one.
-> 
->     *Wait, let me check if there is a better "gourmet" joke.*
->     "Why do gourmet sourdough bakers make such good partners? Because they really know how to rise to the occasion and provide a lot of crust!" (No).
-> 
->     "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!"
-> 
->     Actually, let's go with the classic:
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
-> 
->     It's the most "joke-like".
-> 
->     *Wait*, one more:
->     "Why was the sourdough baker so stressed? They were under a lot of pressure to get the perfect crumb!" (A bit niche).
-> 
->     Let's go with the "bubbly" one. It's very light.
-> 
->     "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!"
-> 
->     Let's do it.
-> 
->     Actually, looking at the prompt again: "Gourmet sourdough baking".
->     The "bubbly" one is perfect.
-> 
->     Joke: I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!
-> 
->     Wait, I'll try one that's even punchier.
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!"
-> 
->     I will go with the "rose to the occasion" one. It is a cleaner joke.
-> 
->     Actually, let's try this:
->     "Why was the sourdough baker so successful? Because they always knew how to rise to the occasion!"
-> 
->     Okay.
-> 
->     Wait, "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!" is actually funnier in a "light" way.
-> 
->     Let's provide:
->     "I told my sourdough starter a joke. It didn't laugh, but it did get a little bubbly!"
-> 
->     One more check:
->     - Funny? Yes.
->     - Gourmet sourdough? Yes (mentions starter).
->     - Simple/Light/Easy? Yes.
->     - Only output the joke? Yes.
-> 
->     *Self-Correction:* Some people might not get "bubbly" = fermentation.
->     "Why did the sourdough baker get promoted? Because they always rose to the occasion!" is more universal.
-> 
->     Let's go with:
->     **Why did the sourdough baker get promoted? Because they always rose to the occasion!**
+>     (Wait, I'll just provide the joke.)
 
