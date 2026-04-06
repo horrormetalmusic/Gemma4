@@ -1,91 +1,63 @@
 # Joke of the day: 
-Why was the deep-sea fish so popular at parties?
-
-Because he always knew how to light up the room!
+Why did the vintage typewriter get promoted? Because it was great at making an impression!
 
 ## Topic
-<!--TOPIC-->Deep-Sea Bioluminescence<!--/TOPIC-->
+<!--TOPIC-->Vintage Typewriters<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|24|
-|**Total Token Count**|1042|
-|**Thoughts Token Count**|989|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|17|
+|**Total Token Count**|657|
+|**Thoughts Token Count**|613|
 
 ## Thoughts: 
-> *   Topic: Deep-sea bioluminescence.
+> *   Topic: Vintage Typewriters.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Glow-in-the-dark.
->     *   Darkness/Abyss.
->     *   Light bulbs.
->     *   Being "bright."
->     *   Flashlights/Lanterns.
->     *   Anglerfish (the most iconic).
+>     *   Idea 1: Why did the typewriter go to the doctor? It had a bad case of "type-o." (A bit cliché/punny).
+>     *   Idea 2: Why was the vintage typewriter so good at making friends? It was always ready to strike a chord (no, that's a piano). It was always ready to make an impression.
+>     *   Idea 3: Why did the typewriter get kicked out of the party? Because it kept hitting the keys too hard.
+>     *   Idea 4: What is a typewriter's favorite snack? Type-o's (Cheetos? No).
+>     *   Idea 5: Why did the vintage typewriter get promoted? Because it was really good at making an impression!
 > 
->     *   *Idea 1:* Why did the anglerfish get a promotion? Because he was such a bright idea! (A bit cliché).
->     *   *Idea 2:* Why don't deep-sea creatures use flashlights? Because they have their own "light" bulb! (A bit weak).
->     *   *Idea 3:* Why was the deep-sea jellyfish so popular at parties? Because he always brought the glow! (Okay, but could be better).
->     *   *Idea 4:* Why did the deep-sea fish cross the ocean? To get to the other "bright" side. (Weak).
->     *   *Idea 5 (Anglerfish focus):* Why are anglerfish so good at making decisions? Because they always follow their own light! (A bit philosophical).
->     *   *Idea 6:* What did the deep-sea fish say when he saw his glowing friend? "You're looking quite bright today!"
+>     "Why did the vintage typewriter get promoted? Because it was always great at making an impression!"
 > 
->     *   "Why was the deep-sea fish so popular at parties? Because he was always the life of the *light*!" (A play on "life of the party").
->     *   "Why are anglerfish so good at finding their way in the dark? Because they're a real bright spark!"
->     *   Let's try a classic "Why did..." format.
-> 
->     *   *Draft:* Why did the deep-sea fish bring a flashlight to the party? He heard it was going to be a "glow" event! (A bit forced).
-> 
->     *   *Better Draft:* Why was the anglerfish so smart? Because he had such a bright idea!
-> 
->     *   *Another option:* Why don't deep-sea fish ever get lost in the dark? Because they're always glowing with confidence!
-> 
->     *   *Let's go with a simple pun on "bright":*
->     Why did the deep-sea fish get a promotion?
->     Because he was such a bright spark!
-> 
->     *   *Actually, let's try this one:*
->     Why are deep-sea creatures so good at making friends?
->     Because they really know how to light up a room!
-> 
->     *   *Let's go with the "Bright Idea" one, it's the simplest and most classic joke structure.*
-> 
->     *   *Alternative:*
->     Why did the jellyfish go to the party in the midnight zone?
->     Because he heard it was going to be a glow-show!
-> 
->     *   *Let's try a pun on "light":*
->     Why don't deep-sea fish ever get lost?
->     Because they always follow their own light! (Too serious).
-> 
->     *   *Final Selection:*
->     Why was the anglerfish so good at solving problems?
->     Because he always had a bright idea!
-> 
->     *   Funny? Yes (punny).
->     *   Deep-sea bioluminescence? Yes (anglerfish/bright idea).
+>     *   Funny? Yes (pun).
+>     *   Vintage typewriters? Yes.
 >     *   Simple/Light? Yes.
 >     *   Only output the joke? Yes.
 > 
->     *Self-Correction:* "Bright idea" is a bit generic. Let's try to make it more specific to the glow.
+>     *Alternative (simpler):*
+>     "Why did the typewriter go to the doctor? Because it had a bad case of 'type-o'!"
 > 
->     "Why did the deep-sea fish get invited to every party? Because he always knows how to light up the room!"
-> 
->     Wait, let's try:
->     "Why was the deep-sea fish so popular? Because he was a real bright spark!"
+>     Let's go with the "impression" one, it's a bit more clever for "vintage" context. Or maybe a "carriage return" joke?
+>     "Why did the typewriter get lost? Because it couldn't find the carriage return!" (Maybe too niche).
 > 
 >     Let's go with:
->     "Why did the anglerfish get a promotion? Because he always had a bright idea!" (It's simple and works well).
+>     Why did the vintage typewriter get promoted? Because it was always great at making an impression!
 > 
->     *Actually, let's try one more:*
->     "What do you call a deep-sea fish that tells jokes? A glow-getter!" (A bit niche).
+>     Actually, let's try one about the sound or the "strike".
+>     "Why was the typewriter so good at its job? It really knew how to strike a chord... wait, no, that's a piano."
 > 
->     "Why was the deep-sea fish so good at parties? Because he always knew how to light up the room!" -> This is the winner. It's light, simple, and relates directly to the bioluminescence.
+>     Let's stick to the "impression" joke. It's a classic pun.
 > 
->     Why was the deep-sea fish so popular at parties?
->     Because he always knew how to light up the room!
+>     Wait, how about:
+>     "Why did the typewriter break up with the computer? Because it felt like the computer was too 'digital' and lacked a little character!" (A bit long).
+> 
+>     Let's go with:
+>     Why did the vintage typewriter get promoted? Because it was great at making an impression!
+> 
+>     Actually, let's try this one:
+>     "What do you call a typewriter that's always making mistakes? A typo-grapher!" (A bit weak).
+> 
+>     Final choice:
+>     Why did the vintage typewriter get promoted? Because it was always great at making an impression!
+> 
+>     *Check constraints:* Only output the joke.
+> 
+>     Why did the vintage typewriter get promoted? Because it was great at making an impression!
 
