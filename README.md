@@ -1,158 +1,97 @@
 # Joke of the day: 
-Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
+What do you call a ballerina who is always on time? A *pointe*-ual dancer!
 
 ## Topic
-<!--TOPIC-->Submarine propulsion systems<!--/TOPIC-->
+<!--TOPIC-->Classical ballet<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|28|
-|**Candidates Token Count**|22|
-|**Total Token Count**|1770|
-|**Thoughts Token Count**|1720|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|19|
+|**Total Token Count**|1178|
+|**Thoughts Token Count**|1133|
 
 ## Thoughts: 
-> *   Topic: Submarine propulsion systems.
+> *   Topic: Classical ballet.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Why did the submarine go to therapy? Because it had too many deep-seated issues with its engine. (A bit cliché).
->     *   Idea 2: What do you call a submarine with a broken propeller? A sub-par vessel. (Classic pun).
->     *   Idea 3: Why don't submarines use electric cars? Because they already have a lot of "current" problems. (Pun on electric current and ocean currents).
->     *   Idea 4: Why did the nuclear submarine get promoted? Because it had so much drive. (A bit weak).
+>     *   Idea 1: Puns on "barre," "tutu," "pointe," "plie."
+>     *   Idea 2: The difference between ballet dancers and regular people.
+>     *   Idea 3: A joke about a dancer's diet or discipline.
+>     *   Idea 4: A pun on "tutu" (two-two).
 > 
->     *   *Option A:* "Why did the submarine get kicked out of the party? Because its propulsion system was too 'exhausting'!" (Wait, submarines don't usually have exhaust like cars, though nuclear ones don't have it and diesel-electrics do).
->     *   *Option B:* "What did the submarine say to its propeller? 'You really drive me crazy!'" (Simple, light).
->     *   *Option C:* "Why was the submarine's engine so good at school? Because it was always following the current!" (A bit loose).
->     *   *Option D:* "Why did the submarine fail its driving test? Because it kept getting stuck in its own current affairs!" (A bit complex).
+>     *   *Draft 1:* Why did the ballet dancer go to the doctor? Because she had a bad case of "tutu" much pain! (A bit weak).
+>     *   *Draft 2:* Why was the ballet dancer so good at math? Because she knew all her "pliés." (No, that's "pi's" or something? Not quite).
+>     *   *Draft 3:* Why did the ballerina cross the road? To get to the other "tutu"! (Classic, simple).
+>     *   *Draft 4:* What is a ballet dancer's favorite type of music? Anything with a good "barre." (Weak).
+>     *   *Draft 5:* Why do ballet dancers always have such good posture? Because they're always on "pointe"! (Good, but maybe a bit cliché).
+>     *   *Draft 6:* Why did the ballerina break up with her boyfriend? Because he wasn't "tutu" much for her. (A bit clunky).
 > 
->     "What did the submarine say to its propeller? 'You really drive me crazy!'" - It's okay, but maybe a bit generic.
+>     "Why did the ballerina cross the road? To get to the other tutu!" is very simple and classic.
+>     "Why are ballet dancers so good at math? Because they know how to use their *pliés*!" (Wait, "pi" is $\pi$, "plié" is a movement. It's a bit of a stretch).
 > 
->     Let's try something more specific to "propulsion":
->     "Why did the submarine break up with its engine? Because it felt like the relationship was losing all its momentum!"
+>     Let's try:
+>     "Why did the ballerina go to the doctor? Because she was feeling a little *tutu* tired!"
 > 
 >     Or:
->     "Why are submarine propulsion systems so good at keeping secrets? Because they always keep everything under wraps—and under pressure!" (Not really a joke).
+>     "How do ballet dancers stay so organized? They always keep everything in *pointe*!"
 > 
->     Let's go with a pun on "current":
->     "Why do submarine propulsion systems make terrible politicians? Because they're always caught up in the current!"
-> 
->     Wait, let's try:
->     "Why was the submarine's propulsion system so calm? Because it knew how to go with the flow!"
-> 
->     Let's try a pun on "propeller" or "drive":
->     "Why did the submarine get a promotion? Because it showed a lot of drive!"
-> 
->     Let's try:
->     "What do you call a submarine with a broken propeller? Sub-par!"
-> 
->     Actually, the "current" pun is very common in nautical jokes.
+>     Let's go with a classic pun:
+>     "Why did the ballerina cross the road? To get to the other tutu!" -> Actually, the "other side" version works better.
+>     "Why did the ballerina go to the doctor? Because she was feeling a little tutu much!" -> No.
 > 
 >     Let's try this one:
->     "Why did the submarine engine go to school? To improve its 'current' performance!"
+>     "Why are ballet dancers so good at math? Because they know all their *pliés*!" (Actually, "pi" works better if I say "pi's", but "pliés" is the ballet term).
+> 
+>     Let's try a different angle:
+>     "What do you call a dancer who is always on time? A *pointe*-ual ballerina!" (Punctual/Pointe).
+> 
+>     "What do you call a ballerina who is always on time? A *pointe*-ual dancer!"
+> 
+>     Simple, light, easy to understand, funny.
+> 
+>     Constraint Check: Only output the joke.
+> 
+>     Joke: What do you call a ballerina who is always on time? A *pointe*-ual dancer!
+> 
+>     Wait, let's look for something even simpler.
+>     "Why did the ballerina go to the doctor? She had a case of the *tutu* muchs!" (No).
 > 
 >     How about:
->     "Why was the submarine propulsion system so stressed? Because it was under too much pressure!" (Classic, light, simple).
+>     "Why do ballet dancers always have such good posture? Because they are always on *pointe*!"
+> 
+>     Let's go with the "punctual" one. It's a solid pun.
+> 
+>     "What do you call a ballerina who is always on time? A pointe-ual dancer!"
+> 
+>     Alternative:
+>     "Why was the ballerina so good at math? Because she knew all her *pliés*!" (If interpreted as "pi's"). It's a bit of a stretch.
+> 
+>     Let's go with:
+>     What do you call a ballerina who is always on time? A *pointe*-ual dancer!
+> 
+>     *Self-Correction:* "Pointe-ual" is a bit of a play on "punctual". It's clear.
 > 
 >     Let's try one more:
->     "Why did the submarine fail its driving test? It had too many propulsion problems—it just couldn't find its bearings!" (A bit weak).
+>     "Why don't ballet dancers ever get lost? Because they always follow the *barre*!" (No).
 > 
->     Let's go with the "Current" pun. It's the most "propulsion" related.
+>     Let's go with the punctual one. It's clean.
 > 
->     "Why was the submarine engine so well-informed? Because it was always up to date on the current events!" (A bit clunky).
-> 
->     Let's go with:
->     "Why did the submarine engine break up with the propeller? Because it felt like they were just going in circles!"
-> 
->     This is simple, light, and funny.
-> 
->     "Why did the submarine engine break up with the propeller? Because it felt like they were just going in circles!"
-> 
->     "Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!"
-> 
->     *Self-Correction:* Is that specifically about the propulsion system? Yes, the engine and propeller are the core components.
-> 
->     Another option:
->     "Why are submarine propulsion systems so good at multitasking? Because they can handle any current situation!"
-> 
->     I like the "current situation" one. It's punchy.
-> 
->     Let's try:
->     "Why was the submarine's propulsion system so calm? Because it knew how to go with the current!"
-> 
->     Actually, the simplest one is often best:
->     "Why did the submarine engine break up with the propeller? Because it felt like they were just going in circles!"
-> 
->     Wait, let's try:
->     "What did the submarine say to its propulsion system? 'You really drive me crazy!'"
-> 
->     Let's go with the "circles" joke. It's a classic joke structure applied to the topic.
-> 
->     *Drafting the final response:*
->     Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
-> 
->     *Alternative:*
->     Why was the submarine's propulsion system so successful? Because it always knew how to handle the current!
-> 
->     Let's use:
->     "Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!"
-> 
->     *Wait, one more check:* "Sub-par" is very common.
->     "What do you call a submarine with a broken propeller? Sub-par!"
-> 
->     Let's go with the "circles" one. It feels more like a "joke" about the relationship of the parts.
-> 
->     *Wait, let's try a different angle:*
->     "Why don't submarines ever get lost? Because their propulsion systems always follow the current!" (Not really funny).
+>     *Wait, one more:*
+>     "Why did the ballet dancer go to the doctor? She had a 'tutu' much pain!" -> A bit silly/childish.
 > 
 >     Let's go with:
->     "Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!"
+>     What do you call a ballerina who is always on time? A *pointe*-ual dancer!
 > 
->     Actually, "Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!" is quite good.
+>     Actually, let's try:
+>     "Why are ballet dancers so good at math? Because they know how to use their *pliés*!" (It's a common joke, even if the pun is slightly loose).
 > 
->     - Topic: Submarine propulsion systems (Engine/Propeller).
->     - Funny: Yes.
->     - Simple/Light/Easy: Yes.
->     - Only output the joke: Yes.
+>     Actually, let's use:
+>     "What do you call a ballerina who is always on time? A *pointe*-ual dancer!"
 > 
->     Let's try one more just in case.
->     "Why was the submarine's propulsion system so stressed? Because it was under a lot of pressure!"
-> 
->     This is very simple.
-> 
->     Let's go with the "circles" one. It's slightly more clever.
-> 
->     Actually, the "current" one is the most "propulsion" specific.
->     "Why are submarine propulsion systems so good at multitasking? Because they can handle any current situation!"
-> 
->     Let's go with the "circles" one. It's a solid joke.
-> 
->     *Final Polish:*
->     Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
-> 
->     (Wait, if the engine and propeller are part of the same system, does it make sense? Yes, in joke logic.)
-> 
->     Let's try:
->     "Why did the submarine's propulsion system get promoted? Because it showed a lot of drive!"
-> 
->     That's even simpler.
-> 
->     Let's go with:
->     Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
-> 
->     (Actually, I'll provide a very clean one).
-> 
->     "Why did the submarine engine break up with the propeller? Because it felt like they were just going in circles!"
-> 
->     (Wait, I'll check if "going in circles" makes sense for propulsion. A propeller spins in circles. So it's a pun on the motion and the relationship.)
-> 
->     One more:
->     "Why was the submarine's propulsion system so calm? Because it knew how to go with the current!"
-> 
->     I'll go with the "circles" one.
-> 
->     *Final choice:*
->     Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
+>     Final choice:
+>     What do you call a ballerina who is always on time? A *pointe*-ual dancer!
 
