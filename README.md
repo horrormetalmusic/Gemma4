@@ -1,128 +1,64 @@
 # Joke of the day: 
-Why did the sourdough starter go to therapy? Because it had too many rising issues!
+A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he is both drunk and sober.
 
 ## Topic
-<!--TOPIC-->Sourdough Bread Baking<!--/TOPIC-->
+<!--TOPIC-->Quantum Computing<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|29|
-|**Candidates Token Count**|17|
-|**Total Token Count**|1498|
-|**Thoughts Token Count**|1452|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|27|
+|**Total Token Count**|881|
+|**Thoughts Token Count**|828|
 
 ## Thoughts: 
-> *   Topic: Sourdough Bread Baking.
->     *   Tone: Funny, simple, light, easy to understand.
+> *   Topic: Quantum Computing.
+>     *   Style: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Starter (living thing, needs feeding, pet, drama).
->     *   Wild yeast (unpredictable, wild).
->     *   Proofing (waiting, patience).
->     *   Scoring (artistic, cutting).
->     *   Crust/Crumb (texture).
->     *   Bread addiction.
+>     *   Superposition (being in two states at once).
+>     *   Entanglement (spooky action at a distance).
+>     *   Schrödinger's Cat (alive and dead).
+>     *   Observation/Measurement (collapsing the wavefunction).
+>     *   Qubits vs. Bits.
 > 
->     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues and felt like it was constantly being fed up. (A bit weak).
->     *   *Idea 2:* Why don't sourdough bakers ever get lonely? Because they always have a starter to hang out with. (Okay, a bit cheesy).
->     *   *Idea 3:* Why did the sourdough baker break up with their partner? There was just no "rise" in the relationship. (A bit cliché).
->     *   *Idea 4 (The "Pet" angle):* Why is sourdough baking like having a pet? Because you have to feed it every day, it’s a little bubbly, and sometimes it just sits there and does nothing. (A bit long).
->     *   *Idea 5 (Pun on "Starter"):* Why did the sourdough baker get promoted? Because they were always a great starter! (Nah).
->     *   *Idea 6 (Pun on "Knead"):* Why did the sourdough baker go to the doctor? Because they kneaded more dough! (Classic, simple).
+>     *   *Idea 1:* A quantum physicist walks into a bar... He's both in the bar and not in the bar until the bartender looks at him.
+>     *   *Idea 2:* Why did the quantum physicist get kicked out of the party? Because he was in a superposition of being there and not being there.
+>     *   *Idea 3:* A qubit walks into a bar. The bartender asks, "What can I get you?" The qubit says, "I'm not sure, I haven't decided yet, but I'm thinking of everything at once!" (A bit weak).
+>     *   *Idea 4 (The Classic):* A quantum physicist is driving down the highway and gets pulled over. The officer asks, "Do you know how fast you were going?" The physicist says, "No, but I know exactly where I am!" (More of a relativity joke).
+>     *   *Idea 5 (Schrödinger's Cat variant):* Why don't quantum computers ever play hide and seek? Because as soon as you find them, they stop being everywhere at once.
+>     *   *Idea 6 (Superposition/Bar):* A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he's both drunk and sober.
 > 
->     *   "Why did the sourdough baker go to the doctor? Because they kneaded more dough!" -> Wait, that's a general bread joke. Let's make it more sourdough-specific.
+>     *   "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he’s both drunk and sober." -> This is a classic play on superposition and measurement. It's easy to understand.
 > 
->     *   *Idea 7:* Why did the sourdough starter break up with the flour? Because it felt like the relationship was just getting too bubbly! (A bit weird).
+>     *   *Alternative:* "How many quantum physicists does it take to change a lightbulb? Two. One to hold the bulb, and the other to observe it so it actually stays in one place."
 > 
->     *   *Idea 8:* Why are sourdough bakers so good at keeping secrets? Because they know how to keep everything under wraps while it rises! (Not really a joke).
+>     *   *Let's go with the bar one, it's the most punchy.*
 > 
->     *   *Idea 9:* Why did the sourdough starter get in trouble? Because it was acting a little too wild!
+>     "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he is both drunk and sober."
 > 
->     *   *Idea 10 (The "Starter" pun):* What do you call a sourdough baker who is always late? A slow riser.
+>     Wait, let's try an even simpler one.
+>     "Why did the quantum computer fail its driving test? Because it couldn't decide if it was turning left or right until it was already in the intersection!" (A bit clunky).
 > 
->     *   *Idea 11 (The "Feeding" aspect):* Why is a sourdough starter like a moody teenager? It’s always hungry, very temperamental, and if you don't pay attention to it, it just turns sour!
+>     Let's stick to the "Bar" joke. It's the gold standard for simple quantum jokes.
 > 
->     "Why is a sourdough starter like a moody teenager? Because it’s always hungry, very temperamental, and if you don't pay enough attention to it, it just turns sour!"
+>     *Refined Version:*
+>     A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he is both drunk and sober.
 > 
->     *Self-Correction:* Maybe even simpler.
+>     *Wait, let's try one about qubits:*
+>     "Why can't you trust a quantum computer? Because they're always in two minds about everything." (Simple, cute, light).
 > 
->     "Why did the sourdough baker go to therapy? Because they had too many rising issues!"
+>     Let's go with the "two minds" one or the "bar" one. The "two minds" one is very accessible.
 > 
->     Let's try one more:
->     "Why did the sourdough starter cross the road? To get to the other side... of the jar!" (No).
+>     *Actually, let's go with the most famous simple one:*
+>     "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he's both drunk and sober."
 > 
->     Let's go with the "Knead" pun but make it specific to the lifestyle.
+>     *   Simple? Yes.
+>     *   Light? Yes.
+>     *   Easy to understand? Yes.
+>     *   Only the joke? Yes.
 > 
->     Actually, let's go with:
->     "Why don't sourdough bakers ever get lonely? Because they always have a starter to hang out with!"
-> 
->     Let's try a different angle:
->     "What did the sourdough baker say when their loaf didn't rise? 'Don't worry, I'll get over it eventually!'" (Not funny).
-> 
->     Let's go with the "Moody Teenager/Sour" one, it's relatable to sourdough bakers. Or the "Knead" one.
-> 
->     Actually, this one is good:
->     "Why did the sourdough baker go to the doctor? Because they kneaded more dough!" (Simple, light, easy).
-> 
->     Wait, let's try:
->     "Why was the sourdough starter so popular? Because it was always the life of the party—always bubbling over with energy!"
-> 
->     Let's go with a classic pun style.
-> 
->     "Why did the sourdough baker break up with their starter? Because the relationship was getting a little too sour!"
-> 
->     That's simple, light, and easy.
-> 
->     *   Funny? Yes (punny).
->     *   Sourdough topic? Yes.
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
-> 
->     *Alternative:*
->     "Why did the sourdough baker get promoted? Because they were always a great starter!"
-> 
->     Let's go with:
->     **Why did the sourdough baker go to the doctor? Because they kneaded more dough!** (It's the most recognizable joke structure).
-> 
->     Wait, let's try one that is *specifically* sourdough:
->     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
-> 
->     Actually, the "sour" pun is best.
-> 
->     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too sour!"
-> 
->     Let's go with:
->     "Why did the sourdough baker go to therapy? Because they had too many rising issues!"
-> 
->     Actually, the simplest is:
->     "Why did the sourdough baker go to the doctor? Because they kneaded more dough!"
-> 
->     Let's try to find something even more "sourdough".
->     "What is a sourdough baker's favorite type of music? Anything with a good rise!"
-> 
->     Let's go with:
->     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
-> 
->     *Final Choice:*
->     "Why did the sourdough baker go to therapy? Because they had too many rising issues!"
-> 
->     (Actually, "Why did the sourdough starter go to therapy? Because it had too many rising issues!" is better because the starter is the one with the "issues").
-> 
->     Let's try:
->     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
-> 
->     Wait, one more:
->     "Why are sourdough bakers so calm? Because they know how to let things rise to the occasion!"
-> 
->     Let's go with the "Rising issues" one. It's a classic pun style.
-> 
->     *Refined:*
->     Why did the sourdough starter go to therapy? Because it had too many rising issues!
-> 
->     Wait, looking at the prompt again: "Tell a funny joke... Only output the joke."
-> 
->     Joke:
->     Why did the sourdough starter go to therapy? Because it had too many rising issues!
+>     "A quantum physicist walks into a bar. He orders a drink, but until the bartender serves it, he is both drunk and sober."
 
