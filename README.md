@@ -1,76 +1,94 @@
 # Joke of the day: 
-Heisenberg is driving down the road when a police officer pulls him over.
-
-The officer asks, "Sir, do you know how fast you were going?"
-
-Heisenberg replies, "No, but I know exactly where I am!"
+Why was the sourdough starter so successful? Because it always rose to the occasion!
 
 ## Topic
-<!--TOPIC-->Quantum Physics<!--/TOPIC-->
+<!--TOPIC-->Baking Sourdough Bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|48|
-|**Total Token Count**|770|
-|**Thoughts Token Count**|696|
+|**Prompt Token Count**|30|
+|**Candidates Token Count**|16|
+|**Total Token Count**|923|
+|**Thoughts Token Count**|877|
 
 ## Thoughts: 
-> *   Topic: Quantum Physics.
+> *   Topic: Baking Sourdough Bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's Cat (dead and alive).
->     *   Uncertainty Principle (position vs. momentum).
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
+>     *   Starter (yeast, feeding, growing, "mother").
+>     *   Proofing/Rising (waiting, patience).
+>     *   Crust/Crumb (texture).
+>     *   Bread being "sour" or "salty."
+>     *   "Starter" vs. "Starter kits."
 > 
->     *   *Option 1 (Schrödinger's Cat):* Schrödinger's cat walks into a bar... and doesn't.
->     *   *Option 2 (Uncertainty):* Heisenberg is driving down the road. A cop pulls him over. "Do you know how fast you were going?" Heisenberg says, "No, but I know exactly where I am!"
->     *   *Option 3 (Superposition/Relationship):* Why did the quantum physicist break up with their partner? Because they couldn't commit to a single state.
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? It had too many issues rising to the occasion. (A bit cliché).
+>     *   *Idea 2:* Why was the sourdough bread so good at making friends? Because it always brought its starter to the party. (Okay).
+>     *   *Idea 3:* My sourdough starter is a lot like my ex. It requires constant attention, makes a huge mess, and I’m pretty sure it’s just growing on me. (Maybe too long/dark).
+>     *   *Idea 4:* Why did the baker break up with the sourdough starter? Because it was too high-maintenance and always needed a lot of "rise" in its relationship. (A bit clunky).
+>     *   *Idea 5:* Why did the sourdough starter cross the road? To get to the other side... of the fermentation jar. (Weak).
+>     *   *Idea 6:* What did the sourdough bread say to the baker? "You really knead me!" (Classic, simple).
 > 
->     *   Option 2 is a classic, very easy to understand, and hits the "funny/simple" requirement perfectly.
->     *   Option 1 is also great but a bit shorter.
+>     *   "What did the sourdough bread say to the baker? 'You really knead me!'"
+>     *   "Why did the sourdough starter go to school? To improve its crust! (No, that doesn't make sense)."
+>     *   "Why was the sourdough starter so popular? Because it was always rising to the occasion!"
 > 
->     *Draft:*
->     Heisenberg is driving down the highway when a police officer pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     "Why did the sourdough starter go to therapy? Because it had too many issues rising to the occasion!"
+>     OR
+>     "What did the sourdough bread say to the baker? 'You really knead me!'"
 > 
->     *Alternative (The Schrödinger one):*
->     Schrödinger's cat walks into a bar... and doesn't. (A bit too short/dry).
+>     Let's go with a classic pun.
 > 
->     *Let's go with the Heisenberg one.*
+>     *Selected Joke:*
+>     Why did the sourdough starter go to therapy?
+>     Because it had too many issues rising to the occasion!
 > 
->     "Heisenberg is driving down the highway when a police officer pulls him over.
->     The officer asks, 'Sir, do you know how fast you were going?'
->     Heisenberg replies, 'No, but I know exactly where I am!'"
+>     *Alternative (simpler):*
+>     What did the sourdough bread say to the baker?
+>     "You really knead me!"
 > 
->     *Wait, let's check if there's a better one.*
+>     Let's try one more:
+>     "Why was the sourdough starter so good at its job? Because it always rose to the occasion!"
+> 
+>     "Why was the sourdough starter so successful? Because it always rose to the occasion!"
+> 
+>     Wait, let's try:
+>     "Why did the sourdough bread go to the doctor? Because it was feeling a little crumby!"
+> 
+>     The "knead me" one is the most classic and simple.
+> 
+>     *Final choice:*
+>     What did the sourdough bread say to the baker?
+>     "You really knead me!"
+> 
+>     *Wait, let's do the "rising to the occasion" one, it's slightly more "sourdough" specific.*
+> 
+>     "Why was the sourdough starter so popular? Because it always rose to the occasion!"
+> 
+>     Actually, let's go with:
+>     Why did the sourdough starter go to therapy? 
+>     Because it had too many issues rising to the occasion!
+> 
+>     Let's go with the simplest one.
+> 
+>     "What did the sourdough bread say to the baker? 
+>     'You really knead me!'"
+> 
+>     Wait, the prompt asks for a joke about *baking* sourdough.
 > 
 >     How about:
->     "A quantum physicist is walking down the street when he sees a friend.
->     'Hey!' he says, 'How are you?'
->     The friend replies, 'I'm not sure, I'm in a state of superposition!'" (A bit weak).
+>     "Why did the baker break up with the sourdough starter? 
+>     Because it was just too high-maintenance!"
 > 
->     Let's go with the Heisenberg joke. It's the gold standard for simple quantum humor.
+>     Let's go with:
+>     Why was the sourdough starter so successful? 
+>     Because it always rose to the occasion!
 > 
->     *One more check:* "Only output the joke."
+>     (Simple, light, easy).
 > 
->     Heisenberg is driving down the road when a police officer pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     Only output the joke.
 > 
->     *Wait, let's try the Schrödinger one but slightly better.*
->     "Schrödinger's cat walks into a bar. And doesn't."
-> 
->     Actually, the Heisenberg joke is more of a "joke" with a setup and punchline.
-> 
->     *Final choice:* The Heisenberg joke.
-> 
->     Heisenberg is driving down the road when a police officer pulls him over.
->     The officer asks, "Sir, do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     Why was the sourdough starter so successful? Because it always rose to the occasion!
 
