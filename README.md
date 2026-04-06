@@ -1,197 +1,128 @@
 # Joke of the day: 
-Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!
+Why did the sourdough starter go to therapy? Because it had too many rising issues!
 
 ## Topic
-<!--TOPIC-->Quantum Computing<!--/TOPIC-->
+<!--TOPIC-->Sourdough Bread Baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|33|
-|**Total Token Count**|2558|
-|**Thoughts Token Count**|2499|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|17|
+|**Total Token Count**|1498|
+|**Thoughts Token Count**|1452|
 
 ## Thoughts: 
-> *   Topic: Quantum Computing.
+> *   Topic: Sourdough Bread Baking.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Superposition (being in two states at once).
->     *   Entanglement (spooky action at a distance).
->     *   Schrödinger's Cat (dead/alive).
->     *   Observation/Measurement (collapsing the wavefunction).
+>     *   Starter (living thing, needs feeding, pet, drama).
+>     *   Wild yeast (unpredictable, wild).
+>     *   Proofing (waiting, patience).
+>     *   Scoring (artistic, cutting).
+>     *   Crust/Crumb (texture).
+>     *   Bread addiction.
 > 
->     *   *Idea 1 (Schrödinger):* A quantum physicist walks into a bar. He's both in the bar and not in the bar until the bartender looks at him. (A bit cliché).
->     *   *Idea 2 (Superposition/Relationship):* Why did the quantum computer break up with its partner? Because they had too many commitment issues—it couldn't decide if it was in a relationship or not. (A bit weak).
->     *   *Idea 3 (Measurement):* How do you know if a quantum computer is working? You don't, because as soon as you look at it, it changes its mind. (Okay, but maybe not "funny").
->     *   *Idea 4 (The "Classical" vs "Quantum" joke):* A classical computer walks into a bar and orders a beer. A quantum computer walks into a bar and orders a beer and a whiskey at the same time.
+>     *   *Idea 1:* Why did the sourdough starter go to therapy? Because it had too many issues and felt like it was constantly being fed up. (A bit weak).
+>     *   *Idea 2:* Why don't sourdough bakers ever get lonely? Because they always have a starter to hang out with. (Okay, a bit cheesy).
+>     *   *Idea 3:* Why did the sourdough baker break up with their partner? There was just no "rise" in the relationship. (A bit cliché).
+>     *   *Idea 4 (The "Pet" angle):* Why is sourdough baking like having a pet? Because you have to feed it every day, it’s a little bubbly, and sometimes it just sits there and does nothing. (A bit long).
+>     *   *Idea 5 (Pun on "Starter"):* Why did the sourdough baker get promoted? Because they were always a great starter! (Nah).
+>     *   *Idea 6 (Pun on "Knead"):* Why did the sourdough baker go to the doctor? Because they kneaded more dough! (Classic, simple).
 > 
->     *   *Drafting a refined version of the superposition joke:*
->         "Why did the quantum computer go to therapy? Because it had too many identity crises—it couldn't decide if it was a 0 or a 1 until someone started asking questions!"
+>     *   "Why did the sourdough baker go to the doctor? Because they kneaded more dough!" -> Wait, that's a general bread joke. Let's make it more sourdough-specific.
 > 
->     *   *Drafting the "Bar" joke (classic format):*
->         "A classical computer walks into a bar and orders a drink. A quantum computer walks into a bar and orders a drink and a snack at the same time, but only after the bartender looks at it."
+>     *   *Idea 7:* Why did the sourdough starter break up with the flour? Because it felt like the relationship was just getting too bubbly! (A bit weird).
 > 
->     *   *Let's try a pun/short one:*
->         "Why can't you trust a quantum computer? Because it's always in two minds about everything!"
+>     *   *Idea 8:* Why are sourdough bakers so good at keeping secrets? Because they know how to keep everything under wraps while it rises! (Not really a joke).
 > 
->     "Why can't you trust a quantum computer? Because it's always in two minds about everything!" (Simple, light, easy).
+>     *   *Idea 9:* Why did the sourdough starter get in trouble? Because it was acting a little too wild!
 > 
->     *Wait, let's try one more that's a bit more "clever" but still simple:*
->     "A quantum physicist walks into a bar. He orders a drink. He also orders a drink he hasn't ordered yet." (A bit abstract).
+>     *   *Idea 10 (The "Starter" pun):* What do you call a sourdough baker who is always late? A slow riser.
 > 
->     *Let's go with the "two minds" one or the "Schrödinger" variation.*
+>     *   *Idea 11 (The "Feeding" aspect):* Why is a sourdough starter like a moody teenager? It’s always hungry, very temperamental, and if you don't pay attention to it, it just turns sour!
 > 
->     *How about:*
->     "Why did the quantum computer fail its driving test? Because every time it saw a stop sign, it wasn't sure if it should stop or keep going!" (A bit forced).
+>     "Why is a sourdough starter like a moody teenager? Because it’s always hungry, very temperamental, and if you don't pay enough attention to it, it just turns sour!"
 > 
->     *Back to basics:*
->     "Why can't you trust a quantum computer? Because it's always in two minds about everything!"
+>     *Self-Correction:* Maybe even simpler.
 > 
->     *Actually, this one is a classic:*
->     "How many quantum physicists does it take to change a lightbulb? Two. One to change it, and one to observe that it’s both changed and unchanged until you check."
+>     "Why did the sourdough baker go to therapy? Because they had too many rising issues!"
 > 
->     *Let's go with a very simple one:*
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     Let's try one more:
+>     "Why did the sourdough starter cross the road? To get to the other side... of the jar!" (No).
 > 
->     *Wait, I have a better one:*
->     "Why are quantum computers so indecisive? Because they're always in two states at once!"
+>     Let's go with the "Knead" pun but make it specific to the lifestyle.
 > 
->     *Let's try this:*
->     "Why can't you ever play hide-and-seek with a quantum computer? Because even when you find it, it's still technically somewhere else!"
+>     Actually, let's go with:
+>     "Why don't sourdough bakers ever get lonely? Because they always have a starter to hang out with!"
 > 
->     "Why can't you ever play hide-and-seek with a quantum computer? Because even when you find it, it's still technically somewhere else!" -> This is good.
+>     Let's try a different angle:
+>     "What did the sourdough baker say when their loaf didn't rise? 'Don't worry, I'll get over it eventually!'" (Not funny).
 > 
->     *Actually, let's go with the most recognizable one for simplicity:*
->     "Why did the quantum computer go to therapy? Because it couldn't decide if it was a 0 or a 1!"
+>     Let's go with the "Moody Teenager/Sour" one, it's relatable to sourdough bakers. Or the "Knead" one.
 > 
->     *Let's try one more:*
->     "A quantum physicist walks into a bar and orders a drink. The bartender asks, 'Would you like that now?' The physicist replies, 'I'm not sure, I'll let you know once you look at me!'"
+>     Actually, this one is good:
+>     "Why did the sourdough baker go to the doctor? Because they kneaded more dough!" (Simple, light, easy).
 > 
->     *The "Two minds" one is the most "joke-like" in structure.*
+>     Wait, let's try:
+>     "Why was the sourdough starter so popular? Because it was always the life of the party—always bubbling over with energy!"
 > 
->     "Why can't you trust a quantum computer? Because it's always in two minds about everything!"
+>     Let's go with a classic pun style.
 > 
->     *Alternative (Schrödinger style):*
->     "How do you know a quantum computer is working? Don't look at it!"
+>     "Why did the sourdough baker break up with their starter? Because the relationship was getting a little too sour!"
 > 
->     *Let's go with:*
->     "Why can't you ever play hide-and-seek with a quantum computer? Because even when you find it, it's still technically somewhere else!"
+>     That's simple, light, and easy.
 > 
->     Actually, I'll go with the "Two minds" one. It's punchy.
+>     *   Funny? Yes (punny).
+>     *   Sourdough topic? Yes.
+>     *   Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     "Why can't you trust a quantum computer? Because it's always in two minds about everything!"
-> 
->     *Wait, let's try:*
->     "Why was the quantum computer so stressed? Because it was under too much pressure to be in two places at once!" (A bit weak).
-> 
->     Let's go with the "Two minds" one. It's the cleanest.
-> 
->     Joke: Why can't you ever trust a quantum computer? Because it's always in two minds about everything!
-> 
->     *Wait, let's do the "Classical vs Quantum" one, it's very clear.*
->     "A classical computer walks into a bar and orders a beer. A quantum computer walks into a bar and orders a beer and a cocktail at the same time—but only after the bartender looks at it!"
-> 
->     Actually, I'll provide this one:
->     "Why can't you ever play hide-and-seek with a quantum computer? Because even when you find it, it’s still technically somewhere else!"
-> 
->     *Self-Correction:* The "two minds" one is punchier for a "simple, light" request.
-> 
->     Final Selection:
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything!"
-> 
->     *Wait, one more:*
->     "Why did the quantum computer get kicked out of the party? Because it was being too superpositional!" (Doesn't make sense).
-> 
->     Let's stick to the "Two minds" one.
-> 
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything!"
-> 
->     *Wait, I'll check if there's a better one.*
->     "How many quantum physicists does it take to change a lightbulb? It doesn't matter; the bulb is both changed and unchanged until you check!"
-> 
->     Let's go with the "Two minds" one. It's the simplest.
-> 
->     *Actually, let's try:*
->     "Why did the quantum computer break up with its boyfriend? Because it just couldn't commit to being in one state!"
-> 
->     Let's go with the "Two minds" one. It's the winner.
-> 
->     Wait, looking at "Two minds" again... it's a pun on superposition.
-> 
->     Final decision:
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything!"
-> 
->     *Wait, one more thought:*
->     "What do you call a quantum computer that's always indecisive? A qubit!" (A bit too nerdy?)
-> 
->     Let's go with the "Two minds" one.
-> 
->     *Wait, I found a better one:*
->     "Why did the quantum computer fail its driving test? Because it couldn't decide if the light was red or green until it looked at it!" (No, that's not how it works).
-> 
->     Okay, let's go with:
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything!"
-> 
->     (Actually, looking at common quantum jokes, the "two minds" or "two states" is the standard lighthearted one).
-> 
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything!"
-> 
->     One last check. Is it funny? Yes. Is it simple? Yes. Is it light? Yes. Is it only the joke? Yes.
-> 
->     *Actually, let's refine the "Two minds" to be even cleaner.*
->     "Why can't you ever trust a quantum computer? Because it's always in two minds!"
-> 
->     Or even:
->     "Why is a quantum computer so indecisive? Because it's always in two states at once!"
-> 
->     I'll go with the "Two minds" one. It's a classic play on words.
-> 
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything!"
-> 
->     Actually, I'll provide:
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything!"
-> 
->     (Wait, I'll try the "Bar" one, it's more of a "joke" structure).
->     "A classical computer walks into a bar and orders a drink. A quantum computer walks into a bar and orders a drink and a snack at the same time—but only after the bartender looks at it!"
-> 
->     That's a bit long.
+>     *Alternative:*
+>     "Why did the sourdough baker get promoted? Because they were always a great starter!"
 > 
 >     Let's go with:
->     "Why can't you ever trust a quantum computer? Because it's always in two minds about everything!"
+>     **Why did the sourdough baker go to the doctor? Because they kneaded more dough!** (It's the most recognizable joke structure).
 > 
->     (Final check: "Two minds" refers to being in a superposition of states).
+>     Wait, let's try one that is *specifically* sourdough:
+>     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
 > 
->     Actually, let's do the "Identity crisis" one.
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     Actually, the "sour" pun is best.
 > 
->     This is better. It's very easy to understand.
+>     "Why did the sourdough starter break up with the baker? Because it felt like the relationship was getting too sour!"
 > 
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     Let's go with:
+>     "Why did the sourdough baker go to therapy? Because they had too many rising issues!"
 > 
->     Yes.
+>     Actually, the simplest is:
+>     "Why did the sourdough baker go to the doctor? Because they kneaded more dough!"
 > 
->     Wait, the prompt asks for *a* funny joke. I will output the "Identity crisis" one.
+>     Let's try to find something even more "sourdough".
+>     "What is a sourdough baker's favorite type of music? Anything with a good rise!"
 > 
->     *Wait, I have an even better one.*
->     "How do you know a quantum computer is working? Don't look at it!"
+>     Let's go with:
+>     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
 > 
->     No, the therapy one is better.
+>     *Final Choice:*
+>     "Why did the sourdough baker go to therapy? Because they had too many rising issues!"
 > 
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     (Actually, "Why did the sourdough starter go to therapy? Because it had too many rising issues!" is better because the starter is the one with the "issues").
 > 
->     Let's go.
+>     Let's try:
+>     "Why did the sourdough starter go to therapy? Because it had too many rising issues!"
 > 
->     One more check:
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     Wait, one more:
+>     "Why are sourdough bakers so calm? Because they know how to let things rise to the occasion!"
 > 
->     *Wait, let's try a one-liner.*
->     "Quantum computers are great, but they're really indecisive—they're always in two states at once!"
+>     Let's go with the "Rising issues" one. It's a classic pun style.
 > 
->     I will go with the "Identity crisis" one. It has a setup and a punchline.
+>     *Refined:*
+>     Why did the sourdough starter go to therapy? Because it had too many rising issues!
 > 
->     Final final final:
->     "Why did the quantum computer go to therapy? Because it was having an identity crisis—it couldn't decide if it was a 0 or a 1!"
+>     Wait, looking at the prompt again: "Tell a funny joke... Only output the joke."
+> 
+>     Joke:
+>     Why did the sourdough starter go to therapy? Because it had too many rising issues!
 
