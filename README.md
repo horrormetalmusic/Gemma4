@@ -1,88 +1,56 @@
 # Joke of the day: 
-Why was the battering ram so popular at parties? Because he kept hitting on everyone!
+Why did the gluten-free bread fail its exam? 
+
+It just couldn't rise to the occasion!
 
 ## Topic
-<!--TOPIC-->Medieval Siege Engines<!--/TOPIC-->
+<!--TOPIC-->Gluten-free Baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|18|
-|**Total Token Count**|914|
-|**Thoughts Token Count**|869|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|23|
+|**Total Token Count**|674|
+|**Thoughts Token Count**|622|
 
 ## Thoughts: 
-> *   Topic: Medieval Siege Engines.
+> *   Topic: Gluten-free baking.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Trebuchets (arm/counterweight).
->     *   Catapults (tension/torsion).
->     *   Battering rams (hitting things).
->     *   Siege towers (climbing).
->     *   Ballistas (giant crossbows).
+>     *   Idea 1: Why did the gluten-free bread go to therapy? Because it felt like it had no substance. (A bit dark/philosophical).
+>     *   Idea 2: What do you call a gluten-free baker? A miracle worker. (Not really a joke, more a statement).
+>     *   Idea 3: Why did the gluten-free muffin break up with the flour? Because there was no chemistry... or rather, no gluten. (A bit clunky).
+>     *   Idea 4: Why did the gluten-free cake go to the party alone? Because it couldn't find anyone to rise to the occasion! (Classic pun).
+>     *   Idea 5: Why did the gluten-free bread fail its driving test? It couldn't handle the rolls! (A bit weak).
+>     *   Idea 6: Why is gluten-free baking so stressful? Because it’s always a "knead"-less struggle. (Wait, GF doesn't involve much kneading usually, but "knead" is a good pun).
+>     *   Idea 7: Why did the gluten-free baker get kicked out of the party? Because he kept trying to "rise" to the occasion, but he just couldn't!
 > 
->     *   Idea 1 (Trebuchet): Why did the trebuchet break up with the catapult? Because it felt like they were always being thrown around. (A bit weak).
->     *   Idea 2 (Battering Ram): Why did the battering ram get kicked out of the party? Because he kept hitting on everyone. (Classic pun).
->     *   Idea 3 (Trebuchet): Why don't trebuchets ever get lost? Because they always follow their trajectory. (A bit nerdy).
->     *   Idea 4 (Catapult): Why was the catapult so good at its job? Because it always delivered! (Simple, light).
->     *   Idea 5 (Ballista): What do you call a siege engine that tells jokes? A pun-ista? (Weak).
+>     "Why did the gluten-free bread go to the doctor? Because it was feeling a bit crumbly!"
+>     *OR*
+>     "Why did the gluten-free cake go to therapy? Because it felt like it had no substance!"
 > 
->     *   "Why did the battering ram get kicked out of the party? Because he kept hitting on everyone!" (Very classic, easy to understand).
->     *   "Why was the catapult so successful in business? Because it always delivered!" (Very clean, light).
+>     Let's try one about "rising":
+>     "Why did the gluten-free bread fail its exam? It just couldn't rise to the occasion!"
 > 
->     Let's go with the "delivered" one or the "hitting on everyone" one. "Hitting on everyone" is more character-based for a siege engine.
+>     *Refining the "Rise" joke:*
+>     "Why did the gluten-free bread fail its exam? Because it just couldn't rise to the occasion!"
 > 
->     Let's try one about a Trebuchet.
->     "Why did the trebuchet get promoted? Because it always went above and beyond!"
+>     *Refining a "Crumb" joke:*
+>     "What did the gluten-free muffin say to the baker? 'Don't worry, I'm still a crumb-believable treat!'" (A bit cheesy).
 > 
->     "Why was the catapult such a great employee? Because it always delivered!"
+>     *Let's go with a classic pun structure:*
+>     "Why did the gluten-free bread go to the doctor? Because it was feeling a little crumbly!"
 > 
->     Let's try a pun on "trebuchet".
->     "What is a siege engine's favorite type of music? Trebuchet-hop?" (Nah).
-> 
->     Let's go with the "delivered" one. It's simple, light, and very easy to understand.
-> 
->     *Self-Correction:* Actually, the "hitting on everyone" one is more "funny" in a traditional joke sense.
-> 
->     Let's try:
->     "Why did the trebuchet break up with the catapult? Because it felt like their relationship was just going through many ups and downs!"
-> 
->     Actually, let's go with:
->     **Why was the catapult such a successful businessman? Because it always delivered!**
-> 
->     Wait, let's try one more:
->     **Why don't siege engines ever get lonely? Because they always hang out in groups!** (A bit dry).
-> 
->     Let's go with the "delivered" joke. It's the safest and most "light".
-> 
->     *Alternative:*
->     **Why did the battering ram fail his driving test? He kept hitting everything!**
-> 
->     Let's go with the catapult/delivered one.
-> 
->     Joke: Why was the catapult such a great employee? Because it always delivered!
-> 
->     *Wait, another one:*
->     **Why did the trebuchet get in trouble at school? It had too much "projectile" behavior!** (Too complex).
-> 
->     Let's stick to:
->     **Why was the catapult so good at its job? Because it always delivered!**
+>     *Actually, let's go with the "rise" one, it's very common in baking jokes:*
+>     "Why did the gluten-free loaf of bread fail its exam? It just couldn't rise to the occasion!"
 > 
 >     Simple? Yes.
 >     Light? Yes.
->     Easy to understand? Yes.
->     Only output the joke? Yes.
+>     Gluten-free themed? Yes.
+>     Only output joke? Yes.
 > 
->     Wait, let's try:
->     **Why was the battering ram so popular at parties? Because he was always hitting on everyone!**
-> 
->     This is funnier. Let's use this.
-> 
->     *Refined:*
->     Why was the battering ram so popular at parties? Because he kept hitting on everyone!
-> 
->     "Why was the battering ram so popular at parties? Because he kept hitting on everyone!"
+>     "Why did the gluten-free bread fail its exam? It just couldn't rise to the occasion!"
 
