@@ -1,143 +1,158 @@
 # Joke of the day: 
-A young gentleman was so worried about Victorian etiquette that he spent the entire morning practicing his "perfectly polite nod." 
-
-When he finally met a lady, he nodded so formally and so intensely that she thought he was having a very dignified fainting spell!
+Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
 
 ## Topic
-<!--TOPIC-->Victorian etiquette<!--/TOPIC-->
+<!--TOPIC-->Submarine propulsion systems<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|51|
-|**Total Token Count**|1709|
-|**Thoughts Token Count**|1631|
+|**Prompt Token Count**|28|
+|**Candidates Token Count**|22|
+|**Total Token Count**|1770|
+|**Thoughts Token Count**|1720|
 
 ## Thoughts: 
-> *   Topic: Victorian etiquette.
+> *   Topic: Submarine propulsion systems.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Complex social rules (calling cards, gloves, hats, tea, chaperones, stiff upper lip).
->     *   Absurdity of being overly formal.
->     *   The contrast between internal chaos and external politeness.
+>     *   Idea 1: Why did the submarine go to therapy? Because it had too many deep-seated issues with its engine. (A bit cliché).
+>     *   Idea 2: What do you call a submarine with a broken propeller? A sub-par vessel. (Classic pun).
+>     *   Idea 3: Why don't submarines use electric cars? Because they already have a lot of "current" problems. (Pun on electric current and ocean currents).
+>     *   Idea 4: Why did the nuclear submarine get promoted? Because it had so much drive. (A bit weak).
 > 
->     *   *Idea 1:* A man tries to tip a lady with a calling card but accidentally hits her in the eye. (A bit slapstick, maybe not "funny" enough).
->     *   *Idea 2:* A conversation about tea where the rules are so strict they can't actually talk.
->     *   *Idea 3:* A young man attempting to flirt using only the proper tilt of his hat and the placement of his gloves.
->     *   *Idea 4 (The "Calling Card" trope):* A gentleman leaves a calling card at a house, but the etiquette is so complex he ends up leaving a grocery list by mistake.
+>     *   *Option A:* "Why did the submarine get kicked out of the party? Because its propulsion system was too 'exhausting'!" (Wait, submarines don't usually have exhaust like cars, though nuclear ones don't have it and diesel-electrics do).
+>     *   *Option B:* "What did the submarine say to its propeller? 'You really drive me crazy!'" (Simple, light).
+>     *   *Option C:* "Why was the submarine's engine so good at school? Because it was always following the current!" (A bit loose).
+>     *   *Option D:* "Why did the submarine fail its driving test? Because it kept getting stuck in its own current affairs!" (A bit complex).
 > 
->     *   *Setup:* A young gentleman is nervous about his first formal tea party.
->     *   *Conflict:* He is terrified of breaking a rule.
->     *   *Punchline:* He follows the rules so perfectly that he forgets to actually be a human being.
+>     "What did the submarine say to its propeller? 'You really drive me crazy!'" - It's okay, but maybe a bit generic.
 > 
->     *   *Setup:* Why did the Victorian gentleman refuse to dance with the lady?
->     *   *Punchline:* Because his etiquette manual said that a waltz was acceptable, but a "twirl" was considered scandalous! (A bit weak).
+>     Let's try something more specific to "propulsion":
+>     "Why did the submarine break up with its engine? Because it felt like the relationship was losing all its momentum!"
 > 
->     *   *Setup:* A young gentleman was once asked why he never spoke to the beautiful Duchess.
->     *   *Punchline:* He replied, "I would love to, but according to the handbook, I haven't yet perfected the appropriate level of eyebrow twitch required to initiate a conversation!"
+>     Or:
+>     "Why are submarine propulsion systems so good at keeping secrets? Because they always keep everything under wraps—and under pressure!" (Not really a joke).
 > 
->     "A young gentleman was once asked why he was so nervous during his first formal tea party.
+>     Let's go with a pun on "current":
+>     "Why do submarine propulsion systems make terrible politicians? Because they're always caught up in the current!"
 > 
->     'It's the etiquette!' he whispered. 'I’ve spent forty minutes deciding whether to hold my pinky finger out or keep it tucked, and now I’ve forgotten how to breathe!'"
+>     Wait, let's try:
+>     "Why was the submarine's propulsion system so calm? Because it knew how to go with the flow!"
 > 
->     *Alternative (Shorter/Punched up):*
->     "Why did the Victorian gentleman struggle to propose marriage?
+>     Let's try a pun on "propeller" or "drive":
+>     "Why did the submarine get a promotion? Because it showed a lot of drive!"
 > 
->     Because by the time he had finished following all the proper etiquette for requesting an audience, the lady had already moved on to her next husband!"
+>     Let's try:
+>     "What do you call a submarine with a broken propeller? Sub-par!"
 > 
->     *Let's try one about calling cards:*
->     "A gentleman once visited a lady's home and left a calling card. 
+>     Actually, the "current" pun is very common in nautical jokes.
 > 
->     When he returned, he found a note that said: 'Thank you for your card. However, according to the rules of etiquette, your left corner was folded at a slightly suspicious angle, so we have decided to ignore your existence until you seek professional guidance.'"
+>     Let's try this one:
+>     "Why did the submarine engine go to school? To improve its 'current' performance!"
 > 
->     *Let's go with a classic "absurdity of rules" joke:*
+>     How about:
+>     "Why was the submarine propulsion system so stressed? Because it was under too much pressure!" (Classic, light, simple).
 > 
->     "A young man was terrified of his first formal ball. 'What if I break a rule?' he asked his tutor.
+>     Let's try one more:
+>     "Why did the submarine fail its driving test? It had too many propulsion problems—it just couldn't find its bearings!" (A bit weak).
 > 
->     'Don't worry,' the tutor replied. 'Just remember: if you accidentally trip, simply pretend it was a highly sophisticated, choreographed bowing maneuver. If anyone questions you, look offended!'"
+>     Let's go with the "Current" pun. It's the most "propulsion" related.
 > 
->     Actually, let's go with the "propose marriage" one, it's punchier.
+>     "Why was the submarine engine so well-informed? Because it was always up to date on the current events!" (A bit clunky).
 > 
->     *Refined "Propose" joke:*
->     "Why did the Victorian gentleman fail to propose to his sweetheart?
+>     Let's go with:
+>     "Why did the submarine engine break up with the propeller? Because it felt like they were just going in circles!"
 > 
->     Because by the time he had completed all the necessary etiquette for requesting a formal introduction, she had already been married off to a Duke!"
+>     This is simple, light, and funny.
 > 
->     *Simple, light, easy to understand.*
+>     "Why did the submarine engine break up with the propeller? Because it felt like they were just going in circles!"
 > 
->     "Why did the Victorian gentleman struggle to propose to his sweetheart?
+>     "Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!"
 > 
->     Because by the time he had finished following all the proper etiquette to request a formal introduction, she had already been married off to a Duke!"
+>     *Self-Correction:* Is that specifically about the propulsion system? Yes, the engine and propeller are the core components.
 > 
->     *Wait, let's try one more that's even simpler.*
+>     Another option:
+>     "Why are submarine propulsion systems so good at multitasking? Because they can handle any current situation!"
 > 
->     "A young gentleman was once so worried about Victorian etiquette that he refused to eat his soup. 
+>     I like the "current situation" one. It's punchy.
 > 
->     When asked why, he replied, 'I haven't yet determined if the spoon should be held with a sense of grace or a sense of profound social responsibility!'"
+>     Let's try:
+>     "Why was the submarine's propulsion system so calm? Because it knew how to go with the current!"
 > 
->     Let's go with the "married off" one. It's a classic joke structure.
+>     Actually, the simplest one is often best:
+>     "Why did the submarine engine break up with the propeller? Because it felt like they were just going in circles!"
 > 
->     *Self-Correction:* The "married off" joke is a bit cliché. Let's try a dialogue-based one about the absurdity.
+>     Wait, let's try:
+>     "What did the submarine say to its propulsion system? 'You really drive me crazy!'"
 > 
->     "A young gentleman was so worried about Victorian etiquette that he spent three hours practicing his 'polite nod.'
+>     Let's go with the "circles" joke. It's a classic joke structure applied to the topic.
 > 
->     When he finally met a lady, he nodded so perfectly and so formally that she thought he was having a very dignified fainting spell!"
+>     *Drafting the final response:*
+>     Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
 > 
->     *This is good. Simple, light, easy to understand.*
+>     *Alternative:*
+>     Why was the submarine's propulsion system so successful? Because it always knew how to handle the current!
 > 
->     "A young gentleman was so worried about Victorian etiquette that he spent three hours practicing his 'polite nod.'
+>     Let's use:
+>     "Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!"
 > 
->     When he finally met a lady, he nodded so perfectly and so formally that she thought he was having a very dignified fainting spell!"
+>     *Wait, one more check:* "Sub-par" is very common.
+>     "What do you call a submarine with a broken propeller? Sub-par!"
 > 
->     *Wait, "dignified fainting spell" is good. Let's go.*
+>     Let's go with the "circles" one. It feels more like a "joke" about the relationship of the parts.
 > 
->     Actually, let's try this one:
->     "Why was the Victorian gentleman so bad at flirting?
->     Because every time he wanted to say 'You look lovely,' he had to spend forty minutes consulting his handbook to see if a slight tilt of the hat was considered too forward!"
+>     *Wait, let's try a different angle:*
+>     "Why don't submarines ever get lost? Because their propulsion systems always follow the current!" (Not really funny).
 > 
->     *Let's go with the fainting spell one. It's more visual.*
+>     Let's go with:
+>     "Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!"
 > 
->     "A young gentleman was so worried about Victorian etiquette that he spent three hours practicing his 'polite nod.'
+>     Actually, "Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!" is quite good.
 > 
->     When he finally met a lady, he nodded so perfectly and so formally that she thought he was having a very dignified fainting spell!"
+>     - Topic: Submarine propulsion systems (Engine/Propeller).
+>     - Funny: Yes.
+>     - Simple/Light/Easy: Yes.
+>     - Only output the joke: Yes.
 > 
->     Check constraints:
->     - Funny joke about Victorian etiquette? Yes.
->     - Simple, light, easy? Yes.
->     - Only output the joke? Yes.
+>     Let's try one more just in case.
+>     "Why was the submarine's propulsion system so stressed? Because it was under a lot of pressure!"
 > 
->     One more check: Is there a better one?
->     "A gentleman once forgot his calling card at a lady's house. He was so mortified by the breach of etiquette that he spent the next three days apologizing to her footman!" (A bit niche).
+>     This is very simple.
 > 
->     Let's stick to the "dignified fainting spell" one.
+>     Let's go with the "circles" one. It's slightly more clever.
 > 
->     *Revised version of the fainting one:*
->     A young gentleman was so worried about Victorian etiquette that he spent the entire morning practicing his "perfectly polite nod." 
+>     Actually, the "current" one is the most "propulsion" specific.
+>     "Why are submarine propulsion systems so good at multitasking? Because they can handle any current situation!"
 > 
->     When he finally met a lady, he nodded so formally and so intensely that she thought he was having a very dignified fainting spell!
+>     Let's go with the "circles" one. It's a solid joke.
 > 
->     (This works well).
+>     *Final Polish:*
+>     Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
 > 
->     *Wait, let's try one more:*
->     "A Victorian gentleman was once asked why he never spoke to the most beautiful woman in the ballroom. 
+>     (Wait, if the engine and propeller are part of the same system, does it make sense? Yes, in joke logic.)
 > 
->     'I would love to,' he replied, 'but I haven't yet decided if a tip of the hat is too bold, or if a slight inclination of the head is too subtle!'"
+>     Let's try:
+>     "Why did the submarine's propulsion system get promoted? Because it showed a lot of drive!"
 > 
->     Actually, the "fainting spell" one is funnier.
+>     That's even simpler.
 > 
->     Final Choice:
->     A young gentleman was so worried about Victorian etiquette that he spent the entire morning practicing his "perfectly polite nod." 
+>     Let's go with:
+>     Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
 > 
->     When he finally met a lady, he nodded so formally and so intensely that she thought he was having a very dignified fainting spell!
+>     (Actually, I'll provide a very clean one).
 > 
->     *Actually, I'll use a shorter version.*
+>     "Why did the submarine engine break up with the propeller? Because it felt like they were just going in circles!"
 > 
->     "A young gentleman was so worried about Victorian etiquette that he spent the whole morning practicing his 'perfectly polite nod.' 
+>     (Wait, I'll check if "going in circles" makes sense for propulsion. A propeller spins in circles. So it's a pun on the motion and the relationship.)
 > 
->     When he finally met a lady, he nodded so formally that she thought he was having a very dignified fainting spell!"
+>     One more:
+>     "Why was the submarine's propulsion system so calm? Because it knew how to go with the current!"
 > 
->     (Ready).
+>     I'll go with the "circles" one.
+> 
+>     *Final choice:*
+>     Why did the submarine engine break up with its propeller? Because it felt like they were just going in circles!
 
