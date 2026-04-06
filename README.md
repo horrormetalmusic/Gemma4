@@ -1,65 +1,61 @@
 # Joke of the day: 
-Why was the deep-sea explorer so calm during his mission? 
+Why did the sourdough starter go to school? 
 
-Because he knew how to handle the pressure!
+Because it wanted to be a little more cultured!
 
 ## Topic
-<!--TOPIC-->Deep Sea Exploration<!--/TOPIC-->
+<!--TOPIC-->Sourdough Bread Baking<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|24|
-|**Total Token Count**|842|
-|**Thoughts Token Count**|791|
+|**Prompt Token Count**|29|
+|**Candidates Token Count**|21|
+|**Total Token Count**|744|
+|**Thoughts Token Count**|694|
 
 ## Thoughts: 
-> *   Topic: Deep Sea Exploration.
->     *   Style: Funny, simple, light, easy to understand.
+> *   Topic: Sourdough Bread Baking.
+>     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Why did the ocean explorer get lost? Because he couldn't find his *sea* level. (A bit weak).
->     *   Idea 2: What kind of fish goes to a deep-sea mission? A *sub*-marine. (A bit punny/childish, fits the criteria).
->     *   Idea 3: Why don't deep-sea divers use Google? Because they're already at the bottom. (Not quite right).
->     *   Idea 4: Why was the deep-sea explorer so good at his job? He really knew how to *dive* into his work. (Okay).
->     *   Idea 5: Why did the ocean explorer bring a ladder to the deep sea? Because he heard the pressure was high! (A bit better).
->     *   Idea 6: What do you call a deep-sea explorer who's always in a rush? A *sub*-marine! (Wait, that's not a person).
->     *   Idea 7: Why did the deep-sea diver cross the ocean? To get to the other *tide*. (Classic).
->     *   Idea 8: Why did the deep-sea explorer bring a map to the bottom of the ocean? Because he didn't want to get lost in the *current* situation!
+>     *   Starter (feeding, name, living thing, "mother").
+>     *   Fermentation/Proofing (time, waiting, rising).
+>     *   Scoring (patterns, cuts).
+>     *   Crust/Crumb (crunchy, airy).
+>     *   Obsession/Hobbyist (expensive, time-consuming, talking to the starter).
 > 
->     *   "Why did the deep-sea explorer bring a ladder to the bottom of the ocean? Because he heard the pressure was high!" -> A bit cliché.
->     *   "What kind of fish can help you explore the deep sea? A sub-marine!" (Wait, submarines aren't fish).
->     *   "Why don't deep-sea explorers ever get lonely? Because they're always surrounded by their *buoys*!" (Good pun).
+>     *   *Option 1 (Starter focus):* Why did the sourdough baker break up with their partner? Because they needed more space for their starter. (A bit cliché).
+>     *   *Option 2 (Starter focus):* Why is sourdough baking like a relationship? Because if you don't feed it, it gets really sour. (Good, simple).
+>     *   *Option 3 (Starter name/life):* Why did the sourdough starter go to therapy? It had too many issues rising to the top. (A bit abstract).
+>     *   *Option 4 (The "Bread" pun):* What did the sourdough say to the baker? "You knead me!" (Classic, but maybe too simple).
+>     *   *Option 5 (The obsession):* Why do sourdough bakers make terrible roommates? Because they’re always leaving their "culture" around. (A bit clever).
 > 
->     Let's try a classic "Why" joke.
->     "Why did the deep-sea explorer bring a flashlight to the bottom of the ocean? Because he didn't want to be in the dark about his discovery!" (A bit long).
+>     *   *Draft:* Why did the sourdough baker break up with their partner? Because they just couldn't handle the constant need for attention—they were already too committed to their starter!
+>     *   *Refined:* Why did the sourdough baker go to therapy? Because they had too many emotional issues rising to the surface! (Maybe a bit dark).
+>     *   *Refined (Light & Simple):* Why do sourdough bakers make such great friends? Because they always rise to the occasion!
 > 
->     How about:
->     "Why did the deep-sea explorer cross the ocean? To get to the other *tide*!" (Simple, light).
+>     "Why do sourdough bakers make such great friends? Because they always rise to the occasion!"
 > 
->     Actually, let's go with something more specific to exploration tools.
->     "Why was the deep-sea explorer so calm during the mission? Because he knew how to keep his cool under pressure!"
+>     *Wait, let's try one about the starter being a "pet".*
 > 
->     This is perfect. It's a play on words (pressure), it's about deep sea (high pressure), and it's light/funny.
+>     "Why did the sourdough baker get in trouble with their spouse? Because they brought home a new pet that they had to feed every single day, and it was just a jar of flour and water!" (Too long).
 > 
->     *   Joke: Why was the deep-sea explorer so calm during his mission? Because he knew how to handle the pressure!
+>     *Let's go with a classic pun.*
 > 
->     "Why was the deep-sea explorer so calm during his mission? Because he knew how to handle the pressure!"
+>     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
 > 
->     Wait, another one:
->     "What do you call a deep-sea explorer who is always in a hurry? A sub-marine!" -> No, that's a vehicle.
+>     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
 > 
->     Let's stick to the pressure joke. It's the cleanest.
+>     *Check constraints:* Funny? Yes. Sourdough? Yes. Simple/Light? Yes. Only output the joke? Yes.
 > 
->     "Why was the deep-sea explorer so calm during his mission? Because he knew how to handle the pressure!"
+>     *Alternative (more "bread" related):*
+>     "What did the sourdough say to the baker? 'You knead me!'" (Maybe too simple).
 > 
->     Check constraints:
->     - Funny? Yes (pun).
->     - Deep Sea Exploration? Yes.
->     - Simple/Light/Easy? Yes.
->     - Only output the joke? Yes.
+>     *Let's go with the "Cultured" one. It's the most "sourdough" specific joke.*
 > 
->     "Why was the deep-sea explorer so calm during his mission? Because he knew how to handle the pressure!"
+>     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
+> 
+>     "Why did the sourdough starter go to school? Because it wanted to be a little more cultured!"
 
