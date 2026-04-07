@@ -1,74 +1,79 @@
 # Joke of the day: 
-Why is quantum cryptography so good at keeping secrets? 
+Why did the baker break up with their sourdough starter? 
 
-Because as soon as an eavesdropper tries to peek, the message changes its mind!
+Because it was way too clingy and always demanded to be fed!
 
 ## Topic
-<!--TOPIC-->Quantum Cryptography<!--/TOPIC-->
+<!--TOPIC-->Baking Sourdough Bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|27|
-|**Candidates Token Count**|30|
-|**Total Token Count**|827|
-|**Thoughts Token Count**|770|
+|**Prompt Token Count**|30|
+|**Candidates Token Count**|27|
+|**Total Token Count**|889|
+|**Thoughts Token Count**|832|
 
 ## Thoughts: 
-> *   Topic: Quantum Cryptography.
+> *   Topic: Baking Sourdough Bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Concepts: Superposition (being in two states at once), Entanglement (spooky action at a distance), Observation/Measurement (changing the state by looking at it), Uncertainty Principle.
+>     *   Sourdough starter (it's alive, it needs feeding, it's a "pet").
+>     *   Fermentation/Bubbles.
+>     *   Wild yeast.
+>     *   Crust/Crumb.
+>     *   Discard.
+>     *   Time/Patience.
 > 
->     *   *Idea 1 (Superposition):* A quantum cryptographer walks into a bar. Is he there or not? He's both until the bartender looks at him. (A bit cliché).
->     *   *Idea 2 (Observation/Measurement):* Why did the quantum encryption key break up with the hacker? Because every time he tried to peek at her, she changed her mind. (Better).
->     *   *Idea 3 (Observation/Measurement):* Why is quantum cryptography so good at keeping secrets? Because as soon as a hacker tries to eavesdrop, the secret changes its identity just to spite them! (A bit wordy).
->     *   *Idea 4 (Entanglement):* Two quantum bits go on a date. Even when they're apart, they're still perfectly in sync. (More of a fact than a joke).
->     *   *Idea 5 (Observation):* Why did the quantum cryptographer get fired from his job as a spy? Because every time someone tried to watch him, he stopped being a spy and became a florist! (A bit weird).
+>     *   *Idea 1 (The Starter):* Why did the sourdough starter go to therapy? Because it felt like it was constantly being fed but never truly appreciated. (A bit heavy/sad).
+>     *   *Idea 2 (The Starter):* Why did the baker break up with their sourdough starter? Because it was too clingy and always needed feeding! (Cute, simple).
+>     *   *Idea 3 (The Yeast):* What did the sourdough starter say to the flour? "You're looking a bit dry, let me bubble you up!" (A bit weak).
+>     *   *Idea 4 (The Bread):* Why did the sourdough loaf go to the doctor? Because it was feeling a bit crusty! (Classic pun).
 > 
->     *   "Why is quantum cryptography so good at keeping secrets? Because as soon as an eavesdropper tries to look at the message, the message changes its mind!"
+>     *   "Why did the baker break up with their sourdough starter? Because it was too clingy and constantly demanded to be fed!"
+>     *   "Why did the sourdough bread go to the doctor? Because it was feeling a bit crusty!"
 > 
->     *   "Why can't a hacker ever successfully eavesdrop on a quantum message? Because every time they try to take a peek, the message changes its mind!"
+>     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
 > 
->     *   Simple? Yes.
->     *   Light? Yes.
->     *   Easy to understand? Yes.
->     *   Only output the joke? Yes.
+>     *Alternative (Shorter/Punnier):*
+>     "Why did the sourdough bread go to the doctor? Because it was feeling a bit crusty!"
 > 
->     *Refined version:*
->     Why is quantum cryptography so good at keeping secrets?
->     Because every time an eavesdropper tries to peek, the message changes its mind!
-> 
->     *Alternative (shorter/punchier):*
->     Why did the quantum encryption key break up with the hacker?
->     Because every time he tried to look at her, she changed her state!
-> 
->     Let's go with the "changes its mind" one, it's more intuitive for "observation collapses the wavefunction."
-> 
->     *Joke:*
->     Why is quantum cryptography so good at keeping secrets?
->     Because as soon as an eavesdropper tries to peek, the message changes its mind!
+>     Let's go with the "clingy starter" one as it captures the essence of sourdough baking well.
 > 
 >     *Wait, let's try one more:*
->     Why don't quantum cryptographers ever get caught eavesdropping?
->     Because as soon as they look at the secret, it becomes a completely different secret!
+>     "What do you call a sourdough starter that tells jokes? A real yeast-er!" (A bit cheesy).
 > 
->     Let's stick to the most recognizable concept: Measurement changes the state.
+>     Let's go with:
+>     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
 > 
->     *Selected Joke:*
->     Why is quantum cryptography so good at keeping secrets?
->     Because as soon as an eavesdropper tries to peek, the message changes its mind!
+>     *Refined Choice:*
+>     "Why did the sourdough starter go to therapy? Because it felt like its whole life was just one big identity crisis—it was constantly being told to 'rise' to the occasion!" (A bit complex).
 > 
->     *Wait, let's check if there's a "Schrödinger" angle.*
->     A quantum cryptographer walks into a bar... (Too complex).
+>     Let's stick to the simplest, funniest one:
+>     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
 > 
->     Let's use the "peek/change" structure.
+>     *Wait, even simpler:*
+>     "Why did the sourdough bread go to the doctor? Because it was feeling a bit crusty!"
+> 
+>     Actually, the starter joke is more "sourdough" specific.
+> 
+>     *Let's try:*
+>     "Why was the sourdough starter so popular? Because it always knew how to rise to the occasion!"
+> 
+>     Let's go with the "clingy" one. It's relatable to anyone who bakes.
 > 
 >     *Final Polish:*
->     Why is quantum cryptography so good at keeping secrets? 
->     Because every time an eavesdropper tries to peek, the message changes its mind!
+>     Why did the baker break up with their sourdough starter? Because it was way too clingy and constantly demanded to be fed!
 > 
->     (Self-Correction: Ensure it's "only the joke").
+>     *Actually, let's go with the "Crusty" one, it's a classic pun format.*
+> 
+>     "Why did the sourdough bread go to the doctor? Because it was feeling a bit crusty!"
+> 
+>     Let's go with the starter one. It feels more "smart/funny" for sourdough fans.
+> 
+>     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
+> 
+>     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
 
