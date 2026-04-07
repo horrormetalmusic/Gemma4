@@ -1,41 +1,56 @@
 # Joke of the day: 
-Why did the gourmet croissant get a promotion?
+Why was the submarine feeling so stressed? 
 
-Because it always rose to the occasion!
+Because it was under a lot of pressure!
 
 ## Topic
-<!--TOPIC-->Gourmet Pastry Making<!--/TOPIC-->
+<!--TOPIC-->Deep Sea Exploration<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|30|
-|**Candidates Token Count**|18|
-|**Total Token Count**|393|
-|**Thoughts Token Count**|345|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|19|
+|**Total Token Count**|559|
+|**Thoughts Token Count**|513|
 
 ## Thoughts: 
-> *   Topic: Gourmet Pastry Making.
+> *   Topic: Deep Sea Exploration.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Idea 1: Something about dough/rising.
->     *   Idea 2: Something about being "sweet" or "flakey."
->     *   Idea 3: A pun on "proofing" or "glaze."
->     *   Idea 4: A baker being dramatic about a failed croissant.
+>     *   Idea 1 (Submarines/Pressure): Why did the submarine go to school? To get a little "deeper" knowledge. (A bit cheesy/punny).
+>     *   Idea 2 (Fish/Exploration): Why don't fish like deep-sea explorers? Because they keep "probing" around. (A bit edgy?).
+>     *   Idea 3 (Pressure/Submarines): Why was the submarine so stressed? It was under a lot of pressure! (Classic, simple, light).
+>     *   Idea 4 (Anglerfish): What do you call a deep-sea explorer who tells bad jokes? An angler-fish (Angler/Anguished?). No.
 > 
->     *   *Draft 1:* Why did the pastry chef go to jail? He was caught beating the eggs! (A bit cliché/old).
->     *   *Draft 2:* Why was the croissant so good at its job? Because it always rose to the occasion! (Classic, simple, fits "gourmet" via the croissant).
->     *   *Draft 3:* My pastry chef friend is so dramatic. Every time he makes a mistake, he says he's "flaked." (A bit weak).
->     *   *Draft 4:* Why did the gourmet baker break up with the sourdough? Because he felt they were just going through a rough patch. (A bit complex).
+>     *   "Why was the submarine feeling so stressed? Because it was under a lot of pressure!"
 > 
->     *   The "rose to the occasion" pun is the safest, funniest, and most widely understood joke for this theme.
+>     *   Is it about deep sea exploration? Yes.
+>     *   Is it funny/light? Yes.
+>     *   Is it simple/easy? Yes.
+>     *   Is it *only* the joke? Yes.
 > 
->     *   "Why did the gourmet croissant get a promotion? Because it always rose to the occasion!"
+>     "Why was the submarine feeling so stressed? Because it was under a lot of pressure!"
 > 
->     *   Funny? Yes.
->     *   Gourmet Pastry Making? Yes.
->     *   Simple/Light? Yes.
->     *   Only output the joke? Yes.
+>     *Self-correction:* Let's try one more.
+>     "What did the deep-sea explorer say when they found the sunken treasure? 'I'm shore about this!'" (Maybe too simple).
+> 
+>     Let's go with the submarine/pressure one. It's the gold standard for this topic.
+> 
+>     *Wait, let's try a different one:*
+>     "Why did the ocean explorer bring a ladder to the deep sea? Because they heard the fish were scaling new heights!" (A bit abstract).
+> 
+>     Let's go with:
+>     Why was the submarine feeling so stressed?
+>     Because it was under a lot of pressure!
+> 
+>     Actually, let's do:
+>     "Why don't deep-sea explorers ever get lost? Because they always follow the current events!" (Too punny).
+> 
+>     Let's stick to the submarine pressure joke. It's the most recognizable and fits "simple, light, easy."
+> 
+>     *Final Selection:*
+>     Why was the submarine feeling so stressed? Because it was under a lot of pressure!
 
