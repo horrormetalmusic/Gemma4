@@ -1,79 +1,70 @@
 # Joke of the day: 
-Why did the baker break up with their sourdough starter? 
+Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, "Do you know how fast you were going?" 
 
-Because it was way too clingy and always demanded to be fed!
+Heisenberg replies, "No, but I know exactly where I am!"
 
 ## Topic
-<!--TOPIC-->Baking Sourdough Bread<!--/TOPIC-->
+<!--TOPIC-->Quantum Physics<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|30|
-|**Candidates Token Count**|27|
-|**Total Token Count**|889|
-|**Thoughts Token Count**|832|
+|**Prompt Token Count**|26|
+|**Candidates Token Count**|46|
+|**Total Token Count**|883|
+|**Thoughts Token Count**|811|
 
 ## Thoughts: 
-> *   Topic: Baking Sourdough Bread.
->     *   Tone: Funny, simple, light, easy to understand.
+> *   Topic: Quantum Physics.
+>     *   Style: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Sourdough starter (it's alive, it needs feeding, it's a "pet").
->     *   Fermentation/Bubbles.
->     *   Wild yeast.
->     *   Crust/Crumb.
->     *   Discard.
->     *   Time/Patience.
+>     *   Schrödinger's Cat (alive/dead).
+>     *   Heisenberg's Uncertainty Principle (position vs. momentum).
+>     *   Quantum superposition.
+>     *   Entanglement (spooky action at a distance).
+>     *   Observation collapsing the wavefunction.
 > 
->     *   *Idea 1 (The Starter):* Why did the sourdough starter go to therapy? Because it felt like it was constantly being fed but never truly appreciated. (A bit heavy/sad).
->     *   *Idea 2 (The Starter):* Why did the baker break up with their sourdough starter? Because it was too clingy and always needed feeding! (Cute, simple).
->     *   *Idea 3 (The Yeast):* What did the sourdough starter say to the flour? "You're looking a bit dry, let me bubble you up!" (A bit weak).
->     *   *Idea 4 (The Bread):* Why did the sourdough loaf go to the doctor? Because it was feeling a bit crusty! (Classic pun).
+>     *   *Option 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't. Or it does.
+>     *   *Option 2 (Heisenberg/Uncertainty):* Heisenberg is driving. A cop pulls him over. "Do you know how fast you were going?" "No, but I know exactly where I am!"
+>     *   *Option 3 (Schrödinger's Cat - classic version):* Schrödinger's cat is a great joke, but sometimes it's a bit cliché.
+>     *   *Option 4 (Heisenberg/Uncertainty - simpler):* Heisenberg, Schrödinger, and Ohm are in a car. They crash. Cop asks Schrödinger, "Did you see that?" Schrödinger says, "No, but I'm pretty sure the cat is dead." (A bit too complex/multi-layered).
 > 
->     *   "Why did the baker break up with their sourdough starter? Because it was too clingy and constantly demanded to be fed!"
->     *   "Why did the sourdough bread go to the doctor? Because it was feeling a bit crusty!"
+>     *   *Idea:* Heisenberg is pulled over.
+>     *   *Setup:* Heisenberg is driving down the highway when a police officer pulls him over.
+>     *   *Dialogue:* The officer asks, "Do you know how fast you were going?"
+>     *   *Punchline:* Heisenberg replies, "No, but I know exactly where I am!"
 > 
->     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
+>     *   *Idea:* Schrödinger's cat.
+>     *   *Setup:* Schrödinger's cat walks into a bar.
+>     *   *Punchline:* The bartender says, "Is he okay?" and the owner says, "I'm not sure, let me check the box." (A bit weak).
 > 
->     *Alternative (Shorter/Punnier):*
->     "Why did the sourdough bread go to the doctor? Because it was feeling a bit crusty!"
+>     *   "Heisenberg is driving down the highway when a cop pulls him over. The officer asks, 'Do you know how fast you were going?' Heisenberg replies, 'No, but I know exactly where I am!'"
 > 
->     Let's go with the "clingy starter" one as it captures the essence of sourdough baking well.
+>     *   Is it funny? Yes (for physics nerds).
+>     *   Is it simple/light? Yes.
+>     *   Only output the joke? Yes.
 > 
->     *Wait, let's try one more:*
->     "What do you call a sourdough starter that tells jokes? A real yeast-er!" (A bit cheesy).
+>     *Self-Correction:* Let's try to make it even punchier.
 > 
->     Let's go with:
->     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
+>     "Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, 'Do you know how fast you were going?' Heisenberg replies, 'No, but I know exactly where I am!'"
 > 
->     *Refined Choice:*
->     "Why did the sourdough starter go to therapy? Because it felt like its whole life was just one big identity crisis—it was constantly being told to 'rise' to the occasion!" (A bit complex).
+>     *Alternative:*
+>     "Schrödinger's cat walks into a bar... and doesn't." (Very simple, very light).
 > 
->     Let's stick to the simplest, funniest one:
->     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
+>     Let's go with the Heisenberg one, it's the classic "joke" structure.
 > 
->     *Wait, even simpler:*
->     "Why did the sourdough bread go to the doctor? Because it was feeling a bit crusty!"
+>     Wait, let's try one more:
+>     "A photon checks into a hotel. The bellhop asks, 'Can I help you with your luggage?' The photon replies, 'No thanks, I'm traveling light!'"
+>     (Note: That's more about light/photons than quantum physics specifically, though related).
 > 
->     Actually, the starter joke is more "sourdough" specific.
+>     Let's stick to the Heisenberg one. It's the quintessential quantum joke.
 > 
->     *Let's try:*
->     "Why was the sourdough starter so popular? Because it always knew how to rise to the occasion!"
+>     "Heisenberg is driving down the highway when a police officer pulls him over. The officer asks, 'Do you know how fast you were going?' Heisenberg replies, 'No, but I know exactly where I am!'"
 > 
->     Let's go with the "clingy" one. It's relatable to anyone who bakes.
-> 
->     *Final Polish:*
->     Why did the baker break up with their sourdough starter? Because it was way too clingy and constantly demanded to be fed!
-> 
->     *Actually, let's go with the "Crusty" one, it's a classic pun format.*
-> 
->     "Why did the sourdough bread go to the doctor? Because it was feeling a bit crusty!"
-> 
->     Let's go with the starter one. It feels more "smart/funny" for sourdough fans.
-> 
->     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
-> 
->     "Why did the baker break up with their sourdough starter? Because it was way too clingy and always demanded to be fed!"
+>     *   Funny? Yes.
+>     *   Quantum Physics? Yes (Uncertainty Principle).
+>     *   Simple/Light? Yes.
+>     *   Only output the joke? Yes.
 
