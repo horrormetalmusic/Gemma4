@@ -1,45 +1,41 @@
 # Joke of the day: 
-Why did the hydrothermal vent go to therapy? 
+Why did the boutique hat maker get promoted? 
 
-Because it just needed to vent!
+Because she always had a great head for business!
 
 ## Topic
-<!--TOPIC-->Deep-sea hydrothermal vents<!--/TOPIC-->
+<!--TOPIC-->Boutique hat making<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
 |**Prompt Token Count**|29|
-|**Candidates Token Count**|18|
-|**Total Token Count**|388|
-|**Thoughts Token Count**|341|
+|**Candidates Token Count**|21|
+|**Total Token Count**|457|
+|**Thoughts Token Count**|407|
 
 ## Thoughts: 
-> *   Topic: Deep-sea hydrothermal vents.
+> *   Topic: Boutique hat making.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Heat/Temperature (boiling, hot).
->     *   Pressure (deep sea, crushing).
->     *   Darkness (no light).
->     *   Chemicals/Sulfur (smelly, food source).
->     *   Tube worms, crabs, shrimp (creatures living there).
->     *   "Vent" (expressing emotions).
+>     *   Hats, millinery, felt, feathers, ribbons, headwear, brim, crown, blocking.
+>     *   Puns: "Mad Hatter," "Head over heels," "Cap-tivating," "Fedora-ble," "Hat-titude," "Feeling tip-top/top-hat."
 > 
->     *   *Idea 1 (The emotion pun):* Why did the hydrothermal vent go to therapy? Because it just needed to vent! (Classic, simple).
->     *   *Idea 2 (Temperature pun):* Why don't deep-sea creatures like hydrothermal vents? Because things are getting a bit too heated down there!
->     *   *Idea 3 (Darkness/Pressure):* What did the tube worm say to the hydrothermal vent? "You're really hot, but you're a bit intense!"
+>     *   *Idea 1:* Why did the boutique milliner go to therapy? She had too many problems on her head. (A bit dark?)
+>     *   *Idea 2:* Why was the boutique hat maker so good at her job? She always had great head space. (A bit cliché.)
+>     *   *Idea 3:* Why don't boutique hat makers ever get lost? Because they always follow the brim. (Doesn't make much sense.)
+>     *   *Idea 4:* What do you call a boutique hat maker who makes hats for celebrities? A "star" milliner. (Not really a joke.)
+>     *   *Idea 5:* Why did the milliner break up with the fabric? Because she felt they were just going in different directions, and she needed more structure. (A bit long.)
+>     *   *Idea 6:* Why did the boutique hat maker get promoted? Because she always had a great head for business! (Classic, simple, light).
 > 
->     *   Idea 1 is the most "classic" joke structure.
->     *   Let's refine Idea 1.
+>     *   "Why did the boutique hat maker get promoted? Because she always had a great head for business!"
 > 
->     *   Joke: Why did the hydrothermal vent go to therapy? Because it just needed to vent!
-> 
->     *   Funny? Yes (punny).
->     *   Deep-sea hydrothermal vents? Yes.
->     *   Simple/Light/Easy? Yes.
+>     *   Funny? Yes (pun).
+>     *   Boutique hat making? Yes.
+>     *   Simple/light? Yes.
 >     *   Only output the joke? Yes.
 > 
->     "Why did the hydrothermal vent go to therapy? Because it just needed to vent!"
+>     "Why did the boutique hat maker get promoted? Because she always had a great head for business!"
 
