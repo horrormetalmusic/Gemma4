@@ -1,148 +1,81 @@
 # Joke of the day: 
-Heisenberg is speeding down the highway when a cop pulls him over.
-
-The cop asks, "Do you know how fast you were going?"
-
-Heisenberg replies, "No, but I know exactly where I am!"
+Why did the baker go to jail? Because he was caught kneading the dough!
 
 ## Topic
-<!--TOPIC-->Quantum mechanics<!--/TOPIC-->
+<!--TOPIC-->Baking bread<!--/TOPIC-->
 
 ## Usage Metadata
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |**Model Version**|gemma-4-26b-a4b-it|
-|**Prompt Token Count**|26|
-|**Candidates Token Count**|45|
-|**Total Token Count**|1623|
-|**Thoughts Token Count**|1552|
+|**Prompt Token Count**|27|
+|**Candidates Token Count**|16|
+|**Total Token Count**|765|
+|**Thoughts Token Count**|722|
 
 ## Thoughts: 
-> *   Topic: Quantum mechanics.
+> *   Topic: Baking bread.
 >     *   Tone: Funny, simple, light, easy to understand.
 >     *   Constraint: Only output the joke.
 > 
->     *   Schrödinger's Cat (alive/dead, superposition).
->     *   Heisenberg Uncertainty Principle (position vs. momentum).
->     *   Entanglement (spooky action at a distance).
->     *   Wave-particle duality.
+>     *   *Idea 1:* Why did the baker go to jail? Because he was caught kneading the dough. (Classic, simple).
+>     *   *Idea 2:* What did the loaf of bread say to the butter? You're on a roll! (Cute, simple).
+>     *   *Idea 3:* Why was the loaf of bread so successful? Because it rose to the occasion. (Good, simple).
+>     *   *Idea 4:* How does bread introduce itself? "Nice to knead you!" (Puns are good).
 > 
->     *   *Option 1 (Schrödinger):* Schrödinger's cat walks into a bar... and doesn't. (A bit cliché).
->     *   *Option 2 (Heisenberg):* Heisenberg is speeding. Cop: "Do you know how fast you were going?" Heisenberg: "No, but I know exactly where I am!" (Classic).
->     *   *Option 3 (Schrödinger/Bar):* Schrödinger's cat walks into a bar. The bartender says, "I'm not sure if it's a good idea to serve you." (A bit weak).
+>     *   Idea 1 ("kneading the dough") is a bit cliché but very clear.
+>     *   Idea 3 ("rose to the occasion") is very light and classic.
 > 
->     *   The Heisenberg/Speeding joke is very accessible.
->     *   The Schrödinger's Cat joke is iconic.
+>     Let's go with a classic pun.
 > 
->     Let's go with the Heisenberg one, or a variation of the Schrödinger one.
+>     *Joke:* Why did the loaf of bread go to the doctor? Because it was feeling crumby!
 > 
->     *Let's try this one:*
->     Schrödinger's cat walks into a bar. The bartender says, "Is he okay?"
->     The owner says, "I'm not sure, let's check."
+>     *Alternative:* Why did the baker go to jail? Because he was caught kneading the dough!
 > 
->     *Actually, the Heisenberg one is punchier for "simple/light":*
->     Heisenberg is driving down the highway when a cop pulls him over.
->     The cop asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     *Let's try another:* What did the bread say to the butter? "You're on a roll!"
 > 
->     *Wait, let's try a different one about superposition:*
->     "I have a joke about superposition, but you'll have to decide if it's funny or not." (A bit meta).
+>     Let's go with the "kneading the dough" one or "rose to the occasion".
 > 
->     *Let's go with the most recognizable one:*
->     Schrödinger's cat walks into a bar. And doesn't.
+>     Actually, the "kneading the dough" one is very recognizable.
 > 
->     *Or better yet:*
->     A physicist is walking down the street when he sees a friend.
->     "Hey!" he says. "Where are you going?"
->     "I don't know," the friend replies. "I'm in a state of superposition!" (A bit nerdy/weak).
+>     *Draft:* Why did the baker go to jail? Because he was caught kneading the dough!
 > 
->     *Let's go with the Heisenberg joke. It's the most "joke-like" structure.*
+>     Wait, let's try:
+>     "Why did the bread go to the doctor? Because it was feeling crumby!"
 > 
->     *Refined Heisenberg joke:*
->     Heisenberg is speeding down the highway when a police officer pulls him over.
->     The officer asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
-> 
->     *Wait, the prompt asks for "a" joke. Let's see if there's a simpler Schrödinger one.*
-> 
->     "Schrödinger’s cat walks into a bar. And doesn’t." -> Short, simple.
-> 
->     *Let's try the "uncertainty" one again, it's more of a narrative joke.*
-> 
->     Let's use:
->     Heisenberg is driving down the road when a cop pulls him over.
->     The cop asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
-> 
->     *Actually, let's do the Schrödinger/Bar one:*
->     Schrödinger's cat walks into a bar. The bartender says, "I'm not sure if you're staying or going."
-> 
->     *Let's go with the Heisenberg one. It's a classic.*
-> 
->     Heisenberg is driving down the highway when a cop pulls him over.
->     The cop asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
-> 
->     *Check constraints:*
->     - Funny? Yes.
->     - Quantum mechanics? Yes (Uncertainty principle).
->     - Simple/Light/Easy? Yes.
->     - Only output the joke? Yes.
-> 
->     *Wait, let's check if there is a better one.*
->     "Why can't you trust an atom? Because they make up everything!" (That's chemistry).
-> 
->     Let's try:
->     "A photon checks into a hotel. The bellhop asks, 'Can I help you with your luggage?' The photon replies, 'No thanks, I'm traveling light!'" (That's physics/light, but not specifically quantum).
-> 
->     Let's stick to the Heisenberg one. It's the gold standard for "simple quantum joke".
-> 
->     Heisenberg is driving down the highway when a cop pulls him over.
->     The cop asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
-> 
->     *Self-Correction:* Is there a joke about Schrödinger's cat that is simpler?
->     "Schrödinger's cat walks into a bar... and doesn't."
->     It's very short.
-> 
->     Let's provide the Heisenberg one. It's a better "joke".
-> 
->     "Heisenberg is speeding down the highway when a cop pulls him over.
->     The cop asks, 'Do you know how fast you were going?'
->     Heisenberg replies, 'No, but I know exactly where I am!'"
-> 
->     Actually, let's look for one that's even lighter.
->     "I have a joke about quantum mechanics, but if you observe it, it changes."
-> 
->     That's very clever and simple.
+>     Or:
+>     "What did the baker say when he finished making the bread? 'That was a piece of cake!' No, wait, that's cake."
 > 
 >     Let's go with:
->     "I have a joke about quantum mechanics, but if you observe it, it will change."
+>     "Why did the loaf of bread go to the doctor? Because it was feeling crumby!"
 > 
->     Actually, the Heisenberg one is more of a "joke".
+>     Actually, "Why did the baker go to jail? Because he was caught kneading the dough!" is a bit "dad joke" style which fits "funny/simple/light".
 > 
->     Final choice:
->     Heisenberg is speeding down the highway when a cop pulls him over.
->     The cop asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     Let's go with:
+>     "Why did the bread go to the doctor? Because it was feeling crumby!"
 > 
->     *Wait, the prompt says "Only output the joke".*
+>     Actually, I like "What did the bread say to the butter? You're on a roll!" best.
 > 
->     One more check:
->     Is there a better one?
->     "A quantum physicist is walking down the street and sees a friend.
->     'Hey!' he says. 'Where are you going?'
->     The friend says, 'I'm not sure, I'm in a superposition of going to the store and staying home!'" (Too long/clunky).
+>     Let's try one more:
+>     "Why was the loaf of bread so successful? Because it always rose to the occasion!"
 > 
->     Let's go with the Heisenberg one. It's the most punchy.
+>     Let's go with the "kneading the dough" one. It's a staple.
 > 
->     *One more thought:*
->     "Schrödinger's cat walks into a bar. The bartender says, 'Is he okay?' The owner says, 'I'm not sure, let's check.'"
->     This is also good.
+>     *Wait*, looking for the *funniest* simple one.
+>     "What do you call a bread that's a great dancer? A rolls-er!" (A bit weak).
 > 
->     Let's go with the Heisenberg one.
+>     Let's go with:
+>     Why did the baker go to jail? Because he was caught kneading the dough!
 > 
->     Heisenberg is speeding down the highway when a cop pulls him over.
->     The cop asks, "Do you know how fast you were going?"
->     Heisenberg replies, "No, but I know exactly where I am!"
+>     Simple. Light. Easy.
+> 
+>     "Why did the baker go to jail? Because he was caught kneading the dough!"
+> 
+>     Check constraints:
+>     - Funny joke about baking bread? Yes.
+>     - Simple, light, easy? Yes.
+>     - Only output the joke? Yes.
+> 
+>     Final selection:
+>     Why did the baker go to jail? Because he was caught kneading the dough!
 
